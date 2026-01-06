@@ -1,0 +1,341 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": false,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": true,
+  "showMarkdownTabIcons": true,
+  "showTitleIcons": true,
+  "showTagPillIcons": true,
+  "showMenuActions": true,
+  "showSuggestionIcons": true,
+  "showQuickSwitcherIcons": true,
+  "showMoveFileIcons": true,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": false,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "Algoritimo": {
+      "icon": "lucide-folder",
+      "color": "yellow",
+      "unsynced": [
+        "fea0759eb3309f76"
+      ]
+    },
+    "Bancos de Dados": {
+      "icon": "lucide-folder",
+      "color": "yellow",
+      "unsynced": [
+        "fea0759eb3309f76"
+      ]
+    },
+    "Bancos de Dados/Atores em Cena.md": {
+      "icon": "lucide-file",
+      "color": "blue"
+    },
+    "Bancos de Dados/Atores em cena - Mapa.canvas": {
+      "icon": "lucide-mouse-pointer-square-dashed",
+      "color": "green"
+    },
+    "Bancos de Dados/Características da Abordagem de Banco de Dados.md": {
+      "icon": "lucide-file",
+      "color": "blue"
+    },
+    "Bancos de Dados/Conceitos Básicos.md": {
+      "icon": "lucide-file",
+      "color": "blue"
+    },
+    "Bancos de Dados/Entidade Relacionamento - Rodrigo Schaeffer": {
+      "icon": "lucide-folder",
+      "color": "yellow",
+      "unsynced": [
+        "fea0759eb3309f76"
+      ]
+    },
+    "Bancos de Dados/Entidade Relacionamento - Rodrigo Schaeffer/Entidade Relacionamento.md": {
+      "icon": "lucide-file",
+      "color": "blue"
+    },
+    "Bancos de Dados/Entidade Relacionamento - Rodrigo Schaeffer/IMG": {
+      "icon": "lucide-folder",
+      "color": "yellow",
+      "unsynced": [
+        "fea0759eb3309f76"
+      ]
+    },
+    "Bancos de Dados/Esquemas e Instâncias.md": {
+      "icon": "lucide-file",
+      "color": "blue"
+    },
+    "Bancos de Dados/Gerenciador de Banco de Dados.canvas": {
+      "icon": "lucide-mouse-pointer-square-dashed",
+      "color": "green"
+    },
+    "Bancos de Dados/Livros": {
+      "icon": "lucide-folder",
+      "color": "yellow",
+      "unsynced": [
+        "fea0759eb3309f76"
+      ]
+    },
+    "Bancos de Dados/Livros/BIBLE - CJ DATE Introducao A Sistemas de Banco de Dados.pdf": {
+      "icon": "lucide-file-image",
+      "color": "red"
+    },
+    "Bancos de Dados/Modelo Paradigmas.canvas": {
+      "icon": "lucide-mouse-pointer-square-dashed",
+      "color": "green"
+    },
+    "Bancos de Dados/Modelo de dado.canvas": {
+      "icon": "lucide-mouse-pointer-square-dashed",
+      "color": "green"
+    },
+    "Bancos de Dados/Modelos de Dados.md": {
+      "icon": "lucide-file",
+      "color": "blue"
+    },
+    "Bancos de Dados/Pdf": {
+      "icon": "lucide-folder",
+      "color": "yellow",
+      "unsynced": [
+        "fea0759eb3309f76"
+      ]
+    },
+    "Bancos de Dados/Pdf/Banco-de-dados-Conceitos-básicos.pdf": {
+      "icon": "lucide-file-image",
+      "color": "red"
+    },
+    "Bancos de Dados/SGBD - Rodrigo Schaeffer": {
+      "icon": "lucide-folder",
+      "color": "yellow",
+      "unsynced": [
+        "fea0759eb3309f76"
+      ]
+    },
+    "Bancos de Dados/SGBD - Rodrigo Schaeffer/IMG": {
+      "icon": "lucide-folder",
+      "color": "yellow",
+      "unsynced": [
+        "fea0759eb3309f76"
+      ]
+    },
+    "Bancos de Dados/SGBD - Rodrigo Schaeffer/IMG/Pasted image 20251231135524.png": {
+      "icon": "lucide-image",
+      "color": "pink"
+    },
+    "Bancos de Dados/SGBD - Rodrigo Schaeffer/SGBD.md": {
+      "icon": "lucide-file",
+      "color": "blue"
+    },
+    "Bancos de Dados/Sistemas Hierárquico e de rede.md": {
+      "icon": "lucide-file",
+      "color": "blue"
+    },
+    "Bancos de Dados/Sistemas de Arquivos - Sistema de Banco de Dados.canvas": {
+      "icon": "lucide-mouse-pointer-square-dashed",
+      "color": "green"
+    },
+    "Bancos de Dados/Vantagens de usar a abordagem de SGBD.md": {
+      "icon": "lucide-file",
+      "color": "blue"
+    },
+    "Concurso Analista de Sistema Junior": {
+      "icon": "lucide-folder",
+      "color": "yellow",
+      "unsynced": [
+        "fea0759eb3309f76"
+      ]
+    },
+    "Engenharia de Software": {
+      "icon": "lucide-folder",
+      "color": "yellow",
+      "unsynced": [
+        "fea0759eb3309f76"
+      ]
+    },
+    "Engenharia de Software/Questões": {
+      "icon": "lucide-folder",
+      "color": "yellow",
+      "unsynced": [
+        "fea0759eb3309f76"
+      ]
+    },
+    "Engenharia de Software/UML": {
+      "icon": "lucide-folder",
+      "unsynced": [
+        "fea0759eb3309f76"
+      ],
+      "color": "yellow"
+    },
+    "Engenharia de Software/UML/Casos de Uso.md": {
+      "icon": "lucide-file",
+      "color": "blue"
+    },
+    "Engenharia de Software/UML/Diagrama Sequencial.md": {
+      "icon": "lucide-file",
+      "color": "blue"
+    },
+    "Engenharia de Software/UML/Diagrama de Atividade.md": {
+      "icon": "lucide-file",
+      "color": "blue"
+    },
+    "Engenharia de Software/UML/Diagrama de Classes.md": {
+      "icon": "lucide-file",
+      "color": "blue"
+    },
+    "Engenharia de Software/UML/Diagrama de Interação.md": {
+      "icon": "lucide-file",
+      "color": "blue"
+    },
+    "Engenharia de Software/UML/Diagrama de Máquina de Estados.md": {
+      "icon": "lucide-file",
+      "color": "blue"
+    },
+    "Engenharia de Software/UML/Diagramas de Caso de Uso.md": {
+      "icon": "lucide-file",
+      "color": "blue"
+    },
+    "Engenharia de Software/UML/Exemplos Diagrama Sequencial.md": {
+      "icon": "lucide-file",
+      "color": "blue"
+    },
+    "Engenharia de Software/UML/Exemplos Diagrama de Caso de Uso.md": {
+      "icon": "lucide-file",
+      "color": "blue"
+    },
+    "Engenharia de Software/UML/IMG": {
+      "icon": "lucide-folder",
+      "color": "yellow",
+      "unsynced": [
+        "fea0759eb3309f76"
+      ]
+    },
+    "Engenharia de Software/UML/Introdução UML.md": {
+      "icon": "lucide-file",
+      "color": "blue"
+    },
+    "Engenharia de Software/UML/Relacionamentos em Diagramas de Classes.md": {
+      "icon": "lucide-file",
+      "color": "blue"
+    },
+    "Inglês": {
+      "icon": "lucide-folder",
+      "color": "yellow",
+      "unsynced": [
+        "fea0759eb3309f76"
+      ]
+    },
+    "Matemática": {
+      "icon": "lucide-folder",
+      "color": "yellow",
+      "unsynced": [
+        "fea0759eb3309f76"
+      ]
+    },
+    "Matemática/IMG": {
+      "icon": "lucide-folder",
+      "color": "yellow",
+      "unsynced": [
+        "fea0759eb3309f76"
+      ]
+    },
+    "Matemática/Questões": {
+      "icon": "lucide-folder",
+      "color": "yellow",
+      "unsynced": [
+        "fea0759eb3309f76"
+      ]
+    },
+    "Matemática/Questões/1º Grau": {
+      "icon": "lucide-folder",
+      "color": "yellow",
+      "unsynced": [
+        "fea0759eb3309f76"
+      ]
+    },
+    "Matemática/Questões/1º Grau/Questão 1.md": {
+      "icon": "lucide-file",
+      "color": "blue"
+    },
+    "Pendencias": {
+      "icon": "lucide-folder",
+      "color": "yellow",
+      "unsynced": [
+        "fea0759eb3309f76"
+      ]
+    },
+    "Poetry": {
+      "icon": "lucide-folder",
+      "color": "yellow",
+      "unsynced": [
+        "fea0759eb3309f76"
+      ]
+    },
+    "Portugues": {
+      "icon": "lucide-folder",
+      "color": "yellow",
+      "unsynced": [
+        "fea0759eb3309f76"
+      ]
+    },
+    "Portugues/Compreensão de Texto.md": {
+      "icon": "lucide-file",
+      "color": "blue"
+    },
+    "Portugues/Gênero Narrativa.md": {
+      "icon": "lucide-file",
+      "color": "blue"
+    },
+    "Portugues/Tipos Textuais.md": {
+      "icon": "lucide-file",
+      "color": "blue"
+    },
+    "Projeto 1 - Pedra, Papel e Tesoura": {
+      "icon": "lucide-folder",
+      "color": "yellow",
+      "unsynced": [
+        "fea0759eb3309f76"
+      ]
+    },
+    "Rotina 2026": {
+      "icon": "lucide-folder",
+      "color": "yellow",
+      "unsynced": [
+        "fea0759eb3309f76"
+      ]
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [
+    {
+      "id": "v4qMK",
+      "name": "Untitled rule",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains"
+        }
+      ],
+      "enabled": false
+    }
+  ],
+  "folderRules": []
+}

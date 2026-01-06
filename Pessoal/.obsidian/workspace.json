@@ -1,0 +1,309 @@
+{
+  "main": {
+    "id": "288b9d7bec415891",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fffae4bc4bff698",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "054bd37e19b763f0",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Rotina 2026/Dia 1.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Dia 1"
+            }
+          },
+          {
+            "id": "f14af4c5fbe1fa53",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Rotina 2026/Dia 1.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Dia 1"
+            }
+          },
+          {
+            "id": "26a12a227cc41448",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concurso Analista de Sistema Junior/Todo Conteudo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Todo Conteudo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "66b2afc1c83f9415",
+    "type": "split",
+    "children": [
+      {
+        "id": "7085e166ff446609",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e64909dec00a04f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7dc28b91d5360d18",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0d43a9c1446b52d4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "right": {
+    "id": "c3fb11bef9536e78",
+    "type": "split",
+    "children": [
+      {
+        "id": "24b121be4f6baafe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3562e325aa345822",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rotina/Dia 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Dia 1"
+            }
+          },
+          {
+            "id": "a4fca0ced4923bc2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Inglês/Gramática I.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Gramática I"
+            }
+          },
+          {
+            "id": "8fe2ecf0f037e44c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "85f358e1e2fc5598",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "02af7dcbc23a38a8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Inglês/Gramática I.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Gramática I"
+            }
+          },
+          {
+            "id": "7b93398e5d65b8eb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "5e5e5e8a0fdaa4df",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false,
+      "iconic:Open rulebook": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e64909dec00a04f3",
+  "lastOpenFiles": [
+    "Portugues/Tipos Textuais.md",
+    "Concurso Analista de Sistema Junior/Todo Conteudo.md",
+    "Rotina 2026/Dia 1.md",
+    "Portugues/Compreensão de Texto.md",
+    "Portugues/Gênero Narrativa.md",
+    "Pendencias/Pendencias de Estudos.md",
+    "Concurso Analista de Sistema Junior/Plano de Estudos.md",
+    "Concurso Analista de Sistema Junior/Organização.md",
+    "Matemática/Função de 1º Grau.md",
+    "Matemática/Questões/1º Grau/Questão 1.md",
+    "Matemática/Conjuntos Numéricos.md",
+    "Matemática/IMG/Pasted image 20260106190909.png",
+    "Matemática/Questões/1º Grau/Untitled",
+    "Matemática/Questões/1º Grau",
+    "Matemática/Questões",
+    "Matemática/IMG",
+    "Matemática/IMG/diagram-20260106.png",
+    "Algoritimo/Mapa Mental - Algoritimo.canvas",
+    "Engenharia de Software/Questões/Questão 1.md",
+    "Engenharia de Software/UML/Diagrama de Máquina de Estados.md",
+    "Engenharia de Software/Questões",
+    "Engenharia de Software/UML/Relacionamentos em Diagramas de Classes.md",
+    "Engenharia de Software/UML/Diagrama de Classes.md",
+    "Engenharia de Software/UML/Casos de Uso.md",
+    "Engenharia de Software/UML/Diagramas de Caso de Uso.md",
+    "Engenharia de Software/UML/Diagrama de Interação.md",
+    "Engenharia de Software/UML/Exemplos Diagrama de Caso de Uso.md",
+    "Rotina/Dia 12.md",
+    "Engenharia de Software/UML/IMG/Pasted image 20260105201622.png",
+    "Engenharia de Software/UML/IMG/Pasted image 20260105201007.png",
+    "Engenharia de Software/UML/IMG/Pasted image 20260105200649.png",
+    "Engenharia de Software/UML/IMG/Pasted image 20260105200217.png",
+    "Engenharia de Software/UML/IMG/Pasted image 20260105194949.png",
+    "Engenharia de Software/UML/IMG/Pasted image 20260105194608.png",
+    "Concurso Analista de Sistema Junior/Processo Unificado.md",
+    "Engenharia de Software/UML/Diagrama de Atividade.md",
+    "Engenharia de Software/UML/IMG/Pasted image 20260105190120.png",
+    "Engenharia de Software/UML/IMG/Pasted image 20260105185837.png",
+    "Engenharia de Software/UML/Exemplos Diagrama Sequencial.md",
+    "Engenharia de Software/Untitled.md",
+    "Engenharia de Software/UML/Introdução UML.md",
+    "Engenharia de Software/UML/Diagrama Sequencial.md",
+    "Bancos de Dados/Atores em cena - Mapa.canvas",
+    "Bancos de Dados/UML/Untitled/Untitled",
+    "Engenharia de Software/UML/IMG",
+    "Engenharia de Software/UML",
+    "Bancos de Dados/Entidade Relacionamento - Rodrigo Schaeffer/IMG/Untitled",
+    "Bancos de Dados/Entidade Relacionamento - Rodrigo Schaeffer/IMG",
+    "Bancos de Dados/Modelo de dado.canvas",
+    "Bancos de Dados/Gerenciador de Banco de Dados.canvas",
+    "Bancos de Dados/Sistemas de Arquivos - Sistema de Banco de Dados.canvas",
+    "Engenharia de Software/Cascata.canvas",
+    "Engenharia de Software/Incremento.canvas",
+    "Rotina/Untitled.canvas",
+    "Bancos de Dados/Modelo Paradigmas.canvas",
+    "Untitled.canvas"
+  ]
+}

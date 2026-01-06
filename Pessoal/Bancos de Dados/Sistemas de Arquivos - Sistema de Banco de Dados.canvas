@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"41b32738199fc88d","type":"text","text":"Sistemas de Arquivos","x":-347,"y":-140,"width":200,"height":50,"color":"4"},
+		{"id":"90c71e76bebe4c22","type":"text","text":"Aplicativos\n","x":-420,"y":-20,"width":147,"height":60,"color":"6"},
+		{"id":"28052e55b316ffe9","type":"text","text":"Aplicativos\n","x":-244,"y":-20,"width":147,"height":60,"color":"6"},
+		{"id":"f391a0c07f8d5d4a","type":"text","text":"Dados(arquivos)","x":-372,"y":120,"width":250,"height":60,"color":"#0008ff"},
+		{"id":"b79d4bdaa5b20bed","type":"text","text":"Sistemas de Banco de Dados","x":40,"y":-140,"width":253,"height":50,"color":"4"},
+		{"id":"1d60ba520ea6124f","type":"text","text":"Aplicativos\n","x":20,"y":-20,"width":147,"height":60,"color":"6"},
+		{"id":"95934066f1f3b5c6","type":"text","text":"Aplicativos\n","x":196,"y":-20,"width":147,"height":60,"color":"6"},
+		{"id":"db49e80cfe892b8b","type":"text","text":"Dados(arquivos)","x":71,"y":180,"width":250,"height":60,"color":"#0008ff"},
+		{"id":"f78b57c835d25899","x":134,"y":90,"width":125,"height":50,"color":"1","type":"text","text":"SGBD"}
+	],
+	"edges":[
+		{"id":"ef8750fc4882d584","fromNode":"41b32738199fc88d","fromSide":"bottom","toNode":"90c71e76bebe4c22","toSide":"top"},
+		{"id":"13009ebac8809439","fromNode":"41b32738199fc88d","fromSide":"bottom","toNode":"28052e55b316ffe9","toSide":"top"},
+		{"id":"17d7266201830410","fromNode":"28052e55b316ffe9","fromSide":"bottom","toNode":"f391a0c07f8d5d4a","toSide":"top"},
+		{"id":"b15e8ad8cc62d787","fromNode":"90c71e76bebe4c22","fromSide":"bottom","toNode":"f391a0c07f8d5d4a","toSide":"top"},
+		{"id":"2b34155b85ea8b78","fromNode":"b79d4bdaa5b20bed","fromSide":"bottom","toNode":"1d60ba520ea6124f","toSide":"top"},
+		{"id":"a1d99138a2d7e652","fromNode":"b79d4bdaa5b20bed","fromSide":"bottom","toNode":"95934066f1f3b5c6","toSide":"top"},
+		{"id":"9f701f0f20827a4a","fromNode":"1d60ba520ea6124f","fromSide":"bottom","toNode":"f78b57c835d25899","toSide":"top"},
+		{"id":"4fb961aec45bbe7f","fromNode":"95934066f1f3b5c6","fromSide":"bottom","toNode":"f78b57c835d25899","toSide":"top"},
+		{"id":"daec383cce8dc38e","fromNode":"f78b57c835d25899","fromSide":"bottom","toNode":"db49e80cfe892b8b","toSide":"top"}
+	]
+}

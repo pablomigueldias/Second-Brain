@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"13951d7131f1e4ea","type":"text","text":"Usuário Final","x":-720,"y":-440,"width":153,"height":60},
+		{"id":"7eb1543ad3c00d76","type":"text","text":"Desenvolvedor","x":-526,"y":-440,"width":153,"height":60},
+		{"id":"d8eea99fe4098210","type":"text","text":"Usuário avançado","x":-335,"y":-440,"width":174,"height":60},
+		{"id":"c3489263a7ea7148","type":"text","text":"Usuário avançado","x":-120,"y":-440,"width":174,"height":60},
+		{"id":"7b1a332661faa68f","type":"text","text":"Usuário Especializado","x":100,"y":-440,"width":200,"height":60},
+		{"id":"7c32728099c0ad37","type":"text","text":"Usuário de Banco de Dados","x":-411,"y":-580,"width":250,"height":60,"color":"1"},
+		{"id":"ba5e0a325e312b5f","type":"text","text":"Usuário","x":-170,"y":-760,"width":100,"height":60},
+		{"id":"70f9d650860e1a76","type":"text","text":"Desenvolvedor de Aplicação","x":-643,"y":-280,"width":153,"height":60},
+		{"id":"36645c1b48dbe0ee","type":"text","text":"Desenvolvedor de Banco de Dados","x":-435,"y":-280,"width":201,"height":60},
+		{"id":"93105a79eeff0d86","type":"text","text":"Administrador","x":440,"y":-762,"width":250,"height":60,"color":"2"},
+		{"id":"c5e421bdc3ad77c7","type":"text","text":"Administrador de Dados","x":315,"y":-584,"width":250,"height":60,"color":"2"},
+		{"id":"4afbf0c8538af01f","type":"text","text":"Administrador de Banco de Dados","x":600,"y":-580,"width":250,"height":64,"color":"2"},
+		{"id":"1ca1be5a53ad22fa","x":372,"y":-440,"width":228,"height":100,"color":"5","type":"text","text":"Toma decisões estratégicas e de normas em relação aos dados"},
+		{"id":"e705d21e45b59ada","type":"text","text":"Fornece os suporte técnico necessário para implementar e manter os dados,","x":640,"y":-440,"width":228,"height":100,"color":"5"}
+	],
+	"edges":[
+		{"id":"c5a9f22cc7d6e2ed","fromNode":"ba5e0a325e312b5f","fromSide":"bottom","toNode":"7c32728099c0ad37","toSide":"top"},
+		{"id":"e35025a40c6aecd1","fromNode":"7c32728099c0ad37","fromSide":"left","toNode":"13951d7131f1e4ea","toSide":"top"},
+		{"id":"a51baffbd7d9dff6","fromNode":"7c32728099c0ad37","fromSide":"bottom","toNode":"7eb1543ad3c00d76","toSide":"top"},
+		{"id":"3259f057e50db7ec","fromNode":"7c32728099c0ad37","fromSide":"bottom","toNode":"d8eea99fe4098210","toSide":"top"},
+		{"id":"342c0082d99890d8","fromNode":"7c32728099c0ad37","fromSide":"right","toNode":"c3489263a7ea7148","toSide":"top"},
+		{"id":"61465b95f5780aa8","fromNode":"7c32728099c0ad37","fromSide":"right","toNode":"7b1a332661faa68f","toSide":"top"},
+		{"id":"371ba14f823d2ae3","fromNode":"7eb1543ad3c00d76","fromSide":"bottom","toNode":"70f9d650860e1a76","toSide":"top"},
+		{"id":"13979a11832e7bf3","fromNode":"7eb1543ad3c00d76","fromSide":"bottom","toNode":"36645c1b48dbe0ee","toSide":"top"},
+		{"id":"ad002b6b0a840b3b","fromNode":"ba5e0a325e312b5f","fromSide":"right","toNode":"93105a79eeff0d86","toSide":"left"},
+		{"id":"a63b7c0cd00f5edf","fromNode":"93105a79eeff0d86","fromSide":"bottom","toNode":"c5e421bdc3ad77c7","toSide":"top"},
+		{"id":"a0fc43eedba4f9a7","fromNode":"93105a79eeff0d86","fromSide":"bottom","toNode":"4afbf0c8538af01f","toSide":"top"}
+	]
+}

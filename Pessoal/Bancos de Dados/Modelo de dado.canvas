@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7a211a7f3cffcf72","x":-160,"y":-400,"width":250,"height":60,"type":"text","text":"Conceituais \nAlto Nivel"},
+		{"id":"9f6b98fe86d33d37","x":-160,"y":-291,"width":250,"height":60,"type":"text","text":"Representativos\nImplementação"},
+		{"id":"d13cf5a252db82cd","x":-160,"y":-191,"width":250,"height":60,"type":"text","text":"Físicos \nBaixo Nível"}
+	],
+	"edges":[
+		{"id":"f88c4fb7ca7cdc01","fromNode":"9f6b98fe86d33d37","fromSide":"bottom","toNode":"d13cf5a252db82cd","toSide":"top"},
+		{"id":"53b2e1248b0b0cae","fromNode":"7a211a7f3cffcf72","fromSide":"bottom","toNode":"9f6b98fe86d33d37","toSide":"top"}
+	]
+}
