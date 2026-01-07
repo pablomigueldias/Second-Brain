@@ -38,4 +38,26 @@ C(x)=20x+500
 $$
 (onde $20x$ é o custo que varia por unidade e $5000$ é o custo fixo).
 
-- **Função Faturamento** $F(x)$: É quando a fábrica ganha vendendo $x$
+- **Função Faturamento** $F(x)$: É quando a fábrica ganha vendendo $x$ carrinhos a 45,00 cada.
+$$
+\begin{aligned}
+F(x)=45x
+\end{aligned}
+$$
+### 2. O Cálculo (Passo a Passo)
+
+Para que o faturamento cubra o custo, precisamos igualar as duas funções ($F(x) = C(x)$):
+
+$$45x = 20x + 5000$$
+
+Agora, isolamos o $x$:
+
+1. Passamos o $20x$ para o outro lado subtraindo:
+$$45x - 20x = 5000$$
+$$25x = 5000$$
+2. Dividimos o valor total pelo lucro unitário que sobra para pagar o custo fixo:
+
+$$x = \frac{5000}{25}$$
+
+$$x = 200$$
+
