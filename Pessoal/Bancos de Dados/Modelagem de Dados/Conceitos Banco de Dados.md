@@ -16,9 +16,18 @@ link conteúdo: [Conceito Banco de dados](https://www.youtube.com/watch?v=Q_KTYF
 - Os Metadados são mantidos no Dicionário de Dados (ou em um Catálogo de Dados).
 
 ---
-
 ## Banco de Dados
 
 Um Banco de Dados (BD) é uma coleção organizada de dados. Esses dados são organizados de modo a modelar aspectos do mundo real, para que seja possível efetuar processamento que gere informações relevantes para os usuários a partir desses dados.
 
-Um BD é composto por diversos objetos, tais como: tabelas, esquemas visões, consultas,relatórios, procedimentos, triggers, entre outros
+Um BD é composto por diversos objetos, tais como: tabelas, esquemas visões, consultas, relatórios, procedimentos, triggers, entre outros.
+
+---
+## Aplicações dos Bancos de Dados
+
+Bancos de dados encontram aplicações em inúmeras áreas, como:
+
+- Sistema bancários
+- Reservas em hotéis
+- Controle de estoque em supermercados
+
