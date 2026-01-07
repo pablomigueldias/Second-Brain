@@ -6,17 +6,15 @@ kanban-plugin: board
 
 ## A fazer
 
-- [ ] 10h30 - 12h | Banco de Dados
-- [ ] 12h00 - 12h30 | Almoço
-- [ ] 12h30 - 14h | Banco de Dados
-- [ ] 14h00 - 16h00 | Matemática
-- [ ] 16h00 - 18h00 | Portugues
-- [ ] 21h00 - 23h | Descanso
+- [ ] 14h00 - 18h | Banco de Dados
+- [ ] 18h00 - 20h00 | Matemática
+- [ ] 20h00 - 22h00 | Portugues
+- [ ] 22h00 - 23h | Descanso
 
 
 ## Em andamento
 
-- [ ] 8h00 - 10h30 | Fazer Questões
+- [ ] 12h00 - 14h00 | Fazer Questões
 
 
 ## Feito
