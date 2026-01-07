@@ -1,10 +1,13 @@
 
-Segunda Feira - Dia 29/12/2025
+Segunda Feira
 
 Português - Leitura e interpretação de textos; Ideias principais e secundárias. (incompletos)
 
 Leitura e interpretação(Feito) -> [[Compreensão de Texto]]
 Ideias principais e secundárias -> ***Pendente***
+
+parei aqui no português
+https://www.youtube.com/watch?v=ibwf_X3498c
 
 
 ---
