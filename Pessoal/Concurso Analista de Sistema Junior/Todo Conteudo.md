@@ -9,8 +9,8 @@ Este cronograma contempla a totalidade dos assuntos listados no edital, organiza
 ### Semana 1: Análise de Sistemas e OO
 * ~~**Análise e Projeto:** Conceitos gerais de análise orientada a objetos~~.
 * ~~**UML (Parte 1):** Diagramas de Casos de Uso, Classes e Objetos.~~
-* **UML (Parte 2):** Diagramas de Estados, Comunicação/Colaboração, Sequência, Atividades, Componentes e Implementação.
-* **Ferramentas:** Uso de ferramentas de suporte ao desenvolvimento orientado a objetos.
+~~* **UML (Parte 2):** Diagramas de Estados, Comunicação/Colaboração, Sequência, Atividades, Componentes e Implementação.~~
+~~* **Ferramentas:** Uso de ferramentas de suporte ao desenvolvimento orientado a objetos.~~
 
 ### Semana 2: Banco de Dados (Fundamentos e Modelagem)
 * **Conceitos:** Administração de dados, SGBDs, independência de dados e dicionário de dados.

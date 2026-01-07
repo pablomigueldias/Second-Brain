@@ -25,20 +25,14 @@
             "id": "26e45e4f1fdaeac4",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Pessoal/Rotina 2026/Dia 2.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Pessoal/Concurso Analista de Sistema Junior/Todo Conteudo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Dia 2"
+              "icon": "lucide-file",
+              "title": "Todo Conteudo"
             }
           }
         ],
@@ -216,6 +210,7 @@
   },
   "active": "26e45e4f1fdaeac4",
   "lastOpenFiles": [
+    "Pessoal/Rotina 2026/Dia 2.md",
     "Pessoal/Engenharia de Software/Questões UML/Questão 2.md",
     "Pessoal/Engenharia de Software/Questões UML/Questão 1.md",
     "Pessoal/Matemática/Questões/1º Grau/Questão 5.md",
@@ -223,7 +218,6 @@
     "Pessoal/Matemática/Questões/1º Grau/Questão 3.md",
     "Pessoal/Matemática/Questões/1º Grau/Questão 2.md",
     "Pessoal/Matemática/Questões/1º Grau/Questão 1.md",
-    "Pessoal/Rotina 2026/Dia 2.md",
     "Pessoal/Pendencias/Pendencias de Estudos.md",
     "Pessoal/Portugues/Tipos Textuais.md",
     "Pessoal/Rotina 2026/Dia 1.md",
