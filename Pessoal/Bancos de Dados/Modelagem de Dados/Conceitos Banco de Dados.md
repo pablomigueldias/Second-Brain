@@ -87,7 +87,17 @@ A figura a seguir ilustra a relação entre usuário, banco de dados, SGBDs e as
 ### Antigo
 
 `Modelo Hierárquico`:
-- Neste modelo os dados são organizados de forma hierárquica, com conjuntos de tipos de re
+- Neste modelo os dados são organizados de forma hierárquica, com conjuntos de tipos de registros interconectados por meio de ligações.
+- Uma ligação representa uma relação entre dois tipos de registros: pai e filho.
+- Um esquema no modelo hierárquico é um diagrama de estrutura em árvore.
+- O acesso aos dados é sempre unidirecional a partir do pai ao filho
 
+![](../IMG/Pasted%20image%2020260107150444.png)
 
+`Modelo em Rede`:
+- No modelo em Redes os dados são organizados em tipos e ligações entre dois registros.
+- Não há restrições hierárquica.
+- Tanto o esquema quanto ocorrência de dados são visualizados como um grafo direcionado.
+
+![](../IMG/Pasted%20image%2020260107150706.png)
 ### Atual
