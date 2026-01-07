@@ -161,13 +161,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "7a21b412c42980a8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,10 +192,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "13cf03f39dbd9a89",
+  "active": "26758f3261ee0499",
   "lastOpenFiles": [
-    "Teste.md",
     "Pessoal/Teste.md",
+    "Teste.md",
     "Pessoal/Rotina 2026/Dia 1.md",
     "Pessoal/Engenharia de Software/Cascata.canvas",
     "Pessoal/Matemática/Questões/1º Grau/Questão 1.md",
