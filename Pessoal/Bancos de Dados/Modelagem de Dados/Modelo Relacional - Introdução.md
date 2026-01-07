@@ -58,4 +58,17 @@ O modelo relacional é composto, basicamente, por:
 ---
 ## Análise de Requisitos
 
-- Nesta fase, são realizadas reuniões para coleta de informaçõ
+- Nesta fase, são realizadas reuniões para coleta de informações, que analisam o que é exigido para o banco de dados a ser criado.
+- Os processos de negócio são definidos, e as entidades, atributos e relacionamentos de BD são documentadas.
+- A Análise é extremamente importante para o sucesso do projeto de BD.
+
+---
+## Modelo Entidade-Relacionamento
+
+- MER, cria uma diagrama entidade-relacionamento a partir das especificações do negócio ou narrativas do usuário. Permite ilustrar as entidades em um negócio e também relacionamentos entre elas. Construídos o MER durante a fase de análise no ciclo de vida do desenvolvimento do sistema.
+- Um MER separa as informações necessária a negócio das atividades que são realizadas no negócio.
+
+## Componentes do MER
+
+- `Entidade`: Algo significativo, sobre o qual devemos possuir informações. como exemplos, temos clientes, funcionários, pedidos e produtos.
+- `Atributos`: Algo que descreve ou qualifica uma entidade. P. ex., A entidade cliente possui atributos que descrevem seu nome, endereço, telefone,número de identificação
