@@ -1,1 +1,1 @@
-Testanto o auto
+Testanto o auto -commit
