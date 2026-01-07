@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Bancos de Dados/SGBD - Rodrigo Schaeffer/SGBD.md",
+                "file": "Pessoal/Bancos de Dados/Modelagem de Dados/Conceitos Banco de Dados.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SGBD"
+              "title": "Conceitos Banco de Dados"
             }
           }
         ],
@@ -210,6 +210,8 @@
   },
   "active": "26e45e4f1fdaeac4",
   "lastOpenFiles": [
+    "Pessoal/Bancos de Dados/SGBD - Rodrigo Schaeffer/SGBD.md",
+    "Pessoal/Bancos de Dados/Modelagem de Dados/Conceitos Banco de Dados.md",
     "Pessoal/Bancos de Dados/Entidade Relacionamento - Rodrigo Schaeffer/Entidade Relacionamento.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados",
     "Pessoal/Concurso Analista de Sistema Junior/Todo Conteudo.md",
@@ -236,8 +238,6 @@
     "Pessoal/Teste.md",
     "Teste.md",
     "Pessoal/Engenharia de Software/Cascata.canvas",
-    "Pessoal/Bancos de Dados/Modelos de Dados.md",
-    "Pessoal/Bancos de Dados/Atores em Cena.md",
     "Pessoal/Bancos de Dados/Livros/BIBLE - CJ DATE Introducao A Sistemas de Banco de Dados.pdf"
   ]
 }
