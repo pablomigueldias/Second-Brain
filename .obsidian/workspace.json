@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7624d1ddd57cd6ef",
+        "id": "7b795e7120fc6740",
         "type": "tabs",
         "children": [
           {
-            "id": "13cf03f39dbd9a89",
+            "id": "11041d3c2bfa47cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pessoal/Engenharia de Software/UML/Diagrama de Atividade.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Diagrama de Atividade"
+              "title": "New tab"
             }
           }
         ]
@@ -192,8 +188,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "13cf03f39dbd9a89",
+  "active": "26758f3261ee0499",
   "lastOpenFiles": [
+    "image.md",
+    "Pasted.md",
+    "Pessoal/Engenharia de Software/UML/Diagrama de Atividade.md",
+    "Pessoal/Engenharia de Software/UML/Diagrama de Máquina de Estados.md",
+    "Pessoal/Engenharia de Software/UML/Diagrama de Interação.md",
+    "Pessoal/Engenharia de Software/UML/Diagrama de Classes.md",
     "Pessoal/Rotina 2026/Dia 1.md",
     "Pessoal/Teste.md",
     "Teste.md",
