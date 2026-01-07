@@ -6,13 +6,12 @@ kanban-plugin: board
 
 ## A fazer
 
-- [ ] 20h00 - 22h00 | Portugues
-- [ ] 22h00 - 23h | Descanso
+- [ ] 21h00 - 23h | Descanso
 
 
 ## Em andamento
 
-- [ ] 18h00 - 20h00 | Matemática
+- [ ] 18h00 - 21h00 | Matemática
 
 
 ## Feito
