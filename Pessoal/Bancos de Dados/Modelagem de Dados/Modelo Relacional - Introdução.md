@@ -34,4 +34,17 @@ Link do conteúdo:  [Modelo Relacional - Introdução](https://www.youtube.com/w
 
 O modelo relacional é composto, basicamente, por:
 
-- Coleções de objetos ou relações que
+- Coleções de objetos ou relações que armazena dados
+- Um conjunto de operadores que agem nas relações, produzindo outras relações
+- Integridade de dado, para precisão e consistência.
+
+---
+## Banco de Dados Relacional
+
+- Um Banco de dados relacional é uma coleção de relações, que são tabelas bidimensionais, onde os dados são armazenados.
+- Como exemplo, podemos querer armazenar dados sobre os clientes de uma loja. Para isso, criamos tabelas para guardar diferentes conjuntos de dados relacionados a esses clientes, como dados pessoais, dados de compras, crédito, e outras.
+
+## Componentes de um Banco de Dados Relacional
+
+- `Tabela`: estrutura básica de armazenamento no SGBDR. Armazena todos os dados necessários sobre algo do mundo real, como clientes, pedidos ou produtos. Também chamada de Relação. Um banco de dados relacional pode conter uma ou mais Tabelas
+- `Tupla`: ou linha/ registro, representa todos os dados requeridos por uma determinada ocorrência de entidade em particular. Por exemplo, os dados de um cliente específico. Cada linha em uma tabela deve ser identificada por uma chave primária de modo a não haver duplicações de registro.  
