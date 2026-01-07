@@ -20,6 +20,26 @@
               "icon": "lucide-file",
               "title": "Conceitos Iniciais"
             }
+          },
+          {
+            "id": "158b24430817f75f",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Pessoal/Rotina 2026/Dia 2.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Dia 2"
+            }
           }
         ]
       }
@@ -193,14 +213,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "26758f3261ee0499",
+  "active": "46b1fec35c130f24",
   "lastOpenFiles": [
+    "Pessoal/Rotina 2026/Dia 2.md",
+    "Pessoal/Matemática/Função de 2º Grau/Conceitos Iniciais.md",
     "Pessoal/Matemática/IMG/Pasted image 20260107193235.png",
     "Pessoal/Matemática/Questões/1º Grau/Questão 1.md",
-    "Pessoal/Matemática/Função de 2º Grau/Conceitos Iniciais.md",
     "Pessoal/Matemática/IMG/Pasted image 20260107191752.png",
     "Pessoal/Matemática/IMG/Pasted image 20260107191415.png",
-    "Pessoal/Rotina 2026/Dia 2.md",
     "Pessoal/Matemática/Função de 2º Grau",
     "Pessoal/Matemática/Função de 1º Grau",
     "Pessoal/Matemática/Função de 1º Grau/Função de 1º Grau.md",
