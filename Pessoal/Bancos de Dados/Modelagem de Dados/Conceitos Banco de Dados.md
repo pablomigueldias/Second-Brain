@@ -60,8 +60,19 @@ Sistema de Gerenciamento de Banco de Dados
 ---
 ## Sistema de Banco de Dados
 
-A figura a seguir ilustra a relação entre usuário, banco de dados, SFBD
+A figura a seguir ilustra a relação entre usuário, banco de dados, SGBDs e as aplicações que acessam os dados:
 
+![](../IMG/Pasted%20image%2020260107145259.png)
 
+---
+## Usuários de Banco de Dados
 
+- Administrador (DBA)
+- Projetista / Desenvolvedor
+- Usuário Final
 
+---
+## Características e Funcionalidades
+
+- Controle de Redundância
+- Mú
