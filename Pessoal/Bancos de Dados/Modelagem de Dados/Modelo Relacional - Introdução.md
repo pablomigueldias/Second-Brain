@@ -71,4 +71,13 @@ O modelo relacional é composto, basicamente, por:
 ## Componentes do MER
 
 - `Entidade`: Algo significativo, sobre o qual devemos possuir informações. como exemplos, temos clientes, funcionários, pedidos e produtos.
-- `Atributos`: Algo que descreve ou qualifica uma entidade. P. ex., A entidade cliente possui atributos que descrevem seu nome, endereço, telefone,número de identificação
+- `Atributos`: Algo que descreve ou qualifica uma entidade. P. ex., A entidade cliente possui atributos que descrevem seu nome, endereço, telefone, número de identificação, entre outros, Atributos podem ser obrigatórios ou opcionais.
+- `Relacionamento`: Trata-se de uma associação nomeada entre entidades, como um grau de associação. Por exemplo, clientes podem estar associados a pedidos.
+
+## Convenções para modelagem de entidades relacionamentos e atributos
+
+- **Entidades**: Nome único, singular; em caixa alta;
+- **Atributos**: nome no singular; caixa baixa; atributos obrigatórios marcados com ' * '.
+- **Relacionamentos**: nome identificador(verbo); opcionalidade ("deve ser" ou "pode ser"); grau ou cardinalidade("ume a apenas um", ou "um ou mais")
+
+**Cardinalidade** significa que cada entidade pode ser ou deve em de forma uma e apena uma ou uma ou mais com outra entidade
