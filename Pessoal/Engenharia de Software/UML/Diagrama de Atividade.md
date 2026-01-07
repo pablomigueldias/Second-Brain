@@ -38,7 +38,7 @@ Muito úteis para modelagem de fluxos de trabalho e de processos.
 - `Partições`: Mostra quem faz o que(quem realiza cada ações ou conjunto de ações). Na UML 1.1 eram chamadas de "raias"("swimlanes").
 - `Sinais` ou `Mensagens`: Envio ou recebimento de sinais ou mensagens por um ação.
 
-![[Pasted image 20260105185837.png]]
+![[Pasted image 20260105185837.png]]![](foto.png)
 
 ## Exemplo de Diagramas de atividades
 
