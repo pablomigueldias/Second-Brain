@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Concurso Analista de Sistema Junior/Todo Conteudo.md",
+                "file": "Pessoal/Bancos de Dados/SGBD - Rodrigo Schaeffer/SGBD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Todo Conteudo"
+              "title": "SGBD"
             }
           }
         ],
@@ -210,6 +210,9 @@
   },
   "active": "26e45e4f1fdaeac4",
   "lastOpenFiles": [
+    "Pessoal/Bancos de Dados/Entidade Relacionamento - Rodrigo Schaeffer/Entidade Relacionamento.md",
+    "Pessoal/Bancos de Dados/Modelagem de Dados",
+    "Pessoal/Concurso Analista de Sistema Junior/Todo Conteudo.md",
     "Pessoal/Rotina 2026/Dia 2.md",
     "Pessoal/Engenharia de Software/Questões UML/Questão 2.md",
     "Pessoal/Engenharia de Software/Questões UML/Questão 1.md",
@@ -223,7 +226,6 @@
     "Pessoal/Rotina 2026/Dia 1.md",
     "Pessoal/Concurso Analista de Sistema Junior/Plano de Estudos.md",
     "Pessoal/Concurso Analista de Sistema Junior/Organização.md",
-    "Pessoal/Concurso Analista de Sistema Junior/Todo Conteudo.md",
     "Pessoal/Engenharia de Software/UML/Diagrama de Atividade.md",
     "Pessoal/Engenharia de Software/UML/Casos de Uso.md",
     "image.md",
@@ -236,7 +238,6 @@
     "Pessoal/Engenharia de Software/Cascata.canvas",
     "Pessoal/Bancos de Dados/Modelos de Dados.md",
     "Pessoal/Bancos de Dados/Atores em Cena.md",
-    "Pessoal/Bancos de Dados/Sistemas Hierárquico e de rede.md",
     "Pessoal/Bancos de Dados/Livros/BIBLE - CJ DATE Introducao A Sistemas de Banco de Dados.pdf"
   ]
 }
