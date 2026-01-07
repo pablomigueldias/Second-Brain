@@ -81,3 +81,7 @@ O modelo relacional é composto, basicamente, por:
 - **Relacionamentos**: nome identificador(verbo); opcionalidade ("deve ser" ou "pode ser"); grau ou cardinalidade("ume a apenas um", ou "um ou mais")
 
 **Cardinalidade** significa que cada entidade pode ser ou deve em de forma uma e apena uma ou uma ou mais com outra entidade
+
+## Identificador Único (UID)
+
+- Um identificador único é qualquer combinação de atributos ou relacionamentos que são usadas pra distinguir a ocorrência de uma entidade. cada ocorrência da entidade deve ser identificável de forma exclusiva. 

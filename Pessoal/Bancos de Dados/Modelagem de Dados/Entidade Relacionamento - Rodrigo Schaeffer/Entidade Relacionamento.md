@@ -14,26 +14,26 @@ Exemplos: Aluno, livro, Automóvel.
 
 DER (Diagrama Entidade - Relacionamento)
 
-![[Pasted image 20260101163603.png]]
+![[IMG/Pasted image 20260101163603.png]]
 
 ### Entidades
 
 Identifique as entidades que estão envolvidas, Quando estiver pronto, comece a desenhá-las em retângulos.
 
-![[Pasted image 20260101163720.png]]
+![[IMG/Pasted image 20260101163720.png]]
 
 ### Relacionamento
 
 Losango com o nome do relacionamento no seu interior
 
-![[Pasted image 20260101163822.png]]
+![[IMG/Pasted image 20260101163822.png]]
 
 ### Atributos
 
 Atributos são apresentados como ovais
 
-![[Pasted image 20260101163913.png]]
+![[IMG/Pasted image 20260101163913.png]]
 
 # `DER (Diagrama Entidade-Relacionamento)`
 
-![[Pasted image 20260101164033.png]]
+![[IMG/Pasted image 20260101164033.png]]
