@@ -48,3 +48,14 @@ O modelo relacional é composto, basicamente, por:
 
 - `Tabela`: estrutura básica de armazenamento no SGBDR. Armazena todos os dados necessários sobre algo do mundo real, como clientes, pedidos ou produtos. Também chamada de Relação. Um banco de dados relacional pode conter uma ou mais Tabelas
 - `Tupla`: ou linha/ registro, representa todos os dados requeridos por uma determinada ocorrência de entidade em particular. Por exemplo, os dados de um cliente específico. Cada linha em uma tabela deve ser identificada por uma chave primária de modo a não haver duplicações de registro.  
+- `Colunas`: Unidade que armazena um tipo específico de dado(valor) - ou não armazena nada, com valor nulo. Esta é uma coluna não-chave, significado que seu valor pode se repetir em outras linhas da tabela.
+- `Relacionamento`: Associação entre as entidades(tabelas), conectadas por chaves primárias e chaves estrangeiras.
+- `Outros`: Índices, SP, Triggers, etc.
+
+- `Chave Primária`: coluna(atributo) que identifica um registro de forma exclusiva na tabela. Por exemplo, o CPF de um cliente, contendo um valor que não se repete na relação.
+- `Chave Estrangeira`: coluna que define como as tabelas se relacionam umas com as outras. Uma FK se refere a um PK ou uma chave única em outra tabela(ou na mesma tabela). Por exemplo, na tabela pedidos podemos ter uma chave estrangeira efetuando o relacionamento com a chave primária na tabela de clientes.
+
+---
+## Análise de Requisitos
+
+- Nesta fase, são realizadas reuniões para coleta de informaçõ
