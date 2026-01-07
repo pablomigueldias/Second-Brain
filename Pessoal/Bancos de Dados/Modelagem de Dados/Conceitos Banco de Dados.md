@@ -101,3 +101,9 @@ A figura a seguir ilustra a relação entre usuário, banco de dados, SGBDs e as
 
 ![](../IMG/Pasted%20image%2020260107150706.png)
 ### Atual
+
+`Modelo Relacional`:
+- Neste modelo os dados são separados em entidades, conforme cada assunto, e registrados como atributos dessas entidades.
+- As entidades se relacionam entre si e permitem que os dados sejam armazenados e recuperados de forma rápida e segura.
+
+![](../IMG/Pasted%20image%2020260107150933.png)
