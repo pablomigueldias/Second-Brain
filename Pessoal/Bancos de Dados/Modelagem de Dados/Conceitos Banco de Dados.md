@@ -41,7 +41,26 @@ Bancos de dados encontram aplicações em inúmeras áreas, como:
 Sistema de Gerenciamento de Banco de Dados
 
 - Um SGBD é uma coleção de software que permite aos usuários criarem e manterem um ou mais banco de dados.
-- São usados nas tarefas de definição, construção, manipulação e compartilhamento dos bancos de dados entre aplical
+- São usados nas tarefas de definição, construção, manipulação e compartilhamento dos bancos de dados entre aplicações e usuários.
+- Permitem proteger o banco de dados e mantê-lo ao longo do tempo.
+
+---
+## Exemplos de SGBDs
+
+- Oracle Database
+- Microsoft SQL Server
+- MySQL
+- IBM DB2
+- SAP Sybase
+- MongoDB
+- Teradata
+- PostgreSQL
+- SQLite
+
+---
+## Sistema de Banco de Dados
+
+A figura a seguir ilustra a relação entre usuário, banco de dados, SFBD
 
 
 
