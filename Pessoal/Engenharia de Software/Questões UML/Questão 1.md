@@ -15,6 +15,14 @@ Assinale a alternativa que indica todas as afirmativas corretas
 - [ ] São corretas as afirmativas 1,2,3 e 4
 
 
+Explicação:
+
+A UML 2.5 divide os diagramas em duas grandes categorias principais:
+
+1. **Diagramas Estruturais(Estáticos)**
+Focam no que **compões** o sistema. Eles descrevem a estrutura estática dos objetos, seus atributos, operações e relacionamentos.
+- **Diagrama de Implementação(Deployment)**: Define a arquitetura física(hardware e nós onde o software reside).
+- **Diagrama de Objetos**
 
 
 
