@@ -75,4 +75,19 @@ A figura a seguir ilustra a relação entre usuário, banco de dados, SGBDs e as
 ## Características e Funcionalidades
 
 - Controle de Redundância
-- Mú
+- Múltiplas Visões dos Dados
+- Controle de Concorrência
+- Backup e Restauração
+- Autenticação e Autorização de acesso
+- Restrições de Integridade
+
+---
+## Modelos de Banco de Dados
+
+### Antigo
+
+`Modelo Hierárquico`:
+- Neste modelo os dados são organizados de forma hierárquica, com conjuntos de tipos de re
+
+
+### Atual
