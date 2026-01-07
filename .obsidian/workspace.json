@@ -11,20 +11,14 @@
             "id": "13cf03f39dbd9a89",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Pessoal/Rotina 2026/Dia 1.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Pessoal/Engenharia de Software/UML/Diagrama de Atividade.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Dia 1"
+              "icon": "lucide-file",
+              "title": "Diagrama de Atividade"
             }
           }
         ]
@@ -200,9 +194,9 @@
   },
   "active": "13cf03f39dbd9a89",
   "lastOpenFiles": [
+    "Pessoal/Rotina 2026/Dia 1.md",
     "Pessoal/Teste.md",
     "Teste.md",
-    "Pessoal/Rotina 2026/Dia 1.md",
     "Pessoal/Engenharia de Software/Cascata.canvas",
     "Pessoal/Matemática/Questões/1º Grau/Questão 1.md",
     "Pessoal/Bancos de Dados/Modelos de Dados.md",
