@@ -39,7 +39,6 @@ Muito úteis para modelagem de fluxos de trabalho e de processos.
 - `Sinais` ou `Mensagens`: Envio ou recebimento de sinais ou mensagens por um ação.
 
 ![[Pasted image 20260105185837.png]]
-!
 ## Exemplo de Diagramas de atividades
 
 ![[Pasted image 20260105190120.png]]
