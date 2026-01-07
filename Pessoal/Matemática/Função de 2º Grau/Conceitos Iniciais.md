@@ -20,7 +20,18 @@ c.  $y=-x^{2}-5$
 
 d.  $y=-2x^{2}$
 
-`a`
+`a = -2 | b = 0 | c = 0`
+
+
+## Gráfico
+
+O gráfico de uma função quadrática, $f(x)=ax^{2}+bx+c$, com $a\neq0$, é uma curva chamada **parábola**.
+
+Exemplos:
+
+a. $f(x) = x$
+
+
 
 
 
