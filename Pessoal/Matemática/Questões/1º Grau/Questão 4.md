@@ -1,0 +1,1 @@
+Uma fábrica de brinquedos artesanais produz carrinhos e calcula o custo de produção com base na função do primeiro grau $C(x)=20x+500$, onde 20x representa o custo variável por carrinho e $5.000,00$ é o custo fixo mensal da fábrica. sabendo que cada carrinho é vendido por $45$
