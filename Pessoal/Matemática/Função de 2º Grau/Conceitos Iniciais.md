@@ -29,7 +29,16 @@ O gráfico de uma função quadrática, $f(x)=ax^{2}+bx+c$, com $a\neq0$, é uma
 
 Exemplos:
 
-a. $f(x) = x$
+a. $f(x) = x^{2}-1$
+
+| $x$ | $f(x)$ |
+| :-: | :----: |
+| -2  |   3    |
+| -1  |   0    |
+|  0  |   -1   |
+|  1  |   0    |
+|  2  |   3    |
+
 
 
 

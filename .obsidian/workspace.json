@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d5f67ef97259dd9e",
@@ -196,8 +195,9 @@
   },
   "active": "46b1fec35c130f24",
   "lastOpenFiles": [
-    "Pessoal/Rotina 2026/Dia 2.md",
+    "Pessoal/Matemática/IMG/Pasted image 20260107191415.png",
     "Pessoal/Matemática/Função de 2º Grau/Conceitos Iniciais.md",
+    "Pessoal/Rotina 2026/Dia 2.md",
     "Pessoal/Matemática/Função de 2º Grau",
     "Pessoal/Matemática/Função de 1º Grau",
     "Pessoal/Matemática/Função de 1º Grau/Função de 1º Grau.md",
@@ -229,7 +229,6 @@
     "Pessoal/Engenharia de Software/UML/Casos de Uso.md",
     "image.md",
     "Pessoal/Engenharia de Software/UML/Diagrama de Classes.md",
-    "Pessoal/Engenharia de Software/UML/Diagrama de Interação.md",
     "Pessoal/Engenharia de Software/Cascata.canvas",
     "Pessoal/Bancos de Dados/Livros/BIBLE - CJ DATE Introducao A Sistemas de Banco de Dados.pdf"
   ]
