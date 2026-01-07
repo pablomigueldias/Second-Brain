@@ -1,4 +1,3 @@
-Q3775910 - FEPESE - 2025 -> Engenharia de Software
 
 São diagramas estruturais da UML:
 
@@ -14,6 +13,12 @@ Assinale a alternativa que indica todas as afirmativas corretas
 - [x] São corretas apenas as afirmativas 1, 3 e 4
 - [ ] São corretas apenas as afirmativas 2, 3 e 4
 - [ ] São corretas as afirmativas 1,2,3 e 4
+
+
+
+
+
+
 
 
 

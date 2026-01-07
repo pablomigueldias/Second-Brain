@@ -31,7 +31,7 @@ Uml - checar se tem algo que nao vi
 https://www.youtube.com/watch?v=ixA6-ujj2NY&list=PLvSnBLKgRyHWINbSrLEEE6cen3ghoM_LG+
 
 Questoes uml - incompleto
-[[Engenharia de Software/Questões/Questão 1]]
+[[../Engenharia de Software/Questões UML/Questão 1]]
 
 
 Engenharia de Software - Requisitos
