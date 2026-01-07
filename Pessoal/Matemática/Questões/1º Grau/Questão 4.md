@@ -21,6 +21,21 @@ $$
 45x-20x=5000\\
 25x=5000
 x=\frac{5000}{25}\\
-
+x=200
 \end{aligned}
 $$
+
+Explicação:
+
+1) Identificando as Funções
+
+O problema nos dá os seguintes dados:
+- **Função Custo $C(x)$: É o quanto a fábrica gasta para produzir $x$ carrinhos**
+$$
+\begin{aligned}
+C(x)=20x+500
+\end{aligned}
+$$
+(onde $20x$ é o custo que varia por unidade e $5000$ é o custo fixo).
+
+- **Função Faturamento** $F(x)$: É quando a fábrica ganha vendendo $x$
