@@ -11,20 +11,14 @@
             "id": "46b1fec35c130f24",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Pessoal/Rotina 2026/Dia 2.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Pessoal/Matemática/Função de 2º Grau/Conceitos Iniciais.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Dia 2"
+              "icon": "lucide-file",
+              "title": "Conceitos Iniciais"
             }
           }
         ]
@@ -199,14 +193,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "26758f3261ee0499",
+  "active": "46b1fec35c130f24",
   "lastOpenFiles": [
-    "Pessoal/Matemática/Untitled",
-    "Pessoal/Matemática/Função de 1º Grau.md",
+    "Pessoal/Rotina 2026/Dia 2.md",
+    "Pessoal/Matemática/Função de 2º Grau/Conceitos Iniciais.md",
+    "Pessoal/Matemática/Função de 2º Grau",
+    "Pessoal/Matemática/Função de 1º Grau",
+    "Pessoal/Matemática/Função de 1º Grau/Função de 1º Grau.md",
     "Pessoal/Concurso Analista de Sistema Junior/Todo Conteudo.md",
     "Pessoal/Concurso Analista de Sistema Junior/Plano de Estudos.md",
     "Pessoal/Concurso Analista de Sistema Junior/Organização.md",
-    "Pessoal/Rotina 2026/Dia 2.md",
     "Pessoal/Pendencias/Pendencias de Estudos.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Modelos Conceitual, Lógico e Físico.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Modelo Relacional - Introdução.md",

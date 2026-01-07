@@ -109,4 +109,4 @@ Construa o gráfico da funções $f(x)=4x-8$.
 |  2  |   0    |
 |  3  |   4    |
 (1,4) (2,0) (3,4)
-![[diagram-20260106.png]]
+![[../IMG/diagram-20260106.png]]
