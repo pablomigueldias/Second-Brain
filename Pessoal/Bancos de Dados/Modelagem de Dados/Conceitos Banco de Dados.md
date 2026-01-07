@@ -30,4 +30,19 @@ Bancos de dados encontram aplicações em inúmeras áreas, como:
 - Sistema bancários
 - Reservas em hotéis
 - Controle de estoque em supermercados
+- Catálogo de livros em bibliotecas
+- E-commerce
+- Receita Federal
+- Youtube
+
+---
+## SGBD
+
+Sistema de Gerenciamento de Banco de Dados
+
+- Um SGBD é uma coleção de software que permite aos usuários criarem e manterem um ou mais banco de dados.
+- São usados nas tarefas de definição, construção, manipulação e compartilhamento dos bancos de dados entre aplical
+
+
+
 
