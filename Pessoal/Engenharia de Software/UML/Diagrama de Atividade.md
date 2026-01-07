@@ -1,6 +1,5 @@
 
 Link do conteúdo: [Diagrama de Atividades](https://www.youtube.com/watch?v=_1vHj_j3zDY&list=PLucm8g_ezqNqCRGHGHoacCo6N1bfN7hXZ&index=10)
-
 ## Diagrama de Atividade
 
 - Tipo de diagrama comportamental que representa graficamente o fluxo de controle de uma atividade para outra, com descrição de ações passo-a-passo em um sistema.
