@@ -1,0 +1,2 @@
+
+Um rapaz vai a uma loja de roupas e adquire 3 camisetas de mesmo valor, 2 bermudas de mesmo valor, 1 calça social e 2 camisas sociais de mesmo valor, pagando por esta compra o valor de 615,00. sabendo que o valor de cada bermi
