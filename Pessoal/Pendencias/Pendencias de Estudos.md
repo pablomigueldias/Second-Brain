@@ -19,11 +19,8 @@ https://www.youtube.com/watch?v=o-09AFlJZTo
 escrever o conteúdo no arquivo: [[Projeto Unificado]]
 e ver se é necessário ver mais sobre o assunto.
 
-Uml - checar se tem algo que nao vi
-https://www.youtube.com/watch?v=ixA6-ujj2NY&list=PLvSnBLKgRyHWINbSrLEEE6cen3ghoM_LG+
-
-
-
+Modelagem de dados 
+Continuar aqui [Comparando Entidades e Relações](../Bancos%20de%20Dados/Modelagem%20de%20Dados/Comparando%20Entidades%20e%20Relações.md)
 
 ---
 

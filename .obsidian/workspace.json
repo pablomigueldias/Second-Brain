@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Bancos de Dados/Modelagem de Dados/O que são Atributos.md",
+                "file": "Pessoal/Matemática/Função de 2º Grau/Zeros, Raízes e Fórmula de Bhaskara.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "O que são Atributos"
+              "title": "Zeros, Raízes e Fórmula de Bhaskara"
             }
           },
           {
@@ -191,7 +191,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,8 +209,12 @@
   },
   "active": "46b1fec35c130f24",
   "lastOpenFiles": [
+    "Pessoal/Matemática/Função de 2º Grau/Conceitos Iniciais.md",
+    "Pessoal/Matemática/Função de 2º Grau/Zeros, Raízes e Fórmula de Bhaskara.md",
     "Pessoal/Rotina 2026/Dia 3.md",
+    "Pessoal/Pendencias/Pendencias de Estudos.md",
     "Pessoal/Concurso Analista de Sistema Junior/Todo Conteudo.md",
+    "Pessoal/Bancos de Dados/Modelagem de Dados/Comparando Entidades e Relações.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/O que são Atributos.md",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260108145601.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260108145550.png",
@@ -225,14 +230,12 @@
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260108130622.png",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Modelos Conceitual, Lógico e Físico.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Modelo Relacional - Introdução.md",
-    "Pessoal/Pendencias/Pendencias de Estudos.md",
     "Pessoal/Concurso Analista de Sistema Junior/Plano de Estudos.md",
     "Pessoal/Concurso Analista de Sistema Junior/Organização.md",
     "Pessoal/Engenharia de Software/Questões UML/Questão 1.md",
     "Pessoal/Engenharia de Software/Questões UML/Questão 2.md",
     "Pessoal/Rotina 2026/Dia 2.md",
     "Pessoal/Rotina 2026/Untitled.base",
-    "Pessoal/Matemática/Função de 2º Grau/Conceitos Iniciais.md",
     "Pessoal/Matemática/Questões/1º Grau/Questão 1.md",
     "Pessoal/Matemática/Função de 2º Grau",
     "Pessoal/Matemática/Função de 1º Grau",
@@ -247,7 +250,6 @@
     "Pessoal/Matemática/Questões/1º Grau/Questão 3.md",
     "Pessoal/Matemática/Questões/1º Grau/Questão 2.md",
     "Pessoal/Portugues/Tipos Textuais.md",
-    "Pessoal/Rotina 2026/Dia 1.md",
     "Pessoal/Engenharia de Software/Cascata.canvas",
     "Pessoal/Bancos de Dados/Livros/BIBLE - CJ DATE Introducao A Sistemas de Banco de Dados.pdf"
   ]
