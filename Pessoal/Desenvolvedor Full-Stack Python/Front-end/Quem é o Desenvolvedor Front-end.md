@@ -22,10 +22,49 @@
 `Integração`: Entrega a experiência do usuário
 
 ---
-
-Desenvolvimento Ágil
+## Desenvolvimento Ágil
 
 - Papéis
 - Metodologias
 - Ciclos Desenvolvimento
 - Evolução Contínua
+
+### Metodologias
+
+![](../IMG/Pasted%20image%2020260108200302.png)
+
+### Ciclos
+
+![](../IMG/Pasted%20image%2020260108200323.png)
+
+### Papéis
+
+![](../IMG/Pasted%20image%2020260108200352.png)
+
+## Product Owner
+
+![](../IMG/Pasted%20image%2020260108200436.png)
+
+### Scrum Master
+
+![](../IMG/Pasted%20image%2020260108200504.png)
+
+### Devs
+
+![](../IMG/Pasted%20image%2020260108200522.png)
+
+`Foco na Solução`
+
+---
+## Evolução Contínua
+
+![](../IMG/Pasted%20image%2020260108200605.png)
+
+---
+## Ambiente de Trabalho
+
+- Arquivos: Explorer / Finder
+- Terminal / Console
+- Navegador
+- Editor de Texto
+- IDEs
