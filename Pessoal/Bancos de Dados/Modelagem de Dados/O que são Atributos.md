@@ -54,3 +54,33 @@ Ex.: Telefone da empresa
 ![](../IMG/Pasted%20image%2020260108144443.png)
 
 ---
+## Atributo Determinante 
+
+Define de forma única as instâncias de uma entidade. Não podem existir duas instâncias com o mesmo valor desse atributo.
+
+Ex.: CNPJ da empresa, Código do Produto
+
+![](../IMG/Pasted%20image%2020260108144737.png)
+
+---
+## Atributos Identificadores ("Chaves")
+
+Uma **Chave** identifica uma instância específica na classe de entidade
+Ex.: CPF, CódigoProduto, Matrícula, ID_Setor
+
+As chaves podem ser únicas ou não-únicas:
+
+- Únicas: o valor dos dados da chave é único na entidade
+- Não-única: Usada para agrupar instâncias de classe em categorias.
+
+As chaves podem ser compostas, consistindo de dois ou mais atributos combinados.
+
+---
+## Exemplos de Representação de Entidades e Atributos
+
+![](../IMG/Pasted%20image%2020260108145550.png)
+![](../IMG/Pasted%20image%2020260108145601.png)
+
+Podemos também representar uma entidade de forma textual:
+
+**Produto(Cod_Produto,Nome_Produto,Preço,Qtde_Estoque)**

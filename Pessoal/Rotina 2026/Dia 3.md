@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## A fazer
 
-- [ ] 12h - 16h | Banco de Dados
 - [ ] 16h - 20h | Matemática
 - [ ] 20h - 21h | Curriculo
 - [ ] 21h - 23h | Descanso
@@ -14,6 +13,7 @@ kanban-plugin: board
 
 ## Em andamento
 
+- [ ] 12h - 16h | Banco de Dados
 
 
 ## Feito

@@ -191,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,35 +206,34 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "26758f3261ee0499",
+  "active": "46b1fec35c130f24",
   "lastOpenFiles": [
+    "Pessoal/Rotina 2026/Dia 3.md",
+    "Pessoal/Concurso Analista de Sistema Junior/Todo Conteudo.md",
+    "Pessoal/Bancos de Dados/Modelagem de Dados/O que são Atributos.md",
+    "Pessoal/Bancos de Dados/IMG/Pasted image 20260108145601.png",
+    "Pessoal/Bancos de Dados/IMG/Pasted image 20260108145550.png",
+    "Pessoal/Bancos de Dados/IMG/Pasted image 20260108144737.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260108144443.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260108144210.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260108144001.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260108143545.png",
     "Pessoal/Bancos de Dados/Modelagem de Dados/O que são Entidades.md",
-    "Pessoal/Bancos de Dados/Modelagem de Dados/O que são Atributos.md",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260108140720.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260108133012.png",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Modelo Entidade-Relacionamento e Diagrama ER.md",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260108130622.png",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Modelos Conceitual, Lógico e Físico.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Modelo Relacional - Introdução.md",
-    "Pessoal/Bancos de Dados/IMG/Pasted image 20260108122819.png",
-    "Pessoal/Bancos de Dados/IMG/Pasted image 20260108121824.png",
-    "Pessoal/Concurso Analista de Sistema Junior/Todo Conteudo.md",
     "Pessoal/Pendencias/Pendencias de Estudos.md",
     "Pessoal/Concurso Analista de Sistema Junior/Plano de Estudos.md",
     "Pessoal/Concurso Analista de Sistema Junior/Organização.md",
     "Pessoal/Engenharia de Software/Questões UML/Questão 1.md",
     "Pessoal/Engenharia de Software/Questões UML/Questão 2.md",
-    "Pessoal/Rotina 2026/Dia 3.md",
     "Pessoal/Rotina 2026/Dia 2.md",
     "Pessoal/Rotina 2026/Untitled.base",
     "Pessoal/Matemática/Função de 2º Grau/Conceitos Iniciais.md",
-    "Pessoal/Matemática/IMG/Pasted image 20260107193235.png",
     "Pessoal/Matemática/Questões/1º Grau/Questão 1.md",
-    "Pessoal/Matemática/IMG/Pasted image 20260107191752.png",
     "Pessoal/Matemática/Função de 2º Grau",
     "Pessoal/Matemática/Função de 1º Grau",
     "Pessoal/Matemática/Função de 1º Grau/Função de 1º Grau.md",
