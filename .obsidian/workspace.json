@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Bancos de Dados/Modelagem de Dados/Modelo Entidade-Relacionamento e Diagrama ER.md",
+                "file": "Pessoal/Bancos de Dados/Modelagem de Dados/O que são Entidades.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modelo Entidade-Relacionamento e Diagrama ER"
+              "title": "O que são Entidades"
             }
           },
           {
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5,
-    "collapsed": true
+    "width": 286.5
   },
   "right": {
     "id": "d5f67ef97259dd9e",
@@ -210,8 +209,10 @@
   },
   "active": "46b1fec35c130f24",
   "lastOpenFiles": [
-    "Pessoal/Bancos de Dados/Modelagem de Dados/Modelos Conceitual, Lógico e Físico.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Modelo Entidade-Relacionamento e Diagrama ER.md",
+    "Pessoal/Bancos de Dados/Modelagem de Dados/O que são Entidades.md",
+    "Pessoal/Bancos de Dados/IMG/Pasted image 20260108130622.png",
+    "Pessoal/Bancos de Dados/Modelagem de Dados/Modelos Conceitual, Lógico e Físico.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Modelo Relacional - Introdução.md",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260108122819.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260108121824.png",
@@ -249,7 +250,6 @@
     "Pessoal/Rotina 2026/Dia 1.md",
     "Pessoal/Engenharia de Software/UML/Diagrama de Atividade.md",
     "Pessoal/Engenharia de Software/UML/Casos de Uso.md",
-    "image.md",
     "Pessoal/Engenharia de Software/Cascata.canvas",
     "Pessoal/Bancos de Dados/Livros/BIBLE - CJ DATE Introducao A Sistemas de Banco de Dados.pdf"
   ]
