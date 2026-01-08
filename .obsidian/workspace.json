@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Bancos de Dados/Modelagem de Dados/O que são Entidades.md",
+                "file": "Pessoal/Bancos de Dados/Modelagem de Dados/O que são Atributos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "O que são Entidades"
+              "title": "O que são Atributos"
             }
           },
           {
@@ -207,11 +207,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "26758f3261ee0499",
+  "active": "46b1fec35c130f24",
   "lastOpenFiles": [
+    "Pessoal/Bancos de Dados/Modelagem de Dados/O que são Entidades.md",
+    "Pessoal/Bancos de Dados/Modelagem de Dados/O que são Atributos.md",
+    "Pessoal/Bancos de Dados/IMG/Pasted image 20260108140720.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260108133012.png",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Modelo Entidade-Relacionamento e Diagrama ER.md",
-    "Pessoal/Bancos de Dados/Modelagem de Dados/O que são Entidades.md",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260108130622.png",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Modelos Conceitual, Lógico e Físico.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Modelo Relacional - Introdução.md",
@@ -237,9 +239,7 @@
     "Pessoal/Bancos de Dados/Modelagem de Dados/Conceitos Banco de Dados.md",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260107150933.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260107150706.png",
-    "Pessoal/Bancos de Dados/IMG/Pasted image 20260107150444.png",
     "Pessoal/Bancos de Dados/IMG",
-    "Pessoal/Bancos de Dados/IMG/Pasted image 20260107145259.png",
     "Pessoal/Bancos de Dados/SGBD - Rodrigo Schaeffer/SGBD.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Entidade Relacionamento - Rodrigo Schaeffer/Entidade Relacionamento.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados",

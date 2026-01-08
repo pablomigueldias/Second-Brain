@@ -19,3 +19,19 @@ Representamos as entidades em um DER por meio de retângulo contendo o nome da e
 
 ![](../IMG/Pasted%20image%2020260108133012.png)
 
+## Entidades - algumas regras de nomeação
+
+- Nomes de Entidades:
+	- Devem começar com uma letra;
+	- Usar palavra no singular
+	- Não podem ter espaços ou alguns caracteres especiais;
+	- Alguns caracteres como `$`, `#` , `_` são permitidos em alguns bancos de dados
+- Os nomes de colunas devem ser únicos dentro de uma tabela
+- Os nomes de entidades / tabelas devem ser únicos dentro do esquema
+## Instância de Entidade
+
+Uma entidade em si é uma descrição de estrutura e formato das ocorrências da entidade, como uma "receita", ou "planta".
+Uma instância de entidade é uma ocorrência específica de uma entidade
+
+![](../IMG/Pasted%20image%2020260108140720.png)
+
