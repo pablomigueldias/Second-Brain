@@ -20,7 +20,8 @@ escrever o conteúdo no arquivo: [[Projeto Unificado]]
 e ver se é necessário ver mais sobre o assunto.
 
 Modelagem de dados 
-Continuar aqui [Comparando Entidades e Relações](../Bancos%20de%20Dados/Modelagem%20de%20Dados/Comparando%20Entidades%20e%20Relações.md)
+Continuar aqui [Restrições de Integridade](../Bancos%20de%20Dados/Modelagem%20de%20Dados/Restrições%20de%20Integridade.md)
+
 
 ---
 
