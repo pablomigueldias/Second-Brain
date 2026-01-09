@@ -11,20 +11,14 @@
             "id": "46b1fec35c130f24",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Pessoal/Rotina 2026/Dia 4.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Pessoal/Bancos de Dados/Conceitos Básicos/Esquemas e Instâncias.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Dia 4"
+              "icon": "lucide-file",
+              "title": "Esquemas e Instâncias"
             }
           }
         ]
@@ -200,8 +194,21 @@
   },
   "active": "46b1fec35c130f24",
   "lastOpenFiles": [
-    "Pessoal/Pendencias/Pendencias de Estudos.md",
+    "Pessoal/Bancos de Dados/Conceitos Básicos/Modelo de dado.canvas",
+    "Pessoal/Bancos de Dados/Conceitos Básicos/Modelos de Dados.md",
+    "Pessoal/Bancos de Dados/Conceitos Básicos/Modelo Paradigmas.canvas",
+    "Pessoal/Bancos de Dados/Conceitos Básicos/Sistemas Hierárquico e de rede.md",
+    "Pessoal/Bancos de Dados/Conceitos Básicos/Atores em cena - Mapa.canvas",
+    "Pessoal/Bancos de Dados/Conceitos Básicos/Atores em Cena.md",
+    "Pessoal/Bancos de Dados/Conceitos Básicos/Sistemas de Arquivos - Sistema de Banco de Dados.canvas",
+    "Pessoal/Bancos de Dados/Conceitos Básicos/Conceitos Básicos.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Restrições de Integridade.md",
+    "Pessoal/Bancos de Dados/Conceitos Básicos",
+    "Pessoal/Bancos de Dados/Conceitos Básicos/Esquemas e Instâncias.md",
+    "Pessoal/Bancos de Dados/Conceitos Básicos/Vantagens de usar a abordagem de SGBD.md",
+    "Pessoal/Bancos de Dados/Conceitos Básicos/Características da Abordagem de Banco de Dados.md",
+    "Pessoal/Rotina 2026/Dia 4.md",
+    "Pessoal/Pendencias/Pendencias de Estudos.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/O que são Cardinalidades.md",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260109151914.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260109151823.png",
@@ -213,14 +220,6 @@
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260109150550.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260109150214.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260109145953.png",
-    "Pessoal/Bancos de Dados/Esquemas e Instâncias.md",
-    "Pessoal/Bancos de Dados/Modelo de dado.canvas",
-    "Pessoal/Bancos de Dados/Modelos de Dados.md",
-    "Pessoal/Bancos de Dados/Modelo Paradigmas.canvas",
-    "Pessoal/Bancos de Dados/Atores em cena - Mapa.canvas",
-    "Pessoal/Bancos de Dados/Características da Abordagem de Banco de Dados.md",
-    "Pessoal/Bancos de Dados/Conceitos Básicos.md",
-    "Pessoal/Rotina 2026/Dia 4.md",
     "Pessoal/Concurso Analista de Sistema Junior/Todo Conteudo.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Primary Key, Foreing e outros.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/O que são Relacionamentos.md",
@@ -238,10 +237,6 @@
     "Pessoal/Bancos de Dados/Modelagem de Dados/Modelo Entidade-Relacionamento e Diagrama ER.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Modelos Conceitual, Lógico e Físico.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Modelo Relacional - Introdução.md",
-    "Pessoal/Concurso Analista de Sistema Junior/Plano de Estudos.md",
-    "Pessoal/Concurso Analista de Sistema Junior/Organização.md",
-    "Pessoal/Engenharia de Software/Questões UML/Questão 1.md",
-    "Pessoal/Engenharia de Software/Questões UML/Questão 2.md",
     "Pessoal/Rotina 2026/Untitled.base",
     "Pessoal/Matemática/Função de 2º Grau",
     "Pessoal/Matemática/Função de 1º Grau",

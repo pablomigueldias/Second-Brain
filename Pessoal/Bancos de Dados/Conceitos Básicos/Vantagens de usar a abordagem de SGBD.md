@@ -29,7 +29,7 @@ C.J. Date
 Tradução da
 8ª Edição Americana
 
-[[BIBLE - CJ DATE Introducao A Sistemas de Banco de Dados.pdf]]
+[[../Livros/BIBLE - CJ DATE Introducao A Sistemas de Banco de Dados.pdf]]
 
 ## DESVANTAGENS DOS SISTEMAS DE ARQUIVOS
 
