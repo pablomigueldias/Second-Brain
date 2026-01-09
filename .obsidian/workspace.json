@@ -11,10 +11,14 @@
             "id": "46b1fec35c130f24",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Pessoal/Bancos de Dados/Modelagem de Dados/O que são Relacionamentos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "O que são Relacionamentos"
             }
           },
           {
@@ -187,7 +191,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,6 +209,10 @@
   },
   "active": "46b1fec35c130f24",
   "lastOpenFiles": [
+    "Pessoal/Bancos de Dados/Modelagem de Dados/Comparando Entidades e Relações.md",
+    "Pessoal/Bancos de Dados/Modelagem de Dados/O que são Relacionamentos.md",
+    "Pessoal/Rotina 2026/Dia 4.md",
+    "Pessoal/Rotina 2026/Dia 3.md",
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Quem é o Desenvolvedor Front-end.md",
     "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260108200605.png",
     "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260108200522.png",
@@ -220,10 +229,8 @@
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end",
     "Pessoal/Desenvolvedor Full-Stack Python",
     "Pessoal/Matemática/Função de 2º Grau/Conceitos Iniciais.md",
-    "Pessoal/Rotina 2026/Dia 3.md",
     "Pessoal/Pendencias/Pendencias de Estudos.md",
     "Pessoal/Concurso Analista de Sistema Junior/Todo Conteudo.md",
-    "Pessoal/Bancos de Dados/Modelagem de Dados/Comparando Entidades e Relações.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/O que são Atributos.md",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260108145601.png",
     "Pessoal/Bancos de Dados/Modelagem de Dados/O que são Entidades.md",
@@ -246,7 +253,6 @@
     "Pessoal/Bancos de Dados/Modelagem de Dados/Entidade Relacionamento - Rodrigo Schaeffer/Entidade Relacionamento.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados",
     "Pessoal/Matemática/Questões/1º Grau/Questão 5.md",
-    "Pessoal/Matemática/Questões/1º Grau/Questão 4.md",
     "Pessoal/Engenharia de Software/Cascata.canvas",
     "Pessoal/Bancos de Dados/Livros/BIBLE - CJ DATE Introducao A Sistemas de Banco de Dados.pdf"
   ]
