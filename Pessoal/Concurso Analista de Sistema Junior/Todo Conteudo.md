@@ -13,10 +13,10 @@ Este cronograma contempla a totalidade dos assuntos listados no edital, organiza
 ~~* **Ferramentas:** Uso de ferramentas de suporte ao desenvolvimento orientado a objetos.~~
 
 ### Semana 2: Banco de Dados (Fundamentos e Modelagem)
-* **Conceitos:** Administração de dados, SGBDs, independência de dados e dicionário de dados.
-* **Arquitetura:** Arquitetura de banco de dados e modelo relacional.
-* **Modelagem:** ~~Modelagem Entidade-Relacionamento~~ e mapeamento para o modelo relacional.
-* **Normalização:** Processos de normalização de dados.
+* ~~**Conceitos:** Administração de dados, SGBDs, independência de dados e dicionário de dados.~~
+* ~~**Arquitetura:** Arquitetura de banco de dados e modelo relacional.~~
+* ~~**Modelagem:** Modelagem Entidade-Relacionamento e mapeamento para o modelo relacional.~~
+* ~~**Normalização:** Processos de normalização de dados.~~
 
 ### Semana 3: SQL e Operação de Bancos
 * **SQL (ANSI):** Instruções de manipulação de dados (DML), Joins, subconsultas e elaboração de consultas.
