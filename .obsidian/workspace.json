@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Bancos de Dados/Modelagem de Dados/Normalização e Anomalias - Conceitos.md",
+                "file": "Pessoal/Bancos de Dados/Modelagem de Dados/Normalização -  Segunda Forma normal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Normalização e Anomalias - Conceitos"
+              "title": "Normalização -  Segunda Forma normal"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 303.5
   },
   "right": {
     "id": "d5f67ef97259dd9e",
@@ -195,9 +195,15 @@
   },
   "active": "a3815eccb37d3d72",
   "lastOpenFiles": [
-    "Pessoal/Bancos de Dados/Modelagem de Dados/Dependências (Funcional, Multivalorada, Transitiva).md",
+    "Pessoal/Bancos de Dados/Modelagem de Dados/Normalização - Primeira Forma Normal.md",
+    "Pessoal/Bancos de Dados/Modelagem de Dados/Normalização -  Segunda Forma normal.md",
+    "Pessoal/Bancos de Dados/IMG/Pasted image 20260113162453.png",
+    "Pessoal/Bancos de Dados/IMG/Pasted image 20260113162057.png",
+    "Pessoal/Bancos de Dados/Modelagem de Dados/Conceitos Banco de Dados.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Normalização e Anomalias - Conceitos.md",
-    "Pasted image 20260113151505.png",
+    "Pessoal/Bancos de Dados/Modelagem de Dados/Untitled",
+    "Pessoal/Bancos de Dados/Modelagem de Dados/Dependências (Funcional, Multivalorada, Transitiva).md",
+    "Pessoal/Bancos de Dados/IMG/Pasted image 20260113151505.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260113151347.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260113150851.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260113150412.png",
@@ -206,8 +212,6 @@
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260113143340.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260113145122.png",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Dicionário de Dados.md",
-    "Pessoal/Bancos de Dados/IMG/Pasted image 20260113143307.png",
-    "Pessoal/Bancos de Dados/IMG/Pasted image 20260113143222.png",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Diagramação - Notações Gráficas.md",
     "Pessoal/Pendencias/Pendencias de Estudos.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Restrições de Integridade.md",
@@ -234,18 +238,14 @@
     "Pessoal/Bancos de Dados/Modelagem de Dados/Primary Key, Foreing e outros.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/O que são Relacionamentos.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Comparando Entidades e Relações.md",
-    "Pessoal/Rotina 2026/Dia 3.md",
     "Pessoal/Desenvolvedor Full-Stack Python/IMG",
-    "Pessoal/Matemática/Função de 2º Grau/Zeros, Raízes e Fórmula de Bhaskara.md",
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end",
     "Pessoal/Desenvolvedor Full-Stack Python",
-    "Pessoal/Matemática/Função de 2º Grau/Conceitos Iniciais.md",
     "Pessoal/Rotina 2026/Untitled.base",
     "Pessoal/Matemática/Função de 2º Grau",
     "Pessoal/Matemática/Função de 1º Grau",
     "Pessoal/Bancos de Dados/IMG",
     "Pessoal/Bancos de Dados/Modelagem de Dados",
-    "Pessoal/Engenharia de Software/Cascata.canvas",
-    "Pessoal/Bancos de Dados/Livros/BIBLE - CJ DATE Introducao A Sistemas de Banco de Dados.pdf"
+    "Pessoal/Engenharia de Software/Cascata.canvas"
   ]
 }

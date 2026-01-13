@@ -70,6 +70,6 @@ Onde B é a coluna que depende de A.
 
 ## Exemplo
 
-![](../../../Pasted%20image%2020260113151505.png)
+![](../IMG/Pasted%20image%2020260113151505.png)
 
 Ano e Cor são independente entre si e dependem do modelo do carro. Essas duas colunas são dependentes multivaloradas do modelo
