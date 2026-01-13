@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Advanced HTML.md",
+                "file": "Pessoal/Bancos de Dados/Modelagem de Dados/Restrições de Integridade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Advanced HTML"
+              "title": "Restrições de Integridade"
             }
           }
         ]
@@ -177,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,14 +193,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "26758f3261ee0499",
+  "active": "f85230419896effc",
   "lastOpenFiles": [
+    "Pessoal/Pendencias/Pendencias de Estudos.md",
+    "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Advanced HTML.md",
     "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260112215604.png",
     "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260112215446.png",
     "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260112215412.png",
     "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260112215301.png",
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end/HTML Programing.md",
-    "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Advanced HTML.md",
     "Pasted image 20260112213829.png",
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Untitled.canvas",
     "Pasted image 20260112213531.png",
@@ -220,12 +222,10 @@
     "Pessoal/Bancos de Dados/Conceitos Básicos/Vantagens de usar a abordagem de SGBD.md",
     "Pessoal/Bancos de Dados/Conceitos Básicos/Características da Abordagem de Banco de Dados.md",
     "Pessoal/Rotina 2026/Dia 4.md",
-    "Pessoal/Pendencias/Pendencias de Estudos.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/O que são Cardinalidades.md",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260109151914.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260109151823.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260109151634.png",
-    "Pessoal/Bancos de Dados/IMG/Pasted image 20260109151436.png",
     "Pessoal/Concurso Analista de Sistema Junior/Todo Conteudo.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Primary Key, Foreing e outros.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/O que são Relacionamentos.md",
