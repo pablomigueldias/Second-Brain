@@ -20,7 +20,8 @@ escrever o conteúdo no arquivo: [[Projeto Unificado]]
 e ver se é necessário ver mais sobre o assunto.
 
 Modelagem de dados 
-Continuar aqui [Restrições de Integridade](../Bancos%20de%20Dados/Modelagem%20de%20Dados/Restrições%20de%20Integridade.md)
+https://www.youtube.com/watch?v=-tiOXEUEA14&list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD&index=20
+continuar aqui 
 
 
 ---
