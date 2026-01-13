@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Desenvolvedor Full-Stack Python/Front-end/HTML Programing.md",
+                "file": "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Advanced HTML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTML Programing"
+              "title": "Advanced HTML"
             }
           }
         ]
@@ -177,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,10 +192,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f85230419896effc",
+  "active": "26758f3261ee0499",
   "lastOpenFiles": [
-    "Pasted image 20260112213829.png",
+    "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260112215604.png",
+    "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260112215446.png",
+    "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260112215412.png",
+    "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260112215301.png",
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end/HTML Programing.md",
+    "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Advanced HTML.md",
+    "Pasted image 20260112213829.png",
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Untitled.canvas",
     "Pasted image 20260112213531.png",
     "Pessoal/Desenvolvedor Full-Stack Python/IMG/Captura de tela de 2026-01-12 21-35-23.png",
@@ -222,9 +226,6 @@
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260109151823.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260109151634.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260109151436.png",
-    "Pessoal/Bancos de Dados/IMG/Pasted image 20260109151212.png",
-    "Pessoal/Bancos de Dados/IMG/Pasted image 20260109151007.png",
-    "Pessoal/Bancos de Dados/IMG/Pasted image 20260109150738.png",
     "Pessoal/Concurso Analista de Sistema Junior/Todo Conteudo.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Primary Key, Foreing e outros.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/O que são Relacionamentos.md",
@@ -238,7 +239,6 @@
     "Pessoal/Bancos de Dados/Modelagem de Dados/O que são Atributos.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/O que são Entidades.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Modelo Entidade-Relacionamento e Diagrama ER.md",
-    "Pessoal/Bancos de Dados/Modelagem de Dados/Modelos Conceitual, Lógico e Físico.md",
     "Pessoal/Rotina 2026/Untitled.base",
     "Pessoal/Matemática/Função de 2º Grau",
     "Pessoal/Matemática/Função de 1º Grau",
