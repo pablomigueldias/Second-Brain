@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6033cb58805aaf74",
+        "id": "8910085a8ff6529c",
         "type": "tabs",
         "children": [
           {
-            "id": "a3815eccb37d3d72",
+            "id": "b756b4c5944d249a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -193,8 +193,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a3815eccb37d3d72",
+  "active": "b756b4c5944d249a",
   "lastOpenFiles": [
+    "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260108180500.png",
+    "Pessoal/Desenvolvedor Full-Stack Python/Front-end/HTML Programing.md",
+    "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Advanced HTML.md",
     "Pessoal/Pendencias/Pendencias de Estudos.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Normalização - Terceira Forma Normal.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Normalização - Forma Normal de Boyce-Codd.md",
@@ -219,8 +222,6 @@
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260113150851.png",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Dicionário de Dados.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Diagramação - Notações Gráficas.md",
-    "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Advanced HTML.md",
-    "Pessoal/Desenvolvedor Full-Stack Python/Front-end/HTML Programing.md",
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Untitled.canvas",
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Quem é o Desenvolvedor Front-end.md",
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Introdução Front-end.md",
@@ -237,7 +238,6 @@
     "Pessoal/Bancos de Dados/Conceitos Básicos/Vantagens de usar a abordagem de SGBD.md",
     "Pessoal/Bancos de Dados/Conceitos Básicos/Características da Abordagem de Banco de Dados.md",
     "Pessoal/Rotina 2026/Dia 4.md",
-    "Pessoal/Bancos de Dados/Modelagem de Dados/O que são Cardinalidades.md",
     "Pessoal/Desenvolvedor Full-Stack Python/IMG",
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end",
     "Pessoal/Desenvolvedor Full-Stack Python",
