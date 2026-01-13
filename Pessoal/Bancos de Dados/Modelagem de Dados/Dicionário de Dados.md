@@ -21,4 +21,4 @@ Link do conteúdo: [Dicionário de Dados](https://www.youtube.com/watch?v=-DESqE
 
 ## Relacionamentos
 
-![](../../../Pasted%20image%2020260113143340.png)
+![](../IMG/Pasted%20image%2020260113143340.png)
