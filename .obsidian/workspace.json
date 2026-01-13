@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Bancos de Dados/Modelagem de Dados/Normalização -  Segunda Forma normal.md",
+                "file": "Pessoal/Bancos de Dados/Modelagem de Dados/Normalização - Terceira Forma Normal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Normalização -  Segunda Forma normal"
+              "title": "Normalização - Terceira Forma Normal"
             }
           }
         ]
@@ -177,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,26 +195,29 @@
   },
   "active": "a3815eccb37d3d72",
   "lastOpenFiles": [
-    "Pessoal/Bancos de Dados/Modelagem de Dados/Normalização - Primeira Forma Normal.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Normalização -  Segunda Forma normal.md",
+    "Pessoal/Bancos de Dados/Modelagem de Dados/Normalização - Terceira Forma Normal.md",
+    "Pessoal/Bancos de Dados/Modelagem de Dados/Normalização - Primeira Forma Normal.md",
+    "Pessoal/Concurso Analista de Sistema Junior/Plano de Estudos.md",
+    "Pessoal/Concurso Analista de Sistema Junior/Todo Conteudo.md",
+    "Pessoal/Bancos de Dados/Modelagem de Dados/Restrições de Integridade.md",
+    "Pessoal/Bancos de Dados/Modelagem de Dados/Dependências (Funcional, Multivalorada, Transitiva).md",
+    "Pessoal/Bancos de Dados/Modelagem de Dados/Normalização e Anomalias - Conceitos.md",
+    "Pessoal/Bancos de Dados/IMG/Pasted image 20260113172020.png",
+    "Pessoal/Bancos de Dados/IMG/Pasted image 20260113171539.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260113162453.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260113162057.png",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Conceitos Banco de Dados.md",
-    "Pessoal/Bancos de Dados/Modelagem de Dados/Normalização e Anomalias - Conceitos.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Untitled",
-    "Pessoal/Bancos de Dados/Modelagem de Dados/Dependências (Funcional, Multivalorada, Transitiva).md",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260113151505.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260113151347.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260113150851.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260113150412.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260113150014.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260113145352.png",
-    "Pessoal/Bancos de Dados/IMG/Pasted image 20260113143340.png",
-    "Pessoal/Bancos de Dados/IMG/Pasted image 20260113145122.png",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Dicionário de Dados.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Diagramação - Notações Gráficas.md",
     "Pessoal/Pendencias/Pendencias de Estudos.md",
-    "Pessoal/Bancos de Dados/Modelagem de Dados/Restrições de Integridade.md",
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Advanced HTML.md",
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end/HTML Programing.md",
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Untitled.canvas",
@@ -233,10 +237,7 @@
     "Pessoal/Bancos de Dados/Conceitos Básicos/Características da Abordagem de Banco de Dados.md",
     "Pessoal/Rotina 2026/Dia 4.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/O que são Cardinalidades.md",
-    "Pessoal/Concurso Analista de Sistema Junior/Todo Conteudo.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Primary Key, Foreing e outros.md",
-    "Pessoal/Bancos de Dados/Modelagem de Dados/O que são Relacionamentos.md",
-    "Pessoal/Bancos de Dados/Modelagem de Dados/Comparando Entidades e Relações.md",
     "Pessoal/Desenvolvedor Full-Stack Python/IMG",
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end",
     "Pessoal/Desenvolvedor Full-Stack Python",
