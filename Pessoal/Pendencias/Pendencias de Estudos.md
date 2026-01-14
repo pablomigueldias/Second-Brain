@@ -23,6 +23,8 @@ Modelagem de dados
 https://www.youtube.com/watch?v=-tiOXEUEA14&list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD&index=20
 continuar aqui 
 
+front- end
+`#F032`
 
 ---
 

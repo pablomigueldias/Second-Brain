@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Design Concepts.md",
+                "file": "Pessoal/Desenvolvedor Full-Stack Python/Front-end/CSS fundations part 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design Concepts"
+              "title": "CSS fundations part 1"
             }
           }
         ]
@@ -193,13 +193,20 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b756b4c5944d249a",
+  "active": "26758f3261ee0499",
   "lastOpenFiles": [
-    "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Advanced HTML.md",
+    "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260113223428.png",
+    "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260113223018.png",
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Design Concepts.md",
+    "Pessoal/Desenvolvedor Full-Stack Python/Front-end/CSS fundations part 1.md",
+    "Pessoal/Pendencias/Pendencias de Estudos.md",
+    "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260113214519.png",
+    "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260113214436.png",
+    "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260113214334.png",
+    "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260113214234.png",
+    "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Advanced HTML.md",
     "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260108180500.png",
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end/HTML Programing.md",
-    "Pessoal/Pendencias/Pendencias de Estudos.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Normalização - Terceira Forma Normal.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Normalização - Forma Normal de Boyce-Codd.md",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260113175049.png",
@@ -213,13 +220,8 @@
     "Pessoal/Bancos de Dados/Modelagem de Dados/Dependências (Funcional, Multivalorada, Transitiva).md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Normalização e Anomalias - Conceitos.md",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260113172020.png",
-    "Pessoal/Bancos de Dados/IMG/Pasted image 20260113171539.png",
-    "Pessoal/Bancos de Dados/IMG/Pasted image 20260113162453.png",
-    "Pessoal/Bancos de Dados/IMG/Pasted image 20260113162057.png",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Conceitos Banco de Dados.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Untitled",
-    "Pessoal/Bancos de Dados/IMG/Pasted image 20260113151505.png",
-    "Pessoal/Bancos de Dados/IMG/Pasted image 20260113151347.png",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Dicionário de Dados.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Diagramação - Notações Gráficas.md",
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Untitled.canvas",
@@ -236,8 +238,6 @@
     "Pessoal/Bancos de Dados/Conceitos Básicos/Conceitos Básicos.md",
     "Pessoal/Bancos de Dados/Conceitos Básicos",
     "Pessoal/Bancos de Dados/Conceitos Básicos/Vantagens de usar a abordagem de SGBD.md",
-    "Pessoal/Bancos de Dados/Conceitos Básicos/Características da Abordagem de Banco de Dados.md",
-    "Pessoal/Rotina 2026/Dia 4.md",
     "Pessoal/Desenvolvedor Full-Stack Python/IMG",
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end",
     "Pessoal/Desenvolvedor Full-Stack Python",
