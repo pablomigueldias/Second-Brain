@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Desenvolvedor Full-Stack Python/Front-end/CSS fundations part 1.md",
+                "file": "Pessoal/Pendencias/Pendencias de Estudos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSS fundations part 1"
+              "title": "Pendencias de Estudos"
             }
           }
         ]
@@ -177,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,10 +195,10 @@
   },
   "active": "b756b4c5944d249a",
   "lastOpenFiles": [
+    "Pessoal/Desenvolvedor Full-Stack Python/Front-end/CSS fundations part 1.md",
     "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260113223428.png",
     "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260113223018.png",
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Design Concepts.md",
-    "Pessoal/Desenvolvedor Full-Stack Python/Front-end/CSS fundations part 1.md",
     "Pessoal/Pendencias/Pendencias de Estudos.md",
     "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260113214519.png",
     "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260113214436.png",
@@ -218,7 +219,6 @@
     "Pessoal/Bancos de Dados/Modelagem de Dados/Restrições de Integridade.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Dependências (Funcional, Multivalorada, Transitiva).md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Normalização e Anomalias - Conceitos.md",
-    "Pessoal/Bancos de Dados/IMG/Pasted image 20260113172020.png",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Conceitos Banco de Dados.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Untitled",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Dicionário de Dados.md",
