@@ -177,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,7 +192,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "26758f3261ee0499",
+  "active": "b756b4c5944d249a",
   "lastOpenFiles": [
     "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260113223428.png",
     "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260113223018.png",
