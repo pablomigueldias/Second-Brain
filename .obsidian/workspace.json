@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Pendencias de Estudos"
             }
+          },
+          {
+            "id": "c6eadf4d17eb0193",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,7 +205,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b756b4c5944d249a",
+  "active": "c6eadf4d17eb0193",
   "lastOpenFiles": [
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Gulp I.md",
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Design Concepts.md",
