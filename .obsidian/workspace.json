@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Bancos de Dados/Conceitos Básicos/Atores em Cena.md",
+                "file": "Pessoal/Bancos de Dados/Conceitos Básicos/Características da Abordagem de Banco de Dados.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Atores em Cena"
+              "title": "Características da Abordagem de Banco de Dados"
             }
           }
         ],
@@ -207,8 +207,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "26758f3261ee0499",
+  "active": "c6eadf4d17eb0193",
   "lastOpenFiles": [
+    "Pessoal/Bancos de Dados/Conceitos Básicos/Atores em cena - Mapa.canvas",
+    "Pessoal/Bancos de Dados/Conceitos Básicos/Atores em Cena.md",
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Gulp I.md",
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Design Concepts.md",
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Gulp.md",
@@ -245,11 +247,8 @@
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Untitled.canvas",
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Quem é o Desenvolvedor Front-end.md",
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Introdução Front-end.md",
-    "Pessoal/Bancos de Dados/Conceitos Básicos/Esquemas e Instâncias.md",
     "Pessoal/Bancos de Dados/Conceitos Básicos/Modelo de dado.canvas",
-    "Pessoal/Bancos de Dados/Conceitos Básicos/Modelos de Dados.md",
     "Pessoal/Bancos de Dados/Conceitos Básicos/Modelo Paradigmas.canvas",
-    "Pessoal/Bancos de Dados/Conceitos Básicos/Atores em cena - Mapa.canvas",
     "Pessoal/Bancos de Dados/Conceitos Básicos/Sistemas de Arquivos - Sistema de Banco de Dados.canvas",
     "Pessoal/Bancos de Dados/Conceitos Básicos",
     "Pessoal/Desenvolvedor Full-Stack Python/IMG",
