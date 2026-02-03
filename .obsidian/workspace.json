@@ -25,12 +25,14 @@
             "id": "c6eadf4d17eb0193",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.5"
+                "file": "Pessoal/Bancos de Dados/Conceitos Básicos/Atores em Cena.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
+              "icon": "lucide-file",
+              "title": "Atores em Cena"
             }
           }
         ],
@@ -205,7 +207,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c6eadf4d17eb0193",
+  "active": "26758f3261ee0499",
   "lastOpenFiles": [
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Gulp I.md",
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Design Concepts.md",
