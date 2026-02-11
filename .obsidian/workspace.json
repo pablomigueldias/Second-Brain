@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "d5f67ef97259dd9e",
@@ -178,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,7 +192,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e376c6030009aa27",
+  "active": "26758f3261ee0499",
   "lastOpenFiles": [
     "Pessoal/FastAPI/Type Hints.md",
     "Pessoal/Bancos de Dados/Conceitos Básicos/Conceitos Básicos.md",

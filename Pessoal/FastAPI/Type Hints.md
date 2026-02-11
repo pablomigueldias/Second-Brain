@@ -48,7 +48,29 @@ se um parâmetro puder ser um número inteiro ou um texto:
 se um valor puder ser um texto ou simplesmente não existir (`None`):
 
 - Python 3.10+:  `name:str | None = None`
-- Ver
+- Versões anteriores: `Optional[str] = None`
+
+> [!NOTE] Notas
+> O FastAPI usa isso para saber se um campo é obrigatório ou opcional na sua API
+
+## 4. Classes e Modelos Pydantic
+
+Você pode usar suas próprias classes como tipos. O FastAPI brilha com o Pydantic, uma biblioteca que valida dados.
+
+```Python
+from pydantic import BaseModel
+
+class User(BaseModel):
+	id: int
+	name: str = 'Pablo'
+	
+def save_user(user:User):
+	print(user.name)
+```
+
+Aqui, o Pydantic garante que, se alguém enviar um `id` como string `"123"`,ele será convertido automaticamente para o número `123`. se não puder converter, ele gera um erro automático para o usuário.
+
+
 
 
 
