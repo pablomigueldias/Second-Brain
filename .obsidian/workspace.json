@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "365bead3fc70c1c0",
+        "id": "d6c5299cf2aef31e",
         "type": "tabs",
         "children": [
           {
-            "id": "09b492c0cd2b0925",
+            "id": "e376c6030009aa27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Bancos de Dados/Conceitos Básicos/Conceitos Básicos.md",
+                "file": "Pessoal/FastAPI/FastAPI - Background Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conceitos Básicos"
-            }
-          },
-          {
-            "id": "3951cf0ac52c3757",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pessoal/Bancos de Dados/Modelagem de Dados/Modelo Relacional - Introdução.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Modelo Relacional - Introdução"
+              "title": "FastAPI - Background Tasks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "d5f67ef97259dd9e",
@@ -192,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,8 +194,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3951cf0ac52c3757",
+  "active": "e376c6030009aa27",
   "lastOpenFiles": [
+    "Pessoal/FastAPI/FastAPI - Background Tasks.md",
+    "Pessoal/Bancos de Dados/Conceitos Básicos/Conceitos Básicos.md",
+    "Pessoal/Bancos de Dados/Modelagem de Dados/Modelo Relacional - Introdução.md",
+    "Pessoal/FastAPI",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Modelo Entidade-Relacionamento e Diagrama ER.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Conceitos Banco de Dados.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Comparando Entidades e Relações.md",
@@ -244,10 +235,7 @@
     "Pessoal/Bancos de Dados/Modelagem de Dados/Normalização - Primeira Forma Normal.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Restrições de Integridade.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Dependências (Funcional, Multivalorada, Transitiva).md",
-    "Pessoal/Bancos de Dados/Modelagem de Dados/Normalização e Anomalias - Conceitos.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Untitled",
-    "Pessoal/Bancos de Dados/Modelagem de Dados/Dicionário de Dados.md",
-    "Pessoal/Bancos de Dados/Modelagem de Dados/Diagramação - Notações Gráficas.md",
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Untitled.canvas",
     "Pessoal/Bancos de Dados/Conceitos Básicos/Modelo de dado.canvas",
     "Pessoal/Bancos de Dados/Conceitos Básicos/Modelo Paradigmas.canvas",
@@ -259,7 +247,6 @@
     "Pessoal/Matemática/Função de 2º Grau",
     "Pessoal/Matemática/Função de 1º Grau",
     "Pessoal/Bancos de Dados/IMG",
-    "Pessoal/Bancos de Dados/Modelagem de Dados",
     "Pessoal/Engenharia de Software/Cascata.canvas"
   ]
 }
