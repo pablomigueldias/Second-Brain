@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "d5f67ef97259dd9e",
@@ -181,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,7 +195,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e376c6030009aa27",
+  "active": "7a21b412c42980a8",
   "lastOpenFiles": [
     "Pessoal/FastAPI/Parâmetros de Rota (Path Parameters).md",
     "Pessoal/FastAPI/Parâmetros de Consulta (Query Parameters).md",
