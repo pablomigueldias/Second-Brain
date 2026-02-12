@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/FastAPI/Ambientes Virtuais (Virtual Environments).md",
+                "file": "Pessoal/FastAPI/Primeiros Passos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ambientes Virtuais (Virtual Environments)"
+              "title": "Primeiros Passos"
             }
           }
         ]
@@ -177,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,8 +194,9 @@
   },
   "active": "e376c6030009aa27",
   "lastOpenFiles": [
-    "Pessoal/FastAPI/Variáveis de Ambiente (Environment Variables ou \"env vars\").md",
     "Pessoal/FastAPI/Ambientes Virtuais (Virtual Environments).md",
+    "Pessoal/FastAPI/Primeiros Passos.md",
+    "Pessoal/FastAPI/Variáveis de Ambiente (Environment Variables ou \"env vars\").md",
     "Pessoal/FastAPI/Concorrência e Async - Await.md",
     "Pessoal/FastAPI/Type Hints.md",
     "Pessoal/Bancos de Dados/Conceitos Básicos/Conceitos Básicos.md",
@@ -233,7 +233,6 @@
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260113174607.png",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Normalização -  Segunda Forma normal.md",
     "Pessoal/Concurso Analista de Sistema Junior/Plano de Estudos.md",
-    "Pessoal/Concurso Analista de Sistema Junior/Todo Conteudo.md",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Untitled",
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Untitled.canvas",
     "Pessoal/Bancos de Dados/Conceitos Básicos/Modelo de dado.canvas",
