@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pessoal/FastAPI/Primeiros Passos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Primeiros Passos"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pessoal/FastAPI/Primeiros Passos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Primeiros Passos"
             }
           },
           {
@@ -154,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Pessoal/FastAPI/Primeiros Passos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Primeiros Passos"
             }
           },
           {
@@ -192,7 +195,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e376c6030009aa27",
+  "active": "941c975309e51cd6",
   "lastOpenFiles": [
     "Pessoal/FastAPI/Ambientes Virtuais (Virtual Environments).md",
     "Pessoal/FastAPI/Primeiros Passos.md",
