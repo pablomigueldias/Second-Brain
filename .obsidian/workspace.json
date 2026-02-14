@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/Untitled.md",
+                "file": "Pessoal/FastAPI/Corpo da Requisição (Request Body).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Corpo da Requisição (Request Body)"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "d5f67ef97259dd9e",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pessoal/FastAPI/Primeiros Passos.md",
+                "file": "Pessoal/FastAPI/Corpo da Requisição (Request Body).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Primeiros Passos"
+              "title": "Backlinks for Corpo da Requisição (Request Body)"
             }
           },
           {
@@ -176,8 +175,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,12 +197,13 @@
   },
   "active": "e376c6030009aa27",
   "lastOpenFiles": [
-    "Pessoal/FastAPI/Parâmetros de Rota (Path Parameters).md",
+    "Pessoal/FastAPI/Parâmetros de Consulta (Query Parameters).md",
+    "Pessoal/FastAPI/Corpo da Requisição (Request Body).md",
     "blog/Untitled.md",
+    "Pessoal/FastAPI/Parâmetros de Rota (Path Parameters).md",
     "blog",
     "Blog/Untitled.md",
     "Blog",
-    "Pessoal/FastAPI/Parâmetros de Consulta (Query Parameters).md",
     "Pessoal/FastAPI/Primeiros Passos.md",
     "Pessoal/FastAPI/Ambientes Virtuais (Virtual Environments).md",
     "Pessoal/FastAPI/Variáveis de Ambiente (Environment Variables ou \"env vars\").md",
@@ -237,7 +236,6 @@
     "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260113214234.png",
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Advanced HTML.md",
     "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260108180500.png",
-    "Pessoal/Desenvolvedor Full-Stack Python/Front-end/HTML Programing.md",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260113175049.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260113174607.png",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Untitled",
