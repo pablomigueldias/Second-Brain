@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/FastAPI/Parâmetros de Consulta (Query Parameters).md",
+                "file": "Pessoal/FastAPI/Validações Numéricas (Path e Query).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parâmetros de Consulta (Query Parameters)"
+              "title": "Validações Numéricas (Path e Query)"
             }
           }
         ]
@@ -199,8 +199,10 @@
   },
   "active": "e376c6030009aa27",
   "lastOpenFiles": [
-    "Pessoal/FastAPI/Parâmetros de Rota (Path Parameters).md",
+    "Pessoal/FastAPI/Validações de Strings e Parâmetros de Consulta.md",
+    "Pessoal/FastAPI/Validações Numéricas (Path e Query).md",
     "Pessoal/FastAPI/Parâmetros de Consulta (Query Parameters).md",
+    "Pessoal/FastAPI/Parâmetros de Rota (Path Parameters).md",
     "Pessoal/FastAPI/Primeiros Passos.md",
     "Pessoal/FastAPI/Ambientes Virtuais (Virtual Environments).md",
     "Pessoal/FastAPI/Variáveis de Ambiente (Environment Variables ou \"env vars\").md",
@@ -234,8 +236,6 @@
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Advanced HTML.md",
     "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260108180500.png",
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end/HTML Programing.md",
-    "Pessoal/Bancos de Dados/Modelagem de Dados/Normalização - Terceira Forma Normal.md",
-    "Pessoal/Bancos de Dados/Modelagem de Dados/Normalização - Forma Normal de Boyce-Codd.md",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260113175049.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260113174607.png",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Untitled",
