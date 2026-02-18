@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/FastAPI/Validações Numéricas (Path e Query).md",
+                "file": "Pessoal/FastAPI/Modelos para Parâmetros de Consulta (Query Parameter Models).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Validações Numéricas (Path e Query)"
+              "title": "Modelos para Parâmetros de Consulta (Query Parameter Models)"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "d5f67ef97259dd9e",
@@ -180,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,9 +197,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "7a21b412c42980a8",
+  "active": "e376c6030009aa27",
   "lastOpenFiles": [
     "Pessoal/FastAPI/Validações de Strings e Parâmetros de Consulta.md",
+    "Pessoal/FastAPI/Modelos para Parâmetros de Consulta (Query Parameter Models).md",
     "Pessoal/FastAPI/Validações Numéricas (Path e Query).md",
     "Pessoal/FastAPI/Parâmetros de Consulta (Query Parameters).md",
     "Pessoal/FastAPI/Parâmetros de Rota (Path Parameters).md",
@@ -233,7 +236,6 @@
     "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260113214234.png",
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Advanced HTML.md",
     "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260108180500.png",
-    "Pessoal/Desenvolvedor Full-Stack Python/Front-end/HTML Programing.md",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260113175049.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260113174607.png",
     "Pessoal/Bancos de Dados/Modelagem de Dados/Untitled",
