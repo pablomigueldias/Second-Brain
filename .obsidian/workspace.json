@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/FastAPI/Corpo da Requisição (Request Body).md",
+                "file": "Pessoal/FastAPI/Validações de Strings e Parâmetros de Consulta.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Corpo da Requisição (Request Body)"
+              "title": "Validações de Strings e Parâmetros de Consulta"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pessoal/FastAPI/Corpo da Requisição (Request Body).md",
+                "file": "Pessoal/FastAPI/Validações de Strings e Parâmetros de Consulta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Corpo da Requisição (Request Body)"
+              "title": "Backlinks for Validações de Strings e Parâmetros de Consulta"
             }
           },
           {
@@ -175,12 +175,12 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,11 +197,20 @@
   },
   "active": "e376c6030009aa27",
   "lastOpenFiles": [
-    "Pessoal/FastAPI/Parâmetros de Consulta (Query Parameters).md",
+    "conflict-files-obsidian-git.md",
+    "Pessoal/FastAPI/Validações de Strings e Parâmetros de Consulta.md",
     "Pessoal/FastAPI/Corpo da Requisição (Request Body).md",
+    "Pessoal/FastAPI/Validações Numéricas (Path e Query).md",
+    "Pessoal/FastAPI/Múltiplos Parâmetros no Body (E Misturas).md",
+    "Pessoal/FastAPI/Modelos para Parâmetros de Consulta (Query Parameter Models).md",
+    "Pessoal/FastAPI/Modelos Aninhados (Nested Models).md",
+    "Pessoal/FastAPI/Declarando Exemplos de Dados.md",
+    "Pessoal/FastAPI/Corpo - Campos.md",
     "blog/Untitled.md",
-    "Pessoal/FastAPI/Parâmetros de Rota (Path Parameters).md",
     "blog",
+    "Synca_Knowledge",
+    "Pessoal/FastAPI/Parâmetros de Consulta (Query Parameters).md",
+    "Pessoal/FastAPI/Parâmetros de Rota (Path Parameters).md",
     "Blog/Untitled.md",
     "Blog",
     "Pessoal/FastAPI/Primeiros Passos.md",
@@ -220,21 +229,13 @@
     "Pessoal/Bancos de Dados/Conceitos Básicos/Sistemas de Arquivos - Sistema de Banco de Dados.canvas",
     "Pessoal/Bancos de Dados/Conceitos Básicos/Atores em cena - Mapa.canvas",
     "Pessoal/Bancos de Dados/Conceitos Básicos/Atores em Cena.md",
-    "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Gulp I.md",
-    "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Design Concepts.md",
-    "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Gulp.md",
-    "Pessoal/Desenvolvedor Full-Stack Python/Front-end/JavaScript II.md",
-    "Pessoal/Desenvolvedor Full-Stack Python/Front-end/JavaScript I.md",
-    "Pessoal/Desenvolvedor Full-Stack Python/Front-end/CSS Fundations part II.md",
     "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260114173159.png",
-    "Pessoal/Desenvolvedor Full-Stack Python/Front-end/CSS fundations part I.md",
     "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260113223428.png",
     "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260113223018.png",
     "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260113214519.png",
     "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260113214436.png",
     "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260113214334.png",
     "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260113214234.png",
-    "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Advanced HTML.md",
     "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260108180500.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260113175049.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260113174607.png",
@@ -247,7 +248,6 @@
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end",
     "Pessoal/Desenvolvedor Full-Stack Python",
     "Pessoal/Rotina 2026/Untitled.base",
-    "Pessoal/Matemática/Função de 2º Grau",
     "Pessoal/Engenharia de Software/Cascata.canvas"
   ]
 }
