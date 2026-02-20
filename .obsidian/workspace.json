@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Synca_Knowledge/Sobre o Pablo.md",
+                "file": "Pessoal/SQLAlchemy/Conectando ao Banco e Persistindo Dados.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sobre o Pablo"
+              "title": "Conectando ao Banco e Persistindo Dados"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "d5f67ef97259dd9e",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Synca_Knowledge/Sobre o Pablo.md",
+                "file": "Pessoal/SQLAlchemy/Conectando ao Banco e Persistindo Dados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sobre o Pablo"
+              "title": "Backlinks for Conectando ao Banco e Persistindo Dados"
             }
           },
           {
@@ -180,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,13 +199,16 @@
   },
   "active": "e5742932e0ddbd56",
   "lastOpenFiles": [
+    "Pessoal/SQLAlchemy/ORM (Object-Relational Mapping).md",
+    "Pessoal/SQLAlchemy/Conectando ao Banco e Persistindo Dados.md",
+    "Synca_Knowledge/Sobre o Pablo.md",
+    "Pessoal/SQLAlchemy",
     "Synca_Knowledge/Projetos/Documentação do Projeto - WikiFans - The Big Bang Theory Database.md",
     "Synca_Knowledge/Projetos/Documentação do Projeto - Auth System Enterprise.md",
     "Synca_Knowledge/Projetos/Documentação do Projeto - Newsletter Lead Capture.md",
     "Synca_Knowledge/Projetos/Documentação do Projeto - RPS Arena - Jokenpo Pro.md",
     "Synca_Knowledge/Projetos/Documentação do Projeto - Global Seismic Monitor (GSM).md",
     "Synca_Knowledge/Projetos/Documentação do Projeto - Budget Manager.md",
-    "Synca_Knowledge/Sobre o Pablo.md",
     "Synca_Knowledge/Projetos",
     "Synca_Knowledge/FastAPI/Ambiente Virtual Python.md",
     "Synca_Knowledge/FastAPI/Variáveis de Ambiente (Environment Variables) no Python e Sistemas Operacionais.md",
@@ -223,8 +228,6 @@
     "Synca_Knowledge/FastAPI/Validação de Corpo com Pydantic Field no FastAPI.md",
     "Pessoal/FastAPI/Validações de Strings e Parâmetros de Consulta.md",
     "conflict-files-obsidian-git.md",
-    "Pessoal/FastAPI/Corpo da Requisição (Request Body).md",
-    "Pessoal/FastAPI/Validações Numéricas (Path e Query).md",
     "blog",
     "Synca_Knowledge",
     "Blog",
@@ -247,7 +250,6 @@
     "Pessoal/Bancos de Dados/Conceitos Básicos/Modelo Paradigmas.canvas",
     "Pessoal/Bancos de Dados/Conceitos Básicos",
     "Pessoal/Desenvolvedor Full-Stack Python/IMG",
-    "Pessoal/Desenvolvedor Full-Stack Python/Front-end",
     "Pessoal/Engenharia de Software/Cascata.canvas"
   ]
 }
