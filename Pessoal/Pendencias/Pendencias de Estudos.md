@@ -7,7 +7,8 @@ https://www.youtube.com/watch?v=ibwf_X3498c
 
 
 ---
-
+SQLAlchemy
+https://docs.sqlalchemy.org/en/20/orm/declarative_styles.html
 
 Engenharia de Software - Clico de vida(incompleto)
 continuar nesse vídeo
@@ -19,12 +20,6 @@ https://www.youtube.com/watch?v=o-09AFlJZTo
 escrever o conteúdo no arquivo: [[Projeto Unificado]]
 e ver se é necessário ver mais sobre o assunto.
 
-Modelagem de dados 
-https://www.youtube.com/watch?v=-tiOXEUEA14&list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD&index=20
-continuar aqui 
-
-front- end
-`#F115`
 
 ---
 
