@@ -47,5 +47,5 @@ session.commit()
 ---
 ### Dica
 
-Tente pensar na **Session** como um balção
+Tente pensar na **Session** como um **balcão de aeroporto**. Você chega, entrega a mala, mostra o passaporte e confere a passagem. Se você desistir da viagem antes de receber o bilhete final(`commit`), nada acontece e você volta para a casa com tudo. O `commit()` é o momento em que você entra no avião: a partir daí, a viagem é oficial e o banco de dados mudou de estado.
 

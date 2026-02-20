@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/SQLAlchemy/Conectando ao Banco e Persistindo Dados.md",
+                "file": "Pessoal/SQLAlchemy/SQLAlchemy Consultando, Editando e Deletando Dados (CRUD).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conectando ao Banco e Persistindo Dados"
+              "title": "SQLAlchemy Consultando, Editando e Deletando Dados (CRUD)"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "d5f67ef97259dd9e",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pessoal/SQLAlchemy/Conectando ao Banco e Persistindo Dados.md",
+                "file": "Pessoal/SQLAlchemy/SQLAlchemy Consultando, Editando e Deletando Dados (CRUD).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Conectando ao Banco e Persistindo Dados"
+              "title": "Backlinks for SQLAlchemy Consultando, Editando e Deletando Dados (CRUD)"
             }
           },
           {
@@ -181,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,8 +197,9 @@
   },
   "active": "e5742932e0ddbd56",
   "lastOpenFiles": [
-    "Pessoal/SQLAlchemy/ORM (Object-Relational Mapping).md",
     "Pessoal/SQLAlchemy/Conectando ao Banco e Persistindo Dados.md",
+    "Pessoal/SQLAlchemy/SQLAlchemy Consultando, Editando e Deletando Dados (CRUD).md",
+    "Pessoal/SQLAlchemy/ORM (Object-Relational Mapping).md",
     "Synca_Knowledge/Sobre o Pablo.md",
     "Pessoal/SQLAlchemy",
     "Synca_Knowledge/Projetos/Documentação do Projeto - WikiFans - The Big Bang Theory Database.md",
@@ -227,7 +226,6 @@
     "Synca_Knowledge/FastAPI",
     "Synca_Knowledge/FastAPI/Validação de Corpo com Pydantic Field no FastAPI.md",
     "Pessoal/FastAPI/Validações de Strings e Parâmetros de Consulta.md",
-    "conflict-files-obsidian-git.md",
     "blog",
     "Synca_Knowledge",
     "Blog",
