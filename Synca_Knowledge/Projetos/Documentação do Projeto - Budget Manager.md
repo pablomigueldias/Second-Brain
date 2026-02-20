@@ -85,9 +85,7 @@ Para garantir uma excelente experiência de desenvolvimento (DX) sem sacrificar 
 
 ### 1. Configuração e Execução do Backend
 
-Bash
-
-```
+```Bash
 # Clonar o repositório oficial do Budget Manager
 git clone https://github.com/pablomigueldias/BudgetManager
 cd budget-manager/backend
@@ -104,9 +102,8 @@ uvicorn app.main:app --reload
 
 ### 2. Configuração e Execução do Frontend
 
-Bash
 
-```
+```Bash
 # Em um novo terminal, navegar até o diretório do frontend
 cd ../frontend
 
