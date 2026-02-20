@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,7 +195,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e5742932e0ddbd56",
+  "active": "7a21b412c42980a8",
   "lastOpenFiles": [
     "Pessoal/SQLAlchemy/SQLAlchemy - Estilos de Mapeamento e Anatomia das Classes Mapeadas.md",
     "Pessoal/SQLAlchemy/SQLAlchemy Consultando, Editando e Deletando Dados (CRUD).md",
