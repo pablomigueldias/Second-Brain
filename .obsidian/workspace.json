@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Pendencias/Pendencias de Estudos.md",
+                "file": "Pessoal/SQLAlchemy/SQLAlchemy - Estilos de Mapeamento e Anatomia das Classes Mapeadas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pendencias de Estudos"
+              "title": "SQLAlchemy - Estilos de Mapeamento e Anatomia das Classes Mapeadas"
             }
           }
         ]
@@ -195,8 +195,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "7a21b412c42980a8",
+  "active": "e5742932e0ddbd56",
   "lastOpenFiles": [
+    "Pessoal/Pendencias/Pendencias de Estudos.md",
     "Pessoal/SQLAlchemy/SQLAlchemy - Estilos de Mapeamento e Anatomia das Classes Mapeadas.md",
     "Pessoal/SQLAlchemy/SQLAlchemy Consultando, Editando e Deletando Dados (CRUD).md",
     "Pessoal/SQLAlchemy/Conectando ao Banco e Persistindo Dados.md",
@@ -225,7 +226,6 @@
     "Synca_Knowledge/FastAPI/Concorrência e Async-Await no Python e FastAPI.md",
     "Synca_Knowledge/FastAPI/Corpo da Requisição (Request Body) no FastAPI.md",
     "Synca_Knowledge/FastAPI",
-    "Synca_Knowledge/FastAPI/Validação de Corpo com Pydantic Field no FastAPI.md",
     "blog",
     "Synca_Knowledge",
     "Blog",
