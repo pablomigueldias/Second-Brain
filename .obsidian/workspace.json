@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Machine Learning/A Anatomia da Classificação e a Divisão de Dados.md",
+                "file": "Pessoal/Inglês/Percepção e Sensação (Hear vs. Listen & Chills).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Anatomia da Classificação e a Divisão de Dados"
+              "title": "Percepção e Sensação (Hear vs. Listen & Chills)"
             }
           }
         ]
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,6 +198,9 @@
   },
   "active": "e5742932e0ddbd56",
   "lastOpenFiles": [
+    "Pessoal/Inglês/Apostila/Gramática I.md",
+    "Pessoal/Inglês/Percepção e Sensação (Hear vs. Listen & Chills).md",
+    "Pessoal/Inglês/Apostila/Verbo To Be.md",
     "Pessoal/Machine Learning/O Quadrado Mágico (A Matriz de Confusão).md",
     "Pessoal/Machine Learning/A Anatomia da Classificação e a Divisão de Dados.md",
     "Pessoal/Machine Learning/A Regra de Ouro (Supervisionado vs. Não Supervisionado).md",
@@ -223,9 +227,6 @@
     "Synca_Knowledge/Projetos",
     "Synca_Knowledge/FastAPI/Ambiente Virtual Python.md",
     "Synca_Knowledge/FastAPI/Variáveis de Ambiente (Environment Variables) no Python e Sistemas Operacionais.md",
-    "Synca_Knowledge/FastAPI/Validações Numéricas de Rota e Consulta (Path e Query) no FastAPI.md",
-    "Synca_Knowledge/FastAPI/Validação de Strings e Parâmetros de Consulta no FastAPI.md",
-    "Synca_Knowledge/FastAPI/Type Hints (Dicas de Tipagem) no Python.md",
     "Synca_Knowledge/FastAPI",
     "blog",
     "Synca_Knowledge",
