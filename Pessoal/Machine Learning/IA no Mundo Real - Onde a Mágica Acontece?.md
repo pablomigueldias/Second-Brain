@@ -38,4 +38,7 @@ graph TD
 
 -  **Análise de Chrun**: Temo usado para identificar quando um cliente ou aluno pretende abandonar um serviço.  A IA avisa  a empresa antes disso acontecer para que ela possa agir.
 - **Medicina de Precisão**: A Ia consegue analisar exames de imagem(como tomografias) e identificar anomalias minúsculas que o olho humano poderia deixar passar.
-- **Personalização Financeira**: Bancos usam IA para analisar risco de cŕ
+- **Personalização Financeira**: Bancos usam IA para analisar risco de crédito e oferecer servições que combinam com seu perfil.
+
+Pense na IA nessas áreas como um  **assistente superinteligente.**
+No **RH**, ele não escolhe a pessoa sozinha, mas lê 10.000 currículos em segundos e os 5 melhores. Na **Medicina**,ela não substitui o médico, mas funciona como uma "lende de aumento" que avisa: "Ei, olhe com atenção para esta parte do exame!"
