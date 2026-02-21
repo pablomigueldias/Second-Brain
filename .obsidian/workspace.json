@@ -197,8 +197,9 @@
   },
   "active": "e5742932e0ddbd56",
   "lastOpenFiles": [
-    "Pessoal/Machine Learning/A Regra de Ouro (Supervisionado vs. Não Supervisionado).md",
+    "Pessoal/Machine Learning/O Quadrado Mágico (A Matriz de Confusão).md",
     "Pessoal/Machine Learning/A Anatomia da Classificação e a Divisão de Dados.md",
+    "Pessoal/Machine Learning/A Regra de Ouro (Supervisionado vs. Não Supervisionado).md",
     "Pessoal/Machine Learning/A IA \"Vidente\" (Classificação e Regressão).md",
     "Pessoal/Machine Learning/A IA \"Detetive\" (Agrupamentos e Regras de Associação).md",
     "Pessoal/Machine Learning/A Anatomia dos Dados - O Dicionário da IA.md",
@@ -225,7 +226,6 @@
     "Synca_Knowledge/FastAPI/Validações Numéricas de Rota e Consulta (Path e Query) no FastAPI.md",
     "Synca_Knowledge/FastAPI/Validação de Strings e Parâmetros de Consulta no FastAPI.md",
     "Synca_Knowledge/FastAPI/Type Hints (Dicas de Tipagem) no Python.md",
-    "Synca_Knowledge/FastAPI/Primeiros Passos com FastAPI (Estrutura Básica).md",
     "Synca_Knowledge/FastAPI",
     "blog",
     "Synca_Knowledge",
