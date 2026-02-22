@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "d5f67ef97259dd9e",
@@ -198,6 +199,16 @@
   },
   "active": "e5742932e0ddbd56",
   "lastOpenFiles": [
+    "03 - Comprehension Practice - 2-Questoes.html",
+    "Pessoal/03 - Comprehension Practice - 2-Questoes.html",
+    "Pessoal/Inglês/Questoes 1/03 - Comprehension Practice - 2-Questoes.html",
+    "Pessoal/Inglês/Questoes 1/03 - Comprehension Practice - 2-Questoes 2.html",
+    "Pessoal/Inglês/Questoes 1/03 - Comprehension Practice - 2-Questoes 1.html",
+    "Pessoal/Inglês/Questoes 1",
+    "Pessoal/Inglês/Questoes/03 - Comprehension Practice - 2-Questoes 2.html",
+    "Pessoal/Inglês/Questoes/03 - Comprehension Practice - 2-Questoes 1.html",
+    "Pessoal/Inglês/Questoes/03 - Comprehension Practice - 2-Questoes.html",
+    "Pessoal/Inglês/Questoes",
     "Pessoal/Inglês/Apostila/Gramática I.md",
     "Pessoal/Inglês/Percepção e Sensação (Hear vs. Listen & Chills).md",
     "Pessoal/Inglês/Apostila/Verbo To Be.md",
@@ -217,21 +228,13 @@
     "Pessoal/SQLAlchemy/Conectando ao Banco e Persistindo Dados.md",
     "Pessoal/SQLAlchemy/ORM (Object-Relational Mapping).md",
     "Synca_Knowledge/Sobre o Pablo.md",
-    "Pessoal/SQLAlchemy",
     "Synca_Knowledge/Projetos/Documentação do Projeto - WikiFans - The Big Bang Theory Database.md",
     "Synca_Knowledge/Projetos/Documentação do Projeto - Auth System Enterprise.md",
     "Synca_Knowledge/Projetos/Documentação do Projeto - Newsletter Lead Capture.md",
     "Synca_Knowledge/Projetos/Documentação do Projeto - RPS Arena - Jokenpo Pro.md",
     "Synca_Knowledge/Projetos/Documentação do Projeto - Global Seismic Monitor (GSM).md",
     "Synca_Knowledge/Projetos/Documentação do Projeto - Budget Manager.md",
-    "Synca_Knowledge/Projetos",
     "Synca_Knowledge/FastAPI/Ambiente Virtual Python.md",
-    "Synca_Knowledge/FastAPI/Variáveis de Ambiente (Environment Variables) no Python e Sistemas Operacionais.md",
-    "Synca_Knowledge/FastAPI",
-    "blog",
-    "Synca_Knowledge",
-    "Blog",
-    "Pessoal/FastAPI",
     "Pessoal/Bancos de Dados/Conceitos Básicos/Sistemas de Arquivos - Sistema de Banco de Dados.canvas",
     "Pessoal/Bancos de Dados/Conceitos Básicos/Atores em cena - Mapa.canvas",
     "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260114173159.png",
@@ -244,11 +247,9 @@
     "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260108180500.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260113175049.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260113174607.png",
-    "Pessoal/Bancos de Dados/Modelagem de Dados/Untitled",
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Untitled.canvas",
     "Pessoal/Bancos de Dados/Conceitos Básicos/Modelo de dado.canvas",
     "Pessoal/Bancos de Dados/Conceitos Básicos/Modelo Paradigmas.canvas",
-    "Pessoal/Bancos de Dados/Conceitos Básicos",
     "Pessoal/Engenharia de Software/Cascata.canvas"
   ]
 }
