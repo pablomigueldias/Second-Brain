@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Inglês/Pronunciation Hacks - Contrações no Inglês.md",
+                "file": "Pessoal/Questões/HTML E CSS/Q3777164 - FGV - 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pronunciation Hacks - Contrações no Inglês"
+              "title": "Q3777164 - FGV - 2025"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "d5f67ef97259dd9e",
@@ -198,8 +199,14 @@
   },
   "active": "e5742932e0ddbd56",
   "lastOpenFiles": [
-    "Pessoal/Inglês/Percepção e Sensação (Hear vs. Listen & Chills).md",
+    "Pessoal/Questões/HTML E CSS/Q3777166 - FGV - 2025.md",
+    "Pessoal/Questões/HTML E CSS/Q3777164 - FGV - 2025.md",
+    "Pessoal/Concurso Analista de Sistema Junior/Plano de Estudos.md",
+    "Pessoal/Questões/HTML E CSS",
+    "Pessoal/Questões",
+    "Pessoal/Concurso Analista de Sistema Junior/Todo Conteudo.md",
     "Pessoal/Inglês/Pronunciation Hacks - Contrações no Inglês.md",
+    "Pessoal/Inglês/Percepção e Sensação (Hear vs. Listen & Chills).md",
     "Pessoal/Inglês/Questoes/04 - Pronunciation Hacks - 2-Questoes.html",
     "03 - Comprehension Practice - 2-Questoes.html",
     "Pessoal/03 - Comprehension Practice - 2-Questoes.html",
@@ -208,8 +215,6 @@
     "Pessoal/Inglês/Questoes 1/03 - Comprehension Practice - 2-Questoes 1.html",
     "Pessoal/Inglês/Questoes 1",
     "Pessoal/Inglês/Questoes/03 - Comprehension Practice - 2-Questoes 2.html",
-    "Pessoal/Inglês/Questoes/03 - Comprehension Practice - 2-Questoes 1.html",
-    "Pessoal/Inglês/Questoes/03 - Comprehension Practice - 2-Questoes.html",
     "Pessoal/Inglês/Apostila/Gramática I.md",
     "Pessoal/Inglês/Apostila/Verbo To Be.md",
     "Pessoal/Machine Learning/O Quadrado Mágico (A Matriz de Confusão).md",
@@ -230,10 +235,6 @@
     "Synca_Knowledge/Projetos/Documentação do Projeto - WikiFans - The Big Bang Theory Database.md",
     "Synca_Knowledge/Projetos/Documentação do Projeto - Auth System Enterprise.md",
     "Synca_Knowledge/Projetos/Documentação do Projeto - Newsletter Lead Capture.md",
-    "Synca_Knowledge/Projetos/Documentação do Projeto - RPS Arena - Jokenpo Pro.md",
-    "Synca_Knowledge/Projetos/Documentação do Projeto - Global Seismic Monitor (GSM).md",
-    "Synca_Knowledge/Projetos/Documentação do Projeto - Budget Manager.md",
-    "Synca_Knowledge/FastAPI/Ambiente Virtual Python.md",
     "Pessoal/Bancos de Dados/Conceitos Básicos/Sistemas de Arquivos - Sistema de Banco de Dados.canvas",
     "Pessoal/Bancos de Dados/Conceitos Básicos/Atores em cena - Mapa.canvas",
     "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260114173159.png",
