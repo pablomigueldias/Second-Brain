@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,8 +197,9 @@
   },
   "active": "e5742932e0ddbd56",
   "lastOpenFiles": [
-    "Pessoal/Questões/Portugues/Q2828036 - IBAM - 2016.md",
+    "Pessoal/Questões/Portugues/Q3776638 - IBAM - 2025.md",
     "Pessoal/Questões/Portugues/Q3776642 -  IBAM - 2025.md",
+    "Pessoal/Questões/Portugues/Q2828036 - IBAM - 2016.md",
     "Pessoal/Questões/Portugues/Q1087281 - IBAM - 2017.md",
     "Pessoal/Questões/1Img/Pasted image 20260303183158.png",
     "Pessoal/Questões/Portugues/Q2254803 - IBAM - 2023.md",
@@ -234,7 +234,6 @@
     "Pessoal/Machine Learning/A Anatomia da Classificação e a Divisão de Dados.md",
     "Pessoal/Machine Learning/A Regra de Ouro (Supervisionado vs. Não Supervisionado).md",
     "Pessoal/Machine Learning/A IA \"Vidente\" (Classificação e Regressão).md",
-    "Pessoal/Machine Learning/A IA \"Detetive\" (Agrupamentos e Regras de Associação).md",
     "Pessoal/Bancos de Dados/Conceitos Básicos/Sistemas de Arquivos - Sistema de Banco de Dados.canvas",
     "Pessoal/Bancos de Dados/Conceitos Básicos/Atores em cena - Mapa.canvas",
     "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260114173159.png",
