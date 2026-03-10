@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Engenharia de Software/UML/IMG/Diagrama de Implantação (UML).md",
+                "file": "Pessoal/Engenharia de Software/UML/Diagrama de Componentes vs. Modelagem de Dados.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diagrama de Implantação (UML)"
+              "title": "Diagrama de Componentes vs. Modelagem de Dados"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "d5f67ef97259dd9e",
@@ -199,8 +198,9 @@
   },
   "active": "f30d98bdf5bab33b",
   "lastOpenFiles": [
-    "Pessoal/Questões/UML/Q3729819 - UFSM - 2025.md",
     "Pessoal/Engenharia de Software/UML/IMG/Diagrama de Implantação (UML).md",
+    "Pessoal/Engenharia de Software/UML/Diagrama de Componentes vs. Modelagem de Dados.md",
+    "Pessoal/Questões/UML/Q3729819 - UFSM - 2025.md",
     "Pessoal/Questões/1Img/Pasted image 20260309233046.png",
     "Pessoal/Questões/UML/Q3729828 - UFSM - 2025.md",
     "Pessoal/Questões/1Img/Pasted image 20260309231008.png",
@@ -226,7 +226,6 @@
     "Pessoal/Questões/Portugues/Q2828036 - IBAM - 2016.md",
     "Pessoal/Questões/Portugues/Q1087281 - IBAM - 2017.md",
     "Pessoal/Questões/Portugues/Q2254803 - IBAM - 2023.md",
-    "Pessoal/Questões/Portugues/Q3252978 - IBAM - 2024.md",
     "Pessoal/Questões/1Img/Pasted image 20260303183158.png",
     "Pessoal/Questões/1Img",
     "Pessoal/Questões/Portugues",
