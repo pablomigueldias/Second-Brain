@@ -21,4 +21,5 @@ D) II e IV, apenas
 ### Análise Detalhada das Afirmações
 
 - **I. Correta:** A regra fundamental da **Colocação Prenominal** dias que palavras com sentido negativo (não,nunca,jamais,ninguém) são "palavras atrativas". Elas puxam o pronome oblíquo para antes do verbo, o que chamamos de **próclise**. Portando, "Não me incomodaram" está perfeitamente correto.
-- 
+- **II. Incorreta:** O pronome "me" é um pronome oblíquo átono da **primeira pessoa do singular** (eu), refere-se a quem fala, e não a terceira pessoa(ele/ela) ou a com quem se fala (tu/você).
+- **III. Incorreta** 
