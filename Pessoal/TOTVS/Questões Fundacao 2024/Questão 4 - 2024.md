@@ -22,4 +22,5 @@ D) II e IV, apenas
 
 - **I. Correta:** A regra fundamental da **Colocação Prenominal** dias que palavras com sentido negativo (não,nunca,jamais,ninguém) são "palavras atrativas". Elas puxam o pronome oblíquo para antes do verbo, o que chamamos de **próclise**. Portando, "Não me incomodaram" está perfeitamente correto.
 - **II. Incorreta:** O pronome "me" é um pronome oblíquo átono da **primeira pessoa do singular** (eu), refere-se a quem fala, e não a terceira pessoa(ele/ela) ou a com quem se fala (tu/você).
-- **III. Incorreta** 
+- **III. Incorreta**: O sujeito desta frase está plenamente expresso, apenas está na **ordem inversa**(após o verbo).O que não incomodou? "As críticas que recebi". esse é o sujeito (sujeito simples).
+- **IV. Correta:** Exatamente pela razão explicada acima. O núcleo do sujeito é "críticas"(plural). Portando, o verbo "incomodar" deve obrigatoriamente flexionar para o plural ("incomodaram") para respeitar a regra de concordância verbal.
