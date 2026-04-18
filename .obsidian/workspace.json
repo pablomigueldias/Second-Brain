@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/TOTVS/Aulas/Aula 1.md",
+                "file": "Pessoal/TOTVS/Aulas/Aula 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aula 1"
+              "title": "Aula 3"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "d5f67ef97259dd9e",
@@ -199,8 +198,10 @@
   },
   "active": "1394f0333ebdbcbc",
   "lastOpenFiles": [
-    "Pessoal/TOTVS/Dicionario de Dados do RM.md",
+    "Pessoal/TOTVS/Aulas/Aula 2.md",
+    "Pessoal/TOTVS/Aulas/Aula 3.md",
     "Pessoal/TOTVS/Aulas/Aula 1.md",
+    "Pessoal/TOTVS/Dicionario de Dados do RM.md",
     "Pessoal/TOTVS/Questões Fundacao 2024/Questão 3 - 2024.md",
     "Pessoal/TOTVS/Aulas",
     "Pessoal/TOTVS/Questões Fundacao 2024/Questão 4 - 2024.md",
@@ -228,8 +229,6 @@
     "Pessoal/Questões/Portugues/Q3721251 - IBAM - 2025.md",
     "Pessoal/Questões/Portugues/Q3721732 - IBAM - 2025.md",
     "Pessoal/Questões/Portugues/Q3721930 - IBAM - 2025.md",
-    "Pessoal/Questões/Portugues/Q3723809 - IBAM - 2025.md",
-    "Pessoal/Questões/Portugues/Q3745518 - IBAM - 2025.md",
     "Pessoal/Questões/1Img/Pasted image 20260303183158.png",
     "Pessoal/Questões/1Img",
     "Pessoal/Questões/Portugues",
