@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Módulo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
@@ -198,9 +198,8 @@
   },
   "active": "1394f0333ebdbcbc",
   "lastOpenFiles": [
+    "Pessoal/Comunicação estratégica e trabalho em equipe/Módulo 1 - O Poder das Habilidades Interpessoais.md",
     "Pessoal/Comunicação estratégica e trabalho em equipe/Soft Skills - Comunicação Estratégica e Trabalho em Equipe (Santander).md",
-    "Pessoal/Comunicação estratégica e trabalho em equipe/Módulo 1 - O Poder das Habilidades Interpessoais.md",
-    "Pessoal/Comunicação estratégica e trabalho em equipe/Módulo 1 - O Poder das Habilidades Interpessoais.md",
     "Pessoal/TOTVS/RM REPORTS/Aula 11.md",
     "Pessoal/Comunicação estratégica e trabalho em equipe",
     "Pessoal/TOTVS/RM REPORTS/Aula 10.md",
