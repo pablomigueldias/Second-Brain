@@ -48,29 +48,10 @@ Escreva AGORA (sem pesquisar):
 
 ```
 PERGUNTA 1: Context vs Zustand - qual usar em cada caso?
-
-Minha resposta honesta (pode estar errada):
-[escreva aqui o que você REALMENTE acha]
-
 PERGUNTA 2: Se você fosse estruturar um projeto React GRANDE (tipo Trello), como faria?
-
-Minha resposta honesta:
-[escreva]
-
 PERGUNTA 3: O que é "prop drilling"? Por que é problema?
-
-Minha resposta honesta:
-[escreva]
-
 PERGUNTA 4: Como você otimizaria uma lista com 10k items em React?
-
-Minha resposta honesta:
-[escreva]
-
 PERGUNTA 5: SSR vs SSG - qual diferença?
-
-Minha resposta honesta:
-[escreva]
 ```
 
 **DEPOIS** que você escreveu, use IA:
