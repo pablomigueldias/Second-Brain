@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Machine Learning/Fundamentos/06 - Avaliação de Performance para Regressão.md",
+                "file": "Pessoal/Machine Learning/Fundamentos/10 - Regras de Associação.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06 - Avaliação de Performance para Regressão"
+              "title": "10 - Regras de Associação"
             }
           }
         ]
@@ -199,8 +199,11 @@
   },
   "active": "16b821a76ecf04ec",
   "lastOpenFiles": [
-    "Pessoal/Machine Learning/Fundamentos/05 - Avaliação de Performance e Matriz de Confusão.md",
+    "Pessoal/Machine Learning/Fundamentos/09 - Agrupamentos (Clustering).md",
+    "Pessoal/Machine Learning/Fundamentos/08 - Dimensionamento de Características.md",
+    "Pessoal/Machine Learning/Fundamentos/07 - Codificação de Categorias.md",
     "Pessoal/Machine Learning/Fundamentos/06 - Avaliação de Performance para Regressão.md",
+    "Pessoal/Machine Learning/Fundamentos/05 - Avaliação de Performance e Matriz de Confusão.md",
     "Pessoal/Machine Learning/Fundamentos/04 - Classificação.md",
     "Pessoal/Machine Learning/Fundamentos/03 - Definições e Conceitos Básicos.md",
     "Pessoal/Machine Learning/Fundamentos/02 - Aplicações do Machine Learning.md",
@@ -209,9 +212,6 @@
     "Pessoal/Machine Learning/Fundamentos/10 - Regras de Associação.md",
     "Pessoal/Machine Learning/Fundamentos",
     "Pessoal/Reative Systems/Reuniões/Reunião Maio.md",
-    "Pessoal/Machine Learning/Fundamentos/09 - Agrupamentos (Clustering).md",
-    "Pessoal/Machine Learning/Fundamentos/08 - Dimensionamento de Características.md",
-    "Pessoal/Machine Learning/Fundamentos/07 - Codificação de Categorias.md",
     "Pessoal/Machine Learning/Fundamentos da Inteligência Artificial - O Caminho do Aprendizado.md",
     "Pessoal/Reuniões.md",
     "Pessoal/Reative Systems/Reuniões",
