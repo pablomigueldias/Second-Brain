@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Reative Systems/Reuniões/Reunião Maio.md",
+                "file": "Pessoal/Machine Learning/Fundamentos/00 - Índice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reunião Maio"
+              "title": "00 - Índice"
             }
           }
         ]
@@ -197,10 +197,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "16b821a76ecf04ec",
+  "active": "26758f3261ee0499",
   "lastOpenFiles": [
-    "Pessoal/Machine Learning/Fundamentos da Inteligência Artificial - O Caminho do Aprendizado.md",
+    "Pessoal/Machine Learning/Fundamentos/10 - Regras de Associação.md",
+    "Pessoal/Machine Learning/Fundamentos/00 - Índice.md",
+    "Pessoal/Machine Learning/Fundamentos/01 - Introdução ao Machine Learning.md",
+    "Pessoal/Machine Learning/Fundamentos",
     "Pessoal/Reative Systems/Reuniões/Reunião Maio.md",
+    "Pessoal/Machine Learning/Fundamentos/09 - Agrupamentos (Clustering).md",
+    "Pessoal/Machine Learning/Fundamentos/08 - Dimensionamento de Características.md",
+    "Pessoal/Machine Learning/Fundamentos/07 - Codificação de Categorias.md",
+    "Pessoal/Machine Learning/Fundamentos/06 - Avaliação de Performance para Regressão.md",
+    "Pessoal/Machine Learning/Fundamentos/05 - Avaliação de Performance e Matriz de Confusão.md",
+    "Pessoal/Machine Learning/Fundamentos/03 - Definições e Conceitos Básicos.md",
+    "Pessoal/Machine Learning/Fundamentos/02 - Aplicações do Machine Learning.md",
+    "Pessoal/Machine Learning/Fundamentos da Inteligência Artificial - O Caminho do Aprendizado.md",
     "Pessoal/Reuniões.md",
     "Pessoal/Reative Systems/Reuniões",
     "Pessoal/Reative Systems",
@@ -219,22 +230,10 @@
     "Pessoal/Curso Santander - Python & Cursor AI/Feature Detalhadas",
     "Pessoal/Curso Santander - Python & Cursor AI/Conceitos Principais",
     "Pessoal/Curso Santander - Python & Cursor AI/Modulos",
-    "Pessoal/Curso Santander - Python & Cursor AI/Vocabulário",
     "Pessoal/Comunicação estratégica e trabalho em equipe/Módulo 1 - O Poder das Habilidades Interpessoais.md",
     "Pessoal/Comunicação estratégica e trabalho em equipe/Soft Skills - Comunicação Estratégica e Trabalho em Equipe (Santander).md",
     "Pessoal/TOTVS/RM REPORTS/Aula 11.md",
     "Pessoal/TOTVS/RM REPORTS/Aula 10.md",
-    "Pessoal/TOTVS/RM REPORTS/Aula 9.md",
-    "Pessoal/TOTVS/RM REPORTS/Aula 6.md",
-    "Pessoal/TOTVS/RM REPORTS/Aula 7.md",
-    "Pessoal/TOTVS/RM REPORTS/Aula 8.md",
-    "Pessoal/TOTVS/RM REPORTS/Aula 5.md",
-    "Pessoal/TOTVS/RM REPORTS/Aula 4.md",
-    "Pessoal/TOTVS/RM REPORTS/Aula 2.md",
-    "Pessoal/TOTVS/RM REPORTS/Aula 1.md",
-    "Pessoal/TOTVS/RM REPORTS/Aula 3.md",
-    "Pessoal/TOTVS/Dicionario de Dados do RM.md",
-    "Pessoal/TOTVS/Questões Fundacao 2024/Questão 3 - 2024.md",
     "Pessoal/Questões/1Img/Pasted image 20260309233046.png",
     "Pessoal/Questões/1Img/Pasted image 20260309231008.png",
     "Pessoal/Questões/1Img/Pasted image 20260303183158.png",
