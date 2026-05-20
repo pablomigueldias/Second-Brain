@@ -6,7 +6,6 @@ tags:
   - matriz-de-confusão
   - avaliação
 ---
-
 # 5. Avaliação de Performance e Matriz de Confusão
 
 > [!info] O que esta nota cobre
