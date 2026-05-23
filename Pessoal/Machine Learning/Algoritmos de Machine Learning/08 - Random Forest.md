@@ -7,7 +7,7 @@ tags:
   - classificação
   - supervisionado
 ---
-
+ 
 # 8. Random Forest
 
 > [!info] O que esta nota cobre
