@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Reative Systems/Reuniões/Reunião Maio.md",
+                "file": "Pessoal/churn/guia projeto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reunião Maio"
+              "title": "guia projeto"
             }
           }
         ]
@@ -199,6 +199,9 @@
   },
   "active": "16b821a76ecf04ec",
   "lastOpenFiles": [
+    "Pessoal/Reative Systems/Reuniões/Reunião Maio.md",
+    "Pessoal/churn/guia projeto.md",
+    "Pessoal/churn",
     "Pessoal/Machine Learning/Tópicos Avançados de Machine Learning/10 - AutoML e Tuning de Modelos.md",
     "Repository.md",
     "Pessoal/Machine Learning/Tópicos Avançados de Machine Learning/09 - Datasets Desbalanceados.md",
@@ -224,9 +227,7 @@
     "Pessoal/Machine Learning/Algoritmos de Machine Learning/02 - Regressão Linear - Condições e Regressão Múltipla.md",
     "Pessoal/Machine Learning/Algoritmos de Machine Learning/01 - Correlação e Regressão Linear.md",
     "Pessoal/Machine Learning/Algoritmos de Machine Learning/00 - Índice.md",
-    "Pessoal/Machine Learning/Fundamentos/01 - Introdução ao Machine Learning.md",
     "Pessoal/Machine Learning/Algoritmos de Machine Learning",
-    "Pessoal/Machine Learning/Fundamentos/00 - Índice.md",
     "Pessoal/Machine Learning/Fundamentos",
     "Pessoal/Reative Systems/Reuniões",
     "Pessoal/Reative Systems",
@@ -234,7 +235,6 @@
     "Pessoal/Curso Santander - Python & Cursor AI/Progresso",
     "Pessoal/Curso Santander - Python & Cursor AI/Exercicios",
     "Pessoal/Curso Santander - Python & Cursor AI/Guias Praticos",
-    "Pessoal/Curso Santander - Python & Cursor AI/Feature Detalhadas",
     "Pessoal/Questões/1Img/Pasted image 20260309233046.png",
     "Pessoal/Questões/1Img/Pasted image 20260309231008.png",
     "Pessoal/Questões/1Img/Pasted image 20260303183158.png",
