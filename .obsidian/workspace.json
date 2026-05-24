@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Machine Learning/Algoritmos de Machine Learning/11 - Apriori.md",
+                "file": "Pessoal/Machine Learning/Tópicos Avançados de Machine Learning/02 - PCA - Redução de Dimensionalidade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11 - Apriori"
+              "title": "02 - PCA - Redução de Dimensionalidade"
             }
           }
         ]
@@ -197,8 +197,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "26758f3261ee0499",
+  "active": "16b821a76ecf04ec",
   "lastOpenFiles": [
+    "Pessoal/Machine Learning/Tópicos Avançados de Machine Learning/01 - Engenharia de Atributos.md",
+    "Pessoal/Machine Learning/Tópicos Avançados de Machine Learning/00 - Índice.md",
+    "Pessoal/Machine Learning/Algoritmos de Machine Learning/11 - Apriori.md",
     "Pessoal/Machine Learning/Tópicos Avançados de Machine Learning/10 - AutoML e Tuning de Modelos.md",
     "Pessoal/Machine Learning/Tópicos Avançados de Machine Learning/09 - Datasets Desbalanceados.md",
     "Pessoal/Machine Learning/Tópicos Avançados de Machine Learning/08 - Classificação Multilabel.md",
@@ -208,8 +211,6 @@
     "Pessoal/Machine Learning/Tópicos Avançados de Machine Learning/04 - Avaliando a Variabilidade de um Modelo.md",
     "Pessoal/Machine Learning/Tópicos Avançados de Machine Learning/03 - Seleção de Atributos.md",
     "Pessoal/Machine Learning/Tópicos Avançados de Machine Learning/02 - PCA - Redução de Dimensionalidade.md",
-    "Pessoal/Machine Learning/Tópicos Avançados de Machine Learning/01 - Engenharia de Atributos.md",
-    "Pessoal/Machine Learning/Tópicos Avançados de Machine Learning/00 - Índice.md",
     "Pessoal/Machine Learning/Tópicos Avançados de Machine Learning",
     "Pessoal/Machine Learning/Algoritmos de Machine Learning/10 - K-means.md",
     "Pessoal/Machine Learning/Algoritmos de Machine Learning/09 - Aprendizado Baseado em Instância e KNN.md",
@@ -222,7 +223,6 @@
     "Pessoal/Machine Learning/Algoritmos de Machine Learning/02 - Regressão Linear - Condições e Regressão Múltipla.md",
     "Pessoal/Machine Learning/Algoritmos de Machine Learning/01 - Correlação e Regressão Linear.md",
     "Pessoal/Machine Learning/Algoritmos de Machine Learning/00 - Índice.md",
-    "Pessoal/Machine Learning/Algoritmos de Machine Learning/11 - Apriori.md",
     "Pessoal/Machine Learning/Fundamentos/01 - Introdução ao Machine Learning.md",
     "Pessoal/Machine Learning/Algoritmos de Machine Learning",
     "Pessoal/Machine Learning/Fundamentos/00 - Índice.md",

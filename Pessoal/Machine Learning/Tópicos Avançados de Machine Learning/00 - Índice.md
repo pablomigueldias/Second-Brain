@@ -8,14 +8,14 @@ aliases:
   - Tópicos Avançados de ML
 ---
 
-# 🚀 Tópicos Avançados de Machine Learning
+# Tópicos Avançados de Machine Learning
 
 > [!info] Sobre este módulo
 > Este é o **mapa de conteúdo (MOC)** do tópico **Tópicos Avançados de Machine Learning**. Depois de ver os [[00 - Índice|Fundamentos]] e os [[00 - Índice|Algoritmos]], aqui aprendemos a **refinar, avaliar com rigor e automatizar** modelos de ML — o que separa um projeto amador de um projeto profissional.
 
 ---
 
-## 🗺️ Roteiro de Estudo
+## Roteiro de Estudo
 
 ### 1. Preparação Avançada de Dados
 - [[01 - Engenharia de Atributos]] — Tratar dados faltantes, outliers, binning, gerar características.
@@ -37,7 +37,7 @@ aliases:
 
 ---
 
-## 🧭 Mapa Mental do Módulo
+## Mapa Mental do Módulo
 
 ```
             TÓPICOS AVANÇADOS DE ML
@@ -58,7 +58,7 @@ OS DADOS          RIGOR                  ESPECIAIS
 
 ---
 
-## 🔑 Resumo Ultra-Rápido (cola)
+## Resumo Ultra-Rápido (cola)
 
 > [!summary] A ideia de cada tópico
 > - **Engenharia de Atributos** → "lapidar" os dados antes de treinar.
@@ -74,7 +74,7 @@ OS DADOS          RIGOR                  ESPECIAIS
 
 ---
 
-## 🏷️ Tags Relacionadas
+## Tags Relacionadas
 #machine-learning #tópicos-avançados #ia #estudos
 
 > [!tip] Conexão com os outros módulos
