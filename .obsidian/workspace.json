@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Machine Learning/Algoritmos de Machine Learning/10 - K-means.md",
+                "file": "Pessoal/Machine Learning/Algoritmos de Machine Learning/11 - Apriori.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - K-means"
+              "title": "11 - Apriori"
             }
           }
         ]
@@ -197,8 +197,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "16b821a76ecf04ec",
+  "active": "26758f3261ee0499",
   "lastOpenFiles": [
+    "Pessoal/Machine Learning/Tópicos Avançados de Machine Learning/10 - AutoML e Tuning de Modelos.md",
+    "Pessoal/Machine Learning/Tópicos Avançados de Machine Learning/09 - Datasets Desbalanceados.md",
+    "Pessoal/Machine Learning/Tópicos Avançados de Machine Learning/08 - Classificação Multilabel.md",
+    "Pessoal/Machine Learning/Tópicos Avançados de Machine Learning/07 - Técnicas Avançadas de Clusters.md",
+    "Pessoal/Machine Learning/Tópicos Avançados de Machine Learning/06 - Custo de um Modelo.md",
+    "Pessoal/Machine Learning/Tópicos Avançados de Machine Learning/05 - Avaliando o Desempenho de Modelos.md",
+    "Pessoal/Machine Learning/Tópicos Avançados de Machine Learning/04 - Avaliando a Variabilidade de um Modelo.md",
+    "Pessoal/Machine Learning/Tópicos Avançados de Machine Learning/03 - Seleção de Atributos.md",
+    "Pessoal/Machine Learning/Tópicos Avançados de Machine Learning/02 - PCA - Redução de Dimensionalidade.md",
+    "Pessoal/Machine Learning/Tópicos Avançados de Machine Learning/01 - Engenharia de Atributos.md",
+    "Pessoal/Machine Learning/Tópicos Avançados de Machine Learning/00 - Índice.md",
+    "Pessoal/Machine Learning/Tópicos Avançados de Machine Learning",
+    "Pessoal/Machine Learning/Algoritmos de Machine Learning/10 - K-means.md",
     "Pessoal/Machine Learning/Algoritmos de Machine Learning/09 - Aprendizado Baseado em Instância e KNN.md",
     "Pessoal/Machine Learning/Algoritmos de Machine Learning/08 - Random Forest.md",
     "Pessoal/Machine Learning/Algoritmos de Machine Learning/07 - Cálculos das Árvores de Decisão.md",
@@ -211,22 +224,10 @@
     "Pessoal/Machine Learning/Algoritmos de Machine Learning/00 - Índice.md",
     "Pessoal/Machine Learning/Algoritmos de Machine Learning/11 - Apriori.md",
     "Pessoal/Machine Learning/Fundamentos/01 - Introdução ao Machine Learning.md",
-    "Pessoal/Machine Learning/Algoritmos de Machine Learning/10 - K-means.md",
     "Pessoal/Machine Learning/Algoritmos de Machine Learning",
     "Pessoal/Machine Learning/Fundamentos/00 - Índice.md",
     "Pessoal/Reative Systems/Reuniões/Reunião Maio.md",
-    "Pessoal/Machine Learning/Fundamentos/10 - Regras de Associação.md",
-    "Pessoal/Machine Learning/Fundamentos/09 - Agrupamentos (Clustering).md",
-    "Pessoal/Machine Learning/Fundamentos/08 - Dimensionamento de Características.md",
-    "Pessoal/Machine Learning/Fundamentos/07 - Codificação de Categorias.md",
-    "Pessoal/Machine Learning/Fundamentos/06 - Avaliação de Performance para Regressão.md",
-    "Pessoal/Machine Learning/Fundamentos/05 - Avaliação de Performance e Matriz de Confusão.md",
-    "Pessoal/Machine Learning/Fundamentos/04 - Classificação.md",
-    "Pessoal/Machine Learning/Fundamentos/03 - Definições e Conceitos Básicos.md",
-    "Pessoal/Machine Learning/Fundamentos/02 - Aplicações do Machine Learning.md",
     "Pessoal/Machine Learning/Fundamentos",
-    "Pessoal/Machine Learning/Fundamentos da Inteligência Artificial - O Caminho do Aprendizado.md",
-    "Pessoal/Reuniões.md",
     "Pessoal/Reative Systems/Reuniões",
     "Pessoal/Reative Systems",
     "Pessoal/Cronograma Pleno 2026",
@@ -234,7 +235,6 @@
     "Pessoal/Curso Santander - Python & Cursor AI/Exercicios",
     "Pessoal/Curso Santander - Python & Cursor AI/Guias Praticos",
     "Pessoal/Curso Santander - Python & Cursor AI/Feature Detalhadas",
-    "Pessoal/Curso Santander - Python & Cursor AI/Conceitos Principais",
     "Pessoal/Questões/1Img/Pasted image 20260309233046.png",
     "Pessoal/Questões/1Img/Pasted image 20260309231008.png",
     "Pessoal/Questões/1Img/Pasted image 20260303183158.png",
