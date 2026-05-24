@@ -1,20 +1,3 @@
-## 📊 Etapa 1 — Definir o Problema (Dia 2)
-
-**O que fazer:** isto é trabalho de _escrita_, não de código. Abra o `README.md` e preencha a seção **"Problema de Negócio"**.
-
-Responda por escrito:
-
-- O que é churn no contexto de uma empresa de serviços/software.
-- Qual erro é pior:
-    - **Falso Negativo** = o modelo diz "não vai sair", mas o cliente sai → você perde o cliente.
-    - **Falso Positivo** = o modelo diz "vai sair", mas o cliente ficaria → você gasta um desconto/atenção à toa.
-- Atribua um custo aproximado a cada um. Exemplo: perder um cliente custa R$ 500 (valor que ele gastaria); um desconto de retenção desnecessário custa R$ 50. Você decide os números — só justifique.
-
-**Revise:** sua nota _06 - Custo de um Modelo_.
-
-**Commit:** `"Define o problema de negócio e os custos dos erros"`
-
----
 
 ## 🔍 Etapa 2 — Análise Exploratória (Dias 3-4)
 
