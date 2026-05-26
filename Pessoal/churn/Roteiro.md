@@ -1,18 +1,4 @@
 
-##  Etapa 3 — Engenharia de Atributos (Dia 5)
-
-**O que fazer:** o código de limpeza já está pronto em `src/preprocessing.py` — todo comentado. Sua tarefa:
-
-- Ler o arquivo inteiro e **entender cada função** (os comentários explicam tudo).
-- Testá-lo: com o `venv` ativo, rode `python src/preprocessing.py` e veja se funciona.
-- Se a EDA revelou algum problema extra nos dados, adicionar o tratamento aqui.
-
-**Revise:** suas notas _01 - Engenharia de Atributos_ e _07 - Codificação de Categorias_.
-
-**Commit:** `"Adiciona módulo de pré-processamento dos dados"`
-
----
-
 ## 🤖 Etapa 4 — Treinar e Comparar Modelos (Dias 6-7)
 
 **O que fazer:** criar o `notebooks/02_modelagem.ipynb`. Quando chegar aqui, me peça ("estou na Etapa 4") e eu te entrego o notebook comentado.
