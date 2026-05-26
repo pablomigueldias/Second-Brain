@@ -1,31 +1,4 @@
 
-## 🤖 Etapa 4 — Treinar e Comparar Modelos (Dias 6-7)
-
-**O que fazer:** criar o `notebooks/02_modelagem.ipynb`. Quando chegar aqui, me peça ("estou na Etapa 4") e eu te entrego o notebook comentado.
-
-Você vai:
-
-- Treinar Naive Bayes, Árvore de Decisão e Random Forest.
-- Comparar com validação cruzada.
-- Avaliar por **recall e F1**, não acurácia.
-
-**Revise:** suas notas _04 - Classificação_, _05 - Matriz de Confusão_, e do módulo Algoritmos: _04 - Naive Bayes_, _06 - Árvores de Decisão_, _08 - Random Forest_.
-
-**Commit:** `"Treina e compara modelos de classificação"`
-
----
-
-## ⚖️ Etapa 5 — SMOTE + Avaliação por Custo (Dias 8-9)
-
-**O que fazer:** aplicar SMOTE no conjunto de treino e refazer a avaliação. Depois, traduzir a matriz de confusão em **dinheiro**, usando os custos da Etapa 1.
-
-> Esta é a etapa que mais diferencia seu projeto. Quase nenhum portfólio júnior faz análise de custo. Capriche.
-
-**Revise:** suas notas _09 - Datasets Desbalanceados_ e _06 - Custo de um Modelo_.
-
-**Commit:** `"Aplica SMOTE e avaliação por custo de negócio"`
-
----
 
 ## 📝 Etapa 6 — Script de Treino + Conclusão (Dia 10)
 
