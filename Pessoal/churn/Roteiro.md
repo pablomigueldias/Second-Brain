@@ -1,21 +1,5 @@
 
-## 🔍 Etapa 2 — Análise Exploratória (Dias 3-4)
-
-**O que fazer:** abra `notebooks/01_eda.ipynb` no VS Code e rode célula por célula. O notebook já está todo comentado e guiado.
-
-Sua tarefa ativa:
-
-- Rodar tudo e entender cada saída.
-- Na seção 5, criar gráficos extras para outras colunas (o notebook te orienta).
-- Preencher a célula final de **conclusões** com o que você descobriu.
-
-**Revise:** suas notas _03 - Definições e Conceitos_ e _09 - Datasets Desbalanceados_.
-
-**Commit:** `"Adiciona análise exploratória dos dados"`
-
----
-
-## 🔧 Etapa 3 — Engenharia de Atributos (Dia 5)
+##  Etapa 3 — Engenharia de Atributos (Dia 5)
 
 **O que fazer:** o código de limpeza já está pronto em `src/preprocessing.py` — todo comentado. Sua tarefa:
 
