@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "d5f67ef97259dd9e",
@@ -200,8 +199,9 @@
   },
   "active": "16b821a76ecf04ec",
   "lastOpenFiles": [
-    "Pessoal/Reative Systems/Projeto Automacao.md",
+    "Pessoal/Reative Systems/Sem título.md",
     "Pessoal/Reative Systems/passo1.md",
+    "Pessoal/Reative Systems/Projeto Automacao.md",
     "Pessoal/Reative Systems/Reuniões/Reunião Maio.md",
     "Pessoal/churn/Sem título.md",
     "Pessoal/churn",
@@ -227,7 +227,6 @@
     "Pessoal/Machine Learning/Algoritmos de Machine Learning/05 - Redes Bayesianas.md",
     "Pessoal/Machine Learning/Algoritmos de Machine Learning/04 - Naive Bayes.md",
     "Pessoal/Machine Learning/Algoritmos de Machine Learning/03 - Cálculos da Regressão Linear.md",
-    "Pessoal/Machine Learning/Algoritmos de Machine Learning/02 - Regressão Linear - Condições e Regressão Múltipla.md",
     "Pessoal/Machine Learning/Algoritmos de Machine Learning",
     "Pessoal/Machine Learning/Fundamentos",
     "Pessoal/Reative Systems/Reuniões",
