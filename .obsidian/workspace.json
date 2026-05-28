@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "df651a1c5b84b599",
+        "id": "7fbbe5ba6ad8c827",
         "type": "tabs",
         "children": [
           {
-            "id": "16b821a76ecf04ec",
+            "id": "5aaa2d2a3476dc53",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Pessoal/Livros/Desbloqueie o poder da sua mente/Desbloqueie o poder da sua mente.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Desbloqueie o poder da sua mente"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
         ]
@@ -195,7 +193,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "26758f3261ee0499",
+  "active": "5aaa2d2a3476dc53",
   "lastOpenFiles": [
     "Pessoal/Livros/Desbloqueie o poder da sua mente/Desbloqueie o poder da sua mente.pdf",
     "Pessoal/Livros/Desbloqueie o poder da sua mente/testelivro.png",
