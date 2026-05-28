@@ -11,14 +11,12 @@
             "id": "16b821a76ecf04ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Pessoal/Reative Systems/passo1.md",
-                "mode": "source",
-                "source": false
+                "file": "Pessoal/Livros/Desbloqueie o poder da sua mente/Desbloqueie o poder da sua mente.pdf"
               },
-              "icon": "lucide-file",
-              "title": "passo1"
+              "icon": "lucide-file-text",
+              "title": "Desbloqueie o poder da sua mente"
             }
           }
         ]
@@ -199,8 +197,12 @@
   },
   "active": "16b821a76ecf04ec",
   "lastOpenFiles": [
-    "Pessoal/Reative Systems/Projeto Automacao.md",
+    "Pessoal/Livros/Desbloqueie o poder da sua mente/testelivro.png",
+    "Pessoal/Livros/Desbloqueie o poder da sua mente/Desbloqueie o poder da sua mente.pdf",
     "Pessoal/Reative Systems/passo1.md",
+    "Pessoal/Livros/Desbloqueie o poder da sua mente",
+    "Pessoal/Livros",
+    "Pessoal/Reative Systems/Projeto Automacao.md",
     "Pessoal/Reative Systems/Sem título.md",
     "Pessoal/Reative Systems/Reuniões/Reunião Maio.md",
     "Pessoal/churn/Sem título.md",
@@ -226,15 +228,11 @@
     "Pessoal/Machine Learning/Algoritmos de Machine Learning/06 - Árvores de Decisão.md",
     "Pessoal/Machine Learning/Algoritmos de Machine Learning/05 - Redes Bayesianas.md",
     "Pessoal/Machine Learning/Algoritmos de Machine Learning/04 - Naive Bayes.md",
-    "Pessoal/Machine Learning/Algoritmos de Machine Learning/03 - Cálculos da Regressão Linear.md",
     "Pessoal/Machine Learning/Algoritmos de Machine Learning",
     "Pessoal/Machine Learning/Fundamentos",
     "Pessoal/Reative Systems/Reuniões",
     "Pessoal/Reative Systems",
     "Pessoal/Cronograma Pleno 2026",
-    "Pessoal/Curso Santander - Python & Cursor AI/Progresso",
-    "Pessoal/Curso Santander - Python & Cursor AI/Exercicios",
-    "Pessoal/Curso Santander - Python & Cursor AI/Guias Praticos",
     "Pessoal/Questões/1Img/Pasted image 20260309233046.png",
     "Pessoal/Questões/1Img/Pasted image 20260309231008.png",
     "Pessoal/Questões/1Img/Pasted image 20260303183158.png",
@@ -246,7 +244,6 @@
     "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260113214519.png",
     "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260113214436.png",
     "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260113214334.png",
-    "Pessoal/Desenvolvedor Full-Stack Python/IMG/Pasted image 20260113214234.png",
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Untitled.canvas",
     "Pessoal/Bancos de Dados/Conceitos Básicos/Modelo de dado.canvas",
     "Pessoal/Bancos de Dados/Conceitos Básicos/Modelo Paradigmas.canvas",
