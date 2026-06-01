@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Reative Systems/Sem título.md",
+                "file": "Pessoal/Reative Systems/Sem título 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sem título"
+              "title": "Sem título 2"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "d5f67ef97259dd9e",
@@ -198,11 +197,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5aaa2d2a3476dc53",
+  "active": "26758f3261ee0499",
   "lastOpenFiles": [
+    "Pessoal/Reative Systems/PLANO_AGENTE_CANDIDATURA.md",
+    "Pessoal/Reative Systems/ARRANQUE.md",
+    "Pessoal/Reative Systems/Sem título.md",
+    "Pessoal/Reative Systems/Sem título 2.md",
     "Pessoal/Reative Systems/Sem título 1.md",
     "Pessoal/Reative Systems/Reative_30_MicroSaaS_Detalhado.md",
-    "Pessoal/Reative Systems/Sem título.md",
     "Pessoal/Reative Systems/Reative_30_MicroSaaS_Ideias.md",
     "Pessoal/Livros/Desbloqueie o poder da sua mente/Desbloqueie o poder da sua mente.pdf",
     "Pessoal/Livros/Desbloqueie o poder da sua mente/testelivro.png",
@@ -229,9 +231,6 @@
     "Pessoal/Machine Learning/Tópicos Avançados de Machine Learning",
     "Pessoal/Machine Learning/Algoritmos de Machine Learning/10 - K-means.md",
     "Pessoal/Machine Learning/Algoritmos de Machine Learning/09 - Aprendizado Baseado em Instância e KNN.md",
-    "Pessoal/Machine Learning/Algoritmos de Machine Learning/08 - Random Forest.md",
-    "Pessoal/Machine Learning/Algoritmos de Machine Learning/07 - Cálculos das Árvores de Decisão.md",
-    "Pessoal/Machine Learning/Algoritmos de Machine Learning/06 - Árvores de Decisão.md",
     "Pessoal/Machine Learning/Algoritmos de Machine Learning",
     "Pessoal/Machine Learning/Fundamentos",
     "Pessoal/Reative Systems/Reuniões",
