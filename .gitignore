@@ -1,0 +1,10 @@
+# Ambiente Python do Sistema de Estudos (pesado — não versionar)
+Pessoal/_Sistema-Estudos/.venv/
+**/__pycache__/
+*.pyc
+
+# Áudio temporário das gravações
+Pessoal/_Sistema-Estudos/_audio/
+
+# Pasta que não deve ir para o repositório
+Pessoal/Reative Systems/

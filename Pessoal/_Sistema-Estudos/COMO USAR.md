@@ -51,6 +51,16 @@ python estudo.py local "/home/pablo/Vídeos/aula03.mp4" --tema "Normalização d
 > 💡 `--tema` é obrigatório: escreva sobre o que é o vídeo. Isso vira o título e
 > ajuda a organizar a nota na matéria certa.
 
+### 📦 Curso com várias partes (intro, módulo 1, 2...)
+Adicione `--curso "Nome do Curso"` em **todas** as gravações daquele curso. Assim
+cada parte vira um módulo numerado dentro de uma única pasta, com índice próprio:
+```bash
+python estudo.py gravar --curso "Python do Zero" --tema "Introdução" --fonte sistema
+python estudo.py gravar --curso "Python do Zero" --tema "Variáveis"   --fonte sistema
+```
+➡️ Vira: `Pessoal/Python do Zero/Modulos/01 - Introdução.md`, `02 - Variáveis.md`…
+e um `_Índice Python do Zero.md` com tudo em ordem.
+
 ---
 
 ## 2️⃣ Gerar a nota didática (aqui no Claude Code)

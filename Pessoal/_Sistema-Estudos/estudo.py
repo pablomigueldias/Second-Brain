@@ -159,7 +159,14 @@ def youtube_id(url: str) -> str | None:
     return m.group(1) if m else (url if re.fullmatch(r"[\w-]{11}", url) else None)
 
 
-def from_youtube(cfg: dict, url: str, tema: str) -> Path:
+def _extra_curso(curso: str | None, base: dict | None = None) -> dict:
+    extra = dict(base or {})
+    if curso:
+        extra["curso"] = curso
+    return extra
+
+
+def from_youtube(cfg: dict, url: str, tema: str, curso: str | None = None) -> Path:
     vid = youtube_id(url)
     if not vid:
         die(f"Não consegui extrair o ID do vídeo de: {url}")
@@ -198,14 +205,15 @@ def from_youtube(cfg: dict, url: str, tema: str) -> Path:
         saida.unlink(missing_ok=True)
 
     destino = salvar_inbox(cfg, tema, "youtube",
-                           f"https://www.youtube.com/watch?v={vid}", texto)
+                           f"https://www.youtube.com/watch?v={vid}", texto,
+                           extra=_extra_curso(curso))
     return destino
 
 
 # --------------------------------------------------------------------------- #
 # Fonte: Arquivo local
 # --------------------------------------------------------------------------- #
-def from_local(cfg: dict, caminho: str, tema: str) -> Path:
+def from_local(cfg: dict, caminho: str, tema: str, curso: str | None = None) -> Path:
     arq = Path(caminho).expanduser()
     if not arq.exists():
         die(f"Arquivo não encontrado: {arq}")
@@ -213,7 +221,8 @@ def from_local(cfg: dict, caminho: str, tema: str) -> Path:
         die("ffmpeg não instalado (necessário para ler o áudio). Rode ./setup.sh")
     print(f"🎧 Transcrevendo {arq.name} com Whisper…")
     texto = transcrever_arquivo(cfg, str(arq))
-    return salvar_inbox(cfg, tema, "local", str(arq), texto)
+    return salvar_inbox(cfg, tema, "local", str(arq), texto,
+                        extra=_extra_curso(curso))
 
 
 # --------------------------------------------------------------------------- #
@@ -245,7 +254,7 @@ def listar_fontes():
     print(f"Source padrão: {subprocess.check_output(['pactl','get-default-source'],text=True).strip()}")
 
 
-def from_gravacao(cfg: dict, tema: str, fonte: str) -> Path:
+def from_gravacao(cfg: dict, tema: str, fonte: str, curso: str | None = None) -> Path:
     if not have("ffmpeg"):
         die("ffmpeg não instalado. Rode ./setup.sh")
     if not have("pactl"):
@@ -321,7 +330,7 @@ def from_gravacao(cfg: dict, tema: str, fonte: str) -> Path:
         die("Nenhum áudio transcrito. Verifique a fonte com: python estudo.py listar")
 
     destino = salvar_inbox(cfg, tema, "gravacao", f"{fonte}:{device}", texto,
-                           extra={"chunks": len(transcricao)})
+                           extra=_extra_curso(curso, {"chunks": len(transcricao)}))
 
     # limpa os .wav temporários
     for w in sessao.glob("*.wav"):
@@ -344,16 +353,21 @@ def main():
         description="Transcreve vídeos/aulas e salva no _inbox do Obsidian.")
     sub = ap.add_subparsers(dest="cmd", required=True)
 
+    curso_help = "Nome do curso, p/ agrupar várias partes na mesma pasta (opcional)"
+
     p_yt = sub.add_parser("youtube", help="Transcreve um vídeo do YouTube")
     p_yt.add_argument("url")
     p_yt.add_argument("--tema", required=True)
+    p_yt.add_argument("--curso", default=None, help=curso_help)
 
     p_lo = sub.add_parser("local", help="Transcreve um arquivo de vídeo/áudio")
     p_lo.add_argument("arquivo")
     p_lo.add_argument("--tema", required=True)
+    p_lo.add_argument("--curso", default=None, help=curso_help)
 
     p_gr = sub.add_parser("gravar", help="Grava e transcreve ao vivo")
     p_gr.add_argument("--tema", required=True)
+    p_gr.add_argument("--curso", default=None, help=curso_help)
     p_gr.add_argument("--fonte", choices=["sistema", "mic"],
                       default=cfg["gravacao"]["fonte_padrao"])
 
@@ -366,11 +380,11 @@ def main():
         return
 
     if args.cmd == "youtube":
-        destino = from_youtube(cfg, args.url, args.tema)
+        destino = from_youtube(cfg, args.url, args.tema, args.curso)
     elif args.cmd == "local":
-        destino = from_local(cfg, args.arquivo, args.tema)
+        destino = from_local(cfg, args.arquivo, args.tema, args.curso)
     elif args.cmd == "gravar":
-        destino = from_gravacao(cfg, args.tema, args.fonte)
+        destino = from_gravacao(cfg, args.tema, args.fonte, args.curso)
     else:
         ap.error("comando desconhecido")
         return

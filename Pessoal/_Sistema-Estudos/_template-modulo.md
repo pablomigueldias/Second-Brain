@@ -1,58 +1,63 @@
 ---
 tema: "{{TEMA}}"
+curso: "{{CURSO (se houver)}}"
 fonte: "{{youtube|local|gravacao}}"
-origem: "{{url ou caminho}}"
+origem: "{{url ou origem}}"
 data: {{YYYY-MM-DD}}
 tags: [estudo, {{matéria}}]
 ---
 
-# {{Título da Nota}}
+# {{Título da Aula}}
 
-> Resumo de uma linha do que esta nota cobre.
+> Em uma frase: o que você sai sabendo depois de ler isto.
 
-## 🎯 Objetivos de aprendizagem
-Ao final desta nota, você será capaz de:
-1. [ ] ...
-2. [ ] ...
-3. [ ] ...
-
----
-
-## 📚 Conteúdo
-
-### Módulo 1 — {{Nome do módulo}}
-
-#### Tópico 1.1 — {{Tópico}}
-Explicação didática em português, direta.
-
-```python
-# exemplo, quando houver
-```
-
-> [!NOTE] Observação
-> Detalhe importante para fixar.
-
-#### Tópico 1.2 — {{Tópico}}
-...
-
-### Módulo 2 — {{Nome do módulo}}
-...
+## 👋 Vamos começar
+Olá! Nesta aula a gente vai entender **{{tema}}**. Escrevo como se estivesse te
+explicando pessoalmente — vou do simples ao mais detalhado, com exemplos e
+analogias, e deixo destacado o que vale a pena guardar. Respira e vem comigo.
 
 ---
 
-## 💡 Ideias-chave
-- ...
-- ...
+## 📖 Entendendo passo a passo
 
-## 📖 Vocabulário
-- **[[Termo]]** — definição curta.
-- **[[Outro Termo]]** — definição curta.
+### {{Conceito 1}}
+Explico o conceito com as minhas palavras, como um professor faria. Trago uma
+**analogia** ("pense nisso como…") e um **exemplo prático** sempre que ajudar a
+clarear. Se aparecer um termo novo, eu paro e explico antes de seguir.
 
-## ❓ Perguntas para revisão (flashcards)
+> 💡 **Guarde isto:** o ponto-chave deste trecho, em uma linha.
+
+### {{Conceito 2}}
+Continuo a explicação, conectando com o que você acabou de aprender
+("lembra do conceito anterior? agora ele se encaixa aqui porque…").
+
+> [!TIP] Na prática
+> Como isso aparece no mundo real / como você usaria.
+
+### {{Conceito 3}}
+...
+
+---
+
+## 🧠 Por que isso importa pra você
+Conecto a aula com o seu objetivo: por que vale a pena aprender isso e onde você
+vai usar. Aqui é onde o aprendizado "enraíza".
+
+## 📌 Resumo pra fixar
+- Ponto essencial 1
+- Ponto essencial 2
+- Ponto essencial 3
+
+## 🗝️ Palavras novas (do jeito simples)
+- **{{Termo}}** — explicação curta e clara, como eu explicaria pra um amigo.
+- **{{Termo}}** — ...
+
+## ✅ Teste-se (pra enraizar)
+Tente responder de cabeça antes de olhar a resposta.
 1. **P:** ... → **R:** ...
 2. **P:** ... → **R:** ...
 3. **P:** ... → **R:** ...
 
-## 🔗 Notas relacionadas
-- [[Nota A]]
-- [[Nota B]]
+## 🔗 Para continuar
+- [[Aula anterior]]
+- [[Índice do curso]]
