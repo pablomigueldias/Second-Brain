@@ -4,7 +4,7 @@ fonte: "gravacao"
 origem: "sistema:alsa_output.pci-0000_0a_00.4.analog-stereo.monitor"
 data: "2026-06-17"
 palavras: 583
-status: "bruto"
+status: "processado"
 chunks: 15
 curso: "Como Criar Agentes de IA"
 ---

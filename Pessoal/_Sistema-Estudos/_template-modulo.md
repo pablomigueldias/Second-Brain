@@ -61,3 +61,19 @@ Tente responder de cabeça antes de olhar a resposta.
 ## 🔗 Para continuar
 - [[Aula anterior]]
 - [[Índice do curso]]
+
+---
+
+<!--
+VARIANTE PRÁTICA (aulas de demonstração / "mão na massa"):
+Quando a aula é um passo a passo numa ferramenta (não um conceito), troque a
+seção "📖 Entendendo passo a passo" por:
+
+## 🛠️ Passo a passo
+1. **Passo** — o que fazer e por quê.
+2. ...
+> 💡 **Guarde isto:** o aprendizado prático (não o clique, mas o princípio).
+
+E mantenha as demais seções (Por que importa, Resumo, Palavras novas, Teste-se).
+-->
+

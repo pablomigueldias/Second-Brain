@@ -4,7 +4,7 @@ fonte: "gravacao"
 origem: "sistema:alsa_output.usb-C-Media_Electronics_Inc._USB_Audio_Device-00.analog-stereo.monitor"
 data: "2026-06-17"
 palavras: 603
-status: "bruto"
+status: "processado"
 chunks: 13
 curso: "Como Criar Agentes de IA"
 ---
