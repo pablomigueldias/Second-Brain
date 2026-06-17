@@ -1,0 +1,21 @@
+{
+  "vault_path": "/mnt/dados/Second-Brain",
+  "inbox_dir": "Pessoal/_Sistema-Estudos/_inbox",
+  "audio_dir": "Pessoal/_Sistema-Estudos/_audio",
+
+  "whisper": {
+    "model": "small",
+    "language": "auto",
+    "device": "cpu",
+    "compute_type": "int8"
+  },
+
+  "gravacao": {
+    "fonte_padrao": "sistema",
+    "segundos_por_chunk": 20
+  },
+
+  "youtube": {
+    "idiomas_preferidos": ["pt", "pt-BR", "en"]
+  }
+}

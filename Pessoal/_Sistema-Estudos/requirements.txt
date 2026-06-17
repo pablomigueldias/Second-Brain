@@ -1,0 +1,8 @@
+# Transcrição local (grátis), via CTranslate2 — rápido em CPU
+faster-whisper>=1.0.0
+
+# Legendas/transcrição de vídeos do YouTube (sem baixar o vídeo)
+youtube-transcript-api>=0.6.2
+
+# Fallback para YouTube (legendas automáticas) e metadados
+yt-dlp>=2024.1.0
