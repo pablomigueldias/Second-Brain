@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7fbbe5ba6ad8c827",
+        "id": "28201e32ceb037c3",
         "type": "tabs",
         "children": [
           {
-            "id": "5aaa2d2a3476dc53",
+            "id": "c3f2edf3be9254d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pessoal/Como Criar Agentes de IA/Modulos/05 - Quando e Onde Implantar os Agentes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "05 - Quando e Onde Implantar os Agentes"
+              "title": "Nova aba"
             }
           }
         ]
@@ -197,10 +193,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5aaa2d2a3476dc53",
+  "active": "26758f3261ee0499",
   "lastOpenFiles": [
-    "Pessoal/Como Criar Agentes de IA/Modulos/04 - Os Tipos de Agentes de IA.md",
+    "Pessoal/Como Criar Agentes de IA/Modulos/18 - Sistemas Multi-Agente (MAS).md",
+    "Pessoal/Como Criar Agentes de IA/Modulos/11 - Caso n8n - Estruturando o Fluxo.md",
+    "Pessoal/Como Criar Agentes de IA/Modulos/07 - Caso Manus - Configurando o Prompt.md",
+    "Pessoal/Como Criar Agentes de IA/Modulos/05 - Quando e Onde Implantar os Agentes.md",
     "Pessoal/Como Criar Agentes de IA/Modulos/03 - IA Generativa vs IA Agêntica.md",
+    "Pessoal/Como Criar Agentes de IA/Modulos/02 - Configurando o Ambiente.md",
+    "Pessoal/Como Criar Agentes de IA/Modulos/01 - Introdução.md",
+    "Pessoal/_Sistema-Estudos/_inbox/configurando-seu-ambiente-para-construir-agentes-de-ia__2026-06-17-1314.md",
+    "Pessoal/Como Criar Agentes de IA/Modulos/04 - Os Tipos de Agentes de IA.md",
     "Pessoal/_Sistema-Estudos/_inbox/sedGI2JF4",
     "Pessoal/_Sistema-Estudos/_inbox/sedGAB3Nu",
     "Pessoal/_Sistema-Estudos/_inbox/sed3asTWN",
@@ -209,10 +212,8 @@
     "Pessoal/Como Criar Agentes de IA/Modulos/21 - Próximos Passos.md.tmp.130030.ce79a0470f99",
     "Pessoal/Como Criar Agentes de IA/Modulos/20 - Quando os Agentes de IA Prejudicam.md",
     "Pessoal/Como Criar Agentes de IA/Modulos/20 - Quando os Agentes de IA Prejudicam.md.tmp.130030.0b2a0e1813e1",
-    "Pessoal/Como Criar Agentes de IA/Modulos/02 - Configurando o Ambiente.md",
     "Pessoal/Como Criar Agentes de IA/Modulos/19 - Agentes em Projetos Globais e Multiculturais.md",
     "Pessoal/Como Criar Agentes de IA/Modulos/19 - Agentes em Projetos Globais e Multiculturais.md.tmp.130030.76115e6aee3c",
-    "Pessoal/Como Criar Agentes de IA/Modulos/18 - Sistemas Multi-Agente (MAS).md",
     "Pessoal/Como Criar Agentes de IA/Modulos/18 - Sistemas Multi-Agente (MAS).md.tmp.130030.4d2465918b76",
     "Pessoal/Como Criar Agentes de IA/Modulos/17 - A Força de Trabalho de Silício.md",
     "Pessoal/Como Criar Agentes de IA/Modulos/17 - A Força de Trabalho de Silício.md.tmp.130030.d9eed5db4ece",
@@ -222,14 +223,10 @@
     "Pessoal/Como Criar Agentes de IA/Modulos/14 - Caso Claude - Dados Caóticos.md",
     "Pessoal/Como Criar Agentes de IA/Modulos/13 - Caso n8n - Teste Real.md",
     "Pessoal/Como Criar Agentes de IA/Modulos/12 - Caso n8n - Ajustando com Apoio de IA.md",
-    "Pessoal/Como Criar Agentes de IA/Modulos/11 - Caso n8n - Estruturando o Fluxo.md",
     "Pessoal/Como Criar Agentes de IA/Modulos/10 - Caso n8n - O Agente de Riscos.md",
     "Pessoal/Como Criar Agentes de IA/Modulos/09 - Caso Manus - Avaliando os Resultados.md",
     "Pessoal/Como Criar Agentes de IA/Modulos/08 - Caso Manus - Iniciando o Agente.md",
-    "Pessoal/Como Criar Agentes de IA/Modulos/07 - Caso Manus - Configurando o Prompt.md",
     "Pessoal/Como Criar Agentes de IA/Modulos/06 - Caso Manus - Visão Geral.md",
-    "Pessoal/Como Criar Agentes de IA/Modulos/05 - Quando e Onde Implantar os Agentes.md",
-    "Pessoal/Como Criar Agentes de IA/Modulos/01 - Introdução.md",
     "Pessoal/Como Criar Agentes de IA/_Índice Como Criar Agentes de IA.md",
     "Pessoal/Engenharia de Software/_Índice Engenharia de Software.md",
     "Pessoal/_Sistema-Estudos/_inbox/próximos-passos__2026-06-17-1534.md",
