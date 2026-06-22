@@ -4,7 +4,8 @@ fonte: "gravacao"
 origem: "sistema:alsa_output.usb-C-Media_Electronics_Inc._USB_Audio_Device-00.analog-stereo.monitor"
 data: "2026-06-21"
 palavras: 1611
-status: "bruto"
+status: "processado"
+nota: "Pessoal/Criar valor com IA, automação e bots/Modulos/02 - Automatize o Seu Caminho Através do Caos.md"
 chunks: 33
 curso: "Criar valor com IA, automação e bots"
 ---
