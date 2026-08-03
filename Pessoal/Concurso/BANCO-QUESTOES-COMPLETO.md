@@ -63,14 +63,14 @@ Apêndices ao final: mapa completo de itens reais por tópico, método de conver
 
 Julgue os itens a seguir.
 
-1. A média aritmética é mais sensível à presença de valores extremos do que a mediana.
-2. Em uma distribuição com assimetria à direita (positiva), a média é menor que a mediana.
-3. O desvio padrão é expresso na mesma unidade de medida dos dados originais, ao contrário da variância.
-4. O coeficiente de variação, por ser adimensional, permite comparar a dispersão de conjuntos de dados expressos em unidades diferentes.
-5. No boxplot, a linha interna à caixa representa sempre a média dos dados.
-6. Dois eventos mutuamente exclusivos são, necessariamente, eventos independentes.
-7. O teorema de Bayes permite atualizar a probabilidade atribuída a uma hipótese à luz de nova evidência observada.
-8. Na distribuição binomial, o número de tentativas é fixo e a probabilidade de sucesso permanece constante entre elas.
+1. A média aritmética é mais sensível à presença de valores extremos do que a mediana. C
+2. Em uma distribuição com assimetria à direita (positiva), a média é menor que a mediana. C
+3. O desvio padrão é expresso na mesma unidade de medida dos dados originais, ao contrário da variância. C
+4. O coeficiente de variação, por ser adimensional, permite comparar a dispersão de conjuntos de dados expressos em unidades diferentes. C
+5. No boxplot, a linha interna à caixa representa sempre a média dos dados. E
+6. Dois eventos mutuamente exclusivos são, necessariamente, eventos independentes. E
+7. O teorema de Bayes permite atualizar a probabilidade atribuída a uma hipótese à luz de nova evidência observada. E
+8. Na distribuição binomial, o número de tentativas é fixo e a probabilidade de sucesso permanece constante entre elas. C
 9. A distribuição de Poisson é adequada para modelar a contagem de ocorrências em um intervalo fixo, apresentando média igual à variância.
 10. Pelo Teorema Central do Limite, a distribuição da média amostral aproxima-se da normal apenas se a população de origem for normalmente distribuída.
 11. Um intervalo de confiança de 95% indica que há 95% de probabilidade de o parâmetro populacional estar contido naquele intervalo específico já calculado.

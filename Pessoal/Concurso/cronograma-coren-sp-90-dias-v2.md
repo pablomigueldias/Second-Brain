@@ -55,8 +55,8 @@ Item em branco = 0, sem penalização. Confirmar o valor no edital.
 - **Dias 1–2:** prova CFBio 2025 completa, cronometrada, 120 itens. Anote acertos por bloco — é a linha de base.
 - Montar deck de Anki e uma nota por tópico no Obsidian.
 - **Estatística descritiva:** medidas de posição e dispersão (ok), boxplot (ok), assimetria(ok), curtose(ok), coeficiente de variação(ok).
-- **Probabilidade:** axiomas, condicional, independência, **Bayes**.
-- **Distribuições:** binomial(ok), Poisson(ok), normal(ok), t(ok), qui-quadrado.
+- **Probabilidade:** axiomas, condicional, independência, **Bayes**(ok).
+- **Distribuições:** binomial(ok), Poisson(ok), normal(ok), t(ok), qui-quadrado(ok).
 - Questões: **Bloco A** do banco (20 itens).
 
 > Atenção à divisão: estatística aplicada a dados é **específico**. Combinatória, lógica proposicional e aritmética são **RLM**, e ficam na Fase 2.
