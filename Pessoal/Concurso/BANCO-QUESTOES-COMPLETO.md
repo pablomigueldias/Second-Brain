@@ -71,18 +71,18 @@ Julgue os itens a seguir.
 6. Dois eventos mutuamente exclusivos são, necessariamente, eventos independentes. E
 7. O teorema de Bayes permite atualizar a probabilidade atribuída a uma hipótese à luz de nova evidência observada. E
 8. Na distribuição binomial, o número de tentativas é fixo e a probabilidade de sucesso permanece constante entre elas. C
-9. A distribuição de Poisson é adequada para modelar a contagem de ocorrências em um intervalo fixo, apresentando média igual à variância.
-10. Pelo Teorema Central do Limite, a distribuição da média amostral aproxima-se da normal apenas se a população de origem for normalmente distribuída.
-11. Um intervalo de confiança de 95% indica que há 95% de probabilidade de o parâmetro populacional estar contido naquele intervalo específico já calculado.
-12. O erro do tipo I ocorre quando se rejeita a hipótese nula, sendo ela verdadeira.
-13. Reduzir o nível de significância de 5% para 1%, mantidas as demais condições, aumenta a probabilidade de erro do tipo II.
-14. Um p-valor de 0,03, adotado o nível de significância de 5%, conduz à não rejeição da hipótese nula.
-15. O coeficiente de correlação de Pearson mede a associação linear entre duas variáveis e varia entre −1 e 1.
-16. Coeficiente de correlação igual a zero implica ausência de qualquer relação entre as variáveis analisadas.
-17. Na regressão linear múltipla, o R² ajustado penaliza a inclusão de variáveis explicativas que não contribuem para o poder explicativo do modelo.
-18. A presença de multicolinearidade entre variáveis explicativas infla os erros-padrão dos coeficientes estimados.
-19. A moda é a única medida de tendência central aplicável a variáveis qualitativas nominais.
-20. A amostragem estratificada consiste em selecionar elementos em intervalos regulares, a partir de um ponto de partida escolhido aleatoriamente.
+9. A distribuição de Poisson é adequada para modelar a contagem de ocorrências em um intervalo fixo, apresentando média igual à variância. C
+10. Pelo Teorema Central do Limite, a distribuição da média amostral aproxima-se da normal apenas se a população de origem for normalmente distribuída. C
+11. Um intervalo de confiança de 95% indica que há 95% de probabilidade de o parâmetro populacional estar contido naquele intervalo específico já calculado. C
+12. O erro do tipo I ocorre quando se rejeita a hipótese nula, sendo ela verdadeira. C
+13. Reduzir o nível de significância de 5% para 1%, mantidas as demais condições, aumenta a probabilidade de erro do tipo II. Nao sei
+14. Um p-valor de 0,03, adotado o nível de significância de 5%, conduz à não rejeição da hipótese nula. nao sei
+15. O coeficiente de correlação de Pearson mede a associação linear entre duas variáveis e varia entre −1 e 1. C
+16. Coeficiente de correlação igual a zero implica ausência de qualquer relação entre as variáveis analisadas. C
+17. Na regressão linear múltipla, o R² ajustado penaliza a inclusão de variáveis explicativas que não contribuem para o poder explicativo do modelo. E
+18. A presença de multicolinearidade entre variáveis explicativas infla os erros-padrão dos coeficientes estimados. nao sei
+19. A moda é a única medida de tendência central aplicável a variáveis qualitativas nominais. C
+20. A amostragem estratificada consiste em selecionar elementos em intervalos regulares, a partir de um ponto de partida escolhido aleatoriamente. C
 
 ### Gabarito
 
