@@ -63,7 +63,7 @@ Item em branco = 0, sem penalização. Confirmar o valor no edital.
 
 ### Semana 2 (dias 8–14) — Inferência, correlação, regressão + Python + SQL
 
-- **Inferência (Bloco 02):** TCL, distribuições t e qui-quadrado, intervalo de confiança, teste de hipótese, erros tipo I e II, p-valor, poder do teste.
+- **Inferência (Bloco 02):** TCL(ok), distribuições t e qui-quadrado(ok), intervalo de confiança(ok), teste de hipótese, erros tipo I e II, p-valor, poder do teste.
 - **Correlação, regressão e amostragem (Bloco 03):** Pearson e Spearman, regressão linear simples e múltipla, mínimos quadrados, R² e R² ajustado, resíduos, heterocedasticidade, multicolinearidade, regressão logística, técnicas de amostragem.
 - **Python em modo prova:** pandas (groupby, merge, pivot, apply), numpy, e o "quem faz o quê" das bibliotecas — scikit-learn, matplotlib, seaborn, TensorFlow, PyTorch.
 - **SQL analítico:** joins, subqueries, window functions, CTE, agregações, `HAVING` vs `WHERE`, `DELETE`/`TRUNCATE`/`DROP`, DDL/DML/DCL.
