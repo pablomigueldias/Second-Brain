@@ -57,16 +57,17 @@ Item em branco = 0, sem penalização. Confirmar o valor no edital.
 - **Estatística descritiva:** medidas de posição e dispersão (ok), boxplot (ok), assimetria(ok), curtose(ok), coeficiente de variação(ok).
 - **Probabilidade:** axiomas, condicional, independência, **Bayes**(ok).
 - **Distribuições:** binomial(ok), Poisson(ok), normal(ok), t(ok), qui-quadrado(ok).
-- Questões: **Bloco A** do banco (20 itens).
+- Questões: **Bloco 01** do banco (20 itens).
 
 > Atenção à divisão: estatística aplicada a dados é **específico**. Combinatória, lógica proposicional e aritmética são **RLM**, e ficam na Fase 2.
 
-### Semana 2 (dias 8–14) — Estatística inferencial + Python + SQL
+### Semana 2 (dias 8–14) — Inferência, correlação, regressão + Python + SQL
 
-- **Inferência:** TCL, intervalo de confiança, teste de hipótese, erro tipo I e II, p-valor, correlação de Pearson, regressão linear simples e múltipla, R² e R² ajustado, multicolinearidade.
+- **Inferência (Bloco 02):** TCL, distribuições t e qui-quadrado, intervalo de confiança, teste de hipótese, erros tipo I e II, p-valor, poder do teste.
+- **Correlação, regressão e amostragem (Bloco 03):** Pearson e Spearman, regressão linear simples e múltipla, mínimos quadrados, R² e R² ajustado, resíduos, heterocedasticidade, multicolinearidade, regressão logística, técnicas de amostragem.
 - **Python em modo prova:** pandas (groupby, merge, pivot, apply), numpy, e o "quem faz o quê" das bibliotecas — scikit-learn, matplotlib, seaborn, TensorFlow, PyTorch.
 - **SQL analítico:** joins, subqueries, window functions, CTE, agregações, `HAVING` vs `WHERE`, `DELETE`/`TRUNCATE`/`DROP`, DDL/DML/DCL.
-- Questões reais: CFO 91–100 · CFBio 91–93 · PRODAM 37, 39, 53.
+- Questões: **Blocos 02, 03 e 04** do banco. Itens reais de Python e SQL: CFO 91–100 · CFBio 91–93 · PRODAM 37, 39, 53.
 
 ### Semana 3 (dias 15–21) — Banco de dados
 
@@ -86,7 +87,7 @@ Seu maior ponto cego. Nada disso existia na prova de 2013 e não existe em prova
 - **Engenharia de dados:** orquestração e DAGs (Airflow), batch × streaming, arquiteturas Lambda e Kappa, particionamento, formatos colunares (Parquet, ORC, Avro), idempotência e reprocessamento, Delta Lake / Iceberg.
 - **Integração via API:** REST, paginação, autenticação, códigos de status. Questões: CFBio 101–105.
 - 📝 **Discursiva 1** (manuscrita, 20–30 linhas, cronometrada): *"Arquitetura de pipeline de dados para processamento de grandes volumes"*.
-- Questões: **Bloco D** — me pede que eu escrevo.
+- Questões: **Blocos 05 e 06** do banco.
 
 ### Semana 5 (dias 29–35) — Nuvem, Big Data e núcleo genérico de TI
 
@@ -118,16 +119,16 @@ Semana densa, mas é seu território mais forte. Se atrasar, o corte aceitável 
 - DL: perceptron, backpropagation, ativações, época/batch/learning rate, dropout, CNN, RNN/LSTM, Transformers, embeddings
 - NLP: tokenização, stemming × lematização, TF-IDF, word2vec, BERT, LLMs, RAG
 - MLOps: deploy batch × online, API de inferência, **data drift × concept drift**, retreinamento, feature store, MLflow
-- Questões: **Bloco B** do banco (20 itens)
+- Questões: **Bloco 08** do banco (20 itens)
 
-**Dias 46–47 — Power BI**
+**Dias 46–47 — Power BI** — questões: **Bloco 10**
 - Power Query (M) × DAX · modelagem e cardinalidade · Import × DirectQuery × Live Connection · medida × coluna calculada · contexto de linha × contexto de filtro · CALCULATE, FILTER, SUMX, ALL, RELATED · Power BI Service (workspace, dataset, gateway, RLS, atualização agendada)
 - **Instale e faça 3 dashboards.** Conceito sem prática não gruda.
 
 **Dias 48–49 — Governança de dados + LGPD**
 - DAMA-DMBOK, data owner / steward / custodian, dimensões de qualidade, catálogo, linhagem, MDM, mascaramento, privacy by design
 - **LGPD:** princípios (atenção a finalidade × necessidade), bases legais, dados sensíveis, direitos do titular, controlador / operador / encarregado, ANPD, anonimização × pseudonimização, RIPD, tutela da saúde
-- Questões: **Bloco C** do banco (20 itens)
+- Questões: **Bloco 11** do banco (20 itens)
 
 > A LGPD é a única lei antecipada, e por um motivo objetivo: ela cai nos Complementares **e** dentro dos Específicos. Mesma hora de estudo, retorno dobrado.
 
@@ -210,7 +211,7 @@ Duas semanas, com o vocabulário já familiar por causa do áudio das semanas 8 
 |---|---|
 | 85 | **Lei 5.905/1973** (cria Cofen e Corens): composição, competências, receitas, mandatos |
 | 86 | **Lei 7.498/1986 + Decreto 94.406/1987** (exercício da enfermagem): atribuições privativas por categoria |
-| 87 | **Código de Ética dos Profissionais de Enfermagem** + Regimento Interno do Coren-SP |
+| 87 | **Código de Ética dos Profissionais de Enfermagem** + Regimento Interno do Coren-SP — questões: **Bloco 12** |
 | 88 | 🎯 **Simulado 3** completo + correção |
 | 89 | Só erros do simulado + 📝 **Discursiva 5** + Anki total |
 | 90 | Leitura passiva das notas do Obsidian. Sem conteúdo novo. Dormir cedo. |
