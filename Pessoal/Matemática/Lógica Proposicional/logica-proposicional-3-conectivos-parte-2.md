@@ -5,31 +5,32 @@ data: 2026-08-17
 fonte: "gravação (sistema)"
 tipo: transcricao
 duracao_min: 23
-conceitos: [Condicional, Bicondicional, Equivalência lógica, Contrapositiva, Representação lógica]
+conceitos: [Condicional, Bicondicional, Contrapositiva, Equivalência lógica, Condição suficiente e necessária]
 ---
 
 # Lógica Proposicional 3 — Conectivos, Parte 2
 
 > [!resumo] Do que se trata
-> Aula sobre lógica proposicional que ensina os conectivos, com foco nos conectivos condicional e bicondicional, incluindo a tabela verdade e a equivalência lógica.
+> Parte 2 dos conectivos: o condicional (`→`) em quatro casos — contrapositiva, tabela verdade, suficiente/necessário e distratores — e o bicondicional (`↔`). Traz os macetes "inverte negando", "Vera Fischer" e "sem noção".
 
 ## Para lembrar
 
-- **O condicional é representado por p → q e é chamado de 'se então'.**
-- **A equivalência lógica é uma relação entre duas proposições que têm o mesmo valor lógico.**
-- **A contrapositiva de p → q é ¬q → ¬p, e as duas são logicamente equivalentes.**
-- **O bicondicional é representado por p ↔ q e é chamado de 'se e somente se'.**
-- **A equivalência lógica é uma ferramenta importante para simplificar e resolver problemas lógicos.**
+- **Condicional `P → Q`: só é falso em `V → F` (macete "Vera Fischer é Famosa").**
+- **A única equivalência do condicional é a contrapositiva: `P → Q` ≡ `¬Q → ¬P` (macete "inverte negando").**
+- **A recíproca `Q → P` e a inversa `¬P → ¬Q` NÃO são equivalentes — é o erro que a banca cobra.**
+- **Em `P → Q`, o P é a condição suficiente e o Q é a necessária (macete "sem noção"). "P somente se Q" é `P → Q`.**
+- **Bicondicional `P ↔ Q`: verdadeiro só quando os dois lados são iguais. Aceita as quatro conclusões, negando os dois lados ou nenhum.**
 
 ## O que esta nota responde
 
-- O que é o conectivo condicional?
-- Como é representado o conectivo condicional?
-- O que é a tabela verdade do condicional?
+- Qual é a única equivalência válida do condicional, e por que a recíproca não vale?
+- Quando o condicional dá falso?
+- Como reconhecer um condicional escondido em "quando", "quem", "logo", "pois" ou "somente se"?
+- O que muda quando a questão diz "necessária **e** suficiente"?
 
 ## Conceitos
 
-**Conectivos lógicos** · **Condicional** · **Bicondicional** · **Tabela verdade** · **Equivalência lógica**
+**Condicional** · **Bicondicional** · **Contrapositiva** · **Equivalência lógica** · **Condição suficiente e necessária**
 
 ## Conteúdo
 
@@ -39,20 +40,18 @@ Quem está assistindo o vídeo pela primeira vez, sugiro que não comece por ele
 
 ### Lógica Proposicional: Conectivos
 
-Estamos em Lógica Proposicional, a famosa PIQ, parte 2. Na verdade, é o terceiro vídeo, Conectivo, parte 2. No vídeo passado, falamos sobre quatro conectivos:
+Estamos em Lógica Proposicional, a famosa "P e Q", conectivos parte 2 — na verdade o terceiro vídeo. No vídeo passado, falamos sobre quatro conectivos:
 
-- Negação
-- Disjunção
-- Conjunção
-- Disjunção exclusiva
-
-Eu fiz uma pesquisa que organiza tudo isso, um resuminho. Se quiser o resumo, me chamem no Instagram. Vou deixar aqui para vocês: no direct, vocês me pedem, e eu mando o resumo.
+- Negação (`¬`)
+- Conjunção (`∧`)
+- Disjunção (`∨`)
+- Disjunção exclusiva (`⊻`)
 
 ### O Conectivo Condicional
 
 Hoje, eu trago o conectivo de número 5, que é o conectivo mais importante de todos.
 
-Por que ele é o mais importante? Não existe uma hierarquia dentro do estudo da lógica. Ele é mais importante porque é o que mais aparece em concursos e alguns vestibulares. Os vestibulares aqui da Bahia, feitos pela Consulteca, o Neb, por exemplo, as provas do Neb trazem esse assunto. O condicional é o conectivo que mais aparece.
+Por que ele é o mais importante? Não existe uma hierarquia dentro do estudo da lógica. Ele é mais importante porque é o que mais aparece em concursos e em alguns vestibulares. Os vestibulares aqui da Bahia, feitos pela Consultec, e as provas da UNEB, por exemplo, trazem esse assunto. O condicional é o conectivo que mais aparece.
 
 #### O que é o Condicional?
 
@@ -66,9 +65,9 @@ Todas essas frases são frases que estão no formato de uma condicional: se uma 
 
 #### Representação e Leitura
 
-A representação do "se então" é esta: `$ p\rightarrow q$`.
+A representação do "se então" é esta: `P → Q`.
 
-Observem o detalhe: essa seta só é legítima para a direita. Eu vou colocar aqui duas palavras que me preocupam: `implica` e `consequentemente`. Se vocês virem essas palavrinhas numa prova de lógica, vocês têm que saber que o assunto é condicional.
+Observem o detalhe: essa seta só é legítima **para a direita**. Eu vou colocar aqui duas palavras que me preocupam: **implica** e **consequentemente**. Se vocês virem essas palavrinhas numa prova de lógica, vocês têm que saber que o assunto é condicional.
 
 Exemplo: "Estudar com o Vaguinho implica aprender matemática." Isso quer dizer que, se eu estudo com o Vaguinho, aprendo matemática.
 
@@ -78,7 +77,14 @@ A ideia central desse assunto é: Se `P` acontece, se o ponto está dentro da bo
 
 Para dar aula desse assunto, há alguns anos eu venho dividindo esse assunto em quatro casos. Diferentemente dos outros conectivos, por ser mais complexo, eu explico ele dividido em quatro momentos. Os casos são as maneiras pelas quais você pode ser cobrado em prova sobre esse assunto.
 
-Eu quero bem delimitar com vocês: você pode ser cobrado desta maneira, ou desta maneira, dessa e dessa. Eu vou começar pelo caso um.
+Eu quero bem delimitar com vocês: você pode ser cobrado desta maneira, ou desta, ou desta. São os quatro casos, e eles organizam o resto desta nota:
+
+1. **Equivalência** — a contrapositiva ("inverte negando");
+2. **Tabela verdade** — o macete da Vera Fischer;
+3. **Suficiente e necessário** — o macete "sem noção", e o "somente se";
+4. **Distratores** — as palavras que escondem um condicional.
+
+Eu vou começar pelo caso um.
 
 *Observação importante:* Não é só essa equivalência que existe na lógica. No nosso vídeo de número 4, eu vou voltar a esse assunto. Eu vou abranger, eu vou trazer mais equivalências. Na verdade, estou devendo duas coisas para vocês: aprofundar negação e aprofundar esse assunto, equivalência. E eu farei isso no nosso vídeo de número 4 de lógica proposicional.
 
@@ -92,40 +98,46 @@ Vamos usar a frase: "Se Ivete é baiana, então ela é brasileira."
 
 Eu vou fazer algumas provocações para vocês.
 
-**1. Equivalência:**
+**O que NÃO é equivalente — 1: a recíproca (`Q → P`)**
 
-"Ivete é baiana, então ela é brasileira."
+Nossa frase é `P → Q`: "Se Ivete é baiana, então ela é brasileira."
 
-Eu posso dizer que "Ivete é brasileira, então ela é baiana." Usando o português, faz sentido? Não. "Ivete é brasileira, então ela é baiana"? Não. Pode ter ser brasileira tendo nascido em outro estado, concordam? Vamos para a teoria, que é mais seguro.
+Eu posso dizer que "se Ivete é brasileira, então ela é baiana"? Usando o português, faz sentido? Não — ela pode ser brasileira tendo nascido em outro estado, concordam? Mas vamos para a teoria, que é mais seguro: nos conjuntos, o ponto pode estar dentro de `Q` sem estar dentro de `P`.
 
-Aqui, se `P` acontece, então o que acontece? Se `Q` acontece, então `P` acontece. Não necessariamente o ponto pode estar dentro de `Q`, mas não está em `P`. Essa estrutura que eu acabei de escrever aqui é chamada de **recíproca**.
+Essa estrutura, `Q → P`, é chamada de **recíproca**.
 
-Sabe quando você fala assim: "Diretor Samara, foi um prazer conhecer." Aí ela fala para mim a recíproca foi verdadeira. Na lógica, a recíproca nem sempre é verdadeira, certo? Essa é a estrutura que vocês estão proibidos de marcar em prova. Não se pode virar frase, nem sempre é legítimo, então não marque.
+> `P → Q` **não** equivale a `Q → P`
 
-**2. Outra:**
+Sabe quando você fala "foi um prazer conhecer" e a pessoa responde "a recíproca é verdadeira"? Na lógica, **a recíproca nem sempre é verdadeira**. Essa é uma estrutura que vocês estão proibidos de marcar em prova: não se pode simplesmente virar a frase.
 
-Se `P` acontece, então o que acontece? Se Ivete é baiana, então ela é brasileira.
+**O que NÃO é equivalente — 2: a inversa (`¬P → ¬Q`)**
 
-Se Ivete não é baiana, então ela não é brasileira? Vamos ver. Se Ivete não é baiana, ela pode ser brasileira tendo nascido em Manaus, sei lá, em outro lugar, certo? Então, isso aqui também é proibido.
+"Se Ivete **não** é baiana, então ela **não** é brasileira"? Vamos ver: se Ivete não é baiana, ela ainda pode ser brasileira tendo nascido em Manaus, sei lá, em outro lugar. Então isso aqui também é proibido.
 
-Se `P` não acontece, então `Q` também não acontece? Não.
+> `P → Q` **não** equivale a `¬P → ¬Q`
 
 `⏱ 08:20`
 
-A lógica pode não acontecer, mas está dentro de quem? É outra coisa que é proibida. Chega de proibido. Vamos falar da coisa certa agora, do que você vai marcar na sua prova.
+Chega de proibido. Vamos falar da coisa certa agora, do que você **vai** marcar na sua prova.
 
-Consideremos um exemplo: "Se Sivete é baiana, então Ivete é brasileira." Fechou? Eu posso dizer que é igual a: "Se Sivete não é brasileira, então ela não é baiana." Faz sentido. Se Vete não é brasileira, se ela está fora do mapa do Brasil, ela está fora da Bahia. Claro que sim. Se o que não acontece, o ponto está aqui fora de que consequentemente ele está fora de P. Isso aqui é a coisa mais importante desse vídeo de hoje.
+**O que É equivalente: a contrapositiva (`¬Q → ¬P`)**
+
+"Se Ivete é baiana, então Ivete é brasileira." Fechou? Eu posso dizer que isso é igual a: "Se Ivete **não** é brasileira, então ela **não** é baiana."
+
+Faz sentido: se ela não é brasileira, se está fora do mapa do Brasil, então ela está fora da Bahia. Claro que sim. Nos conjuntos: se o ponto está fora de `Q`, consequentemente ele está fora de `P`. **Isso aqui é a coisa mais importante do vídeo de hoje.**
+
+> `P → Q` **equivale a** `¬Q → ¬P`
 
 ### O Conceito de Equivalência Lógica
 
-Essa equivalência cai demais em concurso investidural. A estrutura que está aqui é chamada de equivalência. São duas proposições que têm o mesmo valor lógico. Se eu tivesse muito tempo, eu faria uma tabela verdade para o lado esquerdo e uma tabela verdade para o lado direito. Vocês veriam que dá mesmo o mesmo valor lógico no final, podendo bater o martelo e dizer que são equivalentes.
+Essa equivalência cai demais em concurso. Equivalência são **duas proposições que têm o mesmo valor lógico**. Se eu tivesse muito tempo, eu faria uma tabela verdade para o lado esquerdo e uma para o lado direito, e vocês veriam que dá o mesmo valor lógico no final — daí a gente bate o martelo e diz que são equivalentes.
 
-Essa equivalência aqui é chamada de contrapositiva. Mas, claro, eu inventei um macete para vocês decorarem. Qual vai ser o macete para decorar isso aqui?
+Essa equivalência é chamada de **contrapositiva**, e eu inventei um macete para vocês decorarem: **inverte negando**.
 
-*   **Inverte:** Porque eu troquei aqui P-I-K-I-P.
-*   **Negando:** Porque ficou não e não.
+*   **Inverte:** porque eu troquei o `P` e o `Q` de lugar.
+*   **Negando:** porque os dois ficaram com "não".
 
-Quando eu disser para vocês qual foi a equivalência que vocês aprenderam com o vaguninho, é: `inverte negando`.
+Quando eu perguntar qual foi a equivalência que vocês aprenderam com o Vaguinho, é essa: **inverte negando**.
 
 ### Aplicando a Contrapositiva (Inverte Negando)
 
@@ -137,105 +149,123 @@ Atenção. Considere a sentença: "Se Juvenal foi trabalhar, então Alva não sa
 
 Ele precisa aprender a fazer uma prova de lógica. É assim que faz prova de lógica.
 
-Juvenal foi trabalhar. Eu vou chamar de P e não vou ficar em nada pensando em Juvenal, nem em trabalho, esquece. Minha preocupação é a forma. Esquece o texto. Eu vou marcar o `então` aqui. "Alva não saiu de casa", apesar de ter ou não, você pode sim chamar de Q.
+"Juvenal foi trabalhar" — eu vou chamar de `P`, e não vou ficar pensando em Juvenal nem em trabalho; esquece, minha preocupação é a forma. Eu marco o **então** aqui. "Alva não saiu de casa" — apesar de ter o "não", você pode chamar de `Q`.
 
-Então, qual é a forma dessa questão? Se P, então Q. Esquece o texto, se liga na forma, bom? O conectivo é `se... então`. Achei o conectivo. Toda prova de lógica eu tenho um conectivo. É o `se... então`, e tem um comando. O comando é esse aqui, é o que eu tenho que fazer. A expressão é "é correto concluir", lido como "equivale". Toda vez que tiver "é correto concluir", é igual a "equivale".
+Então, qual é a forma dessa questão? `P → Q`. Esquece o texto, se liga na forma. O conectivo é o "se… então", achei o conectivo — toda prova de lógica tem um conectivo e tem um **comando**. O comando aqui é a expressão **"é correto concluir"**, que se lê como **"equivale"**. Toda vez que tiver "é correto concluir", é igual a "equivale".
 
-E aí você vai aplicar aqui a contrapositiva, que a gente vai chamar de `inverte negando`. Vamos aplicar esta regra aqui. Vaguninho, só existe essa equivalência, não. Tem outras que eu vou ver no vídeo dele, no próximo vídeo dele, bom?
+E aí você vai aplicar a contrapositiva, que a gente chama de **inverte negando**. (Vaguinho, só existe essa equivalência? Não — tem outras, que eu vejo no próximo vídeo.)
 
-Vamos lá. Inverte negando. É só começar do final aqui. O que eu tenho no final? "Alva não saiu de casa". Joga isso para lá para o início, só que negando. Qual é a negação de "Alva não saiu de casa"? "Alva saiu de casa".
+Vamos lá, inverte negando. É só começar do final: o que eu tenho no final? "Alva não saiu de casa". Joga isso para o início, só que **negando**. Qual é a negação de "Alva não saiu de casa"? "Alva saiu de casa".
 
-Bom, vamos ser espertos. Só tem a letra E que começa desse jeito. Se "Alva saiu de casa", então, joga Juvenal para cá. "Juvenal não foi trabalhar". Eu exemplifiquei aqui para vocês como é que usa o `inverte negando`, a equivalência do condicional.
+Vamos ser espertos: só tem uma alternativa que começa desse jeito. "Se Alva saiu de casa, então…" — e agora joga o Juvenal para cá, negando: "…então Juvenal não foi trabalhar."
 
-### A Tabela Verdade do Condicional
+> `P → Q` ≡ `¬Q → ¬P`
+> "Se Juvenal foi trabalhar, então Alva não saiu de casa"
+> ≡ "Se Alva saiu de casa, então Juvenal não foi trabalhar"
 
-Só que ainda tem o caso 2, que é mais coisas ainda sobre o condicional. Para decorar a tabela verdade do condicional, usamos o macete: **Vera Ficha é Famosa**.
+### Caso 2 — A Tabela Verdade do Condicional
 
-O que eu estou querendo dizer é que, nesse assunto, a gente decora na pegada da falsidade. Para dar falso, tem que ser verdadeiro com falso. É o único jeito. V de Vera, F de Ficha, F de Famosa. Ou seja, para ser falso, é essa linha aqui: Verdade com F de Ficha. O resto é tudo verdade. Só vai dar falso se for desse jeito: Verdade com F.
+Só que ainda tem o caso 2, que é mais coisa sobre o condicional. Para decorar a tabela verdade, usamos o macete: **Vera Fischer é Famosa**.
 
-Posso explicar rapidinho? Foca na segunda linha. Tem como ser verdadeiro em P, ou seja, está dentro do P, e não está dentro do Q. É isso que a segunda linha diz: que está dentro do P, e não está dentro do Q. Isso é impossível, por isso que é falso. Então, o macete está decorado. Bela a verdade: Vera Ficha é a loura famosa. V com F, F. Segura esse macete massa aí.
+O que eu quero dizer é que, nesse assunto, a gente decora **pela falsidade**. Para dar falso, tem que ser verdadeiro com falso — é o único jeito. **V** de Vera, **F** de Fischer, e o resultado **F**. Ou seja, só vai dar falso nesta linha: `V → F`. O resto é tudo verdade.
 
-### O Condicional Alternativo: Sem Noção
+| P | Q | P → Q |
+|---|---|-------|
+| V | V | **V** |
+| V | F | **F** |
+| F | V | **V** |
+| F | F | **V** |
 
-Mas tem mais coisa ainda. Eu gosto tanto de Vera Ficha, ela é minha musa, que tem mais coisas para falar sobre ela. Aqui, Vera Ficha, de novo. Vera Ficha, que é o C, então, é `Sem Noção`. Claro que ela não é sem noção, ela tem muita noção, mas nessa brincadeira eu estou dizendo que ela é sem noção (`SN`).
+Posso explicar rapidinho? Foca na segunda linha. Ela diz que está dentro do `P` e **não** está dentro do `Q` — e isso é impossível, se todo `P` está dentro de `Q`. Por isso é falso. Então o macete está decorado: Vera Fischer, a loira famosa. `V` com `F` dá `F`. Segura esse macete aí.
 
-Primeiro eu vou explicar a forma, depois explico legal o macete. Vera Ficha de novo: ela é falsa, famosa. No outro assunto, no outro caso, mas nesse caso ela é sem noção. Eu vou usar esse macete quando for cobrado no concurso ou no vestibular acerca das linguagens possíveis do condicional.
+### Caso 3 — Suficiente e Necessário: o "Sem Noção"
 
-### Definições Formais: Suficiente e Necessário
+Mas tem mais coisa ainda. Eu gosto tanto da Vera Fischer, ela é minha musa, que tem mais para falar sobre ela: além de famosa, ela é **Sem Noção** (`SN`). Claro que ela tem muita noção — é só a brincadeira do macete.
 
-Eu não vou entrar na epistemologia das palavras. Esse S aqui é de `Suficiente`, e esse N aqui é de `Necessário`. Em concurso é cobrado na forma mais rasteira possível, então não preciso viajar no lugar que vocês não vão precisar. Deixa eu ser direto ao objetivo com vocês.
+`S` e `N` são as iniciais que interessam aqui, e eu uso esse macete quando o concurso ou o vestibular cobra as **linguagens possíveis do condicional**.
 
-A proposição que se encontra nesta posição é chamada de `Suficiente`, e a proposição que encontra nesta posição é chamada de `Necessária`.
+#### Definições: Suficiente e Necessário
 
-Vou dar um exemplo: "Se estudo com vaguninho (P), então aprendo matemática (Q)." Esta mesma frase pode vir de outras maneiras no concurso, e você tem que saber pelas posições. As outras maneiras que isso pode vir são:
+Eu não vou entrar na epistemologia das palavras — em concurso isso é cobrado na forma mais rasteira possível, então deixa eu ser direto. O `S` é de **Suficiente** e o `N` é de **Necessário**, e o que decide qual é qual é a **posição** na seta:
 
-- Estudar com o vaguninho está na posição do P. O P é o `Suficiente` para aprender matemática. Não vá além disso, porque no concurso não precisa. Só fica nessa questão de posição.
-- Aprender matemática, que é o N, é a condição `necessária` para estudar com o vaguninho.
+> `P → Q`
+> `P` (à esquerda) é a condição **Suficiente**
+> `Q` (à direita) é a condição **Necessária**
 
-Eu tenho ainda outra expressão que eu queria que vocês memorizassem, que é o `somente se`. Toda vez que aparecer `somente se` na prova de vocês, relaxa, fica de boa e fale assim: `somente se`.
+Vou dar um exemplo: "Se estudo com o Vaguinho (`P`), então aprendo matemática (`Q`)." Esta mesma frase pode vir de outras maneiras no concurso, e você tem que reconhecer pelas posições:
+
+- "Estudar com o Vaguinho" está na posição do `P`, então é a condição **suficiente** para aprender matemática. Não vá além disso, porque no concurso não precisa: fica só na questão da posição.
+- "Aprender matemática" está na posição do `Q`, então é a condição **necessária** para estudar com o Vaguinho.
+
+Eu tenho ainda outra expressão que eu queria que vocês memorizassem, que é o **"somente se"**.
 
 `⏱ 16:00`
 
-Se eu estou de boa, somente se significa o si. Ou seja, se estudo com vaguinha, então aprendo matemática. É preciso decorar e memorizar. O macete "sem noção" ajuda muito a memorizar. S significa Suficiente (lado esquerdo); IN significa Necessário.
+O "somente se" é o próprio "se… então", na mesma ordem: "estudo com o Vaguinho **somente se** aprendo matemática" é o mesmo que "**se** estudo com o Vaguinho, **então** aprendo matemática".
 
-### O Conectivo Condicional
+> `P` somente se `Q` ≡ `P → Q`
 
-O condicional é o conectivo mais complexo de todos. É preciso dedicar mais tempo a ele. Existem quatro casos importantes sobre o condicional.
+É preciso decorar e memorizar, e o macete "**sem noção**" ajuda: `S` de Suficiente à esquerda, `N` de Necessário à direita.
 
-### O Caso 4: Distratores em Concursos
+### Caso 4 — Distratores em Concursos
 
 Alguns concursos usam distratores. Um distrator é uma expressão feita para distrair o concureiro. Se você não tiver esse saque, terá dificuldade de resolver as provas. Quais são as expressões que devem ser transformadas em condicional?
 
 *   "Quando acredito que estou certo, não me importo com a opinião dos outros."
     *   A palavra "quando" dá a ideia de condição. A frase deve ser reescrita: "Se acredito que estou certo, então não me importo com a opinião dos outros."
-*   "Convida a cada brasileiro a conhecer seu próprio DNA, tem uma influência grande do continente africano." (Pular essa case para o visório, R).
+*   [inaudível: um exemplo sobre DNA e a influência do continente africano]
 *   "Quem doa sangue doa vida."
     *   Se não se ligasse que a palavra "quem" significa "se", teria dificuldade. A frase é: "Se doa sangue, então doa vida."
 *   "Penso, logo, existo."
     *   O "logo" também dá a ideia de "se... então". A frase é: "Se penso, então existo."
 
-### O Caso Especial: "Pois" no Meio da Frase
+#### O caso especial: o "se" ou o "pois" no meio da frase
 
-Este caso é um pouco diferente dos outros. Observe: "Vou ao mercado, se preciso comprar frutas." O "se" no meio já complica um pouco.
+Este caso é diferente de todos os outros. Observe: "Vou ao mercado, **se** preciso comprar frutas." O "se" no meio já complica um pouco.
 
-É o seguinte: se o "se" ou o "pois" estiver no meio da frase, a regra é diferente.
+A regra: quando o "se" ou o "pois" está **no meio** da frase, ela tem que ser reescrita **do final para o início**.
 
-Exemplo: "Vou ao mercado, pois eu precisei comprar frutas."
+Exemplo: "Vou ao mercado, **pois** preciso comprar frutas." Fica assim:
 
-A frase tem que ser reescrita do final para o início. É o único diferente de todos. Fica assim: "Se preciso comprar frutas, então vou ao mercado."
+> "**Se** preciso comprar frutas, **então** vou ao mercado."
 
-Falei dos quatro casos da condicional. Abram esses quatro casos, pois eles ajudarão muito quando for partir para os exercícios.
+Falei dos quatro casos da condicional. Guardem esses quatro casos, porque eles ajudam muito quando for partir para os exercícios.
 
 ### O Conectivo Bicondicional
 
-Fechamos o bloco falando do nosso sexto conectivo, que é o bicondicional. É muito fácil. Por quê? O "B" de bicondicional significa condicional dobrada. A condicional aceita só ir para a direita; a bicondicional não. É essa seta duplicada.
+Fechamos o bloco falando do nosso sexto conectivo, o **bicondicional**. É muito fácil: o "bi" significa condicional **dobrada**. A condicional só aceita ir para a direita; a bicondicional vai para os dois lados — é a seta **dupla**, `↔`.
 
-O bicondicional é a associação de duas coisinhas. Eu faço as associações, então o que significa P se somente se Q? Se P acontece, que acontece? E se Q acontece, P também acontece. Os dois conjuntos seriam dois conjuntos, um em cima do outro.
+O que significa `P ↔ Q` ("P se e somente se Q")? Se `P` acontece, `Q` acontece; **e** se `Q` acontece, `P` também acontece. Nos conjuntos, seriam dois conjuntos **coincidentes**: `P` e `Q` são o mesmo conjunto.
 
-Eu vou usar a expressão "coincidentes": P e Q é o mesmo conjunto. Gosto muito dessas expressões que criei: bicondicional, que transmite a ideia de recíproca; condicional, que é uma condicional em dose dupla; e o bicondicional.
+### Tabela Verdade do Bicondicional
 
-### Tabela Verdade
+Para ser verdade, os dois lados devem ser **iguais** — não pode ser verdade num e falso no outro, porque o conjunto tem que ser o mesmo. Então só é verdade na primeira e na última linha: **ou `V` com `V`, ou `F` com `F`**.
 
-Vamos falar da tabela verdade. Para ser verdade, os dois lados devem ser verdadeiros. Tudo fora não pode ser verdade um e falso no outro; o conjunto deve ser o mesmo. Só será verdade nesta primeira linha e nessa última linha.
+| P | Q | P ↔ Q |
+|---|---|-------|
+| V | V | **V** |
+| V | F | **F** |
+| F | V | **F** |
+| F | F | **V** |
 
-Qual seria uma seta aqui para ser verdade? Para ser verdade, são as duas. Podemos falar as duas, porque o lado direito e o lado esquerdo da bicondicional devem ser iguais. Deve ser igual, certo? Ou V com V ou F com F.
+A palavra-chave aqui é **"iguais"**.
 
 ### Bicondicional na Prática
 
-Para encerrar, quero trazer esta frase para discutir: "Você lavar o carro é a condição necessária e suficiente para eu emprestar você."
+Para encerrar, quero trazer esta frase para discutir: "Você lavar o carro é a condição **necessária e suficiente** para eu emprestar o carro para você."
 
-Observe que não tem só necessária ou só suficiente, como em outro assunto. Tem as duas, os dois adjetivos. A de baixo: "Você lava o carro se somente se eu emprestar para você."
+Observe que não tem só "necessária" ou só "suficiente", como no caso 3. Tem os **dois** adjetivos — e é isso que denuncia o bicondicional. A outra forma de dizer a mesma coisa é: "Você lava o carro **se e somente se** eu emprestar para você."
 
-Essas duas frases se tratam de bicondicional, porque tem duas coisas: necessária e suficiente. E aqui tem os dois "se", como se fosse as duas setinhas. Fique ligado nessa linguagem.
+Essas duas frases são bicondicional: uma porque traz necessária **e** suficiente, a outra porque traz os dois "se", como se fossem as duas setinhas. Fique ligado nessa linguagem.
 
-As conclusões que podem ser tiradas são:
+As conclusões que podem ser tiradas são **todas as quatro**:
 
-- Se você lavar, eu te empresto.
-- Se você não lavar, eu não te empresto.
-- Se eu te emprestar, você lava.
-- Se eu não te emprestar, você não lava.
+- Se você lavar, eu te empresto. → `P → Q`
+- Se você não lavar, eu não te empresto. → `¬P → ¬Q`
+- Se eu te emprestar, você lava. → `Q → P`
+- Se eu não te emprestar, você não lava. → `¬Q → ¬P`
 
-Nesse assunto pode tudo. Só não pode negar um e não negar o outro. Ou nega todo mundo, eu não nego ninguém.
+Nesse assunto pode tudo. Só não pode negar um e não negar o outro: **ou nega todo mundo, ou não nega ninguém.**
 
 ### Conclusão
 
@@ -251,8 +281,47 @@ Acabamos os conectivos, fechamos os seis conectivos. Estamos prontos para resolv
 
 ## Revisão da transcrição
 
-<details><summary>7 frase(s) descartadas como ruído de vídeo (inscrição, saudação, despedida)</summary>
+> [!nota] O conteúdo desta nota foi conferido e corrigido à mão
+>
+> **O erro que mais importava:** na tabela verdade do bicondicional, o texto
+> dizia *"para ser verdade, os dois lados devem ser **verdadeiros**"*. Está
+> errado — `F ↔ F` também é verdade. A regra é os dois lados serem **iguais**, e
+> a própria aula corrige isso duas linhas depois ("ou V com V ou F com F").
+> Corrigido, e a tabela foi desenhada.
+>
+> | o Whisper ouviu | é |
+> |---|---|
+> | "a famosa **PIQ**" | "a famosa **P e Q**" (o apelido do assunto, do vídeo 1) |
+> | `$ p\rightarrow q$` (LaTeX cru) | `P → Q` |
+> | "**Consulteca**, o **Neb**" | "**Consultec**" e "**UNEB**" |
+> | "Se **Sivete** é baiana", "Se **Vete** não é" | "Se **Ivete**…" |
+> | "**Vera Ficha** é Famosa" | "**Vera Fischer** é Famosa" — o macete `V → F = F` |
+> | "eu troquei aqui **P-I-K-I-P**" | "troquei o `P` e o `Q` de lugar" |
+> | "com o **vaguninho**" / "**vaguinha**" | "com o **Vaguinho**" |
+> | "**IN** significa Necessário" | "**N** significa Necessário" |
+> | "ou nega todo mundo, **eu** não nego ninguém" | "**ou** não nego ninguém" |
+> | "concurso **investidural**" | "concurso" |
+>
+> **Reconstruído:** a seção da equivalência estava com as três estruturas
+> (recíproca, inversa e contrapositiva) descritas em frases quebradas e sem nome
+> — e é justo a distinção que a banca cobra. Ficaram nomeadas e separadas, com a
+> fórmula de cada uma e o que é permitido marcar em prova.
+>
+> Os **quatro casos** do condicional, que a aula anuncia e depois não numera,
+> foram numerados nos subtítulos.
+>
+> **Acrescentado:** as tabelas verdade do condicional e do bicondicional, e a
+> forma `P` somente se `Q` ≡ `P → Q`, que a aula explica em voz alta.
+>
+> **Removido:** o pedido de direct no Instagram para receber o resumo em PDF. O
+> filtro não pegava "me chamem no Instagram" — passou a pegar.
+>
+> Onde não deu para recuperar, ficou `[inaudível]`: um dos exemplos de distrator,
+> sobre DNA e a influência do continente africano.
 
+<details><summary>8 frase(s) descartadas como ruído de vídeo (inscrição, saudação, despedida)</summary>
+
+- Se quiser o resumo, me chamem no Instagram. No direct, vocês me pedem, e eu mando o resumo.
 - Olá!
 - Meu compromisso é descomplicar a matemática e o raciocínio lógico, trazendo conteúdos de forma objetiva.
 - Seja em pré-vestibular, seja para concurso público, ou nos meus cursos online, o foco é sempre em uma matemática direta, objetiva e voltada para as provas de concurso, do ENEM e de vestibulares.

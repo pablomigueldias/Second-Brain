@@ -15,11 +15,11 @@ conceitos: [Conjunção, Disjunção, Condicional, Bicondicional, Negação]
 
 ## Para lembrar
 
-- **A conjunção só é verdadeira quando todas as proposições são verdadeiras.**
-- **Na disjunção, basta uma proposição verdadeira para o todo ser verdadeiro.**
-- **No bicondicional, para ser verdade, os dois lados têm que ser iguais.**
-- **A expressão "somente se" é uma condicional — é só enxergar isso.**
-- **A negação da verdade é igual a falso; a negação da falsidade é igual a verdade.**
+- **Condicional `P → Q`: o único caso falso é `V → F` (o macete "Vera Fischer"). Começando com falso, já é verdadeiro.**
+- **Conjunção `∧`: só é verdadeira se todas forem verdade. Disjunção `∨`: basta uma.**
+- **Bicondicional `↔`: verdadeiro só quando os dois lados são iguais.**
+- **"P somente se Q" é `P → Q`; "P se e somente se Q" é `P ↔ Q`. Uma palavra muda o conectivo.**
+- **Numa condicional `P → Q`, P é a condição suficiente e Q é a necessária.**
 
 ## O que esta nota responde
 
@@ -39,49 +39,53 @@ Nos últimos vídeos, estamos falando sobre lógica proposicional. Quem ainda n�
 
 ### Estrutura do Estudo
 
-Nesta aula, vamos fazer algumas questões de concurso investidural envolvendo conectivos. A ideia é treinar, reforçar ideias dos conectivos e, sobretudo, fazer o cruzamento da teoria com a forma que os concursos cobram esse assunto. Vamos cruzar teoria com resolução de exercícios, e aí que a gente fica fera no assunto.
+Nesta aula, vamos fazer algumas questões de concurso envolvendo conectivos. A ideia é treinar, reforçar ideias dos conectivos e, sobretudo, fazer o cruzamento da teoria com a forma que os concursos cobram esse assunto. Vamos cruzar teoria com resolução de exercícios, e aí que a gente fica fera no assunto.
 
-Vocês vão ver que vai facilitar demais a vida de vocês. Está tudo organizado e estigado.
+Vocês vão ver que vai facilitar demais a vida de vocês. Está tudo organizado e esquematizado.
 
 ### Questão 1: Prova da IBFC 2020
 
-Considerando os símbolos I, O, Si, Tan, Si, Somente Si, analise os seguintes testes lógicos.
+Considerando os símbolos `∧` (e), `∨` (ou), `→` (se… então) e `↔` (se e somente se), analise os seguintes itens.
 
-Estes lógicos, a gente conhece como proposições e dão valores verdadeiro ou falso. Essa questão é excelente, ela é um mix de matemática com raciocínio lógico. Vamos resolver a primeira parte matemática e depois vamos para a lógica.
+Estes itens, a gente conhece como proposições, e dão valores verdadeiro ou falso. Essa questão é excelente, ela é um mix de matemática com raciocínio lógico. Vamos resolver a primeira parte matemática e depois vamos para a lógica.
 
-**Primeiro Teste:**
-Aqui, temos uma proposição. Ela vai até aqui, e aqui é outra. Temos subtração e temos multiplicação. Primeiro tem que fazer a multiplicação. 3 vezes 12 é 36. 32 menos 36 é menos 4. Isso é verdadeiro.
-Depois vem: 12 mais 15 é igual a 27. Verdade também.
+**Item 1 — conjunção (`∧`):**
+Aqui temos uma proposição, e aqui é outra. Temos subtração e temos multiplicação. Primeiro tem que fazer a multiplicação. 3 × 12 = 36. Então 32 − 36 = −4: isso é **verdadeiro**.
+Depois vem: 12 + 15 = 27. **Verdade** também.
 
-**Análise Lógica do Primeiro Teste:**
-Não tem como fazer essa questão aqui, ou você estudou, ou você não faz, porque você tem que saber que esse símbolo aqui se chama `I` (Conjunção). Para ser verdadeiro, todas têm que ser verdade.
+Não tem como fazer essa questão aqui — ou você estudou, ou você não faz — porque você tem que saber que este símbolo se chama conjunção. **Na conjunção, todas têm que ser verdade.** Como aqui as duas são verdade, o item 1 dá **verdadeiro**.
 
-Como você tem aqui todas verdades, então a primeira parte vai dar verdadeiro.
+> `V ∧ V = V`
 
-**Segundo Teste:**
-Aqui, temos: 15 mais 2 é diferente de 17. Não, é igual. Então isso aqui vai dar falso.
+**Item 2 — disjunção (`∨`):**
+15 + 2 ≠ 17? Não, é igual: isso dá **falso**.
+18 − 9 = 9? Sim, **verdade**.
+**Na disjunção, basta uma ser verdadeira.** Como uma das duas é verdadeira, o item 2 dá **verdadeiro**.
 
-**Terceiro Teste (Conectivo `O` - Disjunção):**
-No meio nós temos o `O`. 18 menos 9 é igual a 9. Sim.
-Para o `O` ser verdadeiro, basta uma ser verdadeira. Como uma das duas foi verdadeira, a resposta é verdadeira.
+> `F ∨ V = V`
 
-**Quarto Teste (Conectivo `Si` - Condicional):**
-Vamos para a próxima.
-12 dividido por 4 é igual a 4. Isso aqui é falso.
-Nós temos o `Si` (Condicional).
-25 menos 13 é igual a 12. Verdade.
-Qual é a regra? Diga para mim: para o condicional ser verdadeiro, as duas têm que ser iguais. Como elas não são iguais, então a gente vai ter falso no terceiro aqui.
+**Item 3 — bicondicional (`↔`, "se e somente se"):**
+12 ÷ 4 = 4? Isso é **falso** (12 ÷ 4 = 3).
+25 − 13 = 12? **Verdade**.
+Qual é a regra? **No bicondicional, para ser verdadeiro, os dois lados têm que ser iguais.** Como não são iguais, o item 3 dá **falso**.
 
-**Continuando o Treino:**
-Vem: 12 dividido por 4, 48 dividido por 4 é igual a 12. Verdade. Vou colocar aqui verdadeiro, vou continuar para a gente treinar.
-16 mais... 17 é diferente de 33. Não é igual a 33. Isso aqui dá falso.
+> `F ↔ V = F`
 
-**Último Teste (Conectivo `Si` - Condicional):**
-No meio você tem o conectivo `Si`. Então é a nossa famosa "véra ficha" aqui. Véra ficha é uma loura famosa. Ver com F de F, portanto a resposta aqui vai ser o que é.
+**Item 4 — condicional (`→`):**
+48 ÷ 4 = 12? **Verdade**.
+16 + 17 ≠ 33? Não é: 16 + 17 = 33, então isso dá **falso**.
+No meio você tem o condicional. Então é a nossa famosa **Vera Fischer** aqui — a loira famosa, `V → F`. **Verdadeiro implicando falso é o único caso em que o condicional dá falso.** É exatamente o que temos, então o item 4 dá **falso**.
+
+> `V → F = F`
 
 `⏱ 04:40`
 
-Para encerrar, você vai ter 13 + 12 = 9. Isso aqui é falso. Depois vem o OU. 1 + 1 = 3. Falso. No OU, para ser verdade, tem que ter pelo menos uma. Portanto, isso aqui vai dar falso. Observe a letra B, porque ele pede a sequência. Você vai ter VVFFF, VVFFF. A resposta correta é a letra B.
+**Item 5 — disjunção (`∨`):**
+Para encerrar: 13 + 12 = 9? **Falso**. Depois vem o OU. 1 + 1 = 3? **Falso**. Na disjunção, para ser verdade, tem que ter pelo menos uma verdadeira. Portanto o item 5 dá **falso**.
+
+> `F ∨ F = F`
+
+Observe a letra B, porque ele pede a sequência. Você vai ter **V V F F F**. A resposta correta é a letra B.
 
 Qual foi o objetivo dessa questão? Treinar os conectivos. Vamos para mais uma. É uma questão clássica, gosto muito dela.
 
@@ -91,22 +95,31 @@ Dadas as proposições simples P e Q, tal que P é verdadeira. É super importan
 
 Isso aqui é o mais importante da questão: P é verdade e o Q é igual a falso. Ele deu aqui quatro proposições compostas e pede quantas delas são verdadeiras. É uma boa oportunidade também para a gente treinar conectivos.
 
-Vamos treinar:
+Vamos treinar. Lembrando: **P é verdadeira, Q é falsa.**
 
-*   **Primeira proposição:** P é verdade. Coloque aqui em cima a verdade, e o que é falso? No meio você tem um I. Qual é a regra do I para ser verdade? Todas têm que ser verdade. Nem todas são, então a primeira vai ser falsa.
-*   **Segunda proposição:** Atenção, não P. Se P é verdadeira, não é o contrário, então vai dar falso. Quero muita atenção agora, pouca não serve nesse assunto.
-*   **Terceira proposição (Se... então):** Só vai ser falsa quando for verdadeira e falsa. *Veraficha* é uma loja famosa. Se não começou com V de vera, não vai ter como dar veraficha. Então não tem como ser falsidade na segunda. Se começar com falso, já suave, a resposta vai ser verdadeira.
+*   **1ª proposição — conjunção (`P ∧ Q`):** P é verdade, Q é falsa. No meio você tem a conjunção. Qual é a regra da conjunção para ser verdade? Todas têm que ser verdade. Nem todas são, então a primeira dá **falso**.
+
+    > `V ∧ F = F`
+
+*   **2ª proposição — começa com `¬P`:** Atenção, "não P". Se P é verdadeira, a negação dela é o contrário, então `¬P` dá **falso**. Quero muita atenção agora; pouca não serve nesse assunto.
+
+*   **3ª proposição — condicional (`→`):** Ela só vai ser falsa quando for verdadeira implicando falsa — a **Vera Fischer**, `V → F`. Se não começou com V, não tem como dar Vera Fischer, ou seja, não tem como dar falso. **Começando com falso, o condicional já é verdadeiro**, seja o que vier depois. Então essa dá **verdadeiro**.
+
+    > `F → qualquer coisa = V`
 
 ### Resolução Detalhada das Proposições
 
-**3.** Primeiro a gente vai resolver dentro do parêntese. P é verdadeira. No conectivo que nós temos no meio aqui é um OU. No OU, para ser verdade, basta uma. Se eu já tenho uma, então o parêntese todo dá verdade, concordam comigo? Só que fora do parêntese tem OU, e a negação da verdade é igual a falso, certo?
+Primeiro a gente resolve dentro do parêntese, porque a gente ainda não estudou as regras da negação — por isso estou usando essa metodologia de fechar o parêntese antes.
 
-A mesma coisa no 4. Resolva primeiro o parêntese, porque a gente ainda não estudou as regras da negação, por isso que estou usando essa metodologia para fazer os parênteses.
+*   **3ª proposição, em detalhe — `¬(P ∨ Q)`:** dentro do parêntese o conectivo é o OU. Na disjunção, basta uma ser verdade; como P já é verdade, o parêntese todo dá **verdade**. Só que **fora do parêntese tem um NÃO**, e a negação da verdade é igual a falso.
 
-*   **Proposição 1:** P, verdade e o que é falso. Dentro do parêntese é um bicondicional. Para ser verdade, os dois têm que ser iguais. Como eles não são iguais, vai dar falso.
-*   **Proposição 2:** Atenção, dentro do parêntese deu falso, mas tem um NÃO fora. Então a negação da falsidade é igual a verdade.
+    > `¬(V ∨ F) = ¬V = F`
 
-Muito bem. Quantas delas são verdadeiras? Duas. A resposta está na letra C.
+*   **4ª proposição — `¬(P ↔ Q)`:** dentro do parêntese é um bicondicional. Para ser verdade, os dois têm que ser iguais; como P é verdade e Q é falsa, o parêntese dá **falso**. Mas tem um NÃO fora, e a negação da falsidade é igual a verdade — então essa dá **verdadeiro**.
+
+    > `¬(V ↔ F) = ¬F = V`
+
+Muito bem. Quantas delas são verdadeiras? **Duas.** A resposta está na letra C.
 
 A aprendizagem matemática está muito atrelada à resolução de exercícios. A teoria é importante. Claro que a teoria é importante, mas a teoria não é o mais importante. Se ela não for ligada, se você não fizer essa ligação com os exercícios, você não cresce. O exercício é o complemento perfeito para você ampliar a teoria, pois temos que fazer muita questão lógica. Nunca se esqueçam disso.
 
@@ -114,73 +127,91 @@ A aprendizagem matemática está muito atrelada à resolução de exercícios. A
 
 Para a questão 3, uma prova da AOCP, ainda nesse contexto de conectivos, considere as seguintes proposições compostas e assinale a alternativa que apresenta as verdadeiras.
 
-*   Dois é par? Sim, dois é par. Verdade.
-*   Oito é ímpar? Não. No meio tem um I. Para ser verdade, todas têm que ser verdade, então a primeira questão vai ser falsa.
-*   2, 5 é par? Não. Limpa, sim, verdade.
-*   No ou para ser verdade, basta uma ser verdade, então aqui é verdade.
+*   **Item 1 — conjunção (`∧`):** "Dois é par" → sim, **verdade**. "Oito é ímpar" → não, **falso**. No meio tem a conjunção, e nela todas têm que ser verdade — então o item 1 dá **falso**.
 
-Para você que está assistindo a essa aula e não assistiu as outras, se você tiver perdido para essa, volte nos outros vídeos de lógica proposicional. Nos outros vídeos você vai ter toda essa explicação que eu estou falando. Quando eu digo que "não ou" para ser verdade, basta uma, eu expliquei os porquês disso. A gente abriu a teoria e entendeu legal. Volte lá.
+    > `V ∧ F = F`
 
-Aqui, na questão 3: Se 5 é ímpar, 5 é ímpar. É, 5 é ímpar, verdade. Então, 4 é ímpar? Não, falso. Aqui nós temos os "Se... então...", que é a regra da Vera Ficha, a Vera Ficha Loura Famosa. Portanto, nós só temos a alternativa dois como correta. Eu vou marcar a letra C.
+*   **Item 2 — disjunção (`∨`):** "2,5 é par" → não, **falso**. A outra parcela é **verdade** [inaudível: qual proposição]. Na disjunção, basta uma ser verdade — então o item 2 dá **verdadeiro**.
 
-Esta é uma questão tranquila para quem está estudando, porque o problema de lógica são dois tipos de pessoa. Eu digo um tipo de pessoa que fala assim: "Ah, lógico, eu não vou estudar, porque lógico eu sou bom de lógica, meu pensamento é bom, eu sei agir pela intuição, não vou estudar, é para isso é de tal, não vou estudar lógico não." Aí se dá mal porque encontra essa lógica na prova, e essa lógica não é uma lógica intuitiva, que você resolve sem teoria, você vai nos seus dedos... sons internos? Não, essa lógica tem um arcabouço teórico. Então, aí você dá mal.
+    > `F ∨ V = V`
 
-E o outro tipo de pessoa é: "Ah, feminária, lógica? Não, aquilo não entra em minha cabeça, não tem condição." Calma, vamos estudar, vamos devagarinho, o que a gente consegue? Vamos assistir um vídeo lá devagarinho, várias vezes, até a gente entender.
+Para você que está assistindo a essa aula e não assistiu às outras, volte nos outros vídeos de lógica proposicional. Neles você vai ter toda essa explicação que eu estou dando. Quando eu digo que na disjunção basta uma ser verdade, eu expliquei os porquês disso: a gente abriu a teoria e entendeu direito. Volte lá.
+
+*   **Item 3 — condicional (`→`):** "Se 5 é ímpar, então 4 é ímpar." O antecedente: 5 é ímpar, **verdade**. O consequente: 4 é ímpar? Não, **falso**. Aqui nós temos o "se… então", que é a regra da **Vera Fischer** — `V → F` é o único caso falso. Então o item 3 dá **falso**.
+
+    > `V → F = F`
+
+Portanto, só temos a **alternativa 2** como correta. Eu vou marcar a letra C.
+
+Esta é uma questão tranquila para quem está estudando, porque o problema de lógica são dois tipos de pessoa. O primeiro fala assim: "Ah, lógica eu não vou estudar, porque eu sou bom de lógica, meu pensamento é bom, eu sei agir pela intuição, não vou estudar lógica não." Aí se dá mal, porque encontra essa lógica na prova e essa lógica não é intuitiva — não é a que você resolve sem teoria, [inaudível]. Essa lógica tem um arcabouço teórico. Então aí você se dá mal.
+
+E o outro tipo de pessoa é: "Ah, lógica? Não, aquilo não entra na minha cabeça, não tem condição." Calma, vamos estudar, vamos devagarinho. Vamos assistir um vídeo devagar, várias vezes, até a gente entender.
 
 ### Questão 4: Análise de Condicionais
 
-Tenho mais uma para vocês, essa é boa. Questão 4, observe a questão da IBFC de 2020. Observe as duas proposições P que são apresentadas: P, Ana é engenheira, e Q, Bianca é arquiteta. O que eu faço com isso? Nada. Simplesmente pela Ana é engenheira e que Bianca é arquiteta, não façam nada com isso, espero.
+Tenho mais uma para vocês, essa é boa. Questão 4, da IBFC de 2020. Observe as duas proposições apresentadas: **P: Ana é engenheira** e **Q: Bianca é arquiteta**. O que eu faço com isso? Nada — não julgue se é verdade ou falso, elas são só rótulos aqui.
 
-Considere que Ana é engenheira somente se Bianca é arquiteta.
+O enunciado diz: **"Ana é engenheira somente se Bianca é arquiteta."**
 
-Nessa questão, para resolver, bastava você entender que a expressão "somente se..." nada mais é do que uma condicional. É só isso: enxergar que "somente se" significa condicionar.
+Nessa questão, para resolver, bastava você entender que a expressão **"somente se" é uma condicional**. É só isso: enxergar que "somente se" condiciona.
 
-Ana é engenheira, que letra é que o autor está trazendo? P. Bianca é arquiteta, que letra é que? Q.
+> **Cuidado com a diferença:** "P **somente se** Q" é a condicional `P → Q`.
+> "P **se e somente se** Q" é o bicondicional `P ↔ Q`. Uma palavra a mais muda
+> o conectivo.
 
-Então, estou com uma expressão aqui que é: P, então o quê? Fica na sua. Assinale a alternativa correta.
+"Ana é engenheira" é qual letra? **P**. "Bianca é arquiteta"? **Q**. Então a expressão é:
 
-Ana ser engenheira não implica Bianca ser arquiteta, implica sim, não é? Não implica, implica. Por isso que errado. O problema da letra A é o "não implica". Não é, não implica, não é, não implica.
+> `P → Q`
 
-B. Ana ser engenheira é condição. Opa, agora eu entendi a questão: é suficiente, necessário, que está cobrando aqui. Eu não quebro minha cabeça, porque eu sei que Vera Ficha é o que, sem noção. Então, esta frase que é chamada de suficiente, quem está neste lugar, Ana é engenheira.
+Assinale a alternativa correta.
+
+**Letra A** — "Ana ser engenheira **não** implica Bianca ser arquiteta." Errado: implica, sim. O problema da letra A é justamente o "não implica".
+
+**Letra B** — "Ana ser engenheira é condição **suficiente** para Bianca ser arquiteta." Opa, agora eu entendi a questão: é suficiente e necessário que ela está cobrando aqui. E aí eu não quebro a cabeça, porque numa condicional `P → Q`:
 
 `⏱ 12:40`
 
-Quem está nessa posição é chamado de necessário. Só isso.
+> **quem está na posição de P é a condição suficiente;**
+> **quem está na posição de Q é a condição necessária.**
 
-Bora para a letra B. Ana C engenheira é P. É condição. Ana C engenheira é condição suficiente sim para Bianca ser arquiteta. Essa daqui? Resposta letra B.
+Só isso. Bora para a letra B: "Ana ser engenheira" é o P, ou seja, é a condição **suficiente** para Bianca ser arquiteta. É essa. **Resposta: letra B.**
 
-Tranquilo, aqui só cobrou de vocês o que? Linguagem.
+Tranquilo — aqui só cobrou de vocês o quê? Linguagem.
 
 ### Revisão de Conectivos Lógicos
 
-Bora para a última agora. Vamos nessa? Muito bem, essa é a nossa saída agora. A última questão aqui, esse trenzinho rápido, é para a gente entender aquela teoria toda que eu passei para vocês. Aquilo que foi dito, as regras do ígido, para que serve para resolver questões como essa que a gente está fazendo agora.
-
-Bora.
+Bora para a última agora. Essa é a nossa saideira. A última questão é para a gente entender para que serve aquela teoria toda que eu passei para vocês — as regras dos conectivos — na hora de resolver questões como esta.
 
 **Questão IBFC:**
 Sejam as proposições:
-1. `15% de 30% é igual a 45%`
-2. `a quarta parte de 1,12 é 3`
 
-Considerando os valores lógicos dessas proposições, toda vez que disser valor lógico, ele quer saber se é verdade ou é falso. Podemos afirmar que o valor lógico desta proposição aqui embaixo é...
+1. **P:** `15% de 30 é igual a 45`
+2. **Q:** `a quarta parte de uma dúzia é 3`
 
-Essa é uma questão bacana. Vocês têm que começar primeiro pela matemática, resolve lá a matemática, depois a gente conversa.
+Considerando os valores lógicos dessas proposições — toda vez que a banca disser "valor lógico", ela quer saber se é verdade ou se é falso — podemos afirmar que o valor lógico da proposição composta é...
+
+Essa é uma questão bacana. Vocês têm que começar pela matemática: resolve a matemática, depois a gente conversa.
 
 **Resolução Matemática:**
 
-*   `15% de 30%` nunca vai ser 45. Como é que é uma coisa? `15% de 30` vai dar 4,5%, não 45.
-*   A quarta parte: a gente escreve assim, um quarto de uma dúzia. Uma dúzia é 12. Perguntando, afirmando que `1/4 de 12` é igual a 3. Se a gente dividir 12 por 4, vai dar 3.
+*   `15% de 30` nunca vai dar 45: dá **4,5**. Então **P é falsa**.
+*   A quarta parte de uma dúzia: uma dúzia é 12, e `12 ÷ 4 = 3`. Então **Q é verdadeira**.
 
-A gente vai pegar agora esses valores lógicos e lançar aqui embaixo. Vamos.
+A gente vai pegar agora esses valores lógicos e lançar na expressão:
 
-*   P é falso. Vai botar um falso aqui.
-*   Q é verdadeiro. Bota a verdade aqui.
-*   E o `não P`: se P é falso, atenção, `não P` vai ser verdadeiro.
+*   **P é falso.**
+*   **Q é verdadeiro.**
+*   E o `¬P`: se P é falso, atenção, **`¬P` é verdadeiro**.
 
-**Resolução Lógica:**
+**Resolução Lógica** — a expressão é `(P → Q) ↔ ¬P`:
 
-1.  Primeiro eu vou resolver o parêntese: `(se eu não sou menino)`. O parêntese é `si` (Se), e não tem verdade aqui, então não é famosa, não dá falso. Então o parêntese dá o quê? Verdade.
-2.  Então o lado esquerdo do bicondicional: olha o bicondicional no meio. Deixa eu botar o teu colo aqui para ficar mais claro. No meio você tem o bicondicional, certo? O lado esquerdo dele você tem verdade, e o lado direito tem verdade também. No bicondicional, para ser verdade, os dois devem ser iguais. Então são iguais, portanto, o valor final aqui desta proposição é letra C.
+1.  Primeiro eu resolvo o parêntese, `(P → Q)`. O conectivo é o condicional, e o antecedente aqui não é verdade — é falso. Então **não é a Vera Fischer** (`V → F`), e por isso não dá falso. O parêntese dá **verdade**.
+
+    > `F → V = V`
+
+2.  Agora o bicondicional do meio. O lado esquerdo dele é o parêntese, que deu **verdade**; o lado direito é `¬P`, que também é **verdade**. No bicondicional, para ser verdade, os dois lados devem ser iguais — e são. Portanto o valor lógico final desta proposição é **verdadeiro**: letra C.
+
+    > `V ↔ V = V`
 
 ### Encerramento
 
@@ -196,20 +227,38 @@ Ainda vou falar das equivalências das negações e ainda tem quantificadores.
 
 ## Revisão da transcrição
 
-> [!atenção] O "Quarto Teste" provavelmente é bicondicional, não condicional
-> O corpo diz `Si` (Condicional) no Quarto Teste e conclui **falso**, com `P`
-> falsa (`12 ÷ 4 = 4`) e `Q` verdadeira (`25 − 13 = 12`). Só que `F → V` é
-> **verdadeiro**; `F ↔ V` é que é falso. E o enunciado listava "Somente Si"
-> entre os símbolos — o Whisper encurtou "somente se" em "Si". Ou seja: a
-> conclusão do professor está certa, e **o nome do conectivo é que se perdeu**.
+> [!nota] O conteúdo desta nota foi conferido e corrigido à mão
+> O Whisper transcreveu os **nomes dos conectivos** lidos em voz alta como
+> letras soltas, e isso tornava a aula matematicamente errada. As correções
+> abaixo foram verificadas contra a aritmética da própria questão — a sequência
+> de respostas `V V F F F` só fecha de uma maneira.
 >
-> Por isso saiu de "Para lembrar" a linha *"a regra do condicional é que as duas
-> têm que ser iguais"*: essa é a regra do bicondicional. A do condicional é a
-> "véra ficha" do próprio vídeo — só `V → F` dá falso.
+> | o Whisper ouviu | é |
+> |---|---|
+> | `I` | **E** (`∧`, conjunção) |
+> | `O` | **OU** (`∨`, disjunção) |
+> | `Si` / `Tan` | **se… então** (`→`, condicional) |
+> | `Somente Si` | **se e somente se** (`↔`, bicondicional) |
+> | "véra ficha", "Vera Ficha", "veraficha", "loura famosa" | **Vera Fischer** — o macete `V → F` |
+> | "a quarta parte de **1,12**" | "a quarta parte de **uma dúzia**" |
+> | "15% de 30% é igual a 45%" | "15% de 30 é igual a 45" (que dá 4,5) |
+> | "questões de concurso investidural" | "questões de concurso" |
+> | "as regras do ígido" | "as regras dos conectivos" |
+> | "Ana C engenheira" | "Ana ser engenheira" |
 >
-> Saíram também dois destaques que **não estão nesta aula**: o `2^n` da tabela
-> verdade e "sentença aberta não é proposição". São verdade, mas vieram do que o
-> modelo já sabia, não do que foi dito aqui.
+> **O erro que mais importava:** o item 3 da Questão 1 estava como *condicional*
+> concluindo falso, com antecedente falso e consequente verdadeiro. Mas `F → V`
+> é **verdadeiro**; `F ↔ V` é que é falso. O conectivo era o **bicondicional**
+> ("se e somente se", que o Whisper encurtou em "Si") — e a regra citada na aula,
+> "as duas têm que ser iguais", é a do bicondicional. A conclusão do professor
+> estava certa; o nome do conectivo é que se perdeu na transcrição.
+>
+> Saíram de "Para lembrar" dois destaques que **não estão nesta aula**: o `2^n`
+> da tabela verdade e "sentença aberta não é proposição". São verdade, mas vieram
+> do que o modelo já sabia, não do que foi dito aqui.
+>
+> Onde eu não consegui recuperar o que foi dito, ficou `[inaudível]` — dois
+> pontos, ambos em comentário do professor, nenhum em conteúdo de lógica.
 
 <details><summary>11 frase(s) descartadas como ruído de vídeo (inscrição, saudação, despedida)</summary>
 

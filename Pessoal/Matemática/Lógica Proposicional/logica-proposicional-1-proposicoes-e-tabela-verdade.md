@@ -33,9 +33,9 @@ conceitos: [Proposição, Conectivos, Tabela Verdade, Lógica Proposicional, Sen
 
 ## Conteúdo
 
-Em termos de concurso público, ele é o mais importante, pois é o que mais aparece em concursos e não cai em desuso. Em termos de vestibular, ele aparece menos, e em termos de ENEM, ele não aparece. É importante estar atento a isso, pois eu sempre vou estar dizendo se esse conteúdo aparece mais em um lugar ou em outro.
+Em termos de concurso público, este conteúdo é o mais importante, pois é o que mais aparece em concursos e não cai em desuso. Em termos de vestibular, ele aparece menos, e em termos de ENEM, ele não aparece. É importante estar atento a isso, pois eu sempre vou estar dizendo se esse conteúdo aparece mais em um lugar ou em outro.
 
-Assim como o iFood deu comida de graça quando começou no Brasil, e assim como o Uber deu carona, ele é mais conhecido como `P e Q`. Vocês vão entender por que `P e Q`.
+[inaudível: analogia com iFood e Uber] Ele é mais conhecido como `P e Q`. Vocês vão entender por quê.
 
 ### Estrutura do Conteúdo
 
@@ -56,7 +56,7 @@ Lógica Proposicional recebe outros nomes. É importante colocar isso aqui para 
 
 É importante que vocês saibam que Lógica Proposicional pode ser também chamada de:
 
-- Lógica Palitativa. É importante anotar isso.
+- Lógica Apofântica. É importante anotar isso.
 - Lógica Sentencial.
 - A banca `CESPE` usa a expressão Lógica Sentencial de Primeira Ordem.
 - Lógica Argumentativa.
@@ -115,7 +115,7 @@ Temos quatro exemplos clássicos que não são proposições:
 
 Atenção a este caso: "x é um número ímpar". Essa frase tem sujeito (o `x`) e tem uma declaração ("é um número ímpar"). No entanto, não podemos dizer se ela é verdadeira ou se é falsa. Não podemos dar a essa frase um valor lógico, porque temos uma incógnita, que é o `x`. Essa situação se caracteriza como uma sentença aberta, e isso não é uma proposição.
 
-Outro exemplo: "U aqui é o melhor professor de raciocínio lógico do Brasil." Quem é ele? Ninguém sabe. Não é possível determinar se a frase é verdadeira ou falsa. Aqui também temos uma sentença aberta.
+Outro exemplo: "Ele aqui é o melhor professor de raciocínio lógico do Brasil." Quem é ele? Ninguém sabe. Não é possível determinar se a frase é verdadeira ou falsa. Aqui também temos uma sentença aberta.
 
 ### Revisão com a Banca CESPE
 
@@ -145,25 +145,27 @@ Uma proposição é simples quando ela declara apenas uma coisa, quando temos ap
 *Exemplo:* "Aqui, lógica é fácil". Isso é uma proposição simples.
 
 **Proposições Compostas:**
-Por outro lado, possuem duas ou mais declarações divididas por conectiva.
-*Exemplo:* "Brasília é a capital do Brasil". Isso aqui é uma proposição, que vou chamar de $P$. Se acostume, porque vou fazer muito isso aqui: abrir uma chave e chamar de $P$. Circula esse símbolo no meio, chamado de $I$. Isso é um conectivo. "Lima é capital do Peru", aí é outra proposição, que vou chamar de $Q$. Assim, temos uma proposição composta. É tipo, em português, período composto.
+Por outro lado, possuem duas ou mais declarações divididas por um conectivo.
+*Exemplo:* "Brasília é a capital do Brasil" é uma proposição, que vou chamar de `P`. Se acostume, porque vou fazer muito isso: abrir uma chave e chamar de `P`. Circule esse símbolo no meio, o `∧` (o **E**) — isso é um conectivo. "Lima é capital do Peru" é outra proposição, que vou chamar de `Q`. Assim, temos uma proposição composta. É tipo, em português, período composto.
+
+> `P ∧ Q`
 
 **Observação Importante:**
-Existem algumas coisas que dão para associar com o português nesse assunto, mas peço um favor: esqueçam o português. Para aprender essa lógica, você tem que zerar português. Português só faz atrapalhar a gente nessa parte da matemática. Português é bem-vindo demais quando se trata de interpretação. Aqui, digamos que é uma outra língua, você aprendendo com o vagzinho, uma outra língua, porque lógica proposicional, das regras próprias, é isso que vocês vão aprender comigo: as regras da lógica. Para quê? Para não usar o português das provas.
+Existem algumas coisas que dá para associar com o português nesse assunto, mas peço um favor: esqueçam o português. Para aprender essa lógica, você tem que zerar o português — ele só atrapalha nessa parte da matemática. Português é bem-vindo demais quando se trata de interpretação; aqui, digamos que é uma outra língua que você está aprendendo com o Vaguinho. A lógica proposicional tem regras próprias, e é isso que vocês vão aprender comigo: as regras da lógica. Para quê? Para não usar o português nas provas.
 
-**Exemplos de Proposições:**
-* $3 + 5$ é $8$. Isso é o que vou chamar de $P$.
-* $Q$: conectivo.
-* $R$: $5 + 7$ é $12$. Isso é uma proposição composta também.
-* E mais essa daqui, se eu estudo com o vagzinho, que é $P$.
+**Exemplos:**
+* `P`: "3 + 5 = 8" — uma proposição.
+* `Q`: "5 + 7 = 12" — outra proposição.
+* Ligando as duas com um conectivo no meio, você tem uma **proposição composta**.
+* E mais essa: "se eu estudo com o Vaguinho, então..." — aqui o conectivo é o "se… então".
 
-Observe: O "se... então" é uma coisa só, um conectivo só.
+Observe: o "se… então" é **uma coisa só**, um conectivo só.
 
 ### Conectivos e o Próximo Passo
 
 O próximo passo será estudar as proposições compostas. No nosso vídeo 2, que vocês vão assistir quando acabar este, lá vocês vão ter todo o conhecimento dessas coisinhas chamadas de conectivos.
 
-Os conectivos são: o que é o $I$, o que é o $Q$, o que é o "se... então". O domínio dos conectivos é o que vai te conduzir a fazer uma excelente prova. Mas isso é no vídeo 2. Este vídeo aqui vamos ficar mais simples. Vamos lá, tem mais coisa aqui.
+Os conectivos são: o que é o **E** (`∧`), o que é o **OU** (`∨`), o que é o "se… então" (`→`). O domínio dos conectivos é o que vai te conduzir a fazer uma excelente prova. Mas isso é no vídeo 2. Neste aqui vamos ficar mais simples. Vamos lá, tem mais coisa.
 
 ### Exercícios de Proposição Lógica
 
@@ -171,13 +173,13 @@ Quero agora trazer dois exercícios exemplos da `CESPE`, meio capciosos, para en
 
 **Veja os itens 1 e 2 relacionados à lógica proposicional.** Vou até grifar isso aqui: lógica proposicional, para que se torne mais familiar para vocês.
 
-A sentença: "O rei tu declarou estar contente com as políticas relacionadas à educação superior adotadas pelo governo de seu país e ele está contente com essas políticas e com os rumos atuais do movimento estudantil", é uma proposição lógica composta.
+**Item 1.** A sentença: "O reitor declarou estar contente com as políticas relacionadas à educação superior adotadas pelo governo de seu país e ele está contente com essas políticas e com os rumos atuais do movimento estudantil". O examinador afirma que se trata de uma proposição lógica **simples**.
 
-A questão está errada. É uma proposição lógica composta, porque temos um $I$ dividindo duas declarações. "Rei tu contente com as políticas" é uma coisa, e "rei tu contente com rumos atuais" já é um outro papo. Proposição composta, resposta errada.
+A questão está **errada**. Ela é uma proposição lógica **composta**, porque temos um **E** (`∧`) dividindo duas declarações: "reitor contente com as políticas" é uma coisa, e "reitor contente com os rumos atuais" já é outro papo. Proposição composta — resposta errada.
 
-**Atenção agora para o 2.** Esta questão é muito capciosa, vou até colocar asterisco aqui. Quando eu colocar asterisco, tem que estudar mais.
+**Item 2.** Esta questão é muito capciosa, vou até colocar asterisco aqui. Quando eu colocar asterisco, tem que estudar mais.
 
-A sentença é: "A crença em uma justiça divina, imparcial, incorruptível e infalível, é lenitivo para muitos que desconhecem os caminhos para buscas de seus direitos assegurados na constituição."
+A sentença é: "A crença em uma justiça divina, imparcial, incorruptível e infalível, é lenitivo para muitos que desconhecem os caminhos para busca de seus direitos assegurados na constituição."
 
 Trata-se de uma proposição lógica simples. Muitas pessoas podem cair em uma pegadinha aqui, porque é uma sentença grande, com um monte de elementos no meio. Alguém pode argumentar que ela é composta, mas não é. Essa proposição que acabei de ler é uma proposição simples, pois ela apenas declara uma coisa. Qual é essa coisa? A crença nessa justiça é lenitivo.
 
@@ -185,11 +187,11 @@ O texto principal, a mensagem, é que a crença nesta justiça é lenitivo, por 
 
 ### Princípios Fundamentais da Lógica
 
-Vou trazer os princípios fundamentais da lógica, mas vou destacar mais o terceiro, pois é o que costumo ver cair em prova. Vocês podem ler os outros dois, mas têm que estar mais atentos a este do meio. Já vi esse tema em algumas provas.
+Vou trazer os princípios fundamentais da lógica, mas vou destacar mais o terceiro, pois é o que costumo ver cair em prova. Vocês podem ler os outros dois, mas têm que estar mais atentos a este último. Já vi esse tema em algumas provas.
 
-A lógica tem vários princípios que regulam, como:
+A lógica tem vários princípios que a regulam, como:
 
-- O princípio da não contradição (que uma coisa não pode ser, mesmo tempo, verdadeira e falsa).
+- O princípio da não contradição (uma coisa não pode ser, ao mesmo tempo, verdadeira e falsa).
 - O princípio da identidade.
 - O princípio do terceiro excluído, que é o mais importante.
 
@@ -203,13 +205,24 @@ Uma `tabela verdade` é a análise das proposições. Observe: eu tenho a propos
 
 Se eu digo: "Se Ana é enfermeira, então ela trabalha no hospital das clínicas." Falei duas frases, então essa frase que eu falei é composta. Ela pode ser V com V, V com F, F com V ou F com F.
 
-E se tiverem três proposições? P, depois Q, e depois R, três proposições. Como constrói? Exemplo: "Se moro em Salvador, então vou à praia e como a cara é?" Falei três coisas: P, Q e R. Como se constrói essa tabela verdade?
+E se tiverem três proposições? P, depois Q, e depois R. Como constrói? Exemplo: "Se moro em Salvador, então vou à praia e como acarajé." Falei três coisas: P, Q e R. Como se constrói essa tabela verdade?
 
 ### Construção da Tabela Verdade
 
-O macete é o seguinte: Você vai começar colocando quatro valores verdadeiros e, em seguida, quatro valores falsos. Depois, vem a metade de quatro, que é dois: dois verdadeiros, dois falsos, dois verdadeiros, dois falsos.
+O macete é o seguinte, para três proposições (8 linhas): na primeira coluna você começa colocando **quatro** valores verdadeiros e em seguida **quatro** falsos. Na coluna seguinte, vem a metade de quatro, que é dois: dois verdadeiros, dois falsos, dois verdadeiros, dois falsos. Na última, alterna de um em um: verdadeiro, falso, verdadeiro, falso, e assim vai.
 
-Verdadeiro, falso, verdadeiro, falso, verdadeiro, falso. Não se preocupe, isso aqui vai ficar tão familiar para a gente. Não tente decorar. Eu vou usar tanto, principalmente essa tabela aqui do meio, que vai ficar uma coisa natural.
+| P | Q | R |
+|---|---|---|
+| V | V | V |
+| V | V | F |
+| V | F | V |
+| V | F | F |
+| F | V | V |
+| F | V | F |
+| F | F | V |
+| F | F | F |
+
+Não se preocupe, isso vai ficar familiar. Não tente decorar: eu vou usar tanto, principalmente a tabela do meio (a de duas proposições), que vai ficar uma coisa natural.
 
 Lembre-se: Nenhuma prova de concurso ou vestibular vai pedir para você construir uma tabela, jamais. Isso não será uma pergunta de prova, de vestibular nem de concurso. O que pode cair é: quantas linhas tem uma tabela?
 
@@ -231,17 +244,21 @@ Para encerrar o nosso vídeo, vou para esse exemplo, que é a nossa saideira aqu
 
 Depois que você estuda, você fica mais confortável com o que a questão está pedindo: o número de linhas. Para calcular o número de linhas da tabela verdade, não dá para fazer sem o domínio da fórmula $2^n$. Você tem que saber isso na hora da prova.
 
-Vamos contar quantas proposições tem aqui:
+Vamos contar quantas proposições tem aqui. Separando as declarações dos conectivos:
 
--   "Trabalho é uma coisa" (P).
--   "I é um conectivo".
--   "Estudo matemática é outra" (Q).
--   "Então é um conectivo".
--   "Canso é outra" (R).
+| | |
+|---|---|
+| "Trabalho" | proposição **P** |
+| "e" | conectivo (`∧`) |
+| "estudo matemática" | proposição **Q** |
+| "então" | conectivo (`→`) |
+| "canso" | proposição **R** |
+| "e" | conectivo (`∧`) |
+| "não desisto" | proposição **S** |
 
-Outra proposição é S, mas é um conectivo que vocês vão aprender comigo no próximo vídeo. Não desisto. É uma proposição negativa, eu vou chamar de S. Tem professor que chama de não S; os dois estão corretos. Existem proposições afirmativas e negativas.
+A quarta, "não desisto", vem com o **não** — que é a negação, um conectivo que vocês vão aprender comigo no próximo vídeo. É uma proposição negativa; eu vou chamar de `S`, e tem professor que chama de `¬S`. Os dois estão corretos: existem proposições afirmativas e negativas.
 
-O mais importante é não ficar interpretando o texto e contar comigo aqui: quatro proposições. Então vai ficar $2^4$, que é $2 \times 2 \times 2 \times 2$, que é igual a 16. A resposta é a letra B.
+O mais importante é não ficar interpretando o texto, e contar comigo aqui: **quatro proposições**. Então vai ficar $2^4 = 2 \times 2 \times 2 \times 2 = 16$. A resposta é a letra B.
 
 ### Conclusão
 
@@ -255,6 +272,37 @@ Não fiquem muito preocupados. Eu tenho quatro ou cinco vídeos sobre esse assun
 ---
 
 ## Revisão da transcrição
+
+> [!nota] O conteúdo desta nota foi conferido e corrigido à mão
+>
+> | o Whisper ouviu | é |
+> |---|---|
+> | `$I$` (como conectivo) | **E** (`∧`, conjunção) |
+> | `$Q$` (na lista de conectivos) | **OU** (`∨`, disjunção) |
+> | "o **rei tu** declarou" | "o **reitor** declarou" |
+> | "vou à praia e como **a cara é**" | "e como **acarajé**" (a aula é em Salvador) |
+> | "aprendendo com o **vagzinho**" | "com o **Vaguinho**" |
+> | "**U** aqui é o melhor professor" | "**Ele** aqui é o melhor professor" — é o que faz a frase ser sentença aberta |
+> | "Lógica **Palitativa**" | "Lógica **Apofântica**" (inferido pelo contexto da lista de nomes) |
+> | "não pode ser, mesmo tempo" | "ao mesmo tempo" |
+>
+> **O erro que mais importava:** no par de questões da CESPE, o item 1 aparecia
+> afirmando "é uma proposição composta" — e o professor concordava que é composta,
+> mas concluía "resposta errada". As duas coisas não podem ser verdade ao mesmo
+> tempo. O item afirmava **simples** (formando o par clássico com o item 2, que
+> afirma a mesma coisa e está certo); por isso a resposta é *errada*. Corrigido.
+>
+> **Reconstruído:** a lista do exercício da FUNCAB estava desmontada, misturando
+> proposições e conectivos em itens soltos ("I é um conectivo", "Outra proposição
+> é S, mas é um conectivo"). Virou uma tabela separando as quatro proposições dos
+> três conectivos — que é o que sustenta o `2⁴ = 16`.
+>
+> **Acrescentado:** a tabela verdade de três proposições, que a aula descreve em
+> palavras ("quatro verdadeiros, quatro falsos, depois a metade…") e que fica
+> ilegível sem a grade na frente.
+>
+> Onde não deu para recuperar, ficou `[inaudível]` — um ponto só, uma analogia
+> com iFood e Uber na abertura, sem conteúdo de lógica.
 
 <details><summary>4 frase(s) descartadas como ruído de vídeo (inscrição, saudação, despedida)</summary>
 
