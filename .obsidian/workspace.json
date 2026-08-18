@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bd86a140f7db5935",
+        "id": "181977e5d0f31394",
         "type": "tabs",
         "children": [
           {
-            "id": "f0ebe578be093f81",
+            "id": "948546e5c529974c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-negacao-e-equivalencia.md",
+                "file": "Pessoal/Introdução à Programação e Pensamento Computacional/Pensamento computacional/apresentacao.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "logica-proposicional-negacao-e-equivalencia"
+              "title": "apresentacao"
             }
           }
         ]
@@ -210,8 +210,13 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "f0ebe578be093f81",
+  "active": "948546e5c529974c",
   "lastOpenFiles": [
+    "Pessoal/Bancos de Dados/IMG/Pasted image 20260107145259.png",
+    "Pessoal/Introdução à Programação e Pensamento Computacional/Pensamento computacional/apresentacao.md",
+    "Pessoal/Introdução à Programação e Pensamento Computacional/Pensamento computacional",
+    "Pessoal/Introdução à Programação e Pensamento Computacional",
+    "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-negacao-e-equivalencia.md",
     "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-negacao-e-equivalencia.md.tmp.5769.25465897b545",
     "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-negacao-e-equivalencia.md.bak-2055",
     "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-3-conectivos-parte-2.md",
@@ -224,9 +229,6 @@
     "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-3-conectivos-parte-2.md.tmp.86821.204de166bc6a",
     "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-3-conectivos-parte-2.md.tmp.86821.fdfcb6d83dd9",
     "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-3-conectivos-parte-2.md.tmp.86821.93d17764f382",
-    "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-3-conectivos-parte-2.md.tmp.86821.6f0a097ad5a1",
-    "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-3-conectivos-parte-2.md.tmp.86821.cb2e57498cc0",
-    "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-3-conectivos-parte-2.md.tmp.86821.573e1a4e7e16",
     "Pessoal/Matemática/Lógica Proposicional/conectivos-logicos.md",
     "Pessoal/Matemática/Lógica Proposicional/negacao-em-logica-proposicional.md",
     "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-p-e-q.md",
@@ -250,8 +252,6 @@
     "Pessoal/Concurso/BANCO-QUESTOES-COMPLETO.md",
     "Pessoal/Concurso/banco-questoes-blocos-D-a-J.md",
     "Pessoal/Concurso/banco-questoes-coren-sp.md",
-    "Pessoal/Concurso/cronograma-coren-sp-90-dias.md",
-    "Pessoal/Ingles/Serie/Inglês - Dashboard.md",
     "Pasted image 20260614134436.png",
     "Pasted image 20260614134414.png",
     "Pasted image 20260614134332.png",
