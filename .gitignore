@@ -8,3 +8,9 @@ Pessoal/_Sistema-Estudos/_audio/
 
 # Pasta que não deve ir para o repositório
 Pessoal/Reative Systems/
+
+# Dado pessoal — NUNCA versionar. O repositório é público, e o job de backup
+# horário commita o vault inteiro sem ninguém olhar o que entrou.
+# Currículo e certificado carregam nome completo, e-mail, telefone e LinkedIn.
+Pessoal/Curriculos/
+Pessoal/Certificados/
