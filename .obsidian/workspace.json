@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Introdução à Programação e Pensamento Computacional/Pensamento computacional/apresentacao.md",
+                "file": "Pessoal/Introdução à Programação e Pensamento Computacional/Pensamento computacional/fundamentos-e-pilares-do-pensamento-computacional.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "apresentacao"
+              "title": "fundamentos-e-pilares-do-pensamento-computacional"
             }
           }
         ]
@@ -212,8 +212,10 @@
   },
   "active": "948546e5c529974c",
   "lastOpenFiles": [
-    "Pessoal/Bancos de Dados/IMG/Pasted image 20260107145259.png",
+    "Pessoal/Introdução à Programação e Pensamento Computacional/Pensamento computacional/visao-geral-da-carreira-em-ti-da-rede-a-ciencia-de-dados-e-programacao.md",
+    "Pessoal/Introdução à Programação e Pensamento Computacional/Pensamento computacional/fundamentos-e-pilares-do-pensamento-computacional.md",
     "Pessoal/Introdução à Programação e Pensamento Computacional/Pensamento computacional/apresentacao.md",
+    "Pessoal/Bancos de Dados/IMG/Pasted image 20260107145259.png",
     "Pessoal/Introdução à Programação e Pensamento Computacional/Pensamento computacional",
     "Pessoal/Introdução à Programação e Pensamento Computacional",
     "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-negacao-e-equivalencia.md",
@@ -251,13 +253,11 @@
     "Pessoal/Concurso/cronograma-coren-sp-90-dias-v2.md",
     "Pessoal/Concurso/BANCO-QUESTOES-COMPLETO.md",
     "Pessoal/Concurso/banco-questoes-blocos-D-a-J.md",
-    "Pessoal/Concurso/banco-questoes-coren-sp.md",
     "Pasted image 20260614134436.png",
     "Pasted image 20260614134414.png",
     "Pasted image 20260614134332.png",
     "Pasted image 20260614134209.png",
     "Pasted image 20260614133808.png",
-    "Pasted image 20260614133806.png",
     "Pessoal/Bancos de Dados/Conceitos Básicos/Sistemas de Arquivos - Sistema de Banco de Dados.canvas",
     "Pessoal/Bancos de Dados/Conceitos Básicos/Atores em cena - Mapa.canvas",
     "Pessoal/Desenvolvedor Full-Stack Python/Front-end/Untitled.canvas",
