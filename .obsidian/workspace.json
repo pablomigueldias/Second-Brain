@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Introdução à Programação e Pensamento Computacional/Fundamentos de algoritmos/instrucoes-de-entrada-e-saida-de-dados-em-algoritmos.md",
+                "file": "Pessoal/Introdução à Programação e Pensamento Computacional/Linguagens de programação/analise-de-codigo-analise-lexica-sintatica-e-semantica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "instrucoes-de-entrada-e-saida-de-dados-em-algoritmos"
+              "title": "analise-de-codigo-analise-lexica-sintatica-e-semantica"
             }
           }
         ]
@@ -210,11 +210,15 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "26758f3261ee0499",
+  "active": "1058f9124e9d8299",
   "lastOpenFiles": [
+    "Pessoal/Introdução à Programação e Pensamento Computacional/Linguagens de programação/caracteristicas-de-um-programa-de-software-legibilidade-redigibilidade-confiabil.md",
+    "Pessoal/Introdução à Programação e Pensamento Computacional/Linguagens de programação/analise-de-codigo-analise-lexica-sintatica-e-semantica.md",
+    "Pessoal/Introdução à Programação e Pensamento Computacional/Linguagens de programação/processamento-de-codigo-compilacao-interpretacao-e-transpilacao.md",
+    "Pessoal/Introdução à Programação e Pensamento Computacional/Linguagens de programação/historia-da-computacao-paradigmas-e-problemas-computacionais.md",
+    "Pessoal/Introdução à Programação e Pensamento Computacional/Fundamentos de algoritmos/instrucoes-de-entrada-e-saida-de-dados-em-algoritmos.md",
     "Pessoal/Introdução à Programação e Pensamento Computacional/Linguagens de programação",
     "Pessoal/Introdução à Programação e Pensamento Computacional/Fundamentos de algoritmos/funcoes-em-programacao-conceito-modularizacao-e-reutilizacao-de-codigo.md",
-    "Pessoal/Introdução à Programação e Pensamento Computacional/Fundamentos de algoritmos/instrucoes-de-entrada-e-saida-de-dados-em-algoritmos.md",
     "Pessoal/Introdução à Programação e Pensamento Computacional/Fundamentos de algoritmos/fundamentos-de-algoritmos-vetores-matrizes-e-estruturas-de-dados.md",
     "Pessoal/Introdução à Programação e Pensamento Computacional/Fundamentos de algoritmos/estruturas-condicionais-e-operadores-logicos-em-algoritmos.md",
     "Pessoal/Introdução à Programação e Pensamento Computacional/Fundamentos de algoritmos/estruturas-de-repeticao-em-algoritmos-tipos-funcionamento-e-aplicacoes.md",
@@ -243,13 +247,9 @@
     "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-negacao-e-equivalencia.md.tmp.5769.25465897b545",
     "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-negacao-e-equivalencia.md.bak-2055",
     "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-3-conectivos-parte-2.md",
-    "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-4-questoes-de-concurso.md",
-    "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-1-proposicoes-e-tabela-verdade.md",
-    "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-2-conectivos-parte-1.md",
     "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-3-conectivos-parte-2.md.tmp.86821.7259b1b5e8be",
     "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-3-conectivos-parte-2.md.tmp.86821.c6ebee099968",
     "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-3-conectivos-parte-2.md.tmp.86821.1b7ace1cdf9f",
-    "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-3-conectivos-parte-2.md.tmp.86821.204de166bc6a",
     "Pessoal/Matemática/IMG/diagram-20260106.png",
     "Pessoal/Matemática/IMG/Pasted image 20260107193235.png",
     "Pessoal/Matemática/IMG/Pasted image 20260107191752.png",
