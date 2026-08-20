@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e13cffa4aa25e941",
+        "id": "d16890877d195b67",
         "type": "tabs",
         "children": [
           {
-            "id": "1058f9124e9d8299",
+            "id": "2999178e67c9055d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pessoal/Introdução à Programação e Pensamento Computacional/Linguagens de programação/analise-de-codigo-analise-lexica-sintatica-e-semantica.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "analise-de-codigo-analise-lexica-sintatica-e-semantica"
+              "title": "Nova aba"
             }
           }
         ]
@@ -210,10 +206,15 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "1058f9124e9d8299",
+  "active": "2999178e67c9055d",
   "lastOpenFiles": [
-    "Pessoal/Introdução à Programação e Pensamento Computacional/Linguagens de programação/caracteristicas-de-um-programa-de-software-legibilidade-redigibilidade-confiabil.md",
+    "Pessoal/Introdução à Programação e Pensamento Computacional/Primeiro contato com a programação/pratica-de-algoritmos-em-portugol-soma-de-intervalo-media-e-reutilizacao-de-func.md",
+    "Pessoal/Certificados/certificado-introducao-a-programacao-pensamento-computacional.pdf",
     "Pessoal/Introdução à Programação e Pensamento Computacional/Linguagens de programação/analise-de-codigo-analise-lexica-sintatica-e-semantica.md",
+    "Pessoal/Introdução à Programação e Pensamento Computacional/Primeiro contato com a programação",
+    "Pessoal/Introdução à Programação e Pensamento Computacional/Linguagens de programação/Sem título",
+    "Pessoal/Introdução à Programação e Pensamento Computacional/Linguagens de programação/paradigmas-de-programacao-estruturado-e-orientacao-a-objetos.md",
+    "Pessoal/Introdução à Programação e Pensamento Computacional/Linguagens de programação/caracteristicas-de-um-programa-de-software-legibilidade-redigibilidade-confiabil.md",
     "Pessoal/Introdução à Programação e Pensamento Computacional/Linguagens de programação/processamento-de-codigo-compilacao-interpretacao-e-transpilacao.md",
     "Pessoal/Introdução à Programação e Pensamento Computacional/Linguagens de programação/historia-da-computacao-paradigmas-e-problemas-computacionais.md",
     "Pessoal/Introdução à Programação e Pensamento Computacional/Fundamentos de algoritmos/instrucoes-de-entrada-e-saida-de-dados-em-algoritmos.md",
@@ -243,13 +244,8 @@
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260107145259.png",
     "Pessoal/Introdução à Programação e Pensamento Computacional/Pensamento computacional",
     "Pessoal/Introdução à Programação e Pensamento Computacional",
-    "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-negacao-e-equivalencia.md",
     "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-negacao-e-equivalencia.md.tmp.5769.25465897b545",
     "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-negacao-e-equivalencia.md.bak-2055",
-    "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-3-conectivos-parte-2.md",
-    "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-3-conectivos-parte-2.md.tmp.86821.7259b1b5e8be",
-    "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-3-conectivos-parte-2.md.tmp.86821.c6ebee099968",
-    "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-3-conectivos-parte-2.md.tmp.86821.1b7ace1cdf9f",
     "Pessoal/Matemática/IMG/diagram-20260106.png",
     "Pessoal/Matemática/IMG/Pasted image 20260107193235.png",
     "Pessoal/Matemática/IMG/Pasted image 20260107191752.png",
