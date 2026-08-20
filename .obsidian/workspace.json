@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Introdução à Programação e Pensamento Computacional/Fundamentos de algoritmos/fundamentos-de-algoritmos-variaveis-tipos-de-dados-e-estruturas-de-controle.md",
+                "file": "Pessoal/Introdução à Programação e Pensamento Computacional/Fundamentos de algoritmos/operadores-variaveis-e-estruturas-de-controle-em-algoritmos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fundamentos-de-algoritmos-variaveis-tipos-de-dados-e-estruturas-de-controle"
+              "title": "operadores-variaveis-e-estruturas-de-controle-em-algoritmos"
             }
           }
         ]
@@ -212,8 +212,9 @@
   },
   "active": "1058f9124e9d8299",
   "lastOpenFiles": [
-    "Pessoal/Introdução à Programação e Pensamento Computacional/Introdução à lógica de programação/tecnicas-de-logica-de-programacao-linear-estruturada-e-modular.md",
     "Pessoal/Introdução à Programação e Pensamento Computacional/Fundamentos de algoritmos/fundamentos-de-algoritmos-variaveis-tipos-de-dados-e-estruturas-de-controle.md",
+    "Pessoal/Introdução à Programação e Pensamento Computacional/Fundamentos de algoritmos/operadores-variaveis-e-estruturas-de-controle-em-algoritmos.md",
+    "Pessoal/Introdução à Programação e Pensamento Computacional/Introdução à lógica de programação/tecnicas-de-logica-de-programacao-linear-estruturada-e-modular.md",
     "Pessoal/Introdução à Programação e Pensamento Computacional/Fundamentos de algoritmos",
     "Pessoal/Introdução à Programação e Pensamento Computacional/Introdução à lógica de programação/conceitos-fundamentais-de-logica-e-logica-de-programacao.md",
     "Pessoal/Introdução à Programação e Pensamento Computacional/Pensamento computacional/aplicacao-do-pensamento-computacional-jogo-de-adivinhacao-e-algoritmo-de-busca-b.md",
@@ -252,7 +253,6 @@
     "Pessoal/Matemática/IMG/Pasted image 20260107191752.png",
     "Pessoal/Matemática/_Índice Matemática.md",
     "Pessoal/Matematica e Logica/Lógica proposicional/logica-proposicional-p-e-q.md",
-    "Pessoal/Machine Learning/_Índice Machine Learning.md",
     "Pasted image 20260614134436.png",
     "Pasted image 20260614134414.png",
     "Pasted image 20260614134332.png",
