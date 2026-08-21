@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Machine Learning/Redes Neurais Artificiais/visao-computacional-processamento-de-imagens-e-extracao-de-caracteristicas-em-re.md",
+                "file": "Pessoal/Machine Learning/Algoritmos Genéticos/algoritmos-geneticos-conceitos-funcionamento-etapas-e-aplicacoes-praticas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "visao-computacional-processamento-de-imagens-e-extracao-de-caracteristicas-em-re"
+              "title": "algoritmos-geneticos-conceitos-funcionamento-etapas-e-aplicacoes-praticas"
             }
           }
         ]
@@ -210,8 +210,11 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "26758f3261ee0499",
+  "active": "2999178e67c9055d",
   "lastOpenFiles": [
+    "Pessoal/Machine Learning/Redes Neurais Artificiais/visao-computacional-processamento-de-imagens-e-extracao-de-caracteristicas-em-re.md",
+    "Pessoal/Machine Learning/Algoritmos Genéticos/algoritmos-geneticos-conceitos-funcionamento-etapas-e-aplicacoes-praticas.md",
+    "Pessoal/Machine Learning/Algoritmos Genéticos",
     "Pessoal/Provas/Prova 14/gabarito_definitivo.pdf",
     "Pessoal/Provas/Prova 14/analista_de_tecnologia_da_informacao.pdf",
     "Pessoal/Provas/Prova 14",
@@ -221,11 +224,8 @@
     "Pessoal/Provas/prova 12/gabarito_definitivo.pdf",
     "Pessoal/Provas/prova 12/analista_de_tecnologia_da_informacao.pdf",
     "Pessoal/Provas/prova 12",
-    "Pessoal/Provas/prova 11/gabarito_definitivo.pdf",
-    "Pessoal/Provas/prova 11/analista_de_tecnologia_da_informacao.pdf",
     "Pessoal/Machine Learning/Redes Neurais Artificiais/classificacao-de-dados-e-transferencia-de-conhecimento-em-redes-neurais.md",
     "Pessoal/Machine Learning/Redes Neurais Artificiais/redes-neurais-artificiais-conceitos-estrutura-e-aplicacoes-em-machine-learning.md",
-    "Pessoal/Machine Learning/Redes Neurais Artificiais/visao-computacional-processamento-de-imagens-e-extracao-de-caracteristicas-em-re.md",
     "Pessoal/Machine Learning/Introdução ao Machine Learning/visao-computacional-ia-e-aplicacoes-em-sistemas-autonomos.md",
     "Pessoal/Machine Learning/Métodos de Machine Learning bioinspirados/logica-difusa-redes-neurais-generalizacao-e-algoritmos-bioinspirados.md",
     "Pessoal/Machine Learning/Métodos de Machine Learning bioinspirados/metodos-bioinspirados-redes-neurais-e-logica-fuzzy-em-machine-learning.md",
