@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Introdução à Programação e Pensamento Computacional/Primeiro contato com a programação/pratica-de-algoritmos-em-portugol-soma-de-intervalo-media-e-reutilizacao-de-func.md",
+                "file": "Pessoal/Machine Learning/Introdução ao Machine Learning/redes-neurais-deep-learning-e-aplicacoes-praticas-de-machine-learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pratica-de-algoritmos-em-portugol-soma-de-intervalo-media-e-reutilizacao-de-func"
+              "title": "redes-neurais-deep-learning-e-aplicacoes-praticas-de-machine-learning"
             }
           }
         ]
@@ -210,11 +210,13 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "26758f3261ee0499",
+  "active": "2999178e67c9055d",
   "lastOpenFiles": [
+    "Pessoal/Machine Learning/Introdução ao Machine Learning/conceitos-fundamentais-de-machine-learning-inteligencia-artificial-e-generalizac.md",
+    "Pessoal/Machine Learning/Introdução ao Machine Learning/redes-neurais-deep-learning-e-aplicacoes-praticas-de-machine-learning.md",
+    "Pessoal/Introdução à Programação e Pensamento Computacional/Primeiro contato com a programação/pratica-de-algoritmos-em-portugol-soma-de-intervalo-media-e-reutilizacao-de-func.md",
     "Pessoal/Machine Learning/Introdução ao Machine Learning",
     "Pessoal/Machine Learning/07 - Processamento de Linguagem Natural (NLP)/01 - Introdução e Aplicações do NLP.md",
-    "Pessoal/Introdução à Programação e Pensamento Computacional/Primeiro contato com a programação/pratica-de-algoritmos-em-portugol-soma-de-intervalo-media-e-reutilizacao-de-func.md",
     "Pessoal/Certificados/certificado-introducao-a-programacao-pensamento-computacional.pdf",
     "Pessoal/Introdução à Programação e Pensamento Computacional/Linguagens de programação/analise-de-codigo-analise-lexica-sintatica-e-semantica.md",
     "Pessoal/Introdução à Programação e Pensamento Computacional/Primeiro contato com a programação",
@@ -244,12 +246,10 @@
     "Pessoal/Introdução à Programação e Pensamento Computacional/Pensamento computacional/decomposicao-conceitos-estrategias-e-aplicacoes.md",
     "Pessoal/Matemática/IMG/Pasted image 20260106190909.png",
     "Pessoal/Introdução à Programação e Pensamento Computacional/Pensamento computacional/raciocinio-logico-inducao-deducao-e-abducao.md",
-    "Pessoal/Introdução à Programação e Pensamento Computacional/Pensamento computacional/fundamentos-e-pilares-do-pensamento-computacional.md",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260107145259.png",
     "Pessoal/Introdução à Programação e Pensamento Computacional/Pensamento computacional",
     "Pessoal/Introdução à Programação e Pensamento Computacional",
     "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-negacao-e-equivalencia.md.tmp.5769.25465897b545",
-    "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-negacao-e-equivalencia.md.bak-2055",
     "Pessoal/Matemática/IMG/diagram-20260106.png",
     "Pessoal/Matemática/IMG/Pasted image 20260107193235.png",
     "Pessoal/Matemática/IMG/Pasted image 20260107191752.png",
