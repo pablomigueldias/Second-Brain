@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Machine Learning/Introdução ao Machine Learning/visao-computacional-ia-e-aplicacoes-em-sistemas-autonomos.md",
+                "file": "Pessoal/Machine Learning/Redes Neurais Artificiais/redes-neurais-artificiais-conceitos-estrutura-e-aplicacoes-em-machine-learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "visao-computacional-ia-e-aplicacoes-em-sistemas-autonomos"
+              "title": "redes-neurais-artificiais-conceitos-estrutura-e-aplicacoes-em-machine-learning"
             }
           }
         ]
@@ -210,8 +210,10 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "26758f3261ee0499",
+  "active": "2999178e67c9055d",
   "lastOpenFiles": [
+    "Pessoal/Machine Learning/Introdução ao Machine Learning/visao-computacional-ia-e-aplicacoes-em-sistemas-autonomos.md",
+    "Pessoal/Machine Learning/Redes Neurais Artificiais/redes-neurais-artificiais-conceitos-estrutura-e-aplicacoes-em-machine-learning.md",
     "Pessoal/Machine Learning/Redes Neurais Artificiais",
     "Pessoal/Machine Learning/Métodos de Machine Learning bioinspirados/logica-difusa-redes-neurais-generalizacao-e-algoritmos-bioinspirados.md",
     "Pessoal/Machine Learning/Métodos de Machine Learning bioinspirados/metodos-bioinspirados-redes-neurais-e-logica-fuzzy-em-machine-learning.md",
@@ -245,11 +247,9 @@
     "Pessoal/Introdução à Programação e Pensamento Computacional/Pensamento computacional/aplicacao-do-pensamento-computacional-soma-de-intervalos-e-construcao-de-algori.md",
     "Pessoal/Introdução à Programação e Pensamento Computacional/Pensamento computacional/aplicacao-pratica-dos-pilares-do-pensamento-computacional-em-estudo-de-caso.md",
     "Pessoal/Introdução à Programação e Pensamento Computacional/Pensamento computacional/fundamentos-de-algoritmos-conceito-estruturacao-e-formas-de-representacao.md",
-    "Pessoal/Introdução à Programação e Pensamento Computacional/Pensamento computacional/abstracao-e-generalizacao-conceitos-modelagem-e-aplicacoes-em-sistemas.md",
     "Pessoal/Matemática/IMG/Pasted image 20260106190909.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260107145259.png",
     "Pessoal/Introdução à Programação e Pensamento Computacional/Pensamento computacional",
-    "Pessoal/Introdução à Programação e Pensamento Computacional",
     "Pessoal/Matemática/IMG/diagram-20260106.png",
     "Pessoal/Matemática/IMG/Pasted image 20260107193235.png",
     "Pessoal/Matemática/IMG/Pasted image 20260107191752.png",
