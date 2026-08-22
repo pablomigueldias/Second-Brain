@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Machine Learning/Algoritmos de SVM/fundamentos-de-svm-hiperplanos-e-comparacao-com-redes-neurais.md",
+                "file": "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-1-proposicoes-e-tabela-verdade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fundamentos-de-svm-hiperplanos-e-comparacao-com-redes-neurais"
+              "title": "logica-proposicional-1-proposicoes-e-tabela-verdade"
             }
           }
         ]
@@ -212,6 +212,7 @@
   },
   "active": "2999178e67c9055d",
   "lastOpenFiles": [
+    "Pessoal/Machine Learning/Algoritmos de SVM/fundamentos-de-svm-hiperplanos-e-comparacao-com-redes-neurais.md",
     "Pessoal/Machine Learning/Algoritmos Genéticos/algoritmos-geneticos-implementacao-operadores-e-simulacoes-de-aprendizado.md",
     "Pessoal/Machine Learning/Algoritmos Genéticos/algoritmos-geneticos-conceitos-funcionamento-etapas-e-aplicacoes-praticas.md",
     "Pessoal/Machine Learning/Algoritmos Genéticos/algoritmos-geneticos-implementacao-operadores-e-simulacoes-de-aprendizado.md.bak",
@@ -220,7 +221,6 @@
     "Pessoal/Machine Learning/Introdução ao Machine Learning/tomada-de-decisao-sistemas-adas-e-deep-learning-em-veiculos-autonomos.md",
     "Pessoal/Machine Learning/Introdução ao Machine Learning/redes-neurais-deep-learning-e-aplicacoes-praticas-de-machine-learning.md",
     "Pessoal/Machine Learning/Introdução ao Machine Learning/conceitos-fundamentais-de-machine-learning-inteligencia-artificial-e-generalizac.md",
-    "Pessoal/Machine Learning/Algoritmos de SVM/fundamentos-de-svm-hiperplanos-e-comparacao-com-redes-neurais.md",
     "Pessoal/Machine Learning/Algoritmos de SVM",
     "Pessoal/Machine Learning/Algoritmos Genéticos/Algoritmos de SVM",
     "Pessoal/Machine Learning/Redes Neurais Artificiais/visao-computacional-processamento-de-imagens-e-extracao-de-caracteristicas-em-re.md",
