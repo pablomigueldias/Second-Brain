@@ -1,60 +1,259 @@
 ---
 titulo: "Algoritmos Genéticos: Implementação, Operadores e Simulações de Aprendizado"
 tags: [machine-learning, algoritmos, otimizacao, conceitos, caso-pratico]
-data: 2026-08-21
+data: 2026-08-22
 fonte: "gravação (sistema)"
 tipo: transcricao
 duracao_min: 27
-conceitos: [População inicial, Região de busca, Seleção por roleta, Mutação genética, Convergência prematura, Aprendizado de agentes, Evolução por gerações]
+conceitos: [População inicial, Espaço de busca, Seleção por roleta, Diversidade genética, Recombinação, Mutação, Comportamento de agentes]
 ---
 
 # Algoritmos Genéticos: Implementação, Operadores e Simulações de Aprendizado
 
 > [!resumo] Do que se trata
-> Apresenta a implementação prática de algoritmos genéticos abordando a criação da população inicial dentro de limites de busca. Explica o funcionamento da seleção por roleta baseada em probabilidades e o papel da mutação aleatória para evitar convergência prematura. Demonstra aplicações práticas e simulações computacionais, como agentes e personagens que aprendem a andar ao longo de sucessivas gerações.
+> A aula detalha o funcionamento computacional dos algoritmos genéticos, desde a definição da população inicial em um espaço de busca até os métodos de seleção, recombinação e mutação. São exploradas as dinâmicas de seleção probabilística por roleta, que preservam a diversidade genética ao manter amostras minoritárias. Por fim, são demonstradas aplicações práticas em jogos digitais, simulação de locomoção de agentes e resolução de problemas clássicos de otimização.
 
 ## Para lembrar
 
-- **A geração da população inicial pode ser tratada como um passo zero que define limites mínimos e máximos dentro de uma região de busca.**
-- **O método de seleção por roleta atribui regiões de probabilidade proporcionais à qualidade e proximidade da solução de cada indivíduo.**
-- **A mutação altera valores de forma aleatória em um ou mais pontos do cromossomo para evitar a convergência prematura do algoritmo.**
-- **Em simulações de aprendizado e jogos, o algoritmo genético permite que agentes aprendam comportamentos complexos do zero ao longo de centenas de gerações.**
+- **A geração da população inicial (passo zero) define uma região de busca com limites mínimos e máximos antes de gerar amostras aleatórias.**
+- **O método de seleção por roleta distribui probabilidades proporcionais ao desempenho, sem excluir indivíduos de menor aptidão para manter a diversidade.**
+- **O cruzamento entre uma amostra boa e uma ruim pode gerar indivíduos melhores do que o cruzamento exclusivo entre duas amostras boas.**
+- **Em jogos digitais e simulações, algoritmos genéticos permitem gerar comportamentos não repetitivos em inimigos e treinar locomoção ao longo de centenas de gerações.**
 
 ## O que esta nota responde
 
-- Como funciona a geração da população inicial e a definição do espaço de busca em algoritmos genéticos?
-- Qual é o papel da mutação e como ela evita a convergência prematura?
-- Como o método de seleção por roleta distribui as probabilidades entre os indivíduos?
+- Como funciona o método de seleção por roleta em um algoritmo genético?
+- Por que é importante manter amostras com baixa aptidão na seleção de indivíduos?
+- De que forma os algoritmos genéticos são aplicados para simular aprendizado e locomoção em jogos?
 
 ## Conceitos
 
-**População inicial** · **Região de busca** · **Seleção por roleta** · **Mutação genética** · **Convergência prematura** · **Aprendizado de agentes** · **Evolução por gerações**
+**População inicial** · **Espaço de busca** · **Seleção por roleta** · **Diversidade genética** · **Recombinação** · **Mutação** · **Comportamento de agentes**
 
 ## Conteúdo
 
 `⏱ 00:00`
 
-Então, agora a gente vai ver um pouco dos métodos para o algoritmo genético. A gente viu como o algoritmo genético se comporta relacionando ele com a inspiração na biologia, a inspiração na natureza. E agora a gente vai ver relacionado a parte computacional mesmo, entre os dados de um algoritmo, os dados numéricos, para que o algoritmo genético manipule esses dados de forma eficiente, gerando a resposta esperada. Então, como que a gente implementa um algoritmo genético? O passo zero, que eu costumo chamar, é o passo de gerar a população inicial. Eu coloco de passo zero porque, às vezes, você já tem uma população geral gerada por meio do seu algoritmo. Ou você já está usando uma base de dados que tem as suas amostras e não seja necessário gerar a população inicial. Então eu chamo de passo zero porque é um passo, às vezes, offline, certo? Então, essa população inicial vai ser gerada... dentro de uma região de busca e por que dentro de uma região de busca? porque eu vou definir alguns limites para que as minhas soluções sejam geradas inicialmente não que eu tenha o conhecimento já da minha resposta que eu preciso atingir mas eu tenho uma noção do espaço de busca que eu quero trabalhar, certo? Então eu dei aqueles exemplos, de como encontrar uma parceira, um parceiro, de como encontrar um funcionário, eu já sei mais ou menos o que eu espero na minha procura, mas eu não tenho certeza de quão boa vai ser a minha amostra Brás solucionar o meu problema. Então, eu tenho que definir uma região de busca entre valores mínimos e máximos. Para isso, é gerada a minha população inicial, de forma aleatória. Então, vamos supor que eu vou gerar uma população inicial entre valores de 0 a 1. Então, eu vou definir quantas casas desse... mais eu vou trabalhar, e quantos valores eu quero que a minha população seja gerada, então aí eu quero 100 valores, eu tenho como definir esse parâmetro, definir os limites mínimos e máximos, e aí eu começo a gerar minha população inicial, certo? E depois a gente vai para o método de seleção. O método de seleção, depois de gerada a população inicial, eu vou selecionar os meus melhores indivíduos da população gerada. O método mais utilizado é o método de seleção por roleta. O método de seleção por roleta, ele vai ter como se fosse uma roleta de sorteio, ? É... de um programa de TV que tem lá os seus prêmios quem assistia lá o Bund de companhia do Yudi, sempre as crianças criam lá o Playstation e caia lá o jogo da vida, por exemplo. A nossa roleta aqui é mais ou menos isso. Só que a gente tem regiões de probabilidade, ? A gente não pode ter uma roleta viciada, mas a gente... a gente vai ter uma roleta que tem regiões de probabilidade, certo? Então, imaginando lá no programa ainda do Bom Dia e Companhia, se a gente pensar no estoque de presentes do programa, sei lá, eles estão com muita bicicleta para sortear. Então, eles vão definir uma região C4, que é uma região que tem mais bicicletas para o sorteio. Então, a probabilidade de cair bicicletas e eles terem a bicicleta é maior. Então, seria algo nesse estilo. Porém, aqui no nosso algoritmo genético, o que acontece? Depois de gerada a população inicial... Eu tenho os valores de certeza para cada amostra. Então, eu sei que cada amostra está mais próxima ou não do que eu estou esperando para a minha solução final. Está certo? Então, esse método de seleção...
+### Métodos do Algoritmo Genético
+
+Vimos como o algoritmo genético se comporta a partir da sua inspiração na biologia e na natureza. Agora, veremos a parte computacional: como o algoritmo manipula os dados numéricos de forma eficiente para gerar a resposta esperada.
+
+### População Inicial (Passo Zero)
+
+Para implementar um algoritmo genético, o chamado "passo zero" consiste em gerar a população inicial. Ele é classificado como passo zero porque, muitas vezes, é uma etapa *offline*: você já pode ter uma população gerada pelo algoritmo ou estar usando uma base de dados prévia com amostras, não sendo necessário gerá-las do zero.
+
+Essa população inicial é criada dentro de uma região de busca. São definidos limites para que as soluções sejam geradas inicialmente. Isso não significa que já se conhece a resposta final necessária, mas que se tem uma noção do espaço de busca em que se quer trabalhar. 
+
+A exemplo da busca por um parceiro, uma parceira ou um funcionário: sabe-se mais ou menos o que se espera na procura, mas não há certeza de quão boa será a amostra para solucionar o problema. 
+
+Por isso, define-se uma região de busca com valores mínimos e máximos, e a população inicial é gerada de forma aleatória. Em um exemplo com valores entre 0 e 1, o processo envolve:
+
+- Definir a quantidade de casas decimais a serem trabalhadas;
+- Definir o tamanho da população a ser gerada (por exemplo, 100 valores);
+- Definir os limites mínimos e máximos;
+- Gerar a população inicial.
+
+### Método de Seleção
+
+Após a geração da população inicial, passa-se para o método de seleção, no qual são selecionados os melhores indivíduos.
+
+O método mais utilizado é a seleção por roleta. Ele funciona de forma semelhante a uma roleta de sorteio de prêmios de programas de TV — como no *Bom Dia e Cia* com o apresentador Yudi, em que as crianças queriam o PlayStation e a roleta parava no Jogo da Vida.
+
+A nossa roleta computacional funciona dessa forma, dividida em regiões de probabilidade. Não se trata de uma roleta viciada, mas de uma roleta com diferentes proporções de probabilidade. 
+
+Pensando no estoque de prêmios do programa: se houvesse muitas bicicletas para sortear, seria definida uma região maior (por exemplo, uma região C4) com mais bicicletas, tornando a probabilidade de sorteá-las bem mais alta. 
+
+No algoritmo genético ocorre algo semelhante: após gerar a população inicial, obtêm-se valores de avaliação para cada amostra, permitindo identificar quais delas estão mais próximas ou mais distantes da solução final esperada.
 
 `⏱ 05:20`
 
-Ele vai ter, por exemplo, amostras dentro de C4, que é uma região maior da roleta. Então, significa que C4 tem muito mais chance de ser escolhido, porque a função dele de valores é mais próxima do que eu quero. Ah, mas por que a gente mantém... então C6, se ele tem digamos um valor de certeza tão baixo porque não adianta eu selecionar sempre os melhores as vezes o cruzamento o cruzamento entre uma amostra boa e uma não tão boa ou uma boa e uma ruim é melhor do que o cruzamento entre de duas amostras boas. Então, tem esse lance dentro dos algoritmos genéticos, e por isso que a gente tem uma seleção por probabilidade, mas que não exclui as minorias da população, certo? Depois a gente tem a recombinação de indivíduos. Depois de selecionados os indivíduos, eu vou aplicar um método de recombinação, que seria, teoricamente, pegar e recombinar as duas melhores soluções. Então, aqui, se a gente olhar, é um método de recombinação de ponto único. Tem um ponto aí que foi dividido o vetor. E os dois últimos números foram quebrados. E aí a gente inverte, coloca a recombinação para a parte verde vai para a parte amarela e a parte amarela vai para a parte verde. Então a gente trocou o gene ali. genes do pai e da mãe para gerar uma recombinação, certo? E vocês podem reparar que aqui eu já estou aplicando o algoritmo de recombinação nos valores binários. Então, é um procedimento que a gente costuma fazer em rodar o nosso algoritmo. nos dados binários já, nos dados que rodam diretamente no processador, porque isso gera uma precisão maior e uma velocidade maior também, ? Então, a recombinação vai recombinar os dois melhores indivíduos que foram selecionados no método de roleta. A meta é gerar um indivíduo melhor. é pior do que seus pais certo então por isso que a gente aplica o método de recombinação sempre vai dar certo às vezes não às vezes o filho é pior do que os pais e aí lá no final ao invés de ser selecionado o filho continua valendo os pais como melhores amostras e aí A mutação. A mutação é aplicada para que a gente não tenha uma convergência prematura do algoritmo. E o que seria isso? A gente vai gerando população, recombinando, vai chegar uma hora que a minha população está toda igual. Não tem diferença um elemento do outro. E se a gente pegar na natureza, a mutação acontece para isso também. Então, tem casais, por exemplo, que não tem ninguém ruivo na família e nasce um filho ruivo. Por quê? Para evitar a espécie entrar numa convergência. de emergência prematura, onde os filhos vão ficar todos iguais, os netos, ? Então, a mutação é aplicada para que a gente não tenha esse problema de gerar uma população que seja muito igual ao que está sendo a família anterior. dentro da árvore genealógica, por exemplo. Então, se a gente pegar aqui a mutação, na prática, no algoritmo, é algo muito mais simples do que toda essa teoria por trás. O que é a mutação no algoritmo genético? Eu tenho uma cadeia de valores binários. E eu vou escolher um valor para mutar. Então, aqui eu tenho a cadeia 1, 1, 0, 0. E aí, eu vou mutar o terceiro valor. Poderia ser qualquer outro. Então, o valor 1, quando eu vou mutar ele, ele vai para 0. E se ele é 0, ele vai para 1. A mutação só faz isso. Parece uma mudança muito simples, mas o meu cromossomo aqui no caso, ele vai ser completamente outra amostra, por mais que eu estou alterando só um valorzinho. Então isso evita que a gente tenha uma convergência prematura, sempre a mutação é feita no mesmo ponto.
+### Seleção e Manutenção da Diversidade
+
+Ele vai ter, por exemplo, amostras dentro de `C4`, que é uma região maior da roleta. Isso significa que `C4` tem muito mais chance de ser escolhido, porque a sua função de valores é mais próxima do objetivo desejado.
+
+Por que mantemos `C6` se ele tem um valor de certeza tão baixo? Porque não adianta selecionar sempre os melhores. Às vezes, o cruzamento entre uma amostra boa e uma não tão boa — ou entre uma boa e uma ruim — é melhor do que o cruzamento entre duas amostras boas. Existe essa dinâmica dentro dos algoritmos genéticos e, por isso, temos uma seleção por probabilidade que não exclui as minorias da população.
+
+### Recombinação de Indivíduos
+
+Depois de selecionados os indivíduos, aplica-se um método de recombinação, que consiste em recombinar as duas melhores soluções. 
+
+Neste caso, utiliza-se um método de recombinação de ponto único:
+- Há um ponto em que o vetor é dividido;
+- Os dois últimos números são quebrados;
+- Realiza-se a inversão: a parte verde vai para a amarela e a parte amarela vai para a verde.
+
+Dessa forma, trocam-se os genes do pai e da mãe para gerar a recombinação. 
+
+Esse algoritmo de recombinação já é aplicado diretamente nos valores binários. Esse procedimento é padrão na execução do algoritmo, pois rodar diretamente nos dados que operam no processador gera maior precisão e velocidade.
+
+A recombinação vai atuar sobre os dois melhores indivíduos selecionados pelo método da roleta, com a meta de gerar um indivíduo melhor. Nem sempre isso dá certo; às vezes, o filho é pior do que seus pais. Quando isso ocorre, em vez de selecionar o filho, os pais continuam valendo como as melhores amostras.
+
+### Mutação
+
+A mutação é aplicada para evitar a convergência prematura do algoritmo. Conforme a população vai sendo gerada e recombinada, pode chegar um momento em que todos os indivíduos fiquem iguais, sem diferença entre um elemento e outro.
+
+Na natureza, a mutação ocorre com a mesma finalidade. Existem casais, por exemplo, que não possuem ninguém ruivo na família e geram um filho ruivo, evitando que a espécie entre em uma convergência prematura na qual filhos e netos se tornem todos iguais. A mutação impede a geração de uma população excessivamente idêntica à família anterior dentro da árvore genealógica.
+
+Na prática do algoritmo, a mutação é um processo simples:
+- Em uma cadeia de valores binários, escolhe-se uma posição para mutar;
+- Dada a cadeia `1, 1, 0, 0`, escolhe-se mutar o terceiro valor (poderia ser qualquer outro);
+- Se o valor for `1`, ele passa a ser `0`; se for `0`, passa a ser `1`.
+
+Embora pareça uma alteração simples de apenas um bit, o cromossomo passa a representar uma amostra completamente diferente, evitando a convergência prematura.
 
 `⏱ 10:00`
 
-Não, a mutação é feita de forma aleatória. Eu posso mutar um valor da população ou mais valores. E aí vai depender do meu método de escolha. E o funcionamento do algoritmo genético? Vamos ver um pouco disso agora. tem muito jogo digital, principalmente os games que a gente joga atualmente, que cada vez mais a gente está exigente com, além da parte gráfica, também com a jogabilidade. Então, cada vez mais a gente quer jogar algo que você entre numa fase e se você, sei lá, morreu, você vai passar de novo por aquele mesmo agente, o seu inimigo, e que ele não tem o mesmo comportamento. você espera que ele esteja numa posição diferente, que você esteja jogando ele numa posição que o ataque dele vai ser diferente, porque senão fica muito fácil, você passa por ali, morre, aí você volta e já sabe o que vai acontecer, então sua decisão... Então, nos algoritmos genéticos para games, a gente tem essa possibilidade de gerar uma população de respostas para o agente, no caso ali o inimigo, por exemplo, e que a gente tem a possibilidade depois de fazer o que? De gerar um comportamento diferente. Parece que não é tão diferencial para um jogo isso, mas é. Para quem gosta de videogame aí sabe o que eu estou dizendo. Você jogar algo que o comportamento não é sempre o mesmo, que sai daquela mesmice. e zerar novamente o jogo, ele tem um novo comportamento, não é sempre igual àquilo que você está fazendo, senão o jogo acaba perdendo a graça. Então o algoritmo genético é muito usado para isso, para gerar novas soluções, evitando comportamentos repetitivos entre o agente. do game que você ali está jogando, gerar comportamentos novos para cada agente, então essa é a nossa base para quando a gente fala de jogos digitais envolvendo inteligência artificial, dentro desse cenário também, falando de redes neurais, Eu me lembrei agora Quando você joga um jogo de corrida Atualmente Ou outro jogo, ? Estou falando de corrida porque É um jogo que fica bem claro isso Quando você joga contra a máquina E você coloca lá num nível Então você colocou no nível fácil, o que acontece? Os carros começam a acelerar menos, começam a frear mais nas curvas, para que você consiga competir ali, porque você não tem tanta habilidade no jogo. Quando você coloca no nível difícil, nível hard, o que acontece? O comportamento dos agentes são melhorados, as velocidades aumentam, tudo, para que fique mais difícil para você. Porém, fica algo muito artificial, porque você vê que o carro da máquina nunca bate, sempre dirige certinho. O que eles fazem atualmente? Quando alguém joga online, uma corrida, dentro de um circuito, sei lá. Estou jogando um jogo de Fórmula 1 em Interlagos e aí eu ganhei a prova. Só que eu ganhei a prova, mas eu bati no guardrail, eu esqueci de abastecer. Na hora certa Eu fiz um monte de erro Que é erro humano Então o que o sistema faz Copia a minha forma de jogar E coloca dentro de um agente do jogo Da máquina Aí quando eu for jogar contra a máquina Eu vou jogar com A cópia do computador comportamento de uma pessoa que foi ali e jogou. Então fica algo mais real, ? Do que um agente que só fica jogando certinho. Então, um agente que bate, que sai da pista, que bate nos outros carros para tirar o carro fora do oponente da pista. Tudo isso é uma cópia de comportamento. comportamento de outros jogadores, que entra nessa capacidade que eu tô falando de gerar agentes que tenham comportamentos diferentes e isso cada vez mais é valorizado nos games, por isso que você vai lá baixar um jogo atualmente, tem atualização de 30, 40 gigas, você fala, caramba!
+A mutação é feita de forma aleatória. Eu posso mutar um valor da população ou mais valores, e isso vai depender do meu método de escolha. 
+
+### Algoritmos Genéticos em Jogos Digitais
+
+Sobre o funcionamento do algoritmo genético, há muitos jogos digitais, principalmente os games atuais, em que estamos cada vez mais exigentes tanto com a parte gráfica quanto com a jogabilidade. 
+
+Cada vez mais queremos jogar algo em que, ao entrar numa fase e morrer, ao passar de novo por aquele mesmo agente inimigo, ele não tenha o mesmo comportamento. Você espera que ele esteja numa posição diferente e que o ataque dele seja diferente. Caso contrário, fica muito fácil: você passa por ali, morre, volta e já sabe o que vai acontecer na sua tomada de decisão.
+
+Nos algoritmos genéticos para games, temos a possibilidade de gerar uma população de respostas para o agente, como o inimigo, e gerar um comportamento diferente. Parece que não é um diferencial tão grande para um jogo, mas é. Para quem gosta de videogame, sabe o que estou dizendo: jogar algo cujo comportamento sai da mesmice e, ao zerar novamente o jogo, ele apresenta um novo comportamento, sem ser sempre igual, evitando que o jogo perca a graça.
+
+O algoritmo genético é muito usado para isso: gerar novas soluções, evitando comportamentos repetitivos do agente do game e gerando comportamentos novos para cada agente. Essa é a base quando falamos de jogos digitais envolvendo inteligência artificial dentro desse cenário, falando também de redes neurais.
+
+### Simulação de Comportamento Humano e Dificuldade
+
+Quando você joga um jogo de corrida atualmente contra a máquina e define o nível de dificuldade:
+
+- No nível fácil: os carros começam a acelerar menos e a frear mais nas curvas para que você consiga competir, caso não tenha tanta habilidade no jogo.
+- No nível difícil (*hard*): o comportamento dos agentes é melhorado e as velocidades aumentam para dificultar a partida.
+
+Porém, isso costuma ficar muito artificial, pois o carro da máquina nunca bate e sempre dirige perfeitamente. 
+
+O que fazem atualmente: quando alguém joga uma corrida online dentro de um circuito — por exemplo, jogando Fórmula 1 em Interlagos —, o jogador pode ganhar a prova, mas bater no *guardrail*, esquecer de abastecer na hora certa e cometer vários erros humanos. 
+
+O sistema copia essa forma de jogar e a insere dentro de um agente da máquina no jogo. Ao jogar contra a máquina, você joga contra a cópia do comportamento de uma pessoa real. Isso torna o jogo mais real do que enfrentar um agente programado apenas para jogar de forma perfeita. É um agente que bate, sai da pista e encosta nos outros carros para tirar o oponente do trajeto. 
+
+Tudo isso é uma cópia de comportamento de outros jogadores, enquadrando-se nessa capacidade de gerar agentes com comportamentos diferentes. Isso é cada vez mais valorizado nos games, sendo a razão pela qual uma atualização de jogo atual chega a ter 30 ou 40 gigas.
 
 `⏱ 15:00`
 
-Porque tem essas melhorias contínuas nos jogos Aqui depois de falar tanto sobre geração de comportamento E tudo mais, agora eu vou falar um pouco para vocês De como é o aprendizado de um sistema que utiliza algoritmo genético. Então, eu vou colocar para rodar um vídeo aqui, que foi um artigo publicado, um artigo na área de ciência da computação. Então, a gente tem ali um modelo de uma pessoa. E aí o sistema vai aprender a andar. Lembrando que o sistema não sabe o que é andar e ele vai começar do zero. Então tem pessoas com pernas mais altas ali, tem pessoas com pernas mais curtas, dinossauros. E a gente vai ver... Como que um sistema aprende do zero, bom? Então ele vai estar mostrando aqui as criaturas primeiro, ? Depois a gente vai ver o comportamento de cada uma delas no aprendizado, ? Esse aprendizado, ele começa de um ponto onde o objeto não tem nenhum... certeza de como é o movimento dele, então ó, a geração 1, a geração 6, a 17 e a 921, a geração 17 já aprendeu um pouco a andar, aqui no caso, geração 1, 99, 216 e 900, a geração 900 já aprendeu... ao andar, a geração 1, 20, 80 e 999 a 80 está andando meio cambaleando ali e ela está tentando se equilibrar e perdeu a rota, caiu a 999 está andando ali tranquilamente então Aqui também, no caso de uma pessoa, andando a 2 metros por segundo, 3.5 metros por segundo, 4.5 metros por segundo. E aí o agente, quando começa a correr, ele começa a ver que ele precisa movimentar os braços também, para ter um equilíbrio melhor. Aqui um dinossauro de pescoço bem comprido, então andando a um metro por segundo ele está tranquilo. A dois metros por segundo ele entendeu que é melhor ele ir pulando. Ele entendeu que é melhor ele ir pulando porque fica mais fácil o comportamento dele. Então a gente está vendo comportamentos de agentes em diferentes situações e o próprio sistema tem que aprender. Então aqui, por exemplo, ele tem que correr tendo arremessado sobre ele caixas de 3 kg. E ele tem que se manter em pé. Então ele vai aprendendo como ele tem que lidar com essa situação, certo? Se a gente pensar como a gente aprende, é assim também. Quando você começa a aprender a engatinhar. Aí você aprende tudo bonitinho. Aí você vê, nossa, mas eu acho que é mais eficiente eu ir em pé. Não vou ficar mais ralando o meu joelho, a minha mão aqui no chão. Aí você começa a andar em pé, vai caindo, tropeçando, segurando em parede. Chega um ponto que você aprende a controlar seu corpo. E seu corpo vai andar. de forma tranquila, sem problemas com a navegação, com obstáculos também, então você sabe andar perfeitamente, aí um dia você pega um piso, uma pista de esqui, aprender a andar vai ser diferente, é escorregadio ou aqui o objeto está andando na lua agora a forma de você andar vai ter que ser readaptada então isso que eu mostrei para vocês aqui o algoritmo genético ele vai o algoritmo genético tendo várias interações, várias iterações, várias iterações, e chega um momento que ele define que ele aprendeu a andar, ou ele aprendeu a pular, então o algoritmo vai tomar a decisão do que é melhor para ele. Vocês viram que o dinossauro, quando aprendeu a correr, ele vai pulando, ele não vai mais dando passinhos. Por quê? Ele enxerga que é mais eficiente ele ir pulando do que dando passos. Então, isso seria a base da geração de...
+### Aprendizado de Locomoção com Algoritmos Genéticos
+
+Depois de falar sobre geração de comportamento, vamos ver como é o aprendizado de um sistema que utiliza algoritmo genético.
+
+Trata-se de um vídeo de um artigo publicado na área de ciência da computação. Temos o modelo de uma pessoa e o sistema vai aprender a andar. Lembrando que o sistema não sabe o que é andar e vai começar do zero. 
+
+Há criaturas com diferentes estruturas:
+- Pessoas com pernas mais altas;
+- Pessoas com pernas mais curtas;
+- Dinossauros.
+
+Vamos ver como o sistema aprende do zero. Primeiramente são mostradas as criaturas e, em seguida, o comportamento de cada uma delas durante o processo de aprendizado.
+
+### Evolução Através das Gerações
+
+O aprendizado começa de um ponto onde o objeto não tem certeza de como é o seu movimento:
+
+- **Gerações 1, 6, 17 e 921:** a geração 17 já aprendeu um pouco a andar;
+- **Gerações 1, 99, 216 e 900:** a geração 900 já aprendeu a andar;
+- **Gerações 1, 20, 80 e 999:** a geração 80 está andando meio cambaleante, tentando se equilibrar, mas perdeu a rota e caiu; já a geração 999 está andando tranquilamente.
+
+### Variações de Velocidade e Comportamento
+
+Podemos observar também o caso de uma pessoa se deslocando em diferentes velocidades:
+- 2 metros por segundo;
+- 3,5 metros por segundo;
+- 4,5 metros por segundo.
+
+Quando o agente começa a correr, ele percebe que precisa movimentar os braços para obter um equilíbrio melhor.
+
+No caso de um dinossauro de pescoço bem comprido:
+- A 1 metro por segundo, ele anda tranquilamente;
+- A 2 metros por segundo, ele compreende que é melhor se locomover pulando, pois isso torna o seu comportamento mais fácil e eficiente.
+
+### Adaptação a Obstáculos e Analogia com o Aprendizado Humano
+
+Vemos comportamentos de agentes em diferentes situações em que o próprio sistema precisa aprender. Por exemplo, o agente precisa correr enquanto caixas de 3 kg são arremessadas contra ele, precisando se manter em pé. Ele vai aprendendo a lidar com essa situação.
+
+O aprendizado humano funciona de maneira similar:
+- A pessoa começa aprendendo a engatinhar;
+- Depois percebe que é mais eficiente ficar em pé para não ralar o joelho e as mãos no chão;
+- Começa a andar em pé, caindo, tropeçando e se segurando nas paredes;
+- Chega a um ponto em que aprende a controlar o corpo e passa a andar tranquilamente, sem problemas de navegação e superando obstáculos.
+
+Contudo, ao encontrar uma pista de esqui, o piso é escorregadio e a forma de andar precisa mudar. Da mesma forma, se o objeto estiver andando na Lua, a maneira de andar terá que ser readaptada.
+
+### Otimização e Tomada de Decisão
+
+O algoritmo genético executa diversas iterações até que chega um momento em que define que aprendeu a andar ou a pular. O algoritmo toma a decisão do que é melhor para ele.
+
+O dinossauro, ao aprender a correr, passou a ir pulando em vez de dar passos curtos, pois reconheceu que o salto é mais eficiente do que o passo contínuo. Essa é a base da geração de...
 
 `⏱ 20:00`
 
-comportamento para um agente. Nos games acontece isso, a gente aplica para os personagens terem movimentos diferentes, comportamentos diferentes, e se torna uma inteligência artificial, porque o próprio personagem começa a variar o seu... seus movimentos, ? E aqui vai tendo várias coisas doidas, ? Porque eles vão ajustando, ? O tamanho do pescoço, a velocidade. Aqui o dinossauro aprendeu que ele pode usar o rabo para ajudar na manobra. A pessoa aprendeu um novo tipo de corrida aqui, ? onde ela vai dando alguns pulinhos, então cada um vai definindo um aprendizado diferente, e a gente não tem como controlar tudo isso. Eu sei que foi um exemplo legal para a gente ver como é o comportamento dos personagens em um game. Mas, isso é aplicado também na robótica, no comportamento entre pedestres em um simulador, o comportamento de agentes em diferentes cenários, ? Aqui a gente mostrou um ser bem complexo, que é um... pessoa, um dinossauro, mas a gente tem aplicações diferentes, vai desde alterar a cor do céu de um jogo, por exemplo, então você não quer sempre a mesma cor no céu, você roda um algoritmo genético para ir misturando as cores e ter um cenário diferente. Então tudo isso que eu mostrei aqui para vocês nesse vídeo é uma simulação do aprendizado por meio do algoritmo genético. Eu voltei aqui um pouco para a gente ver melhor os tipos de agentes e eu quero visualizar de novo com vocês aquela parte inicial. do humano andando. Então, várias gerações, ? E a geração 921 é a que sabe andar certinho. Aqui os dinossauros e a geração 900 é a que sabe andar bem. Controlar o pescoço... nossa tudo bonitinho aqui também a geração 999 já sabe andar perfeitamente mas a 80 já aprendendo parece um dinossauro filhote que começou a aprender a andar e caiu mas por que tanta Se o 80 já aprendeu, porque só em 999 que tem uma solução boa, porque já é uma solução mais refinada, já eliminou todos os erros que podem existir. E aí a gente vai ver aqui um exemplo dentro de um cenário, mas sim... que seria um algoritmo genético ensinar aquele dinossauro de quando a sua internet cai do google chrome a jogar aquele joguinho então os comportamentos que a gente tem aqui é o tamanho do obstáculo que sempre vem ali umas rochas, uns cactos, e a velocidade do dinossauro na corrida dele. E também a hora da ativação, porque a única coisa que você faz é usar a seta para cima, para pular e para baixo. para agachar quando alguma coisa vem por cima. Geralmente vem um dinossauro voando ali, para você abaixar e se proteger. Então, aqui nesse link, a gente consegue visualizar esse exemplo, onde a gente tem... a aplicação de um algoritmo genético para controlar os movimentos de um dinossauro nesse jogo offline do navegador, ? Então é um joguinho de passatempo. tempo ali para até voltar à internet você aliviar a sua ansiedade mas como eu falei para vocês os parâmetros de treinamento significam basicamente a altura do que a gente tem na cena o a altura do cacto a altura do objeto que vem sobrevoando sobre a gente para saber se a gente consegue pular ou se a gente tem que agachar e é isso a parte de implementação Para mostrar um pouco da parte de implementação para vocês, a gente tem um problema dentro do Colab, que é um problema de algoritmo genético, definindo uma população de amostras. e solucionando essa população por meio da seleção, da recombinação e da mutação, gerando melhores amostras. E a gente também vai ver essa parte do algoritmo genético para resolver o problema da mochila. Para quem nunca viu falar...
+### Comportamento de Agentes e Simulação de Aprendizado
+
+O comportamento para um agente acontece nos games: ele é aplicado para que os personagens tenham movimentos e comportamentos diferentes. Isso se torna uma inteligência artificial, porque o próprio personagem começa a variar seus movimentos.
+
+Nesse processo, ocorrem vários ajustes automáticos, como o tamanho do pescoço e a velocidade:
+- O dinossauro aprendeu que pode usar o rabo para ajudar na manobra;
+- O personagem humano aprendeu um novo tipo de corrida, dando alguns pulinhos.
+
+Cada um vai definindo um aprendizado diferente, sem que haja controle manual direto sobre tudo isso.
+
+Além do comportamento dos personagens em um jogo, esse conceito também é aplicado em:
+- Robótica;
+- Comportamento de pedestres em simuladores;
+- Comportamento de agentes em diferentes cenários.
+
+Além de seres complexos como uma pessoa ou um dinossauro, há aplicações variadas, como alterar a cor do céu de um jogo. Quando não se quer sempre a mesma cor, roda-se um algoritmo genético para misturar as cores e gerar um cenário diferente. Tudo isso consiste em uma simulação do aprendizado por meio de algoritmo genético.
+
+### Evolução das Gerações
+
+Analisando a evolução dos agentes ao longo das gerações:
+- Na simulação do humano andando, a geração 921 é a que sabe andar corretamente;
+- Nos dinossauros, a geração 900 consegue andar bem e controlar o pescoço;
+- A geração 999 já sabe andar perfeitamente;
+- A geração 80 já apresentava aprendizado preliminar, assemelhando-se a um dinossauro filhote que começa a andar e cai.
+
+A necessidade de atingir a geração 999, mesmo que a 80 já tenha aprendido a se mover, deve-se ao fato de a solução mais avançada ser mais refinada, tendo eliminado os erros existentes nas etapas anteriores.
+
+### Exemplo: Jogo do Dinossauro do Google Chrome
+
+Há um exemplo prático que consiste em usar o algoritmo genético para ensinar o dinossauro do jogo offline do Google Chrome a jogar.
+
+Os comportamentos e fatores analisados incluem:
+- O tamanho do obstáculo (como rochas e cactos);
+- A velocidade de corrida do dinossauro;
+- O momento exato de ativação dos comandos.
+
+Os comandos do jogo resumem-se a:
+- Pressionar a seta para cima para pular;
+- Pressionar a seta para baixo para agachar quando um obstáculo vem por cima (como um dinossauro voador).
+
+Os parâmetros de treinamento envolvem basicamente a altura dos elementos presentes na cena, como a altura do cacto e a altura do objeto sobrevoando, determinando se o agente deve pular ou agachar.
+
+### Implementação Prática e Problema da Mochila
+
+Na parte de implementação, há um exemplo dentro do `Colab` que estrutura o algoritmo genético definindo uma população de amostras e evoluindo essa população por meio de:
+- Seleção;
+- Recombinação;
+- Mutação.
+
+Esses operadores atuam gerando amostras sucessivamente melhores. Na sequência, o algoritmo genético será aplicado para resolver o problema da mochila.
 
 `⏱ 25:40`
 
-do problema da mochila é um problema da computação chamado NP completo é a classe de problemas NP completo que são problemas já no nível hard na computação se não me engano a gente tem 21 problemas na computação que são NP completos que são definidos como o problema do cacheiro viajante e tudo mais e aqui a gente tem o problema da mochila que você tem, que a mochila é um problema de otimização combinatória nesse caso a mochila suporta uma certa carga e o objetivo que a gente tem é preencher a mochila Com uma certa quantidade de objetos. Cada objeto vai ter um peso e um valor. O objetivo central é preencher a mochila com o maior valor possível. Sem ultrapassar a carga dela. Então a minha mochila suporta 15 kg. Quais objetos eu posso levar? sem passar do 15 quilos e também sem que fique muito abaixo dos 15. Então, qual é a solução melhor? Então, eu tenho alguns objetos e eu tenho um algoritmo que gera isso por meio da computação bioinspirada para o algoritmo genético. Então, logo a seguir... a gente vai ver o comportamento desses algoritmos na prática, bom, ?
+### O Problema da Mochila
+
+O problema da mochila é um problema da computação chamado NP-completo. Essa classe de problemas reúne problemas que estão no nível hard da computação. Se não me engano, temos 21 problemas na computação que são NP-completos, definidos como o problema do caixeiro-viajante e outros.
+
+Aqui temos o problema da mochila, que é um problema de otimização combinatória. Nesse caso, a mochila suporta uma certa carga e o objetivo é preenchê-la com uma certa quantidade de objetos. 
+
+Cada objeto vai ter um peso e um valor. O objetivo central é preencher a mochila com o maior valor possível, sem ultrapassar a carga dela.
+
+Por exemplo, se a minha mochila suporta 15 kg:
+- Quais objetos eu posso levar sem passar dos 15 kg e também sem que fique muito abaixo dos 15 kg? 
+- Qual é a melhor solução?
+
+Tendo alguns objetos, temos um algoritmo que gera essa solução por meio da computação bioinspirada, utilizando algoritmo genético. 
+
+Logo a seguir, veremos o comportamento desses algoritmos na prática.
 
 ## Relacionado
 

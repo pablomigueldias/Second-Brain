@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Machine Learning/Algoritmos Genéticos/algoritmos-geneticos-implementacao-operadores-e-simulacoes-de-aprendizado.md",
+                "file": "Pessoal/Machine Learning/Algoritmos de SVM/fundamentos-de-svm-hiperplanos-e-comparacao-com-redes-neurais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "algoritmos-geneticos-implementacao-operadores-e-simulacoes-de-aprendizado"
+              "title": "fundamentos-de-svm-hiperplanos-e-comparacao-com-redes-neurais"
             }
           }
         ]
@@ -210,12 +210,19 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "26758f3261ee0499",
+  "active": "2999178e67c9055d",
   "lastOpenFiles": [
+    "Pessoal/Machine Learning/Algoritmos Genéticos/algoritmos-geneticos-implementacao-operadores-e-simulacoes-de-aprendizado.md",
+    "Pessoal/Machine Learning/Algoritmos Genéticos/algoritmos-geneticos-conceitos-funcionamento-etapas-e-aplicacoes-praticas.md",
+    "Pessoal/Machine Learning/Algoritmos Genéticos/algoritmos-geneticos-implementacao-operadores-e-simulacoes-de-aprendizado.md.bak",
+    "Pessoal/Machine Learning/Algoritmos de SVM/fundamentos-de-svm-hiperplanos-e-comparacao-com-redes-neurais.md.bak",
+    "Pessoal/Machine Learning/Introdução ao Machine Learning/visao-computacional-ia-e-aplicacoes-em-sistemas-autonomos.md",
+    "Pessoal/Machine Learning/Introdução ao Machine Learning/tomada-de-decisao-sistemas-adas-e-deep-learning-em-veiculos-autonomos.md",
+    "Pessoal/Machine Learning/Introdução ao Machine Learning/redes-neurais-deep-learning-e-aplicacoes-praticas-de-machine-learning.md",
+    "Pessoal/Machine Learning/Introdução ao Machine Learning/conceitos-fundamentais-de-machine-learning-inteligencia-artificial-e-generalizac.md",
+    "Pessoal/Machine Learning/Algoritmos de SVM/fundamentos-de-svm-hiperplanos-e-comparacao-com-redes-neurais.md",
     "Pessoal/Machine Learning/Algoritmos de SVM",
     "Pessoal/Machine Learning/Algoritmos Genéticos/Algoritmos de SVM",
-    "Pessoal/Machine Learning/Algoritmos Genéticos/algoritmos-geneticos-conceitos-funcionamento-etapas-e-aplicacoes-praticas.md",
-    "Pessoal/Machine Learning/Algoritmos Genéticos/algoritmos-geneticos-implementacao-operadores-e-simulacoes-de-aprendizado.md",
     "Pessoal/Machine Learning/Redes Neurais Artificiais/visao-computacional-processamento-de-imagens-e-extracao-de-caracteristicas-em-re.md",
     "Pessoal/Machine Learning/Algoritmos Genéticos",
     "Pessoal/Provas/Prova 14/gabarito_definitivo.pdf",
@@ -223,16 +230,10 @@
     "Pessoal/Provas/Prova 14",
     "Pessoal/Provas/prova 13/gabarito_definitivo.pdf",
     "Pessoal/Provas/prova 13/analista_de_tecnologia_da_informacao.pdf",
-    "Pessoal/Provas/prova 13",
-    "Pessoal/Provas/prova 12/gabarito_definitivo.pdf",
-    "Pessoal/Provas/prova 12/analista_de_tecnologia_da_informacao.pdf",
     "Pessoal/Machine Learning/Redes Neurais Artificiais/classificacao-de-dados-e-transferencia-de-conhecimento-em-redes-neurais.md",
     "Pessoal/Machine Learning/Redes Neurais Artificiais/redes-neurais-artificiais-conceitos-estrutura-e-aplicacoes-em-machine-learning.md",
-    "Pessoal/Machine Learning/Introdução ao Machine Learning/visao-computacional-ia-e-aplicacoes-em-sistemas-autonomos.md",
     "Pessoal/Machine Learning/Métodos de Machine Learning bioinspirados/logica-difusa-redes-neurais-generalizacao-e-algoritmos-bioinspirados.md",
     "Pessoal/Machine Learning/Métodos de Machine Learning bioinspirados/metodos-bioinspirados-redes-neurais-e-logica-fuzzy-em-machine-learning.md",
-    "Pessoal/Machine Learning/Introdução ao Machine Learning/redes-neurais-deep-learning-e-aplicacoes-praticas-de-machine-learning.md",
-    "Pessoal/Machine Learning/Introdução ao Machine Learning/conceitos-fundamentais-de-machine-learning-inteligencia-artificial-e-generalizac.md",
     "Pessoal/Introdução à Programação e Pensamento Computacional/Primeiro contato com a programação/pratica-de-algoritmos-em-portugol-soma-de-intervalo-media-e-reutilizacao-de-func.md",
     "Pessoal/Machine Learning/07 - Processamento de Linguagem Natural (NLP)/01 - Introdução e Aplicações do NLP.md",
     "Pessoal/Introdução à Programação e Pensamento Computacional/Linguagens de programação/analise-de-codigo-analise-lexica-sintatica-e-semantica.md",
@@ -246,8 +247,6 @@
     "Pessoal/Introdução à Programação e Pensamento Computacional/Fundamentos de algoritmos/estruturas-condicionais-e-operadores-logicos-em-algoritmos.md",
     "Pessoal/Introdução à Programação e Pensamento Computacional/Fundamentos de algoritmos/estruturas-de-repeticao-em-algoritmos-tipos-funcionamento-e-aplicacoes.md",
     "Pessoal/Introdução à Programação e Pensamento Computacional/Fundamentos de algoritmos/operadores-variaveis-e-estruturas-de-controle-em-algoritmos.md",
-    "Pessoal/Introdução à Programação e Pensamento Computacional/Fundamentos de algoritmos/fundamentos-de-algoritmos-variaveis-tipos-de-dados-e-estruturas-de-controle.md",
-    "Pessoal/Introdução à Programação e Pensamento Computacional/Introdução à lógica de programação/tecnicas-de-logica-de-programacao-linear-estruturada-e-modular.md",
     "Pessoal/Matemática/IMG/Pasted image 20260106190909.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260107145259.png",
     "Pessoal/Matemática/IMG/diagram-20260106.png",

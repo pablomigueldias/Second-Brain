@@ -1,0 +1,101 @@
+---
+titulo: "Fundamentos de SVM, Hiperplanos e Comparação com Redes Neurais"
+tags: [machine-learning, algoritmos, conceitos, fundamentos, redes-neurais-artificiais, otimizacao]
+data: 2026-08-22
+fonte: "gravação (sistema)"
+tipo: transcricao
+duracao_min: 24
+conceitos: [Máquinas de Vetores de Suporte (SVM), Hiperplano, Aprendizado Supervisionado, Aprendizado Não Supervisionado, Margem de Separação, Modelo Discriminativo, Mínimo Global]
+---
+
+# Fundamentos de SVM, Hiperplanos e Comparação com Redes Neurais
+
+> [!resumo] Do que se trata
+> Apresenta o conceito de Máquinas de Vetores de Suporte (SVM) como um algoritmo de aprendizado supervisionado baseado na criação de hiperplanos para classificação de dados. Diferencia o aprendizado supervisionado com exemplos rotulados do aprendizado não supervisionado sem rótulos prévios. Compara o funcionamento do SVM com Redes Neurais Artificiais, destacando a maximização da margem de segurança frente à busca pelo mínimo global de erro.
+
+## Para lembrar
+
+- **A Máquina de Vetores de Suporte (SVM) é um modelo discriminativo supervisionado cujo objetivo principal é definir um hiperplano que divide e classifica amostras de diferentes classes.**
+- **O aprendizado supervisionado utiliza pares de entradas com rótulos de saída para treinar o modelo, diferindo do aprendizado não supervisionado, que agrupa dados sem rótulos.**
+- **Enquanto as Redes Neurais focam em reduzir o erro de treinamento até atingir um mínimo global, o SVM foca em otimizar a fronteira de decisão maximizando a margem de separação entre as classes.**
+- **A margem de separação atua como uma margem de segurança para evitar que amostras parecidas ou ruídos ultrapassem a divisa e sejam classificadas de forma incorreta.**
+
+## O que esta nota responde
+
+- Qual é a diferença fundamental no objetivo de otimização entre SVM e Redes Neurais?
+- Como funciona a divisão por hiperplano e a maximização de margem no SVM?
+- O que diferencia o aprendizado supervisionado do aprendizado não supervisionado?
+
+## Conceitos
+
+**Máquinas de Vetores de Suporte (SVM)** · **Hiperplano** · **Aprendizado Supervisionado** · **Aprendizado Não Supervisionado** · **Margem de Separação** · **Modelo Discriminativo** · **Mínimo Global**
+
+## Conteúdo
+
+`⏱ 00:00`
+
+Olá. Meu nome é Diego Bruno e hoje vamos ver um conteúdo muito importante para a área de Machine Learning: os modelos de aprendizado baseados em Máquinas Vetores de Suporte (Support Vector Machines).
+
+Este cenário é muito importante dentro do Machine Learning porque é um método muito utilizado e também muito robusto, principalmente em situações onde alguma amostra dentro da nossa população tem uma diferença muito grande comparada à sua classe.
+
+A gente vai ver melhor esse contexto, mas esse tipo de algoritmo é bem parecido com as redes neurais artificiais, porém, na prática, o funcionamento tem algumas diferenças que vamos discutir.
+
+### O que são Máquinas de Vetores de Suporte (SVM)?
+
+Uma Máquina de Vetores de Suporte, ou pela sigla em inglês, SVM, é um algoritmo baseado em SVM que terá uma base de treinamento para classificar amostras que têm uma diferença considerável, criando um hiperplano entre essas amostras.
+
+A criação desse hiperplano, dividindo duas classes, como na imagem, é a base desse tipo de algoritmo. Nossa principal tarefa é definir esse plano que vai dividir as classes. O resultado esperado desse tipo de algoritmo é essa divisão das classes.
+
+### SVM e o Aprendizado Supervisionado
+
+Alguns podem pensar que isso é muito fácil, mas o algoritmo precisa fazer isso da melhor forma possível.
+
+Para entender isso, vamos primeiro saber o que são SVMs.
+
+Primeiramente, vamos trabalhar com um algoritmo supervisionado. Um algoritmo supervisionado é aquele onde o modelo de treinamento recebe uma entrada e um rótulo de saída para essa entrada.
+
+Para imaginar, pense em quando estou ensinando uma criança o que é um gato e o que é um cachorro. Eu mostro para a criança a foto de um gato e digo: "É um gato". Eu tenho uma entrada, que é a informação de uma imagem, e eu tenho um rótulo dizendo para a criança: "É um gato". Isso é diferente de pegar várias fotos e ir mostrando para a criança sem dizer o que é.
+
+O nosso método baseado em SVM mostra a entrada e fala o que é na saída, criando uma relação e aprendendo de uma forma que chamamos de aprendizado supervisionado.
+
+Nesse processo, teremos:
+
+- Uma entrada com valores dentro de um espaço de busca.
+- As características dessas amostras.
+
+Por meio dessas características, conseguimos diferenciar cada objeto de forma supervisionada, criando um plano que divide as nossas duas classes.
+
+### Comparação com Redes Neurais
+
+É verdade que é muito parecido com uma rede neural artificial, mas essa aplicação tem algumas diferenças que vamos comentar logo a seguir.
+
+### Tipos de Aprendizagem
+
+Eu dei um spoiler sobre aprendizado supervisionado e não supervisionado. Mas o que seria um aprendizado não supervisionado?
+
+O aprendizado não supervisionado é quando eu quero mostrar uma base de dados que eu não tenho rótulos, e por meio dessa base de dados, eu tenho que ser possível de aprender.
+
+Vou dar um exemplo para vocês. Vou separar 500 imagens, incluindo fotos de gato e cachorro, e vou dar para uma criança.
+
+`⏱ 05:20`
+
+que já tem uma certa inteligência, separar essas imagens por meio de duas classes, classe gatos e classe cachorro. Mas, nesse aprendizado, ela vai ter que relacionar o que está acontecendo ali. Então, ela vai ver... Esse gato aqui, que ela não sabe que é um gato, é um animal qualquer para ela, ela vai ter que olhar para a imagem, olhar para o outro gato e dizer, ah, esses animais se parecem. Eles têm bigode, orelha pontuda. Tem o rabo erguido. Então, essas relações trazem uma união dentro de um cluster de objetos. Então, vamos imaginar que os nossos gatos são essas boas. as bolinhas verdes aí ela vai continuar olhando fotos de cachorro e gato aí ela vai começar a relacionar que tem um outro tipo de animal que é o cachorro e aí ela vai ver esse cachorro aqui e da raça pincher e é bem parecido com esse aqui que é um Rottweiler, um Doberman, e ela começa, bom, então isso aqui não é aquela primeira classe que eu defini que é a classe gato, levando a princípio que a criança não sabe o que é cada classe dessa, então ela vai pegar um monte de imagem e vai separar as imagens pela relação que elas têm, certo? Então, não é um treinamento supervisionado. Ninguém está dizendo para ela o que é. Ela está tendo que separar. Então, eu só vou pedir para ela, separa para mim esses objetos em duas classes. Você vai fazer um... um montinho de um tipo e um montinho de outro, e ela tem que se virar, isso é um treinamento não supervisionado. É isso que acontece quando a gente aplica esse tipo de algoritmo em dados computacionais. Os dados têm as suas características. E a gente tem que criar clusters, o que são clusters? Pontos centralizados, onde as minhas amostras vão se agrupando ali pela similaridade de características. Então eu criei um cluster que é uma cruzinha verde, uma cruzinha vermelha. uma cruzinha azul aqui, e os objetos que são próximos, parecidos, vão se aglomerando, certo? No final eu tenho a minha classificação de três classes e sem saber o que eu tenho de... de rótulo eu não tenho etiquetado o que é isso igual o exemplo da criança, ela vai ter um montinho de foto de cachorro um montinho de foto de gato mas ela não sabe o que é ela só classificou em duas classes Falando do treinamento supervisionado, um algoritmo supervisionado já é diferente. Eu vou mostrar para a criança as imagens e eu vou dizer para ela o que é. Então eu vou pegar esse mesmo conjunto de imagens e vou mostrar para ela. Olha a filha. vendo essa foto? Aqui é um gato. Vou mostrar outro. Ó, outro gato. Vou mostrar um cachorro. Aqui é um cachorro, ? Não é gato agora. Mostro outro cachorro, outro cachorro, outro gato, outro gato, outro cachorro. E digo pra ela o que é cada amostra. Então, o aprendizado dela, eu digo que é um aprendizado mais robusto, porque não é um aprendizado, digamos, a cegas. Ela está sendo treinada por meio de exemplos e que são rotulados, certo? a gente tem a entrada dos dados, a interpretação dos resultados, que é a comparação da entrada com a saída, a aplicação do nosso algoritmo, o processamento desses dados, e a gente tem as saídas, que é a resposta do nosso sistema. Agora um algoritmo... supervisionado, como que ele se comporta, ele vai ter com seus algoritmos a relação de uma saída com a entrada da base de dados, então a gente tem um rótulo, mesma forma que eu dei o exemplo aí para vocês de ensinar uma criança
+
+`⏱ 10:20`
+
+Mostrando uma imagem e mostrando, falando para ela o que é que tem na imagem Quando eu digo para ela o que tem na imagem, esse é o meu rótulo Uma rede neural também funciona assim Uma SVM também funciona assim Eu mostro a minha imagem e eu tenho que ter um nome na imagem dizendo o que tem naquela imagem, certo? Agora no aprendizado não supervisionado eu mostro a imagem e eu não tenho o nome, eu não tenho o rótulo. Agora qual que é a diferença entre uma rede neural artificial e uma ESVM? parece muito parecido tem uma relação muito forte entre as duas e na verdade tem mesmo quem olhando aqui e entendendo que tem uma relação muito forte parece que eu tô é da mesma coisa é tem mesmo essa relação, e a gente vai ver aqui um pouco sobre isso. A principal diferença, quando a gente fala na prática, porque em termos de algoritmo é bem parecido, o algoritmo vai procurar a sua entrada, vai ver... Se tem um rótulo, se tiver o rótulo, ele treina com esse dado. Então, é bem parecido com uma rede neural. Mas, na prática, também não existe muita diferença. O principal fator... É o modo de estabelecer o hiperplano. Então, em uma SVM, o foco é estabelecer o hiperplano otimizando as margens. O que seria a margem? Aonde que eu vou colocar a minha... Aqui vocês estão vendo na minha imagem da SVM que o meu plano, o meu hiperplano está dividindo num ponto onde não fica nenhuma amostra azul do lado da vermelha e nenhuma amostra vermelha do lado da azul. E tem uma certa distância. entre os clusters de objetos, então foi uma divisão ali perfeita, certo? É isso que a SVM busca, ter uma classificação onde fica muito bem definido qual é o limite tanto da classificação, classe vermelha quanto da classe azul, para quando chegar uma nova amostra, ela seja classificada de forma correta, bom? E uma rede neural, o que ela busca? Uma rede neural, ela vai buscar sempre o mínimo global. O que seria o mínimo? mínimo global. A rede neural vai treinando até que consiga abaixar o valor do erro, porque quando a gente coloca um treinamento numa rede neural, a gente vai ter uma acurácia de 90, 95, 98. O ideal seria ter uma acurácia de 100. Então a gente vai tentando chegar cada vez mais no 100% Só que por meio da base de dados, do nosso dataset, talvez não seja possível Então a gente tem que parar o treinamento Porque a gente já chegou no nosso mínimo global Que é o mínimo de erro dentro do nosso treinamento global, certo? Então essa é a diferença, bom? Enquanto a SVM busca dividir muito bem o hiperplano, traçar ali uma reta bem colocada. A rede neural busca tratar uma situação onde o erro do treinamento vai reduzindo cada vez mais Até o limite que a gente chama de mínimo global Então o que a gente... O que a gente espera como resultado de um SVM? A gente espera uma fronteira de decisão por meio do nosso hiperplano, ? E esse hiperplano vai dividir muito bem as nossas amostras, ? Isso aqui a gente está falando... de um modelo discriminativo, que vai discriminar as nossas amostras de forma precisa, e ela vai tentar otimizar ao máximo as margens da divisão dessa fronteira. chamo de margem, a distância entre a nossa fronteira para as nossas amostras. Então, se a gente pegar esse ponto em azul, que está mais próximo do nosso hiperplano, da nossa reta,
+
+`⏱ 15:40`
+
+É o nosso limite, é a nossa margem. E se a gente pegar essa bolinha vermelha, que está mais próxima da nossa reta, é o nosso limite. Então, vocês estão vendo que deixou uma margem bem parecida dos dois lados? Então, teve uma decisão bem ali ao centro. É isso que... que você busca uma SVM ao máximo e por que vetores porque máquina de vetores de onde vem esse nome maluco porque os vetores de suporte e aí que vem esse nome e São simplesmente as coordenadas que a gente tem da observação individual de cada ponto. O algoritmo não vai simplesmente tentar traçar uma reta lá no meio. Ele vai gerar vetores entre cada objeto, cada indivíduo e... um indivíduo da outra classe, certo? Então, uma SVM é uma fronteira que melhor realiza as duas classes, certo? E para isso, ela vai usar esses vetores de comparação individual. Então, por isso... Máquina de vetores de suporte. Então, a gente vai ter uma boa divisão entre os nossos elementos, certo? É basicamente isso que a máquina busca, ? Parece algo tão complexo quando a gente fala teoricamente, mas na prática... é bem simples o objetivo dela. O desenvolvimento. Como que a gente desenvolve essa estrutura? Qual é o objetivo desse algoritmo? Falando aqui de forma ainda matemática. O desenvolvimento da hipótese. hipótese. Aqui a gente tem três hiperplanos, o A, o B e o C. Mas qual que é o nosso hiperplano certo para classificar a estrela e o círculo? Então, se vocês olharem aqui... Tem o hiperplano A, que não está certo. A gente tem o hiperplano C, que também não está. Está cortando a amostra no meio. E a gente tem o hiperplano B, que está aí, muito bonito, certinho. E é esse o nosso... Se a gente tiver que escolher, a gente vai escolher o hiperplano B. Aqui a gente tem também três hiperplanos, A, B e C. E todos a gente tem como dividindo as classes. Aqui todos eles estão satisfazendo a minha... condição. Tanto o A, o B e o C, todos eles estão dividindo as classes de forma correta. Mas qual que é o melhor? O nosso melhor é o C, porque ele está deixando uma margem de segurança entre as nossas duas classes. Quando a gente faz isso, o que a gente obtém? Uma possibilidade de uma classificação melhor, porque eu tenho uma região que é uma margem que a gente pode chamar de margem de segurança. Essa margem de segurança de treinamento vai deixar que amostras que são mais próximas, mais parecidas entre as outras. Então, imagina que eu chego com uma classe estrela que é bem mais parecida. parecida com a bolinha vermelha sei lá uma estrela vermelha apareceu então ela vai ficar bem próxima da divisa certo e se eu tiver por exemplo com esse plano B ela vai passar para o lado de lá então eu vou começar a ver a estrela como bolinha e vai estar errado. Agora, se o meu limite é bem centralizado, é mais difícil de uma classe pular para o outro lado, digamos assim, certo? Então, a gente busca maximizar as distâncias do número. nosso hiperplano, o mais forte possível. Então, a gente vai traçar vetores de distância entre o nosso hiperplano e as amostras, tanto das estrelas quanto das bolinhas. E nesse caso, qual que é? o nosso hiperplano melhor a gente tem o hiperplano B neste caso então o melhor hiperplano é o B já que ele tem uma margem maior em comparação a então se a gente jogar aqui
+
+`⏱ 21:00`
+
+O hiperplano B, ele é o melhor. Ele está dividindo com uma margem muito boa. Mas o que aconteceu? Se eu pegar o hiperplano B, uma estrelinha ficou junto com as bolinhas. Então está errado, certo? Porém, existem situações onde não é possível separar as duas classes, como aqui. Aqui eu vou usar o hiperplano A e fim de problema, porque ele deixa a estrelinha para o lado de lá e as bolinhas ficam todas separadas. assim como as estrelas e perfeito porém vai ter situação onde a minha reta ela pode traçar de qualquer jeito aqui o hiperplano que não vai ficar correto e aí que eu vou fazer Eu vou tentar colocar a reta aqui para dividir de alguma forma, não tem como, ? Então, nesse caso, é possível separar as duas classes usando uma linha reta, porém, a gente sabe que a gente tem aí um território. que tem um outlier. O que é esse outlier? É um valor fora do padrão, ? E ele se juntou ali a outra classe, ? Então a gente tem que a SVM tem recursos para ignorar valores de... discrepantes. Então, ela sabe que tem uma amostra ali fora do padrão, mas ela ignora, certo? Porque é melhor ela ignorar do que ela tentar classificar essa amostra e começar a jogar a minha reta do hiperplano para cá. E aí, ferrar com toda a minha classificação. E aí, sim, eu vou ter um problema. Porque essa reta vai traçar, mais ou menos, aqui no meio das bolinhas vermelhas, para tentar dividir. E aí, o que vai acontecer? Eu não vou ter classificação nenhuma. que vai ficar tudo misturado, então é melhor eu aceitar que eu tenho um outlier, certo? E a SVM aceita isso, a rede neural é mais complicada para aceitar esse tipo de problema, ela vai tentar classificar esse problema até conseguir, e aí vai várias épocas de treinamento, virar um sistema de grande custo e não vai ser legal, então a SVM é muito boa para situações onde a gente trabalha com outliers. E os algoritmos? A gente vai ver um pouco dessa parte de algoritmos a seguir, bom?
+
+## Relacionado
+
+- [[conceitos-fundamentais-de-machine-learning-inteligencia-artificial-e-generalizac]]
+- [[logica-difusa-redes-neurais-generalizacao-e-algoritmos-bioinspirados]]
+- [[redes-neurais-deep-learning-e-aplicacoes-praticas-de-machine-learning]]
+- [[tomada-de-decisao-sistemas-adas-e-deep-learning-em-veiculos-autonomos]]
