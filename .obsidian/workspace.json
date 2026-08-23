@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Machine Learning/Python para ML/python-para-machine-learning-paradigmas-ecossistema-e-ambientes-de-execucao.md",
+                "file": "Pessoal/Machine Learning/Python para ML/instalando-sublime.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "python-para-machine-learning-paradigmas-ecossistema-e-ambientes-de-execucao"
+              "title": "instalando-sublime"
             }
           }
         ]
@@ -210,10 +210,12 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "1d84d5545ab7c621",
+  "active": "26758f3261ee0499",
   "lastOpenFiles": [
-    "Pessoal/Machine Learning/Linguagens de Programação para ML/paradigmas-e-linguagens-de-programacao-para-machine-learning.md",
+    "Pessoal/Machine Learning/Python para ML/instalando-sublime.md.bak",
     "Pessoal/Machine Learning/Python para ML/python-para-machine-learning-paradigmas-ecossistema-e-ambientes-de-execucao.md",
+    "Pessoal/Machine Learning/Python para ML/instalando-sublime.md",
+    "Pessoal/Machine Learning/Linguagens de Programação para ML/paradigmas-e-linguagens-de-programacao-para-machine-learning.md",
     "Pessoal/Machine Learning/Python para ML",
     "Pessoal/Machine Learning/Redes Neurais Artificiais/introducao-rede-neurais-artificiais.pdf",
     "Pessoal/Machine Learning/Linguagens de Programação para ML",
@@ -246,8 +248,6 @@
     "Pessoal/Machine Learning/07 - Processamento de Linguagem Natural (NLP)/01 - Introdução e Aplicações do NLP.md",
     "Pessoal/Introdução à Programação e Pensamento Computacional/Linguagens de programação/analise-de-codigo-analise-lexica-sintatica-e-semantica.md",
     "Pessoal/Introdução à Programação e Pensamento Computacional/Linguagens de programação/paradigmas-de-programacao-estruturado-e-orientacao-a-objetos.md",
-    "Pessoal/Introdução à Programação e Pensamento Computacional/Linguagens de programação/caracteristicas-de-um-programa-de-software-legibilidade-redigibilidade-confiabil.md",
-    "Pessoal/Introdução à Programação e Pensamento Computacional/Linguagens de programação/processamento-de-codigo-compilacao-interpretacao-e-transpilacao.md",
     "Pessoal/Matemática/IMG/Pasted image 20260106190909.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260107145259.png",
     "Pessoal/Matemática/IMG/diagram-20260106.png",
