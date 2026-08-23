@@ -11,12 +11,14 @@
             "id": "1d84d5545ab7c621",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Pessoal/Machine Learning/Redes Neurais Artificiais/introducao-rede-neurais-artificiais.pdf"
+                "file": "Pessoal/Machine Learning/Linguagens de Programação para ML/paradigmas-e-linguagens-de-programacao-para-machine-learning.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "introducao-rede-neurais-artificiais"
+              "icon": "lucide-file",
+              "title": "paradigmas-e-linguagens-de-programacao-para-machine-learning"
             }
           }
         ]
@@ -208,13 +210,14 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "26758f3261ee0499",
+  "active": "1d84d5545ab7c621",
   "lastOpenFiles": [
+    "Pessoal/Machine Learning/Redes Neurais Artificiais/introducao-rede-neurais-artificiais.pdf",
+    "Pessoal/Machine Learning/Linguagens de Programação para ML/paradigmas-e-linguagens-de-programacao-para-machine-learning.md",
     "Pessoal/Machine Learning/Linguagens de Programação para ML",
     "Pessoal/Machine Learning/Algoritmos Genéticos/ALGORITMOS GENÉTICOS: PRINCÍPIOS E APLICAÇÕES.pdf",
     "Pessoal/Machine Learning/Redes Neurais Artificiais/redes-neurais-artificiais-conceitos-estrutura-e-aplicacoes-em-machine-learning.md",
     "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-4-questoes-de-concurso.md",
-    "Pessoal/Machine Learning/Redes Neurais Artificiais/introducao-rede-neurais-artificiais.pdf",
     "Pessoal/Machine Learning/Algoritmos Genéticos/algoritmos-geneticos-implementacao-operadores-e-simulacoes-de-aprendizado.md",
     "Pessoal/Machine Learning/Algoritmos Genéticos/Algoritmos Bio-inspirados-Conceitos e Aplicações\nem Aprendizado de Máquina.pdf",
     "Pessoal/Machine Learning/Algoritmos Genéticos/algoritmos-geneticos-conceitos-funcionamento-etapas-e-aplicacoes-praticas.md",
@@ -235,7 +238,6 @@
     "Pessoal/Machine Learning/Algoritmos de SVM",
     "Pessoal/Machine Learning/Algoritmos Genéticos/Algoritmos de SVM",
     "Pessoal/Machine Learning/Redes Neurais Artificiais/visao-computacional-processamento-de-imagens-e-extracao-de-caracteristicas-em-re.md",
-    "Pessoal/Machine Learning/Algoritmos Genéticos",
     "Pessoal/Machine Learning/Redes Neurais Artificiais/classificacao-de-dados-e-transferencia-de-conhecimento-em-redes-neurais.md",
     "Pessoal/Machine Learning/Métodos de Machine Learning bioinspirados/logica-difusa-redes-neurais-generalizacao-e-algoritmos-bioinspirados.md",
     "Pessoal/Machine Learning/Métodos de Machine Learning bioinspirados/metodos-bioinspirados-redes-neurais-e-logica-fuzzy-em-machine-learning.md",
@@ -245,7 +247,6 @@
     "Pessoal/Introdução à Programação e Pensamento Computacional/Linguagens de programação/paradigmas-de-programacao-estruturado-e-orientacao-a-objetos.md",
     "Pessoal/Introdução à Programação e Pensamento Computacional/Linguagens de programação/caracteristicas-de-um-programa-de-software-legibilidade-redigibilidade-confiabil.md",
     "Pessoal/Introdução à Programação e Pensamento Computacional/Linguagens de programação/processamento-de-codigo-compilacao-interpretacao-e-transpilacao.md",
-    "Pessoal/Introdução à Programação e Pensamento Computacional/Linguagens de programação/historia-da-computacao-paradigmas-e-problemas-computacionais.md",
     "Pessoal/Matemática/IMG/Pasted image 20260106190909.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260107145259.png",
     "Pessoal/Matemática/IMG/diagram-20260106.png",
