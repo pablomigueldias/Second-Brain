@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d16890877d195b67",
+        "id": "9157eb3465f79d21",
         "type": "tabs",
         "children": [
           {
-            "id": "2999178e67c9055d",
+            "id": "1d84d5545ab7c621",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Pessoal/Machine Learning/Algoritmos Genéticos/Algoritmos Bio-inspirados-Conceitos e Aplicações\nem Aprendizado de Máquina.pdf"
+                "file": "Pessoal/Machine Learning/Algoritmos Genéticos/ALGORITMOS GENÉTICOS: PRINCÍPIOS E APLICAÇÕES.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Algoritmos Bio-inspirados-Conceitos e Aplicações\nem Aprendizado de Máquina"
+              "title": "ALGORITMOS GENÉTICOS: PRINCÍPIOS E APLICAÇÕES"
             }
           }
         ]
@@ -208,18 +208,23 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "2999178e67c9055d",
+  "active": "1d84d5545ab7c621",
   "lastOpenFiles": [
-    "Pessoal/Machine Learning/Criação e Utilização de Datasets/criacao-representatividade-e-tipos-de-datasets-em-machine-learning.md",
+    "Pessoal/Machine Learning/Redes Neurais Artificiais/redes-neurais-artificiais-conceitos-estrutura-e-aplicacoes-em-machine-learning.md",
+    "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-4-questoes-de-concurso.md",
+    "Pessoal/Machine Learning/Algoritmos Genéticos/ALGORITMOS GENÉTICOS: PRINCÍPIOS E APLICAÇÕES.pdf",
+    "Pessoal/Machine Learning/Redes Neurais Artificiais/introducao-rede-neurais-artificiais.pdf",
+    "Pessoal/Machine Learning/Algoritmos Genéticos/algoritmos-geneticos-implementacao-operadores-e-simulacoes-de-aprendizado.md",
     "Pessoal/Machine Learning/Algoritmos Genéticos/Algoritmos Bio-inspirados-Conceitos e Aplicações\nem Aprendizado de Máquina.pdf",
+    "Pessoal/Machine Learning/Algoritmos Genéticos/algoritmos-geneticos-conceitos-funcionamento-etapas-e-aplicacoes-praticas.md",
+    "Pessoal/Machine Learning/Métodos de Machine Learning bioinspirados/computacao-bioinspirada.pdf",
+    "Pessoal/Machine Learning/Criação e Utilização de Datasets/criacao-representatividade-e-tipos-de-datasets-em-machine-learning.md",
     "Pessoal/Machine Learning/Algoritmos de SVM/comparacao-entre-redes-neurais-e-svms-na-classificacao-de-padroes-complexos.md",
     "Pessoal/Machine Learning/Criação e Utilização de Datasets",
     "Pessoal/Concurso/cronograma-coren-sp-90-dias-v2 (3).md",
     "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-1-proposicoes-e-tabela-verdade.md",
     "_inbox/logica-proposicional-quadrix.md",
     "Pessoal/Machine Learning/Algoritmos de SVM/fundamentos-de-svm-hiperplanos-e-comparacao-com-redes-neurais.md",
-    "Pessoal/Machine Learning/Algoritmos Genéticos/algoritmos-geneticos-implementacao-operadores-e-simulacoes-de-aprendizado.md",
-    "Pessoal/Machine Learning/Algoritmos Genéticos/algoritmos-geneticos-conceitos-funcionamento-etapas-e-aplicacoes-praticas.md",
     "Pessoal/Machine Learning/Algoritmos Genéticos/algoritmos-geneticos-implementacao-operadores-e-simulacoes-de-aprendizado.md.bak",
     "Pessoal/Machine Learning/Algoritmos de SVM/fundamentos-de-svm-hiperplanos-e-comparacao-com-redes-neurais.md.bak",
     "Pessoal/Machine Learning/Introdução ao Machine Learning/visao-computacional-ia-e-aplicacoes-em-sistemas-autonomos.md",
@@ -230,11 +235,7 @@
     "Pessoal/Machine Learning/Algoritmos Genéticos/Algoritmos de SVM",
     "Pessoal/Machine Learning/Redes Neurais Artificiais/visao-computacional-processamento-de-imagens-e-extracao-de-caracteristicas-em-re.md",
     "Pessoal/Machine Learning/Algoritmos Genéticos",
-    "Pessoal/Provas/Prova 14/gabarito_definitivo.pdf",
-    "Pessoal/Provas/Prova 14/analista_de_tecnologia_da_informacao.pdf",
-    "Pessoal/Provas/Prova 14",
     "Pessoal/Machine Learning/Redes Neurais Artificiais/classificacao-de-dados-e-transferencia-de-conhecimento-em-redes-neurais.md",
-    "Pessoal/Machine Learning/Redes Neurais Artificiais/redes-neurais-artificiais-conceitos-estrutura-e-aplicacoes-em-machine-learning.md",
     "Pessoal/Machine Learning/Métodos de Machine Learning bioinspirados/logica-difusa-redes-neurais-generalizacao-e-algoritmos-bioinspirados.md",
     "Pessoal/Machine Learning/Métodos de Machine Learning bioinspirados/metodos-bioinspirados-redes-neurais-e-logica-fuzzy-em-machine-learning.md",
     "Pessoal/Introdução à Programação e Pensamento Computacional/Primeiro contato com a programação/pratica-de-algoritmos-em-portugol-soma-de-intervalo-media-e-reutilizacao-de-func.md",
