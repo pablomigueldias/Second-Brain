@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Pessoal/Machine Learning/Algoritmos Genéticos/ALGORITMOS GENÉTICOS: PRINCÍPIOS E APLICAÇÕES.pdf"
+                "file": "Pessoal/Machine Learning/Redes Neurais Artificiais/introducao-rede-neurais-artificiais.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "ALGORITMOS GENÉTICOS: PRINCÍPIOS E APLICAÇÕES"
+              "title": "introducao-rede-neurais-artificiais"
             }
           }
         ]
@@ -208,8 +208,9 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "dccdd8e1bba9966f",
+  "active": "26758f3261ee0499",
   "lastOpenFiles": [
+    "Pessoal/Machine Learning/Linguagens de Programação para ML",
     "Pessoal/Machine Learning/Algoritmos Genéticos/ALGORITMOS GENÉTICOS: PRINCÍPIOS E APLICAÇÕES.pdf",
     "Pessoal/Machine Learning/Redes Neurais Artificiais/redes-neurais-artificiais-conceitos-estrutura-e-aplicacoes-em-machine-learning.md",
     "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-4-questoes-de-concurso.md",
