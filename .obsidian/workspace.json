@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Machine Learning/Linguagens de Programação para ML/paradigmas-e-linguagens-de-programacao-para-machine-learning.md",
+                "file": "Pessoal/Machine Learning/Python para ML/python-para-machine-learning-paradigmas-ecossistema-e-ambientes-de-execucao.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "paradigmas-e-linguagens-de-programacao-para-machine-learning"
+              "title": "python-para-machine-learning-paradigmas-ecossistema-e-ambientes-de-execucao"
             }
           }
         ]
@@ -210,11 +210,12 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "26758f3261ee0499",
+  "active": "1d84d5545ab7c621",
   "lastOpenFiles": [
+    "Pessoal/Machine Learning/Linguagens de Programação para ML/paradigmas-e-linguagens-de-programacao-para-machine-learning.md",
+    "Pessoal/Machine Learning/Python para ML/python-para-machine-learning-paradigmas-ecossistema-e-ambientes-de-execucao.md",
     "Pessoal/Machine Learning/Python para ML",
     "Pessoal/Machine Learning/Redes Neurais Artificiais/introducao-rede-neurais-artificiais.pdf",
-    "Pessoal/Machine Learning/Linguagens de Programação para ML/paradigmas-e-linguagens-de-programacao-para-machine-learning.md",
     "Pessoal/Machine Learning/Linguagens de Programação para ML",
     "Pessoal/Machine Learning/Algoritmos Genéticos/ALGORITMOS GENÉTICOS: PRINCÍPIOS E APLICAÇÕES.pdf",
     "Pessoal/Machine Learning/Redes Neurais Artificiais/redes-neurais-artificiais-conceitos-estrutura-e-aplicacoes-em-machine-learning.md",
@@ -237,7 +238,6 @@
     "Pessoal/Machine Learning/Introdução ao Machine Learning/redes-neurais-deep-learning-e-aplicacoes-praticas-de-machine-learning.md",
     "Pessoal/Machine Learning/Introdução ao Machine Learning/conceitos-fundamentais-de-machine-learning-inteligencia-artificial-e-generalizac.md",
     "Pessoal/Machine Learning/Algoritmos de SVM",
-    "Pessoal/Machine Learning/Algoritmos Genéticos/Algoritmos de SVM",
     "Pessoal/Machine Learning/Redes Neurais Artificiais/visao-computacional-processamento-de-imagens-e-extracao-de-caracteristicas-em-re.md",
     "Pessoal/Machine Learning/Redes Neurais Artificiais/classificacao-de-dados-e-transferencia-de-conhecimento-em-redes-neurais.md",
     "Pessoal/Machine Learning/Métodos de Machine Learning bioinspirados/logica-difusa-redes-neurais-generalizacao-e-algoritmos-bioinspirados.md",
