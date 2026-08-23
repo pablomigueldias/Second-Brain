@@ -11,14 +11,12 @@
             "id": "2999178e67c9055d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Pessoal/Machine Learning/Algoritmos de SVM/comparacao-entre-redes-neurais-e-svms-na-classificacao-de-padroes-complexos.md",
-                "mode": "source",
-                "source": false
+                "file": "Pessoal/Machine Learning/Algoritmos Genéticos/Algoritmos Bio-inspirados-Conceitos e Aplicações\nem Aprendizado de Máquina.pdf"
               },
-              "icon": "lucide-file",
-              "title": "comparacao-entre-redes-neurais-e-svms-na-classificacao-de-padroes-complexos"
+              "icon": "lucide-file-text",
+              "title": "Algoritmos Bio-inspirados-Conceitos e Aplicações\nem Aprendizado de Máquina"
             }
           }
         ]
@@ -210,11 +208,13 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "26758f3261ee0499",
+  "active": "2999178e67c9055d",
   "lastOpenFiles": [
+    "Pessoal/Machine Learning/Criação e Utilização de Datasets/criacao-representatividade-e-tipos-de-datasets-em-machine-learning.md",
+    "Pessoal/Machine Learning/Algoritmos Genéticos/Algoritmos Bio-inspirados-Conceitos e Aplicações\nem Aprendizado de Máquina.pdf",
+    "Pessoal/Machine Learning/Algoritmos de SVM/comparacao-entre-redes-neurais-e-svms-na-classificacao-de-padroes-complexos.md",
     "Pessoal/Machine Learning/Criação e Utilização de Datasets",
     "Pessoal/Concurso/cronograma-coren-sp-90-dias-v2 (3).md",
-    "Pessoal/Machine Learning/Algoritmos de SVM/comparacao-entre-redes-neurais-e-svms-na-classificacao-de-padroes-complexos.md",
     "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-1-proposicoes-e-tabela-verdade.md",
     "_inbox/logica-proposicional-quadrix.md",
     "Pessoal/Machine Learning/Algoritmos de SVM/fundamentos-de-svm-hiperplanos-e-comparacao-com-redes-neurais.md",
@@ -233,8 +233,6 @@
     "Pessoal/Provas/Prova 14/gabarito_definitivo.pdf",
     "Pessoal/Provas/Prova 14/analista_de_tecnologia_da_informacao.pdf",
     "Pessoal/Provas/Prova 14",
-    "Pessoal/Provas/prova 13/gabarito_definitivo.pdf",
-    "Pessoal/Provas/prova 13/analista_de_tecnologia_da_informacao.pdf",
     "Pessoal/Machine Learning/Redes Neurais Artificiais/classificacao-de-dados-e-transferencia-de-conhecimento-em-redes-neurais.md",
     "Pessoal/Machine Learning/Redes Neurais Artificiais/redes-neurais-artificiais-conceitos-estrutura-e-aplicacoes-em-machine-learning.md",
     "Pessoal/Machine Learning/Métodos de Machine Learning bioinspirados/logica-difusa-redes-neurais-generalizacao-e-algoritmos-bioinspirados.md",
@@ -247,7 +245,6 @@
     "Pessoal/Introdução à Programação e Pensamento Computacional/Linguagens de programação/processamento-de-codigo-compilacao-interpretacao-e-transpilacao.md",
     "Pessoal/Introdução à Programação e Pensamento Computacional/Linguagens de programação/historia-da-computacao-paradigmas-e-problemas-computacionais.md",
     "Pessoal/Introdução à Programação e Pensamento Computacional/Fundamentos de algoritmos/instrucoes-de-entrada-e-saida-de-dados-em-algoritmos.md",
-    "Pessoal/Introdução à Programação e Pensamento Computacional/Fundamentos de algoritmos/funcoes-em-programacao-conceito-modularizacao-e-reutilizacao-de-codigo.md",
     "Pessoal/Matemática/IMG/Pasted image 20260106190909.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260107145259.png",
     "Pessoal/Matemática/IMG/diagram-20260106.png",
