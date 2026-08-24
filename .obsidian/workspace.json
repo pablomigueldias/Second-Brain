@@ -11,12 +11,14 @@
             "id": "1d84d5545ab7c621",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Pessoal/Machine Learning/Redes Neurais Artificiais/introducao-rede-neurais-artificiais.pdf"
+                "file": "_inbox/Projeto.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "introducao-rede-neurais-artificiais"
+              "icon": "lucide-file",
+              "title": "Projeto"
             }
           }
         ]
@@ -210,6 +212,8 @@
   },
   "active": "1d84d5545ab7c621",
   "lastOpenFiles": [
+    "Pessoal/Machine Learning/Redes Neurais Artificiais/introducao-rede-neurais-artificiais.pdf",
+    "_inbox/Projeto.md",
     "Pessoal/Machine Learning/Algoritmos Genéticos/ALGORITMOS GENÉTICOS: PRINCÍPIOS E APLICAÇÕES.pdf",
     "Pessoal/Machine Learning/Algoritmos Genéticos/algoritmos-geneticos-conceitos-funcionamento-etapas-e-aplicacoes-praticas.md",
     "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-1-proposicoes-e-tabela-verdade.md",
@@ -219,7 +223,6 @@
     "Pessoal/Machine Learning/Python para ML/python-para-machine-learning-paradigmas-ecossistema-e-ambientes-de-execucao.md",
     "Pessoal/Machine Learning/Linguagens de Programação para ML/paradigmas-e-linguagens-de-programacao-para-machine-learning.md",
     "Pessoal/Machine Learning/Python para ML",
-    "Pessoal/Machine Learning/Redes Neurais Artificiais/introducao-rede-neurais-artificiais.pdf",
     "Pessoal/Machine Learning/Linguagens de Programação para ML",
     "Pessoal/Machine Learning/Redes Neurais Artificiais/redes-neurais-artificiais-conceitos-estrutura-e-aplicacoes-em-machine-learning.md",
     "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-4-questoes-de-concurso.md",
@@ -244,7 +247,6 @@
     "Pessoal/Introdução à Programação e Pensamento Computacional/Primeiro contato com a programação/pratica-de-algoritmos-em-portugol-soma-de-intervalo-media-e-reutilizacao-de-func.md",
     "Pessoal/Machine Learning/07 - Processamento de Linguagem Natural (NLP)/01 - Introdução e Aplicações do NLP.md",
     "Pessoal/Introdução à Programação e Pensamento Computacional/Linguagens de programação/analise-de-codigo-analise-lexica-sintatica-e-semantica.md",
-    "Pessoal/Introdução à Programação e Pensamento Computacional/Linguagens de programação/paradigmas-de-programacao-estruturado-e-orientacao-a-objetos.md",
     "Pessoal/Matemática/IMG/Pasted image 20260106190909.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260107145259.png",
     "Pessoal/Matemática/IMG/diagram-20260106.png",
