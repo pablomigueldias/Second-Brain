@@ -11,10 +11,14 @@
             "id": "1d84d5545ab7c621",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Pessoal/Machine Learning/Frameworks para Machine Learning/machine-learning-bibliotecas-essenciais-numpy-scipy-theano-scikit-learn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "machine-learning-bibliotecas-essenciais-numpy-scipy-theano-scikit-learn"
             }
           }
         ]
@@ -206,8 +210,13 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "1d84d5545ab7c621",
+  "active": "26758f3261ee0499",
   "lastOpenFiles": [
+    "Pessoal/Machine Learning/Frameworks para Machine Learning/machine-learning-frameworks-e-ambientes-de-desenvolvimento-tensorflow-pytorch-ke.md",
+    "Pessoal/Machine Learning/Frameworks para Machine Learning/machine-learning-bibliotecas-essenciais-numpy-scipy-theano-scikit-learn.md",
+    "Pessoal/Machine Learning/R para Machine Learning/manipulacao-de-vetores-e-matrizes-em-r-para-machine-learning.md",
+    "Pessoal/Machine Learning/Frameworks para Machine Learning",
+    "Pessoal/Machine Learning/R para Machine Learning/estatistica-basica-em-r-media-mediana-e-moda.md",
     "Pessoal/Machine Learning/R para Machine Learning/operadores-logicos-e-comparacao-de-dados-em-r.md",
     "Pessoal/Machine Learning/R para Machine Learning/linguagem-r-objetos-atribuicao-case-sensitivity-e-constantes-internas.md",
     "Pessoal/Machine Learning/Scilab para ML/processamento-de-imagens-no-scilab-conversao-em-escala-de-cinza-filtros-e-detecc.md",
@@ -236,14 +245,9 @@
     "Pessoal/Machine Learning/Algoritmos de SVM/fundamentos-de-svm-hiperplanos-e-comparacao-com-redes-neurais.md",
     "Pessoal/Machine Learning/Python para ML/instalando-sublime.md.bak",
     "Pessoal/Machine Learning/Python para ML/python-para-machine-learning-paradigmas-ecossistema-e-ambientes-de-execucao.md",
-    "Pessoal/Machine Learning/Linguagens de Programação para ML/paradigmas-e-linguagens-de-programacao-para-machine-learning.md",
     "Pessoal/Machine Learning/Python para ML",
     "Pessoal/Machine Learning/Linguagens de Programação para ML",
-    "Pessoal/Machine Learning/Redes Neurais Artificiais/redes-neurais-artificiais-conceitos-estrutura-e-aplicacoes-em-machine-learning.md",
-    "Pessoal/Matemática/Lógica Proposicional/logica-proposicional-4-questoes-de-concurso.md",
-    "Pessoal/Machine Learning/Algoritmos Genéticos/algoritmos-geneticos-implementacao-operadores-e-simulacoes-de-aprendizado.md",
     "Pessoal/Machine Learning/Algoritmos Genéticos/Algoritmos Bio-inspirados-Conceitos e Aplicações\nem Aprendizado de Máquina.pdf",
-    "Pessoal/Machine Learning/Métodos de Machine Learning bioinspirados/computacao-bioinspirada.pdf",
     "Pessoal/Matemática/IMG/Pasted image 20260106190909.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260107145259.png",
     "Pessoal/Matemática/IMG/diagram-20260106.png",
