@@ -17,3 +17,6 @@ Pessoal/Certificados/
 
 # Transcrições brutas pré-processamento
 *.bak
+
+# Comandos do Claude Code — ferramenta local, não é conteúdo do vault
+.claude/
