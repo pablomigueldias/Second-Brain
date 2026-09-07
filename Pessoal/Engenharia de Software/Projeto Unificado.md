@@ -1,3 +1,0 @@
-
-## Lidando com mudança
-

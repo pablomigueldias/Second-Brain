@@ -31,43 +31,104 @@ conceitos: [Framework, ITIL (Information Technology Infrastructure Library), Ges
 
 **Framework** · **ITIL (Information Technology Infrastructure Library)** · **Gestão de Serviços de TI** · **Geração de Valor** · **Cocriação de Valor** · **Produto** · **Serviço** · **Ativo**
 
+## Mapa da aula
+
+| ⏱ | Assunto | Prova |
+|---|---|---|
+| `00:00` | Introdução à ITIL 4 | ▪ |
+| `04:40` | Origem ITIL e foco serviço | ▪▪ |
+| `09:20` | ITIL V3, V3 2011, ITIL 4 | ▪▪▪ |
+| `13:20` | Por que gerenciar serviços TI | ▪▪ |
+| `17:40` | Serviço, cocriação, produto, relação | ▪▪▪ |
+
+> [!nota] `▪▪▪` a aula disse que cai · `▪▪` dá para cobrar · `▪` contexto
+
+## Quadro de definições
+
+| Termo | Como a aula definiu |
+|---|---|
+| **Framework** | É um padrão de boas práticas focado em uma área específica, e não um conjunto de práticas obrigatórias. |
+| **Ativo** | É qualquer componente com valor financeiro que possa contribuir para a entrega de um produto ou serviço de TI. |
+| **Serviço** | É um meio de permitir a cocriação de valor, facilitando os resultados que os clientes desejam alcançar, sem precisar gerenciar custos e riscos específicos. |
+| **Produto** | São configurações desses recursos que você vai utilizar, criados pela organização, que potencialmente serão valiosos para seus clientes. |
+| **Relacionamento de Serviço** | Relacionamentos de serviço são estabelecidos entre duas ou mais organizações para cocriar valor em um certo momento. |
+
+## Pegadinhas
+
+- A ITIL V2 tinha sete livros, enquanto a ITIL V3 2011 foi ajustada para ter cinco livros.
+- A ITIL V3 (2007/2008) foi lançada com diversos erros e problemas de padronização, sendo corrigida e ajustada na ITIL V3 2011.
+- A ITIL 4 não tem mais o ciclo de vida de serviços (abordagem da V3), substituindo-o pela cadeia de valor de serviços.
+- Na ITIL 4, a geração de valor é feita por cocriação entre a área de TI e a área cliente, diferentemente das versões anteriores onde a TI era a única responsável.
+
+## Teste-se
+
+<details><summary>Qual a fonte bibliográfica oficial da ITIL 4 que o professor recomenda para concursos?</summary>
+
+O professor recomenda o glossário ITIL 4 em português. As bancas de concurso público, de forma geral, retiram questões do glossário.
+
+</details>
+
+<details><summary>Qual a principal diferença de foco entre o que era valorizado antes da ITIL e o que a ITIL passou a valorizar?</summary>
+
+Antes da ITIL, havia mais preocupação com o produto (recurso), como uma estrutura de redes ou um computador. A ITIL passou a focar no serviço, que é o que realmente agrega valor para o cliente.
+
+</details>
+
+<details><summary>Por que a ITIL V3 2011 foi lançada após a ITIL V3 de 2007/2008?</summary>
+
+A ITIL V3 original (2007/2008) foi lançada com muitos erros e problemas de padronização. A ITIL V3 2011 foi uma versão ajustada e corrigida desses problemas.
+
+</details>
+
+<details><summary>Qual é o foco principal do gerenciamento de serviços de TI, segundo a aula?</summary>
+
+O foco principal do gerenciamento de serviços de TI adequado é a geração de valor. Não haveria por que trabalhar com o gerenciamento de serviços de TI se não fosse para a geração de valor.
+
+</details>
+
+<details><summary>O que significa 'cocriação de valor' na ITIL 4?</summary>
+
+Cocriação de valor é um acordo entre a área de tecnologia da informação e a área cliente. Isso garante que o serviço seja cocriado com um valor específico desejado, compartilhando a responsabilidade pela geração de valor.
+
+</details>
+
 ## Conteúdo
 
 `⏱ 00:00`
 
 Olá, concurseiros de plantão. Aqui quem vos fala é o professor Gabriel Pacheco. Sejam muito bem-vindos ao nosso conteúdo sobre Gestão de Serviços de TI, de acordo com a nossa queridíssima `ITIL 4`.
 
-Eu serei o responsável por trabalharmos com este conteúdo, que tem sido cobrado em provas de concursos públicos já a partir de 2020, quando eles começaram a intensificar as cobranças.
+Eu serei o responsável por trabalharmos com este conteúdo, que tem sido cobrado em provas de concursos públicos já a partir de 2020, quando as bancas começaram a intensificar as cobranças.
 
-### Fonte Bibliográfica Oficial
+### Fonte bibliográfica oficial
 
-O primeiro ponto que vocês têm que levar em consideração diz respeito justamente à fonte bibliográfica. A fonte bibliográfica que vocês vão utilizar deve ser oficial para poderem trabalhar com a `ITIL 4`.
+O primeiro ponto que vocês têm que levar em consideração diz respeito justamente à fonte bibliográfica: a fonte que vocês vão utilizar para trabalhar com a `ITIL 4` precisa ser oficial.
 
-O curso é extremamente completo. Sei que sempre tem aquela aluno mais cético que quer ter acesso ao material original, que quer ficar fazendo pesquisas. Isso não é papel de vocês, alunos. Isso é papel nosso, como professor, de realmente gerar para vocês o conteúdo mais completo possível.
+O curso é extremamente completo. Sei que sempre tem aquele aluno mais cético, que quer ter acesso ao material original, que quer ficar fazendo pesquisas. Isso não é papel de vocês, alunos — é papel nosso, como professor, gerar para vocês o conteúdo mais completo possível.
 
-Porém, caso vocês desejem trabalhar com o conteúdo nosso de `ITIL` de forma oficial, essas são matérias oficiais. Vocês vão entrar aqui no site da `pgmacademy.com` ou vão entrar no site da `Axelos`, que é atualmente a detentora da patente da `ITIL`, para poder trabalhar com esse conteúdo.
+Porém, caso vocês desejem trabalhar com o nosso conteúdo de `ITIL` a partir da fonte oficial, os endereços são estes: o site da `pmgacademy.com` ou o site da `Axelos`, atualmente a detentora dos direitos da `ITIL`.
 
-Um dos tópicos que não pode faltar na sua biblioteca de conteúdo, caso você queira ter uma biblioteca legal, é o `glossário Aitio 4` em português. As bancas de concurso público, de forma geral, estão retirando questões do glossário. Isso é histórico; as bancas têm trabalhado com isso de forma muito histórica.
+E há um item que não pode faltar na sua biblioteca: o `glossário ITIL 4` em português. As bancas de concurso público, de forma geral, retiram questões do glossário — isso é histórico e vem se repetindo.
 
-### Estudo do Framework
+### Como estudar um framework
 
-Por favor, esse glossário não pode faltar na sua biblioteca. Como eu sempre trabalho com vocês em todos os frameworks que temos aqui, o principal passo a ser seguido para que vocês tenham o entendimento perfeito e uma compreensão maravilhosa em relação ao framework é:
+Por favor, esse glossário não pode faltar na sua biblioteca. Como eu sempre trabalho com vocês em todos os frameworks que temos aqui, o primeiro passo a ser seguido para que vocês tenham o entendimento perfeito do framework é:
 
 - Compreender para que serve aquele framework.
 
-Não é assim que eu tenho trabalhado com vocês e tem dado certo.
+É assim que eu tenho trabalhado com vocês, e tem dado certo.
 
-#### O que é um Framework?
+### O que é um framework
 
-Um framework é o seguinte: as pessoas começam a experimentar diversas ferramentas, diversas ferramentas mesmo, a serem trabalhadas em um certo tipo de disciplina, em uma certa área específica. Elas começam a experimentar e detectam que diversas ferramentas, técnicas, passos, processos, tópicos, coisas que são trabalhadas ali dentro daquele framework, acabam funcionando muito bem em situações específicas.
+Um framework nasce assim: as pessoas começam a experimentar diversas ferramentas dentro de um certo tipo de disciplina, de uma área específica. Elas experimentam e detectam que determinadas ferramentas, técnicas, passos, processos e tópicos acabam funcionando muito bem em situações específicas.
 
-E eles resolvem, então, padronizar. Eles resolvem pegar aquilo que deu certo e colocar para jogo; resolvem pegar aquilo que deu certo e colocar justamente para poder ser um padrão de boas práticas.
+E resolvem, então, padronizar. Resolvem pegar aquilo que deu certo e colocar em jogo, justamente para que aquilo vire um padrão de boas práticas.
 
-Não é um padrão de práticas obrigatórias, mas um padrão de boas práticas.
+Não é um padrão de práticas obrigatórias — é um padrão de boas práticas.
 
-Quando a gente olha para esse termo, que é o framework, ele é o que é um padrão de boas práticas focado em uma área específica, que não são práticas obrigatórias.
+Ou seja, quando a gente olha para esse termo, framework, ele é um padrão de boas práticas focado em uma área específica, e não um conjunto de práticas obrigatórias.
 
-E você pensa na gestão de serviços de tecnologia da informação: isso é a `ITIL`. Foi daí que a `ITIL` surgiu no Reino Unido.
+E agora pense nisso aplicado à gestão de serviços de tecnologia da informação: isso é a `ITIL`. Foi daí que a `ITIL` surgiu, no Reino Unido.
 
 `⏱ 04:40`
 
@@ -87,15 +148,15 @@ Quando eles começaram a pensar lá no Reino Unido, no lançamento da ITIL, eles
 
 É quando surge a ITIL, em um formato histórico que acompanha todas as divulgações que tivemos aqui da ITIL.
 
-Se você pega em 1983, você teve o início do projeto para criação de um framework para melhor uso da tecnologia da informação, que foi algo coordenado com o nome de `CC Em`.
+Se você pega em 1983, você teve o início do projeto para criação de um framework para melhor uso da tecnologia da informação, que foi algo coordenado com o nome de `CCTA` (Central Computer and Telecommunications Agency).
 
-Em 1986, surge o `GTIN`, `Government IT Infrastructure Management Method`, com foco no suporte e entrega de serviços.
+Em 1986, surge o `GITIMM`, `Government IT Infrastructure Management Method`, com foco no suporte e entrega de serviços.
 
 Em 1989, oficialmente, essa biblioteca toda que foi sendo desenvolvida desde 1983 e 1986 até 1989 ganha um nome, e esse nome é a sua ITIL. Bacana! Foi quando surgiu a nossa ITIL versão 1.
 
-Aproximadamente no ano de 1991, começa a ser criado o nosso `ITMF`, `IT Infrastructure Management Forum`, que seria basicamente um fórum responsável pela discussão aplicada, por discussões a serem trabalhadas no que diz respeito à melhoria do uso da tecnologia da informação nas organizações. Joia?
+Aproximadamente no ano de 1991, começa a ser criado o nosso `ITIMF`, `IT Infrastructure Management Forum`, que seria basicamente um fórum responsável pela discussão aplicada, por discussões a serem trabalhadas no que diz respeito à melhoria do uso da tecnologia da informação nas organizações. Joia?
 
-Em 1997, ele se transforma em `ITSMF`, e já no ano 2000, ele publica a nossa ITIL com a visão de suporte de serviço, a ITIL V2, que tinha sete livros. Sete livros mesmo, que seriam, na verdade, basicamente sete guias que você conseguiria dividir dentro de um ciclo de vida de serviços de tecnologia da informação, cada um desses guias separadinho em um livro. Viram que esses...
+Em 1997, ele se transforma em `itSMF` (`IT Service Management Forum`), e já no ano 2000, ele publica a nossa ITIL com a visão de suporte de serviço, a ITIL V2, que tinha sete livros. Sete livros mesmo, que seriam, na verdade, basicamente sete guias que você conseguiria dividir dentro de um ciclo de vida de serviços de tecnologia da informação, cada um desses guias separadinho em um livro. Viram que esses...
 
 `⏱ 09:20`
 
@@ -141,7 +202,7 @@ Por que gerenciar o serviço de TI e não simplesmente pegar, entregar, instalar
 
 Essa visão precisa ser feita sempre de forma mais estratégica, o que torna o gerenciamento de serviços um conjunto de práticas que devem ser seguidas diariamente pela organização de serviços de tecnologia da informação.
 
-Entenderam o que é o gerenciamento de serviços? Entenderam que saímos de uma visão cíclica que tínhamos na ITU para podermos trabalhar com uma cadeia de valor de serviços, para que esse serviço ofereça valor à organização, valor ao cliente final?
+Entenderam o que é o gerenciamento de serviços? Entenderam que saímos de uma visão cíclica que tínhamos na ITIL para podermos trabalhar com uma cadeia de valor de serviços, para que esse serviço ofereça valor à organização, valor ao cliente final?
 
 Para seguirmos mais um pouco, o segundo passo no estudo de qualquer framework é entender as principais definições. Para isso, sempre com vocês:
 - Estude e compreenda perfeitamente o propósito daquele seu framework.
@@ -150,7 +211,7 @@ Para seguirmos mais um pouco, o segundo passo no estudo de qualquer framework é
 
 ### Definições
 
-Vamos, então, a algumas definições. Algumas definições que, inclusive, vez ou outra, mudam as definições da `ITU V3` de 2011, para que você consiga trabalhar com elas, especificamente na `IT4`.
+Vamos, então, a algumas definições. Algumas definições que, inclusive, vez ou outra, mudam as definições da `ITIL V3` de 2011, para que você consiga trabalhar com elas, especificamente na `ITIL 4`.
 
 Ativo: O que é um ativo? O ativo é qualquer componente com valor financeiro que possa contribuir para a entrega de um produto ou serviço de TI. Se você fala de ativo dentro da visão de tecnologia da informação, o que será o seu ativo? O seu ativo é qualquer coisa que você tenha na tecnologia da informação, na informática, na infraestrutura da sua organização, que de alguma maneira, de alguma forma, agregue valor, tenha valor financeiro, para que você tenha, naquele exato momento, a tecnologia da informação funcional na sua organização. Entenderam como funciona?
 
@@ -201,5 +262,41 @@ Vou ficando por aqui. Daqui a pouco eu volto para trabalharmos mais um pouco com
 <details><summary>1 frase(s) descartadas como ruído de vídeo (inscrição, saudação, despedida)</summary>
 
 - Tchau.
+
+</details>
+
+### Passagem revisada à mão em 07/09/2026
+
+O bloco `⏱ 00:00 – 04:40` não foi reescrito pelo Gemini: a chamada estourou o
+timeout de 45 s e caiu para o `gemma4:e4b` local, que devolveu texto com frases
+truncadas e uma negação invertida. Os outros quatro blocos e o fichamento saíram
+do `gemini-2.5-flash`. Esse primeiro bloco foi reescrito à mão a partir da saída
+do modelo local — sem cortar conteúdo, só desfazendo os defeitos de reescrita.
+
+Duas correções são decisão editorial, não transcrição literal, e ficam
+declaradas aqui:
+
+- "Não é assim que eu tenho trabalhado com vocês e tem dado certo" → "É assim
+  que eu tenho trabalhado…". A negação contradiz o parágrafo inteiro e o resto
+  da aula; foi lida como erro de reconhecimento.
+- "Isso é histórico; as bancas têm trabalhado com isso de forma muito
+  histórica" → "isso é histórico e vem se repetindo". A frase original era uma
+  tautologia sem informação.
+
+<details><summary>Siglas corrigidas contra fonte externa (o glossário não as tinha)</summary>
+
+| Estava | Virou | Conferido em |
+|---|---|---|
+| `Aitio 4` | `ITIL 4` | — |
+| `CC Em` | `CCTA` (Central Computer and Telecommunications Agency) | ILX Group, IT Process Wiki |
+| `GTIN` | `GITIMM` (Government IT Infrastructure Management Method) | ILX Group — grafado `GITMM` em parte das fontes |
+| `ITMF` (1991) | `ITIMF` (IT Infrastructure Management Forum) | Wikipedia — itSMF |
+| `ITSMF` (1997) | `itSMF` (IT Service Management Forum) | Wikipedia — itSMF |
+| `ITU` / `ITU V3` | `ITIL` / `ITIL V3` | — |
+| `IT4` | `ITIL 4` | — |
+| `pgmacademy.com` | `pmgacademy.com` | domínio real, publica material de ITIL |
+
+Todos esses termos entraram no `glossario.json` do copiloto na mesma data, para
+que a próxima aula de ITIL já nasça com eles certos.
 
 </details>
