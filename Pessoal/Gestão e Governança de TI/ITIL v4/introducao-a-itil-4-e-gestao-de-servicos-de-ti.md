@@ -100,160 +100,177 @@ Olá, concurseiros de plantão. Aqui quem vos fala é o professor Gabriel Pachec
 
 Eu serei o responsável por trabalharmos com este conteúdo, que tem sido cobrado em provas de concursos públicos já a partir de 2020, quando as bancas começaram a intensificar as cobranças.
 
-### Fonte bibliográfica oficial
+### Fontes Oficiais e Material de Estudo
 
-O primeiro ponto que vocês têm que levar em consideração diz respeito justamente à fonte bibliográfica: a fonte que vocês vão utilizar para trabalhar com a `ITIL 4` precisa ser oficial.
+O primeiro ponto a ser considerado diz respeito justamente à fonte bibliográfica: a fonte que vocês vão utilizar para trabalhar com a `ITIL 4` precisa ser oficial.
 
 O curso é extremamente completo. Sei que sempre tem aquele aluno mais cético, que quer ter acesso ao material original, que quer ficar fazendo pesquisas. Isso não é papel de vocês, alunos — é papel nosso, como professor, gerar para vocês o conteúdo mais completo possível.
 
-Porém, caso vocês desejem trabalhar com o nosso conteúdo de `ITIL` a partir da fonte oficial, os endereços são estes: o site da `pmgacademy.com` ou o site da `Axelos`, atualmente a detentora dos direitos da `ITIL`.
+Caso vocês desejem trabalhar com o nosso conteúdo de `ITIL` a partir da fonte oficial, os endereços são: o site da `pmgacademy.com` ou o site da `Axelos`, atualmente a detentora dos direitos da `ITIL`.
 
-E há um item que não pode faltar na sua biblioteca: o `glossário ITIL 4` em português. As bancas de concurso público, de forma geral, retiram questões do glossário — isso é histórico e vem se repetindo.
+> [!atenção] O glossário ITIL 4 em português não pode faltar na sua biblioteca.
+> As bancas de concurso público, de forma geral, retiram questões do glossário — isso é histórico e vem se repetindo.
 
-### Como estudar um framework
-
-Por favor, esse glossário não pode faltar na sua biblioteca. Como eu sempre trabalho com vocês em todos os frameworks que temos aqui, o primeiro passo a ser seguido para que vocês tenham o entendimento perfeito do framework é:
-
+Como eu sempre trabalho com vocês em todos os frameworks que temos aqui, o primeiro passo a ser seguido para que vocês tenham o entendimento perfeito do framework é:
 - Compreender para que serve aquele framework.
 
 É assim que eu tenho trabalhado com vocês, e tem dado certo.
 
-### O que é um framework
+### O Conceito de Framework
 
-Um framework nasce assim: as pessoas começam a experimentar diversas ferramentas dentro de um certo tipo de disciplina, de uma área específica. Elas experimentam e detectam que determinadas ferramentas, técnicas, passos, processos e tópicos acabam funcionando muito bem em situações específicas.
+Um **framework** nasce assim: as pessoas começam a experimentar diversas ferramentas dentro de um certo tipo de disciplina, de uma área específica. Elas experimentam e detectam que determinadas ferramentas, técnicas, passos, processos e tópicos acabam funcionando muito bem em situações específicas.
 
-E resolvem, então, padronizar. Resolvem pegar aquilo que deu certo e colocar em jogo, justamente para que aquilo vire um padrão de boas práticas.
+E resolvem padronizar. Resolvem pegar aquilo que deu certo e colocar em jogo, justamente para que aquilo vire um padrão de boas práticas.
 
 Não é um padrão de práticas obrigatórias — é um padrão de boas práticas.
 
-Ou seja, quando a gente olha para esse termo, framework, ele é um padrão de boas práticas focado em uma área específica, e não um conjunto de práticas obrigatórias.
+> [!definicao] Framework
+> Um padrão de boas práticas focado em uma área específica, e não um conjunto de práticas obrigatórias.
 
-E agora pense nisso aplicado à gestão de serviços de tecnologia da informação: isso é a `ITIL`. Foi daí que a `ITIL` surgiu, no Reino Unido.
+Pense nisso aplicado à gestão de serviços de tecnologia da informação: isso é a `ITIL`. Foi daí que a `ITIL` surgiu, no Reino Unido.
 
 `⏱ 04:40`
 
-A ITIL surgiu no Reino Unido, aproximadamente entre 1988 e 1989, com o enfoque principal de trabalhar com a gestão de serviços de tecnologia da informação. Até então, eles tinham detectado que as pessoas tinham uma preocupação muito grande com a tecnologia da informação, e sempre tiveram. Isso porque a tecnologia da informação está ali para poder entregar alguma coisa para as pessoas, para as organizações. Mas eles detectaram uma outra coisa um pouco peculiar: as pessoas tinham mais preocupação com aquilo que estava sendo entregue como produto.
+A **ITIL** surgiu no Reino Unido, aproximadamente entre 1988 e 1989, com o enfoque principal de trabalhar com a gestão de serviços de tecnologia da informação. Até então, havia sido detectado que as pessoas tinham uma preocupação muito grande com a tecnologia da informação, e sempre tiveram.
 
-Ou seja, estavam mais preocupados com uma estrutura de redes de computadores, com o computador que estava sendo utilizado, com o sistema de segurança da operação, com o sistema de armazenamento de dados, do que efetivamente com o serviço. Sendo que o serviço é o que realmente agrega valor para o cliente.
+Isso porque a tecnologia da informação existe para entregar algo às pessoas e às organizações. No entanto, foi detectada uma peculiaridade: as pessoas se preocupavam mais com o que era entregue como produto.
 
-### Analogia com o Carro e Ar-Condicionado
+Ou seja, estavam mais preocupadas com uma estrutura de redes de computadores, com o computador utilizado, com o sistema de segurança da operação ou com o sistema de armazenamento de dados, do que efetivamente com o **serviço**.
 
-Repare bem, vamos fazer aqui uma analogia legal com seu carro. O veículo que você usa, vamos fazer uma analogia com Uber. Você pega aquele carro do Uber, e o carro do Uber tem um acelerador. O acelerador é um recurso, é um produto que vai ser utilizado para que você tenha um serviço: o ganho de velocidade. Reparou?
+> [!definicao] Serviço
+> O que realmente agrega valor para o cliente.
 
-Pensamos de novo no Uber, no carro. Ou, de repente, em casa, você tem o teu sistema de ar-condicionado. O seu sistema de ar-condicionado é um recurso, é um produto que é utilizado para que você tenha um serviço: a climatização do ambiente do seu veículo. Repararam no que estou falando? Joia?
+> [!exemplo] Produto vs. Serviço
+> No Uber, o acelerador é um recurso, um produto. Ele é utilizado para que você tenha um serviço: o ganho de velocidade.
+>
+> Em casa, o sistema de ar-condicionado é um recurso, um produto. Ele é utilizado para que você tenha um serviço: a climatização do ambiente.
 
-Quando eles começaram a pensar lá no Reino Unido, no lançamento da ITIL, eles estavam preocupados com o quê? Estavam dando mais atenção para o sistema de ar-condicionado do que para a climatização que ele oferece. Mais preocupados com o acelerador do carro do que com o ganho de velocidade. Agora, precisamos ter uma preocupação diferente, que vai ser justamente com o serviço que é prestado por esses respectivos recursos.
+Quando começaram a pensar no lançamento da ITIL no Reino Unido, a atenção era maior para o sistema de ar-condicionado do que para a climatização que ele oferece. Havia mais preocupação com o acelerador do carro do que com o ganho de velocidade. A partir de então, a preocupação passou a ser com o serviço prestado por esses respectivos recursos.
 
 ### Histórico da ITIL
 
-É quando surge a ITIL, em um formato histórico que acompanha todas as divulgações que tivemos aqui da ITIL.
+A ITIL surge em um formato histórico que acompanha todas as suas divulgações.
 
-Se você pega em 1983, você teve o início do projeto para criação de um framework para melhor uso da tecnologia da informação, que foi algo coordenado com o nome de `CCTA` (Central Computer and Telecommunications Agency).
-
-Em 1986, surge o `GITIMM`, `Government IT Infrastructure Management Method`, com foco no suporte e entrega de serviços.
-
-Em 1989, oficialmente, essa biblioteca toda que foi sendo desenvolvida desde 1983 e 1986 até 1989 ganha um nome, e esse nome é a sua ITIL. Bacana! Foi quando surgiu a nossa ITIL versão 1.
-
-Aproximadamente no ano de 1991, começa a ser criado o nosso `ITIMF`, `IT Infrastructure Management Forum`, que seria basicamente um fórum responsável pela discussão aplicada, por discussões a serem trabalhadas no que diz respeito à melhoria do uso da tecnologia da informação nas organizações. Joia?
-
-Em 1997, ele se transforma em `itSMF` (`IT Service Management Forum`), e já no ano 2000, ele publica a nossa ITIL com a visão de suporte de serviço, a ITIL V2, que tinha sete livros. Sete livros mesmo, que seriam, na verdade, basicamente sete guias que você conseguiria dividir dentro de um ciclo de vida de serviços de tecnologia da informação, cada um desses guias separadinho em um livro. Viram que esses...
+| Ano | Evento | Detalhes |
+|---|---|---|
+| 1983 | Início do projeto | Criação de um framework para melhor uso da tecnologia da informação, coordenado pela `CCTA` (Central Computer and Telecommunications Agency). |
+| 1986 | Surgimento do `GITIMM` | `Government IT Infrastructure Management Method`, com foco no suporte e entrega de serviços. |
+| 1989 | Lançamento da ITIL v1 | A biblioteca desenvolvida desde 1983 e 1986 ganha o nome **ITIL** (versão 1). |
+| 1991 | Criação do `ITIMF` | `IT Infrastructure Management Forum`, um fórum responsável pela discussão aplicada sobre a melhoria do uso da tecnologia da informação nas organizações. |
+| 1997 | Transformação do `ITIMF` | O `ITIMF` se transforma em `itSMF` (`IT Service Management Forum`). |
+| 2000 | Publicação da ITIL v2 | O `itSMF` publica a ITIL V2, com a visão de suporte de serviço. Ela era composta por sete livros, que eram guias divididos dentro de um ciclo de vida de serviços de tecnologia da informação |
 
 `⏱ 09:20`
 
-Viram, então, que esses livros estavam muito volumosos e que não havia necessidade de trabalhar com dois dos respectivos livros.
+Eles viram que esses livros estavam muito volumosos e que não havia necessidade de trabalhar com dois dos respectivos livros.
 
-### A ITIL V3 e seus Problemas Iniciais
+Em 2007, a `ITIL V3` foi publicada. No entanto, muitos conhecem a `ITIL V3 2011`. Por que essa diferença?
 
-O que eles fizeram nesse exato momento? No ano de 2007, eles publicam a `ITIL V3`. Dali em diante, você pode estar pensando: "`ITIL V3`? Mas Pacheco, eu estudei contigo e lembro que você falou da `ITIL V3 2011`." Por que isso aconteceu?
+A `ITIL V3` foi lançada às pressas, no desespero. Essa versão, que veio em 2007/2008, estava cheia de erros e diversos problemas de padronização, tanto de nomenclatura quanto de estrutura. Havia inconsistências: algo era citado de uma forma em um tópico e, depois, de outra forma em outro tópico, corrigindo o erro, mas sem ajustar o que estava antes.
 
-Aconteceu porque simplesmente a `ITIL V3` foi lançada meio que a toque de caixa, no desespero. Literalmente isso: foi no desespero, foi a toque de caixa. "Vamos embora, vamos embora, vamos embora, vamos publicar essa nova versão!"
+Reconhecendo os problemas, em 2011, eles lançam a `ITIL V3 2011`, já ajustada e com uma orientação muito forte.
 
-E essa `ITIL V3` que veio em 2007, 2008, ela veio cheia de erros, diversos problemas de padronização, problemas de padronização de nomenclatura, de estrutura. Havia uma coisa diferente sendo citada em um tópico e, dali em diante, no outro tópico, eles citavam tudo diferente, corrigindo o erro, mas o erro continuava atrás.
+Na `ITIL V3 2011`, cinco livros específicos trabalhavam com as etapas de um ciclo de vida de serviço. Eram cinco livros que correspondiam a cinco etapas no ciclo de vida de serviços.
 
-### A ITIL V3 2011: A Versão Corrigida
+### Evolução das Versões da ITIL
 
-Eles viram o tamanho da "caca" que tinham feito e, em 2011, lançam a `ITIL V3 2011`, já ajustada, linda, maravilhosa e com uma orientação muito forte.
+| Versão | Ano | Características Principais |
+| :----- | :-- | :------------------------- |
+| ITIL V2 | 2000 | 7 livros, visão de suporte de serviço. |
+| ITIL V3 | 2007 | Lançada às pressas, com erros de padronização e estrutura. |
+| ITIL V3 2011 | 2011 | Versão ajustada da V3; 5 livros que abordavam as 5 etapas do ciclo de vida de serviço. |
+| ITIL 4 | 2019 | Abordagem de ciclo de vida de serviços removida; introdução da cadeia de valor de serviços. |
 
-Cinco livros específicos trabalhavam com as etapas que tínhamos em um ciclo de vida de serviço. Eram basicamente cinco livros que tinham cinco etapas no nosso ciclo de vida de serviços.
+### ITIL 4 e a Cadeia de Valor de Serviços
 
-### A ITIL 4 e a Cadeia de Valor de Serviços
+Em 2019, com o lançamento da **ITIL 4**, a abordagem de ciclo de vida de serviços foi retirada. Não há mais um ciclo de vida de serviços na `ITIL 4`.
 
-Em 2019, quando lançam a `ITIL 4`, essa abordagem acabou sendo retirada da `ITIL`. Não temos mais um ciclo de vida de serviços na `ITIL 4`. Isso é muito interessante considerar a partir de agora, porque é questão de prova.
+> [!atenção]
+> A remoção do ciclo de vida de serviços na ITIL 4 é um ponto importante e é questão de prova.
 
-Onde você começa a trabalhar com uma cadeia de valor de serviços. Isso foi uma modificação bem interessante, porque quando eles falavam do ciclo de vida de serviços, havia um ego muito grande. Eles estavam trabalhando com o ciclo de vida de serviços somente com qual foco? "Ah, eu quero evoluir todos os ciclos, todos os ciclos, para ver meu serviço mais cabuloso, mais implementado, mais isso, mais aquilo..."
+Na `ITIL 4`, o trabalho passa a ser com uma **cadeia de valor de serviços**. Essa modificação foi significativa porque, ao falar do ciclo de vida de serviços, havia um foco excessivo na evolução dos ciclos para tornar o serviço "mais implementado" ou "mais cabuloso".
 
-Eles estavam literalmente esquecendo da motivação que temos para um serviço. Qual é a ideia de ter um serviço? É que a organização, ou a pessoa que esteja utilizando aqueles produtos, aqueles recursos de tecnologia da informação, possam ter vantagens agregadas. Entenderam?
+Isso levava a um esquecimento da motivação real para um serviço.
 
-"Ah, Pacheco, foi por isso que eles retiraram do meio do circuito o ciclo de vida de serviço, para colocar a cadeia de valor?" Exatamente por isso que eles fizeram isso em 2019. Só que com qual foco? O foco específico na cadeia de valor e nunca deixando de lado a ideia que temos do gerenciamento de serviços.
+> [!definicao] Geração de Valor
+> A ideia de ter um serviço é que a organização, ou a pessoa que o utiliza, possa ter vantagens agregadas através dos produtos e recursos de tecnologia da informação.
 
-### O Foco na Geração de Valor
+A retirada do ciclo de vida de serviço e a introdução da cadeia de valor em 2019 tiveram um foco específico: a cadeia de valor, sem nunca deixar de lado a ideia do **gerenciamento de serviços**.
 
-Para entender perfeitamente qual é o cruzamento que você acaba tendo disso em relação à estrutura que você pode ter em uma organização, em relação à estrutura que você pode trabalhar em uma consultoria: vocês vão ver que, quando você fala do gerenciamento de serviços de TI, o foco principal de ter um gerenciamento de serviços de TI adequado, sendo executado na sua organização, o foco principal é a geração de valor. Pronto, acabou.
-
-Não haveria por que trabalhar em momento algum com meu gerenciamento de serviços de tecnologia da informação se não fosse para trabalhar especificamente com a geração de valor.
+O foco principal de um gerenciamento de serviços de TI adequado, executado em uma organização ou em uma consultoria, é a **geração de valor**. Não haveria razão para trabalhar com gerenciamento de serviços de tecnologia da informação se não fosse para focar especificamente na geração de valor.
 
 `⏱ 13:20`
 
-geração de valor.
+A geração de valor é o foco principal.
 
-Vamos, então, a algumas definições. Independente do tamanho da empresa, as atividades de TI precisam ser organizadas, pois incidentes, problemas e o aumento da demanda tornarão sempre o trabalho mais complexo.
+Vamos a algumas definições. Independentemente do tamanho da empresa, as atividades de TI precisam ser organizadas, pois incidentes, problemas e o aumento da demanda tornarão o trabalho sempre mais complexo.
 
-Por que gerenciar o serviço de TI e não simplesmente pegar, entregar, instalar algum recurso de tecnologia da informação e abandonar o esquema? Porque incidentes acontecem, porque a tecnologia da informação evolui. Se você não gerencia o serviço, que é o que está na ponta, que é o valor agregado — como, por exemplo, um ótimo serviço de rede na minha organização, um produto ótimo de conectividade com a internet —, o que eu desejo é o acesso externo à minha rede de computadores. Esse é o serviço que eu desejo. Se eu tenho um ótimo produto de armazenamento de dados, o que eu desejo, afinal de contas, com esse ótimo produto de armazenamento de dados? Eu quero armazenamento seguro, quero um serviço de backup sendo feito, quero um serviço de storage perfeito na minha organização. Por conta dos incidentes e da evolução, se você não gerencia esse serviço, pode ser que, inclusive, aquele recurso de tecnologia da informação com o qual você esteja trabalhando já não atenda mais às suas necessidades.
+Por que gerenciar o serviço de TI e não simplesmente entregar e instalar um recurso de tecnologia da informação, abandonando o esquema? Porque incidentes acontecem e a tecnologia da informação evolui.
+
+> [!exemplo] A importância do gerenciamento de serviços
+> Se você não gerencia o serviço, que é o valor agregado, pode perder o foco do que realmente importa.
+> >
+> Por exemplo, se você tem um ótimo produto de conectividade com a internet, o que você realmente deseja é um ótimo serviço de rede, ou seja, acesso externo à sua rede de computadores.
+> >
+> Da mesma forma, com um ótimo produto de armazenamento de dados, o que se busca é armazenamento seguro, um serviço de backup eficiente e um serviço de storage perfeito.
+> >
+> Sem o gerenciamento adequado, devido a incidentes e à evolução tecnológica, o recurso de TI pode deixar de atender às suas necessidades.
 
 Essa visão precisa ser feita sempre de forma mais estratégica, o que torna o gerenciamento de serviços um conjunto de práticas que devem ser seguidas diariamente pela organização de serviços de tecnologia da informação.
 
-Entenderam o que é o gerenciamento de serviços? Entenderam que saímos de uma visão cíclica que tínhamos na ITIL para podermos trabalhar com uma cadeia de valor de serviços, para que esse serviço ofereça valor à organização, valor ao cliente final?
+O gerenciamento de serviços representa uma transição da visão cíclica da ITIL para uma cadeia de valor de serviços, visando oferecer valor à organização e ao cliente final.
 
-Para seguirmos mais um pouco, o segundo passo no estudo de qualquer framework é entender as principais definições. Para isso, sempre com vocês:
-- Estude e compreenda perfeitamente o propósito daquele seu framework.
-- Entenda perfeitamente os principais conceitos que são aplicados àquela disciplina, foco do seu respectivo framework com o qual você está trabalhando.
-- Entenda a estrutura do framework. Daí você entra de cabeça no seu framework.
+### Como Estudar um Framework
 
-### Definições
+Para avançar, o segundo passo no estudo de qualquer framework é entender as principais definições. Para isso, siga estes passos:
 
-Vamos, então, a algumas definições. Algumas definições que, inclusive, vez ou outra, mudam as definições da `ITIL V3` de 2011, para que você consiga trabalhar com elas, especificamente na `ITIL 4`.
+- Estude e compreenda perfeitamente o propósito do framework.
+- Entenda perfeitamente os principais conceitos aplicados àquela disciplina, foco do respectivo framework com o qual você está trabalhando.
+- Entenda a estrutura do framework.
 
-Ativo: O que é um ativo? O ativo é qualquer componente com valor financeiro que possa contribuir para a entrega de um produto ou serviço de TI. Se você fala de ativo dentro da visão de tecnologia da informação, o que será o seu ativo? O seu ativo é qualquer coisa que você tenha na tecnologia da informação, na informática, na infraestrutura da sua organização, que de alguma maneira, de alguma forma, agregue valor, tenha valor financeiro, para que você tenha, naquele exato momento, a tecnologia da informação funcional na sua organização. Entenderam como funciona?
+Assim, você dominará o framework.
 
-Nesse exato momento, já temos uma relação bem interessante, pois todo produto e todo recurso que você for utilizar de tecnologia da informação será considerado um ativo na sua organização.
+### Definições Essenciais
+
+Vamos a algumas definições. Algumas delas, inclusive, diferem das definições da `ITIL V3` de 2011, sendo específicas para a `ITIL 4`.
+
+> [!definicao] Ativo
+> Qualquer componente com valor financeiro que possa contribuir para a entrega de um produto ou serviço de TI.
+
+Um **ativo** na visão de tecnologia da informação é qualquer coisa que você tenha na informática ou na infraestrutura da sua organização que, de alguma maneira, agregue valor e tenha valor financeiro, para que a tecnologia da informação seja funcional na sua organização.
+
+Todo produto e todo recurso de tecnologia da informação que você for utilizar será considerado um ativo na sua organização.
 
 Para que isso fique muito claro, vamos definir o que é o serviço e o que é o produto.
 
-Serviço: É um meio de permitir a cocriação de valor.
+> [!definicao] Serviço
+> É um meio de permitir a cocriação de valor.
 
 `⏱ 17:40`
 
-Serviço é um meio de permitir a cocriação de valor, facilitando os resultados que os clientes desejam alcançar, sem precisar gerenciar custos e riscos específicos.
-
-Ou seja, o que o cliente quer nesse exato momento? Ele quer o benefício, ele quer o valor. Ele quer ter, naquele exato momento, somente o benefício daquele serviço que é prestado, sem precisar ficar olhando para a gestão de custos e riscos específicos que nós temos, que são custos e riscos direcionados à tecnologia da informação.
+> [!definicao] Serviço
+> É um meio de permitir a **cocriação** de valor, facilitando os resultados que os clientes desejam alcançar, sem precisar gerenciar custos e riscos específicos.
+> O cliente busca o benefício e o valor do serviço prestado, sem a necessidade de gerenciar os custos e riscos específicos, que são direcionados à tecnologia da informação.
 
 ### Cocriação de Valor
 
-E aqui entramos com outra palavra: a cocriação. Nas outras versões da `ITIL`, a área de tecnologia da informação era responsável por gerar valor com a prestação de um serviço para uma área cliente.
+> [!definicao] Cocriação de Valor
+> Nas versões anteriores da `ITIL`, a área de tecnologia da informação era responsável por gerar valor na prestação de um serviço para a área cliente.
+> Atualmente, o serviço não pode depender exclusivamente da área de tecnologia da informação para a geração de valor. Se a responsabilidade for apenas da TI, informações úteis podem ser perdidas, sendo que parte delas pode ser responsabilidade da área cliente.
+> A cocriação do serviço é um acordo entre a área de tecnologia da informação e a área cliente para que se tenha um serviço cocriado com um valor específico desejado.
 
-Mas agora as coisas mudaram, pois levaram em consideração que o serviço não pode ficar pura e simplesmente nas costas da área de tecnologia da informação para a geração de valor. Se ficar somente nas costas da área de tecnologia da informação, muitas informações úteis são perdidas, e elas podem ser consideradas responsabilidades da área cliente.
+### Produto e Relacionamento de Serviço
 
-Então, a cocriação do serviço é apresentada como um acordo feito entre a área de tecnologia da informação e a área cliente, para que se tenha um serviço cocriado com um valor específico desejado.
+O **produto** são configurações de recursos que a organização cria e que potencialmente serão valiosos para seus clientes.
 
-### Produto
+**Relacionamentos de serviço** são estabelecidos entre duas ou mais organizações para cocriar valor.
 
-E o que será o nosso produto nesse exato momento? São configurações desses recursos que você vai utilizar, criados pela organização, que potencialmente serão valiosos para seus clientes.
+### Exemplo de Cocriação
 
-### Relacionamento de Serviço
-
-O que significa o termo relacionamento de serviço? Relacionamentos de serviço são estabelecidos entre duas ou mais organizações para cocriar valor em um certo momento.
-
-### Exemplo: Torres de Telefonia
-
-Você está trabalhando com a rede de telefonia móvel da cidade onde você trabalha, e também tem uma rede de telefonia fixa, certo? Sua comunicação é feita via rede telefônica. É isso que está acontecendo na sua cidade.
-
-Por exemplo, no Distrito Federal, entre as principais empresas de telefonia móvel, você tem a Oi, a Claro e a Vivo. Vocês sabiam que todas elas acabam utilizando, em sua maioria, as mesmas torres para a distribuição do sinal?
-
-Não faria sentido que cada rede de telefonia tivesse uma torre própria, e que outra empresa também tivesse uma outra torre própria, e que uma terceira empresa tivesse outra torre própria. Isso não faria sentido algum.
-
-Então, o que eles fazem nesse exato momento é que a empresa que tem a torre faz uma cocriação de valor específica para trabalhar com a prestação do serviço de telefonia móvel.
-
-Vou ficando por aqui. Daqui a pouco eu volto para trabalharmos mais um pouco com os nossos conceitos e diferenças entre as versões da `ITIL`. Um grande abraço e até já!
+> [!exemplo] Cocriação na Telefonia Móvel
+> Considere a rede de telefonia móvel e fixa de uma cidade. A comunicação é feita via rede telefônica.
+> No Distrito Federal, por exemplo, empresas como Oi, Claro e Vivo utilizam as mesmas torres para a distribuição do sinal.
+> Não faria sentido cada empresa de telefonia ter sua própria torre. A empresa que possui a torre realiza uma cocriação de valor específica para a prestação do serviço de telefonia móvel.
 
 ---
 
@@ -265,13 +282,24 @@ Vou ficando por aqui. Daqui a pouco eu volto para trabalharmos mais um pouco com
 
 </details>
 
-### Passagem revisada à mão em 07/09/2026
+### Histórico desta nota — 07/09/2026
 
-O bloco `⏱ 00:00 – 04:40` não foi reescrito pelo Gemini: a chamada estourou o
-timeout de 45 s e caiu para o `gemma4:e4b` local, que devolveu texto com frases
-truncadas e uma negação invertida. Os outros quatro blocos e o fichamento saíram
-do `gemini-2.5-flash`. Esse primeiro bloco foi reescrito à mão a partir da saída
-do modelo local — sem cortar conteúdo, só desfazendo os defeitos de reescrita.
+Esta nota passou por três mãos no mesmo dia, e vale saber por quê.
+
+**1ª geração (gravação da aula).** O bloco `⏱ 00:00 – 04:40` não foi reescrito
+pelo Gemini: a chamada estourou o timeout de 45 s e caiu para o `gemma4:e4b`
+local, que devolveu frases truncadas e uma negação invertida. Os outros quatro
+blocos e o fichamento saíram do `gemini-2.5-flash`.
+
+**2ª — correção à mão.** O primeiro bloco foi reescrito à mão a partir da saída
+do modelo local, sem cortar conteúdo, e as siglas erradas foram corrigidas em
+toda a nota (tabela abaixo).
+
+**3ª — formato novo.** Os cinco blocos foram reprocessados com o `PROMPT_BLOCO`
+reescrito no mesmo dia, que passou a pedir caixa de definição, caixa de exemplo
+e tabela para fato paralelo. As seções `Mapa da aula`, `Quadro de definições`,
+`Pegadinhas` e `Teste-se` são a camada de estudo, que também estreou aqui. As
+correções à mão do passo 2 sobreviveram e foram conferidas uma a uma.
 
 Duas correções são decisão editorial, não transcrição literal, e ficam
 declaradas aqui:
