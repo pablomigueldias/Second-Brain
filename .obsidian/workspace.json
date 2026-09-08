@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Gestão e Governança de TI/ITIL v4/itil-4-conceitos-fundamentais-e-definicoes.md",
+                "file": "Pessoal/Gestão e Governança de TI/ITIL v4/itil-4-sistema-de-valor-de-servico-svs-e-seus-componentes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "itil-4-conceitos-fundamentais-e-definicoes"
+              "title": "itil-4-sistema-de-valor-de-servico-svs-e-seus-componentes"
             }
           }
         ]
@@ -212,10 +212,11 @@
   },
   "active": "ee43cfa7577ec2d8",
   "lastOpenFiles": [
+    "Pessoal/Gestão e Governança de TI/ITIL v4/itil-4-conceitos-fundamentais-e-definicoes.md",
+    "Pessoal/Gestão e Governança de TI/ITIL v4/itil-4-sistema-de-valor-de-servico-svs-e-seus-componentes.md",
     "Pessoal/Gestão e Governança de TI/ITIL v4/itil-4-conceitos-fundamentais-e-definicoes.md.tmp.112304.18385e65749c",
     "Pessoal/Gestão e Governança de TI/ITIL v4/itil-4-conceitos-fundamentais-e-definicoes.md.bak",
     "Pessoal/Gestão e Governança de TI/ITIL v4/introducao-a-itil-4-e-gestao-de-servicos-de-ti.md",
-    "Pessoal/Gestão e Governança de TI/ITIL v4/itil-4-conceitos-fundamentais-e-definicoes.md",
     "Pessoal/Gestão e Governança de TI/ITIL v4/introducao-a-itil-4-e-gestao-de-servicos-de-ti.md.tmp.112304.4b864c132608",
     "Pessoal/Gestão e Governança de TI/ITIL v4/introducao-a-itil-4-e-gestao-de-servicos-de-ti.md.bak",
     "Pessoal/_Sistema-Estudos/_inbox/_processado/Como Criar Agentes de IA/compreendendo-os-diferentes-tipos-de-agentes-de-ia__2026-06-17-1409.md",
@@ -244,7 +245,6 @@
     "Pessoal/Machine Learning/Python para ML/estruturas-de-repeticao-loops-e-aplicacoes-em-treinamento-de-machine-learning.md",
     "Pessoal/Machine Learning/Scilab para ML/instalacao-operacoes-basicas-e-estruturas-de-programacao-no-scilab.md",
     "Pessoal/Machine Learning/Linguagens de Programação para ML/scilab-ferramenta-para-modelagem-e-programacao-em-machine-learning.md",
-    "Pessoal/Machine Learning/Scilab para ML",
     "Pessoal/Machine Learning/Python para ML/implementacao-e-treinamento-de-redes-neurais-para-classificacao-de-imagens-mnist.md",
     "Pessoal/Machine Learning/Python para ML/visualizacao-de-dados-e-regressao-com-matplotlib-e-scikit-learn.md",
     "Pessoal/Machine Learning/Python para ML/estruturas-de-repeticao-em-algoritmos-loops-for-e-while.md",
