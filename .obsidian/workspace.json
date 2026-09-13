@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Gestão e Governança de TI/MPS BR/mps-br-guia-geral-de-software-e-seus-fundamentos.md",
+                "file": "Pessoal/Gestão e Governança de TI/MPS BR/mps-br-niveis-de-capacidade-e-exclusoes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mps-br-guia-geral-de-software-e-seus-fundamentos"
+              "title": "mps-br-niveis-de-capacidade-e-exclusoes"
             }
           }
         ]
@@ -212,8 +212,10 @@
   },
   "active": "daba1449f806fbd0",
   "lastOpenFiles": [
-    "Pessoal/Gestão e Governança de TI/MPS BR/mps-br-guia-geral-de-software-e-seus-fundamentos.md",
     "Pessoal/Gestão e Governança de TI/MPS BR/Guia_Geral_MPS_de_Software_2024.pdf",
+    "Pessoal/Gestão e Governança de TI/MPS BR/mps-br-guia-geral-de-software-processos-e-niveis-de-maturidade.md",
+    "Pessoal/Gestão e Governança de TI/MPS BR/mps-br-niveis-de-capacidade-e-exclusoes.md",
+    "Pessoal/Gestão e Governança de TI/MPS BR/mps-br-guia-geral-de-software-e-seus-fundamentos.md",
     "Pessoal/Gestão e Governança de TI/ITIL v4/itil-4-detalhamento-das-praticas-de-gerenciamento-de-servicos.md",
     "Pessoal/Gestão e Governança de TI/MPS BR",
     "Pessoal/Gestão e Governança de TI/ITIL v4/itil-4-praticas-de-gerenciamento-e-suas-categorias.md",
@@ -245,9 +247,6 @@
     "Pessoal/Machine Learning/R para Machine Learning/linguagem-r-objetos-atribuicao-case-sensitivity-e-constantes-internas.md",
     "Pessoal/Machine Learning/Scilab para ML/processamento-de-imagens-no-scilab-conversao-em-escala-de-cinza-filtros-e-detecc.md",
     "Pessoal/Machine Learning/Scilab para ML/estruturas-de-repeticao-com-while-no-scilab-e-introducao-ao-processamento-de-ima.md",
-    "Pessoal/Machine Learning/R para Machine Learning/linguagem-r-ambiente-replit-operadores-aritmeticos-e-escopo-em-machine-learning.md",
-    "Pessoal/Machine Learning/R para Machine Learning/r-para-machine-learning-paradigma-funcional-recursos-base-e-pacotes.md",
-    "Pessoal/Machine Learning/Scilab para ML/estruturas-de-controle-e-operadores-em-scilab.md",
     "Pessoal/Matemática/IMG/Pasted image 20260106190909.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260107145259.png",
     "Pessoal/Matemática/IMG/diagram-20260106.png",
