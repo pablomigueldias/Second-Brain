@@ -168,10 +168,10 @@ Vamos começar a tratar da estrutura em si.
 
 ## Relacionado
 
-- [[visao-geral-da-carreira-em-ti-da-rede-a-ciencia-de-dados-e-programacao]]
+- [[../../Introdução à Programação e Pensamento Computacional/Pensamento computacional/visao-geral-da-carreira-em-ti-da-rede-a-ciencia-de-dados-e-programacao]]
 - [[jornada-da-formacao-sql-database-specialist]]
 - [[pre-requisitos-para-a-formacao-sql-database-specialist]]
-- [[03 - Vantagens de usar a abordagem de SGBD]]
+- [[../../Bancos de Dados/Conceitos Básicos/03 - Vantagens de usar a abordagem de SGBD]]
 
 ---
 

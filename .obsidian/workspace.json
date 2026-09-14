@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/SQL Database Specialist/Contextualização do cenário na área de Banco de Dados/contextualizacao-da-formacao-sql-database-specialist-apresentacao-da-instrutora-.md",
+                "file": "Pessoal/SQL Database Specialist/Introdução a Banco de Dados/bancos-de-dados-da-evolucao-ao-big-data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "contextualizacao-da-formacao-sql-database-specialist-apresentacao-da-instrutora-"
+              "title": "bancos-de-dados-da-evolucao-ao-big-data"
             }
           }
         ]
@@ -212,10 +212,12 @@
   },
   "active": "daba1449f806fbd0",
   "lastOpenFiles": [
-    "Pessoal/SQL Database Specialist/Contextualização do cenário na área de Banco de Dados/jornada-da-formacao-sql-database-specialist.md",
-    "Pessoal/SQL Database Specialist/Contextualização do cenário na área de Banco de Dados/contextualizacao-da-formacao-sql-database-specialist-apresentacao-da-instrutora-.md",
-    "Pessoal/SQL Database Specialist/Contextualização do cenário na área de Banco de Dados/pre-requisitos-para-a-formacao-sql-database-specialist.md",
-    "Pessoal/SQL Database Specialist/Contextualização do cenário na área de Banco de Dados",
+    "Pessoal/SQL Database Specialist/Introdução a Banco de Dados/contextualizacao-da-formacao-sql-database-specialist-apresentacao-da-instrutora-.md",
+    "Pessoal/SQL Database Specialist/Introdução a Banco de Dados/bancos-de-dados-da-evolucao-ao-big-data.md",
+    "Pessoal/Introdução à Programação e Pensamento Computacional/Pensamento computacional/visao-geral-da-carreira-em-ti-da-rede-a-ciencia-de-dados-e-programacao.md",
+    "Pessoal/SQL Database Specialist/Introdução a Banco de Dados/jornada-da-formacao-sql-database-specialist.md",
+    "Pessoal/SQL Database Specialist/Introdução a Banco de Dados/pre-requisitos-para-a-formacao-sql-database-specialist.md",
+    "Pessoal/SQL Database Specialist/Introdução a Banco de Dados",
     "Pessoal/Gestão e Governança de TI/MPS BR/mps-br-niveis-de-capacidade-e-exclusoes.md",
     "Pessoal/SQL Database Specialist",
     "Pessoal/Gestão e Governança de TI/MPS BR/Guia_Geral_MPS_de_Software_2024.pdf",
@@ -246,8 +248,6 @@
     "Pessoal/Machine Learning/Frameworks para Machine Learning/machine-learning-frameworks-e-ambientes-de-desenvolvimento-tensorflow-pytorch-ke.md",
     "Pessoal/Machine Learning/R para Machine Learning/manipulacao-de-vetores-e-matrizes-em-r-para-machine-learning.md",
     "Pessoal/Machine Learning/R para Machine Learning/estatistica-basica-em-r-media-mediana-e-moda.md",
-    "Pessoal/Machine Learning/R para Machine Learning/operadores-logicos-e-comparacao-de-dados-em-r.md",
-    "Pessoal/Machine Learning/R para Machine Learning/linguagem-r-objetos-atribuicao-case-sensitivity-e-constantes-internas.md",
     "Pessoal/Matemática/IMG/Pasted image 20260106190909.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260107145259.png",
     "Pessoal/Matemática/IMG/diagram-20260106.png",

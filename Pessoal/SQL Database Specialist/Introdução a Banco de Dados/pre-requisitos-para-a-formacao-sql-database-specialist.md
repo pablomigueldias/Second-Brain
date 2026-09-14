@@ -91,9 +91,9 @@ Para ter maior aproveitamento da formação, alguns conhecimentos prévios são 
 ## Relacionado
 
 - [[jornada-da-formacao-sql-database-specialist]]
-- [[00 - Índice]]
-- [[03 - Vantagens de usar a abordagem de SGBD]]
-- [[07 - Sistemas Hierárquico e de rede]]
+- [[../../Bancos de Dados/Conceitos Básicos/00 - Índice]]
+- [[../../Bancos de Dados/Conceitos Básicos/03 - Vantagens de usar a abordagem de SGBD]]
+- [[../../Bancos de Dados/Conceitos Básicos/07 - Sistemas Hierárquico e de rede]]
 
 ---
 
