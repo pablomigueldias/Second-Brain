@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/SQL Database Specialist/Introdução a Banco de Dados/modelagem-de-dados-do-contexto-relacional-a-era-do-big-data-e-paradigmas-cientif.md",
+                "file": "Pessoal/SQL Database Specialist/Sistemas de Gerenciamento de Banco de Dados/sgbd-natureza-autodescritiva-esquema-e-catalogo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "modelagem-de-dados-do-contexto-relacional-a-era-do-big-data-e-paradigmas-cientif"
+              "title": "sgbd-natureza-autodescritiva-esquema-e-catalogo"
             }
           }
         ]
@@ -210,10 +210,13 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "26758f3261ee0499",
+  "active": "bd7eaf473c1134aa",
   "lastOpenFiles": [
-    "Pessoal/Arquitetura e Organização de Computadores",
+    "Pessoal/SQL Database Specialist/Sistemas de Gerenciamento de Banco de Dados/sgbd-abordagens-e-caracteristicas-essenciais.md",
+    "Pessoal/SQL Database Specialist/Sistemas de Gerenciamento de Banco de Dados/sgbd-natureza-autodescritiva-esquema-e-catalogo.md",
     "Pessoal/SQL Database Specialist/Introdução a Banco de Dados/modelagem-de-dados-do-contexto-relacional-a-era-do-big-data-e-paradigmas-cientif.md",
+    "Pessoal/SQL Database Specialist/Sistemas de Gerenciamento de Banco de Dados",
+    "Pessoal/Arquitetura e Organização de Computadores",
     "Pessoal/SQL Database Specialist/Introdução a Banco de Dados/93b01afe-6917-4471-8d2c-73600caaa1d3.pptx",
     "Pessoal/SQL Database Specialist/Introdução a Banco de Dados/paralelismo-big-data-e-cloud-tecnologias-e-diferencas-na-computacao-de-alto-dese.md",
     "Pessoal/Machine Learning/Introdução ao Machine Learning/redes-neurais-deep-learning-e-aplicacoes-praticas-de-machine-learning.md",
@@ -244,10 +247,7 @@
     "Pessoal/Gestão e Governança de TI/ITIL v4/itil-4-as-quatro-dimensoes-do-gerenciamento-de-servicos.md",
     "Pessoal/Gestão e Governança de TI/ITIL v4/itil-4-sistema-de-valor-de-servico-svs-e-seus-componentes.md",
     "Pessoal/Gestão e Governança de TI/ITIL v4/itil-4-conceitos-fundamentais-e-definicoes.md",
-    "Pessoal/Gestão e Governança de TI/ITIL v4/introducao-a-itil-4-e-gestao-de-servicos-de-ti.md",
     "Pessoal/Gestão e Governança de TI/ITIL v4/itil-4-conceitos-fundamentais-e-definicoes.md.tmp.112304.18385e65749c",
-    "Pessoal/Gestão e Governança de TI/ITIL v4/itil-4-conceitos-fundamentais-e-definicoes.md.bak",
-    "Pessoal/Gestão e Governança de TI/ITIL v4/introducao-a-itil-4-e-gestao-de-servicos-de-ti.md.tmp.112304.4b864c132608",
     "Pessoal/Matemática/IMG/Pasted image 20260106190909.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260107145259.png",
     "Pessoal/Matemática/IMG/diagram-20260106.png",
