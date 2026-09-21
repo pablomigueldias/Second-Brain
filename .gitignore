@@ -20,3 +20,12 @@ Pessoal/Certificados/
 
 # Comandos do Claude Code — ferramenta local, não é conteúdo do vault
 .claude/
+
+# Planos pessoais (metas, renda, carreira): ficam só na máquina
+Pessoal/Planos/
+
+# Rascunhos de post do blog: a versão pública sai pelo repo do blog, revisada
+Pessoal/Blog/
+
+# PDFs de livros de terceiros: direito autoral, não vão para repo público
+Pessoal/Livros/**/*.pdf

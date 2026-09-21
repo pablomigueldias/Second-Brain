@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9c8491200fc94614",
+        "id": "5ff9223279b67218",
         "type": "tabs",
         "children": [
           {
-            "id": "bd7eaf473c1134aa",
+            "id": "84187b5acd5e2447",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Pessoal/SQL Database Specialist/Sistemas de Gerenciamento de Banco de Dados/sgbd-natureza-autodescritiva-esquema-e-catalogo.md",
-                "mode": "source",
-                "source": false
+                "file": "Pessoal/Planos/Site.canvas",
+                "viewState": {
+                  "x": -5,
+                  "y": -320,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "sgbd-natureza-autodescritiva-esquema-e-catalogo"
+              "icon": "lucide-layout-dashboard",
+              "title": "Site"
             }
           }
         ]
@@ -210,10 +213,20 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "bd7eaf473c1134aa",
+  "active": "84187b5acd5e2447",
   "lastOpenFiles": [
+    "Pessoal/Planos/plano-central.canvas",
+    "Pessoal/Planos/Linkedin-ativo.canvas",
+    "Pessoal/Planos/Site.canvas",
+    "Pessoal/Planos/Sem título",
+    "Pessoal/SQL Database Specialist/Introdução a Banco de Dados/sgbd-etapas-estrutura-e-fases.md",
     "Pessoal/SQL Database Specialist/Sistemas de Gerenciamento de Banco de Dados/sgbd-abordagens-e-caracteristicas-essenciais.md",
+    "Pessoal/SQL Database Specialist/Introdução a Banco de Dados/bancos-de-dados-da-evolucao-ao-big-data.md",
+    "Untitled.md",
+    "Pessoal/Planos/Sem título.base",
+    "Pessoal/Planos/constancia",
     "Pessoal/SQL Database Specialist/Sistemas de Gerenciamento de Banco de Dados/sgbd-natureza-autodescritiva-esquema-e-catalogo.md",
+    "Pessoal/Planos",
     "Pessoal/SQL Database Specialist/Introdução a Banco de Dados/modelagem-de-dados-do-contexto-relacional-a-era-do-big-data-e-paradigmas-cientif.md",
     "Pessoal/SQL Database Specialist/Sistemas de Gerenciamento de Banco de Dados",
     "Pessoal/Arquitetura e Organização de Computadores",
@@ -223,31 +236,23 @@
     "Pessoal/SQL Database Specialist/Introdução a Banco de Dados/sgbds-os-mais-utilizados-no-mercado.md",
     "Pessoal/SQL Database Specialist/Introdução a Banco de Dados/modelo-relacional-usuarios-e-integracao-de-sgbds.md",
     "Pessoal/SQL Database Specialist/Introdução a Banco de Dados/sgbds-historico-e-modelos-de-dados.md",
-    "Pessoal/SQL Database Specialist/Introdução a Banco de Dados/sgbd-etapas-estrutura-e-fases.md",
     "Pessoal/_Sistema-Estudos/_inbox/_processado/Criar valor com IA, automação e bots/resolução-de-problemas-alimentada-por-bots__2026-06-21-1727.md",
     "Pessoal/SQL Database Specialist/Introdução a Banco de Dados/bancos-de-dados-definicao-acesso-e-escala.md",
     "Pessoal/IoT Specialist",
     "Sem título",
-    "Pessoal/SQL Database Specialist/Introdução a Banco de Dados/bancos-de-dados-da-evolucao-ao-big-data.md",
     "Pessoal/SQL Database Specialist/Introdução a Banco de Dados/contextualizacao-da-formacao-sql-database-specialist-apresentacao-da-instrutora-.md",
     "Pessoal/Introdução à Programação e Pensamento Computacional/Pensamento computacional/visao-geral-da-carreira-em-ti-da-rede-a-ciencia-de-dados-e-programacao.md",
     "Pessoal/SQL Database Specialist/Introdução a Banco de Dados/jornada-da-formacao-sql-database-specialist.md",
     "Pessoal/SQL Database Specialist/Introdução a Banco de Dados/pre-requisitos-para-a-formacao-sql-database-specialist.md",
     "Pessoal/SQL Database Specialist/Introdução a Banco de Dados",
     "Pessoal/Gestão e Governança de TI/MPS BR/mps-br-niveis-de-capacidade-e-exclusoes.md",
-    "Pessoal/SQL Database Specialist",
-    "Pessoal/Gestão e Governança de TI/MPS BR/Guia_Geral_MPS_de_Software_2024.pdf",
     "Pessoal/Gestão e Governança de TI/MPS BR/mps-br-guia-geral-de-software-processos-e-niveis-de-maturidade.md",
     "Pessoal/Gestão e Governança de TI/MPS BR/mps-br-guia-geral-de-software-e-seus-fundamentos.md",
     "Pessoal/Gestão e Governança de TI/ITIL v4/itil-4-detalhamento-das-praticas-de-gerenciamento-de-servicos.md",
-    "Pessoal/Gestão e Governança de TI/MPS BR",
     "Pessoal/Gestão e Governança de TI/ITIL v4/itil-4-praticas-de-gerenciamento-e-suas-categorias.md",
     "Pessoal/Gestão e Governança de TI/ITIL v4/itil-4-cadeia-de-valor-de-servicos-e-suas-atividades.md",
     "Pessoal/Gestão e Governança de TI/ITIL v4/itil-4-principios-orientadores-e-aderencia-a-frameworks-ageis.md",
     "Pessoal/Gestão e Governança de TI/ITIL v4/itil-4-as-quatro-dimensoes-do-gerenciamento-de-servicos.md",
-    "Pessoal/Gestão e Governança de TI/ITIL v4/itil-4-sistema-de-valor-de-servico-svs-e-seus-componentes.md",
-    "Pessoal/Gestão e Governança de TI/ITIL v4/itil-4-conceitos-fundamentais-e-definicoes.md",
-    "Pessoal/Gestão e Governança de TI/ITIL v4/itil-4-conceitos-fundamentais-e-definicoes.md.tmp.112304.18385e65749c",
     "Pessoal/Matemática/IMG/Pasted image 20260106190909.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260107145259.png",
     "Pessoal/Matemática/IMG/diagram-20260106.png",
