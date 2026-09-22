@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Pessoal/Planos/Site.canvas",
+                "file": "Pessoal/Planos/plano-central.canvas",
                 "viewState": {
-                  "x": -5,
-                  "y": -320,
-                  "zoom": 0
+                  "x": -1475,
+                  "y": -1655,
+                  "zoom": -0.5474877953024933
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Site"
+              "title": "plano-central"
             }
           }
         ]
@@ -215,9 +215,9 @@
   },
   "active": "84187b5acd5e2447",
   "lastOpenFiles": [
+    "Pessoal/Planos/Site.canvas",
     "Pessoal/Planos/plano-central.canvas",
     "Pessoal/Planos/Linkedin-ativo.canvas",
-    "Pessoal/Planos/Site.canvas",
     "Pessoal/Planos/Sem título",
     "Pessoal/SQL Database Specialist/Introdução a Banco de Dados/sgbd-etapas-estrutura-e-fases.md",
     "Pessoal/SQL Database Specialist/Sistemas de Gerenciamento de Banco de Dados/sgbd-abordagens-e-caracteristicas-essenciais.md",
