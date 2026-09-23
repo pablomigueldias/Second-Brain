@@ -6,7 +6,7 @@ fonte: "gravação (sistema)"
 tipo: transcricao
 duracao_min: 23
 conceitos: [SGBD, Oracle DB, MySQL, PostgreSQL, MariaDB, Elasticsearch, Banco de Dados Relacional, Banco de Dados NoSQL]
-blog: ideia
+blog: rascunho
 pilar: dados-ml
 ---
 
