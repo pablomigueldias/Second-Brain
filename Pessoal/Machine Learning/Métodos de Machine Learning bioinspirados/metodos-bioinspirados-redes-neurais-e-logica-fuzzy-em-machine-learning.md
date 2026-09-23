@@ -6,6 +6,8 @@ fonte: "gravação (sistema)"
 tipo: transcricao
 duracao_min: 25
 conceitos: [Algoritmos bioinspirados, Algoritmo de colônia de formigas, Feromônios, Métodos heurísticos, Algoritmos neurais, Lógica Fuzzy]
+blog: ideia
+pilar: dados-ml
 ---
 
 # Métodos Bioinspirados, Redes Neurais e Lógica Fuzzy em Machine Learning

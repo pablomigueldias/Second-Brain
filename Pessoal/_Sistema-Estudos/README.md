@@ -1,5 +1,7 @@
 ---
 tags: [sistema, meta]
+blog: ideia
+pilar: ia-llms
 ---
 
 # 🎓 Sistema de Estudos — Transcrição + Notas Didáticas

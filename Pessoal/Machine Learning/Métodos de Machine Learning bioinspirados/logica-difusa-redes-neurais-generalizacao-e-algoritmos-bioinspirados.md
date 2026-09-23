@@ -6,6 +6,8 @@ fonte: "gravação (sistema)"
 tipo: transcricao
 duracao_min: 17
 conceitos: [Lógica Fuzzy, Algoritmos Heurísticos, Redes Neurais Artificiais, Generalização, Computação Bioinspirada, Algoritmo de Colônia de Formigas, Roteamento de Redes]
+blog: ideia
+pilar: dados-ml
 ---
 
 # Lógica Difusa, Redes Neurais, Generalização e Algoritmos Bioinspirados
