@@ -11,10 +11,17 @@
             "id": "84187b5acd5e2447",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "type": "canvas",
+              "state": {
+                "file": "Pessoal/Planos/vender-servicos.canvas",
+                "viewState": {
+                  "x": -79.5,
+                  "y": -270,
+                  "zoom": -0.0890050060587451
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "vender-servicos"
             }
           }
         ]
@@ -206,8 +213,12 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "26758f3261ee0499",
+  "active": "84187b5acd5e2447",
   "lastOpenFiles": [
+    "Pessoal/Planos/plano-central.canvas",
+    "Pessoal/Planos/Linkedin-ativo.canvas",
+    "Pessoal/Planos/Site.canvas",
+    "Pessoal/Planos/vender-servicos.canvas",
     "Pessoal/Laboratório de Dados/scripts/sql_para_ml.py",
     "Pessoal/Laboratório de Dados/scripts/requirements.txt",
     "Pessoal/Laboratório de Dados/scripts/meu_sistema_de_estudos.py",
@@ -229,7 +240,6 @@
     "Pessoal/Laboratório de Dados/Post - SGBDs na prática",
     "Pessoal/Laboratório de Dados",
     "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 09 - Do número ao post.md.tmp.23597.0c9f8ef97d5d",
-    "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 08 - Relatório.md.tmp.23597.5fbce256f3f3",
     "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 1 - Conhecer os dados.md",
     "Pessoal/Laboratório de Dados/_template - Registro de experimento.md",
     "Pessoal/Laboratório de Dados/07 - Da análise ao post.md",
@@ -244,9 +254,6 @@
     "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 3 - Leitura pontual.md",
     "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 2 - Carga.md",
     "Pessoal/Laboratório de Dados/02 - Montando o laboratório.md",
-    "Pessoal/Planos/plano-central.canvas",
-    "Pessoal/Planos/Site.canvas",
-    "Pessoal/Planos/Linkedin-ativo.canvas",
     "Pessoal/Matemática/IMG/Pasted image 20260106190909.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260107145259.png",
     "Pessoal/Matemática/IMG/diagram-20260106.png",
