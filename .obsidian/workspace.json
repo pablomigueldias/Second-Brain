@@ -11,14 +11,10 @@
             "id": "84187b5acd5e2447",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pessoal/Laboratório de Dados/Post - SGBDs na prática/00 - Roteiro.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "00 - Roteiro"
+              "title": "Nova aba"
             }
           }
         ]
@@ -210,29 +206,30 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "84187b5acd5e2447",
+  "active": "26758f3261ee0499",
   "lastOpenFiles": [
+    "Pessoal/Laboratório de Dados/scripts/sql_para_ml.py",
+    "Pessoal/Laboratório de Dados/scripts/requirements.txt",
+    "Pessoal/Laboratório de Dados/scripts/meu_sistema_de_estudos.py",
+    "Pessoal/Laboratório de Dados/scripts/generalizacao.py",
+    "Pessoal/Laboratório de Dados/scripts/fuzzy_vs_liga_desliga.py",
+    "Pessoal/Laboratório de Dados/scripts/colonia_de_formigas.py",
     "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 09 - Do número ao post.md",
-    "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 09 - Do número ao post.md.tmp.23597.0c9f8ef97d5d",
     "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 08 - Relatório.md",
-    "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 08 - Relatório.md.tmp.23597.5fbce256f3f3",
     "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 07 - Esquema flexível.md",
-    "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 07 - Esquema flexível.md.tmp.23597.64934cb37aab",
     "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 06 - Transações.md",
-    "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 06 - Transações.md.tmp.23597.406076292dac",
     "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 05 - Consulta analítica.md",
-    "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 05 - Consulta analítica.md.tmp.23597.459ce41d67aa",
     "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 04 - Leitura pontual.md",
-    "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 04 - Leitura pontual.md.tmp.23597.7c1906c0f785",
     "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 03 - Carga.md",
-    "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 03 - Carga.md.tmp.23597.5dc08217e82e",
     "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 02 - Gerar os dados.md",
-    "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 02 - Gerar os dados.md.tmp.23597.488cbef71b8f",
     "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 01 - Conectar nos seis bancos.md",
-    "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 01 - Conectar nos seis bancos.md.tmp.23597.96811881fb69",
     "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 00 - Ambiente e Docker.md",
-    "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 00 - Ambiente e Docker.md.tmp.23597.e857f3f59594",
     "Pessoal/Laboratório de Dados/Post - SGBDs na prática/00 - Roteiro.md",
+    "Pessoal/Laboratório de Dados/scripts",
+    "Pessoal/Laboratório de Dados/Post - SGBDs na prática",
+    "Pessoal/Laboratório de Dados",
+    "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 09 - Do número ao post.md.tmp.23597.0c9f8ef97d5d",
+    "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 08 - Relatório.md.tmp.23597.5fbce256f3f3",
     "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 1 - Conhecer os dados.md",
     "Pessoal/Laboratório de Dados/_template - Registro de experimento.md",
     "Pessoal/Laboratório de Dados/07 - Da análise ao post.md",
@@ -247,7 +244,6 @@
     "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 3 - Leitura pontual.md",
     "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 2 - Carga.md",
     "Pessoal/Laboratório de Dados/02 - Montando o laboratório.md",
-    "Pessoal/Laboratório de Dados/04 - Exercício 2 - Fuzzy e colônia de formigas.md",
     "Pessoal/Planos/plano-central.canvas",
     "Pessoal/Planos/Site.canvas",
     "Pessoal/Planos/Linkedin-ativo.canvas",

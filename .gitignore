@@ -29,3 +29,6 @@ Pessoal/Blog/
 
 # PDFs de livros de terceiros: direito autoral, não vão para repo público
 Pessoal/Livros/**/*.pdf
+
+# Laboratório de Dados: fica só na máquina
+Pessoal/Laboratório de Dados/
