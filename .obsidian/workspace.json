@@ -11,17 +11,14 @@
             "id": "84187b5acd5e2447",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Pessoal/Planos/vender-servicos.canvas",
-                "viewState": {
-                  "x": -79.5,
-                  "y": -270,
-                  "zoom": -0.0890050060587451
-                }
+                "file": "Pessoal/SQL Database Specialist/Sistemas de Gerenciamento de Banco de Dados/sgbd-isolamento-abstracao-e-transparencia.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "vender-servicos"
+              "icon": "lucide-file",
+              "title": "sgbd-isolamento-abstracao-e-transparencia"
             }
           }
         ]
@@ -215,10 +212,12 @@
   },
   "active": "84187b5acd5e2447",
   "lastOpenFiles": [
+    "Pessoal/SQL Database Specialist/Sistemas de Gerenciamento de Banco de Dados/sgbd-perspectivas-distintas-com-views.md",
+    "Pessoal/Planos/vender-servicos.canvas",
+    "Pessoal/SQL Database Specialist/Sistemas de Gerenciamento de Banco de Dados/sgbd-isolamento-abstracao-e-transparencia.md",
     "Pessoal/Planos/plano-central.canvas",
     "Pessoal/Planos/Linkedin-ativo.canvas",
     "Pessoal/Planos/Site.canvas",
-    "Pessoal/Planos/vender-servicos.canvas",
     "Pessoal/Laboratório de Dados/scripts/sql_para_ml.py",
     "Pessoal/Laboratório de Dados/scripts/requirements.txt",
     "Pessoal/Laboratório de Dados/scripts/meu_sistema_de_estudos.py",
@@ -253,7 +252,6 @@
     "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 4 - Consulta analítica.md",
     "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 3 - Leitura pontual.md",
     "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 2 - Carga.md",
-    "Pessoal/Laboratório de Dados/02 - Montando o laboratório.md",
     "Pessoal/Matemática/IMG/Pasted image 20260106190909.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260107145259.png",
     "Pessoal/Matemática/IMG/diagram-20260106.png",
