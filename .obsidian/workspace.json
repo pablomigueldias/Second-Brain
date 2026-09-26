@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/SQL Database Specialist/Sistemas de Gerenciamento de Banco de Dados/sgbd-isolamento-abstracao-e-transparencia.md",
+                "file": "Pessoal/SQL Database Specialist/Sistemas de Gerenciamento de Banco de Dados/sgbd-vantagens-otimizacao-e-integridade-dos-dados.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sgbd-isolamento-abstracao-e-transparencia"
+              "title": "sgbd-vantagens-otimizacao-e-integridade-dos-dados"
             }
           }
         ]
@@ -210,14 +210,18 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "84187b5acd5e2447",
+  "active": "26758f3261ee0499",
   "lastOpenFiles": [
+    "Pessoal/SQL Database Specialist/Sistemas de Gerenciamento de Banco de Dados/sgbd-cenarios-de-nao-utilizacao-e-alternativas.md",
+    "Pessoal/SQL Database Specialist/Modelagem de Dados para Banco de Dados",
+    "Pessoal/SQL Database Specialist/Sistemas de Gerenciamento de Banco de Dados/sgbd-ganhos-e-otimizacao-operacional.md",
     "Pessoal/SQL Database Specialist/Sistemas de Gerenciamento de Banco de Dados/sgbd-atores-indiretos-e-requisitos-operacionais.md",
+    "Pessoal/SQL Database Specialist/Sistemas de Gerenciamento de Banco de Dados/sgbd-isolamento-abstracao-e-transparencia.md",
+    "Pessoal/SQL Database Specialist/Sistemas de Gerenciamento de Banco de Dados/sgbd-vantagens-otimizacao-e-integridade-dos-dados.md",
     "Pessoal/SQL Database Specialist/Sistemas de Gerenciamento de Banco de Dados/sgbd-atores-tipos-de-usuarios-e-finalidade.md",
     "Pessoal/SQL Database Specialist/Sistemas de Gerenciamento de Banco de Dados/sgbd-controle-de-concorrencia-e-oltp.md",
     "Pessoal/SQL Database Specialist/Sistemas de Gerenciamento de Banco de Dados/sgbd-perspectivas-distintas-com-views.md",
     "Pessoal/Planos/vender-servicos.canvas",
-    "Pessoal/SQL Database Specialist/Sistemas de Gerenciamento de Banco de Dados/sgbd-isolamento-abstracao-e-transparencia.md",
     "Pessoal/Planos/plano-central.canvas",
     "Pessoal/Planos/Linkedin-ativo.canvas",
     "Pessoal/Planos/Site.canvas",
@@ -241,7 +245,6 @@
     "Pessoal/Laboratório de Dados/scripts",
     "Pessoal/Laboratório de Dados/Post - SGBDs na prática",
     "Pessoal/Laboratório de Dados",
-    "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 09 - Do número ao post.md.tmp.23597.0c9f8ef97d5d",
     "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 1 - Conhecer os dados.md",
     "Pessoal/Laboratório de Dados/_template - Registro de experimento.md",
     "Pessoal/Laboratório de Dados/07 - Da análise ao post.md",
@@ -249,9 +252,6 @@
     "Pessoal/Laboratório de Dados/05 - Exercício 3 - SQL para ML.md",
     "Pessoal/Laboratório de Dados/01 - Método científico para dados.md",
     "Pessoal/Laboratório de Dados/00 - Comece aqui.md",
-    "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 7 - Do número ao post.md",
-    "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 6 - Esquema flexível.md",
-    "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 5 - Transações.md",
     "Pessoal/Matemática/IMG/Pasted image 20260106190909.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260107145259.png",
     "Pessoal/Matemática/IMG/diagram-20260106.png",
