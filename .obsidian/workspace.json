@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/SQL Database Specialist/Sistemas de Gerenciamento de Banco de Dados/sgbd-vantagens-otimizacao-e-integridade-dos-dados.md",
+                "file": "Pessoal/SQL Database Specialist/Sistemas de Gerenciamento de Banco de Dados/sql-database-specialist-comandos-essenciais-para-gerenciamento-de-bancos-de-dado.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sgbd-vantagens-otimizacao-e-integridade-dos-dados"
+              "title": "sql-database-specialist-comandos-essenciais-para-gerenciamento-de-bancos-de-dado"
             }
           }
         ]
@@ -210,10 +210,11 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "dccdd8e1bba9966f",
+  "active": "26758f3261ee0499",
   "lastOpenFiles": [
-    "Pessoal/SQL Database Specialist/Sistemas de Gerenciamento de Banco de Dados/sql-database-specialist-comandos-essenciais-para-gerenciamento-de-bancos-de-dado.md",
+    "Pessoal/SQL Database Specialist/Arquitetura de Banco de Dados",
     "Pessoal/SQL Database Specialist/Sistemas de Gerenciamento de Banco de Dados/sgbd-vantagens-otimizacao-e-integridade-dos-dados.md",
+    "Pessoal/SQL Database Specialist/Sistemas de Gerenciamento de Banco de Dados/sql-database-specialist-comandos-essenciais-para-gerenciamento-de-bancos-de-dado.md",
     "Pessoal/SQL Database Specialist/Sistemas de Gerenciamento de Banco de Dados/sgbd-cenarios-de-nao-utilizacao-e-alternativas.md",
     "Pessoal/SQL Database Specialist/Modelagem de Dados para Banco de Dados",
     "Pessoal/SQL Database Specialist/Sistemas de Gerenciamento de Banco de Dados/sgbd-ganhos-e-otimizacao-operacional.md",
@@ -251,7 +252,6 @@
     "Pessoal/Laboratório de Dados/07 - Da análise ao post.md",
     "Pessoal/Laboratório de Dados/06 - Exercício 4 - Medindo meu sistema de estudos.md",
     "Pessoal/Laboratório de Dados/05 - Exercício 3 - SQL para ML.md",
-    "Pessoal/Laboratório de Dados/01 - Método científico para dados.md",
     "Pessoal/Matemática/IMG/Pasted image 20260106190909.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260107145259.png",
     "Pessoal/Matemática/IMG/diagram-20260106.png",
