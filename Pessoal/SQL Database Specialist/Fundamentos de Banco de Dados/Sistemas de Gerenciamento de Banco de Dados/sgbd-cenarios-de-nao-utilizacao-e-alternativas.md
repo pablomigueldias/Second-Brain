@@ -144,5 +144,5 @@ vai te dar um trabalho e criar a história, como utilizar um canhão para matar 
 
 - [[sgbd-natureza-autodescritiva-esquema-e-catalogo]]
 - [[sgbd-atores-tipos-de-usuarios-e-finalidade]]
-- [[sgbds-os-mais-utilizados-no-mercado]]
+- [[../Introdução a Banco de Dados/sgbds-os-mais-utilizados-no-mercado]]
 - [[sgbd-atores-indiretos-e-requisitos-operacionais]]

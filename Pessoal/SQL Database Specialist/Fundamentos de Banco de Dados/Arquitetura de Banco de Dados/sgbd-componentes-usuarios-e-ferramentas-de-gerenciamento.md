@@ -228,10 +228,10 @@ Aqui estão algumas das ferramentas e mecanismos que acabam facilitando a nossa 
 
 ## Relacionado
 
-- [[sgbd-etapas-estrutura-e-fases]]
-- [[sgbd-cenarios-de-nao-utilizacao-e-alternativas]]
-- [[sgbd-atores-indiretos-e-requisitos-operacionais]]
-- [[sgbd-abordagens-e-caracteristicas-essenciais]]
+- [[../Introdução a Banco de Dados/sgbd-etapas-estrutura-e-fases]]
+- [[../Sistemas de Gerenciamento de Banco de Dados/sgbd-cenarios-de-nao-utilizacao-e-alternativas]]
+- [[../Sistemas de Gerenciamento de Banco de Dados/sgbd-atores-indiretos-e-requisitos-operacionais]]
+- [[../Sistemas de Gerenciamento de Banco de Dados/sgbd-abordagens-e-caracteristicas-essenciais]]
 
 ---
 

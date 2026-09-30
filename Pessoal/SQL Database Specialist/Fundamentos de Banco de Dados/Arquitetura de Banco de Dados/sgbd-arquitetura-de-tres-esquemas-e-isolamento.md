@@ -208,7 +208,7 @@ O problema é que as `VIEW`s estão relacionadas às entidades. Se uma junção 
 
 ## Relacionado
 
-- [[sgbd-vantagens-otimizacao-e-integridade-dos-dados]]
-- [[sgbd-isolamento-abstracao-e-transparencia]]
-- [[sgbd-abordagens-e-caracteristicas-essenciais]]
-- [[sgbd-ganhos-e-otimizacao-operacional]]
+- [[../Sistemas de Gerenciamento de Banco de Dados/sgbd-vantagens-otimizacao-e-integridade-dos-dados]]
+- [[../Sistemas de Gerenciamento de Banco de Dados/sgbd-isolamento-abstracao-e-transparencia]]
+- [[../Sistemas de Gerenciamento de Banco de Dados/sgbd-abordagens-e-caracteristicas-essenciais]]
+- [[../Sistemas de Gerenciamento de Banco de Dados/sgbd-ganhos-e-otimizacao-operacional]]

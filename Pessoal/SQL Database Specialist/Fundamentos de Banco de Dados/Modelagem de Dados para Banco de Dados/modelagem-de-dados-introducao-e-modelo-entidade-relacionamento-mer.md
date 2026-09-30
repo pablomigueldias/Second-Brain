@@ -219,7 +219,7 @@ Essas são uma série de informações que estão relacionadas e inseridas dentr
 
 ## Relacionado
 
-- [[jornada-da-formacao-sql-database-specialist]]
-- [[sgbd-ganhos-e-otimizacao-operacional]]
-- [[contextualizacao-da-formacao-sql-database-specialist-apresentacao-da-instrutora-]]
-- [[sgbd-vantagens-otimizacao-e-integridade-dos-dados]]
+- [[../Introdução a Banco de Dados/jornada-da-formacao-sql-database-specialist]]
+- [[../Sistemas de Gerenciamento de Banco de Dados/sgbd-ganhos-e-otimizacao-operacional]]
+- [[../Introdução a Banco de Dados/contextualizacao-da-formacao-sql-database-specialist-apresentacao-da-instrutora-]]
+- [[../Sistemas de Gerenciamento de Banco de Dados/sgbd-vantagens-otimizacao-e-integridade-dos-dados]]

@@ -144,6 +144,6 @@ Nós temos, na verdade, um agregado de informações, algumas das quais não sã
 ## Relacionado
 
 - [[sgbd-abordagens-e-caracteristicas-essenciais]]
-- [[bancos-de-dados-da-evolucao-ao-big-data]]
-- [[bancos-de-dados-definicao-acesso-e-escala]]
+- [[../Introdução a Banco de Dados/bancos-de-dados-da-evolucao-ao-big-data]]
+- [[../Introdução a Banco de Dados/bancos-de-dados-definicao-acesso-e-escala]]
 - [[sgbd-natureza-autodescritiva-esquema-e-catalogo]]

@@ -174,4 +174,4 @@ Os dados estão orientados por nome. Por exemplo, temos `Nome`, `Estudante` e `C
 
 - [[sgbd-abordagens-e-caracteristicas-essenciais]]
 - [[sgbd-natureza-autodescritiva-esquema-e-catalogo]]
-- [[abstracao-e-generalizacao-conceitos-modelagem-e-aplicacoes-em-sistemas]]
+- [[../../../Introdução à Programação e Pensamento Computacional/Pensamento computacional/abstracao-e-generalizacao-conceitos-modelagem-e-aplicacoes-em-sistemas]]

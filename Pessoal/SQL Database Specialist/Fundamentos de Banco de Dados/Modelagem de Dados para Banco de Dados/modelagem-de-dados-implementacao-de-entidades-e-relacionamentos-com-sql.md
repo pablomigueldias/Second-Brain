@@ -221,6 +221,6 @@ Vocês devem começar a pensar e criar esse modelo para fundamentar o conhecimen
 ## Relacionado
 
 - [[modelagem-de-dados-introducao-e-modelo-entidade-relacionamento-mer]]
-- [[Introdução UML]]
-- [[paradigmas-e-linguagens-de-programacao-para-machine-learning]]
-- [[Diagrama de Componentes vs. Modelagem de Dados]]
+- [[../../../Engenharia de Software/UML/Introdução UML]]
+- [[../../../Machine Learning/Linguagens de Programação para ML/paradigmas-e-linguagens-de-programacao-para-machine-learning]]
+- [[../../../Engenharia de Software/UML/Diagrama de Componentes vs. Modelagem de Dados]]

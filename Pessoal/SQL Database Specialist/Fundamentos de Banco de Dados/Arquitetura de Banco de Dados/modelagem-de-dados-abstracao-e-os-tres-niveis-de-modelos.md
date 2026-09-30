@@ -173,7 +173,7 @@ Conseguimos, então, definir a descrição do nosso "meio mundo" e a descrição
 
 ## Relacionado
 
-- [[fundamentos-e-pilares-do-pensamento-computacional]]
-- [[abstracao-e-generalizacao-conceitos-modelagem-e-aplicacoes-em-sistemas]]
-- [[modelagem-de-dados-introducao-e-modelo-entidade-relacionamento-mer]]
-- [[modelagem-de-dados-do-contexto-relacional-a-era-do-big-data-e-paradigmas-cientif]]
+- [[../../../Introdução à Programação e Pensamento Computacional/Pensamento computacional/fundamentos-e-pilares-do-pensamento-computacional]]
+- [[../../../Introdução à Programação e Pensamento Computacional/Pensamento computacional/abstracao-e-generalizacao-conceitos-modelagem-e-aplicacoes-em-sistemas]]
+- [[../Modelagem de Dados para Banco de Dados/modelagem-de-dados-introducao-e-modelo-entidade-relacionamento-mer]]
+- [[../Introdução a Banco de Dados/modelagem-de-dados-do-contexto-relacional-a-era-do-big-data-e-paradigmas-cientif]]

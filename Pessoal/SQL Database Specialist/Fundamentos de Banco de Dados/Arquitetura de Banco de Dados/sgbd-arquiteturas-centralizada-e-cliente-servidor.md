@@ -176,7 +176,7 @@ Podemos entrar em uma nova seara, onde a arquitetura lógica cliente-servidor es
 
 ## Relacionado
 
-- [[sgbd-atores-indiretos-e-requisitos-operacionais]]
-- [[sgbds-os-mais-utilizados-no-mercado]]
+- [[../Sistemas de Gerenciamento de Banco de Dados/sgbd-atores-indiretos-e-requisitos-operacionais]]
+- [[../Introdução a Banco de Dados/sgbds-os-mais-utilizados-no-mercado]]
 - [[sgbd-componentes-usuarios-e-ferramentas-de-gerenciamento]]
-- [[sgbd-cenarios-de-nao-utilizacao-e-alternativas]]
+- [[../Sistemas de Gerenciamento de Banco de Dados/sgbd-cenarios-de-nao-utilizacao-e-alternativas]]

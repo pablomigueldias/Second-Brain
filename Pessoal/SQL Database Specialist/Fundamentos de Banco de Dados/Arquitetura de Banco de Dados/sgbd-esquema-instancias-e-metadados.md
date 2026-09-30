@@ -152,7 +152,7 @@ Temos, na verdade, um snapshot com relação a toda a estrutura que o nosso banc
 
 ## Relacionado
 
-- [[bancos-de-dados-definicao-acesso-e-escala]]
-- [[sgbd-ganhos-e-otimizacao-operacional]]
-- [[sgbd-natureza-autodescritiva-esquema-e-catalogo]]
-- [[sgbd-etapas-estrutura-e-fases]]
+- [[../Introdução a Banco de Dados/bancos-de-dados-definicao-acesso-e-escala]]
+- [[../Sistemas de Gerenciamento de Banco de Dados/sgbd-ganhos-e-otimizacao-operacional]]
+- [[../Sistemas de Gerenciamento de Banco de Dados/sgbd-natureza-autodescritiva-esquema-e-catalogo]]
+- [[../Introdução a Banco de Dados/sgbd-etapas-estrutura-e-fases]]

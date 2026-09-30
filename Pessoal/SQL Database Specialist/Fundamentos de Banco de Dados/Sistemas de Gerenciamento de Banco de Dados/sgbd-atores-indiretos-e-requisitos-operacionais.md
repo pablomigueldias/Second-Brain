@@ -144,8 +144,8 @@ Existe todo um cenário mais complexo que precisa dar suporte para que esses dad
 ## Relacionado
 
 - [[sgbd-atores-tipos-de-usuarios-e-finalidade]]
-- [[sgbd-etapas-estrutura-e-fases]]
-- [[bancos-de-dados-definicao-acesso-e-escala]]
+- [[../Introdução a Banco de Dados/sgbd-etapas-estrutura-e-fases]]
+- [[../Introdução a Banco de Dados/bancos-de-dados-definicao-acesso-e-escala]]
 - [[sgbd-abordagens-e-caracteristicas-essenciais]]
 
 ---

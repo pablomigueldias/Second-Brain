@@ -214,7 +214,7 @@ Muito bem, vocês viram, então, o overview do que aguarda vocês, todo esse pro
 
 ## Relacionado
 
-- [[../../Introdução à Programação e Pensamento Computacional/Pensamento computacional/visao-geral-da-carreira-em-ti-da-rede-a-ciencia-de-dados-e-programacao]]
+- [[../../../Introdução à Programação e Pensamento Computacional/Pensamento computacional/visao-geral-da-carreira-em-ti-da-rede-a-ciencia-de-dados-e-programacao]]
 - [[../../Bancos de Dados/_Índice Bancos de Dados]]
 - [[../../Bancos de Dados/Conceitos Básicos/00 - Índice]]
 - [[../../Bancos de Dados/SGBD - Rodrigo Schaeffer/SGBD]]

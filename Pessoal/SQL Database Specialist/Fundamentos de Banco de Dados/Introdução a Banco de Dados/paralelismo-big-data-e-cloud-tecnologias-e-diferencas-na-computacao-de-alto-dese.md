@@ -114,6 +114,6 @@ A grande diferença entre `HPC` e `Big Data` reside na persistência dos dados, 
 ## Relacionado
 
 - [[modelagem-de-dados-do-contexto-relacional-a-era-do-big-data-e-paradigmas-cientif]]
-- [[decomposicao-conceitos-estrategias-e-aplicacoes]]
+- [[../../../Introdução à Programação e Pensamento Computacional/Pensamento computacional/decomposicao-conceitos-estrategias-e-aplicacoes]]
 - [[bancos-de-dados-definicao-acesso-e-escala]]
-- [[BANCO-QUESTOES-COMPLETO (2)]]
+- [[../../../Concurso/BANCO-QUESTOES-COMPLETO (2)]]

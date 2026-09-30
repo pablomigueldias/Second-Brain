@@ -241,10 +241,10 @@ O DBA e sua equipe estão, portanto, relacionados a um contexto de acesso mais p
 
 ## Relacionado
 
-- [[sgbd-vantagens-otimizacao-e-integridade-dos-dados]]
+- [[../Sistemas de Gerenciamento de Banco de Dados/sgbd-vantagens-otimizacao-e-integridade-dos-dados]]
 - [[sgbd-linguagens-interfaces-e-ambientes]]
-- [[sgbd-natureza-autodescritiva-esquema-e-catalogo]]
-- [[sgbd-atores-tipos-de-usuarios-e-finalidade]]
+- [[../Sistemas de Gerenciamento de Banco de Dados/sgbd-natureza-autodescritiva-esquema-e-catalogo]]
+- [[../Sistemas de Gerenciamento de Banco de Dados/sgbd-atores-tipos-de-usuarios-e-finalidade]]
 
 ---
 

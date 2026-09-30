@@ -237,7 +237,7 @@ Este foi um panorama sobre as questões de Banco de Dados e algumas característ
 
 ## Relacionado
 
-- [[bancos-de-dados-da-evolucao-ao-big-data]]
-- [[jornada-da-formacao-sql-database-specialist]]
-- [[modelagem-de-dados-do-contexto-relacional-a-era-do-big-data-e-paradigmas-cientif]]
-- [[sgbd-etapas-estrutura-e-fases]]
+- [[../Introdução a Banco de Dados/bancos-de-dados-da-evolucao-ao-big-data]]
+- [[../Introdução a Banco de Dados/jornada-da-formacao-sql-database-specialist]]
+- [[../Introdução a Banco de Dados/modelagem-de-dados-do-contexto-relacional-a-era-do-big-data-e-paradigmas-cientif]]
+- [[../Introdução a Banco de Dados/sgbd-etapas-estrutura-e-fases]]

@@ -198,4 +198,4 @@ Nós temos uma série de vantagens e ganhos associados à utilização do SGBD.
 - [[sgbd-natureza-autodescritiva-esquema-e-catalogo]]
 - [[sgbd-abordagens-e-caracteristicas-essenciais]]
 - [[sgbd-vantagens-otimizacao-e-integridade-dos-dados]]
-- [[bancos-de-dados-da-evolucao-ao-big-data]]
+- [[../Introdução a Banco de Dados/bancos-de-dados-da-evolucao-ao-big-data]]

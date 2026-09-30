@@ -233,7 +233,7 @@ As tarefas e atividades relacionadas ao engenheiro de software incluem:
 
 - [[sgbd-natureza-autodescritiva-esquema-e-catalogo]]
 - [[sgbd-abordagens-e-caracteristicas-essenciais]]
-- [[bancos-de-dados-da-evolucao-ao-big-data]]
+- [[../Introdução a Banco de Dados/bancos-de-dados-da-evolucao-ao-big-data]]
 - [[sgbd-perspectivas-distintas-com-views]]
 
 ---

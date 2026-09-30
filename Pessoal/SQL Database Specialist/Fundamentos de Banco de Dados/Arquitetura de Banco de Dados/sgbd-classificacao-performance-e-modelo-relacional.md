@@ -172,7 +172,7 @@ Através do modelo relacional, a gente consegue definir algumas requisições e 
 
 ## Relacionado
 
-- [[sgbd-cenarios-de-nao-utilizacao-e-alternativas]]
-- [[sgbd-ganhos-e-otimizacao-operacional]]
-- [[sgbd-atores-tipos-de-usuarios-e-finalidade]]
-- [[sgbds-os-mais-utilizados-no-mercado]]
+- [[../Sistemas de Gerenciamento de Banco de Dados/sgbd-cenarios-de-nao-utilizacao-e-alternativas]]
+- [[../Sistemas de Gerenciamento de Banco de Dados/sgbd-ganhos-e-otimizacao-operacional]]
+- [[../Sistemas de Gerenciamento de Banco de Dados/sgbd-atores-tipos-de-usuarios-e-finalidade]]
+- [[../Introdução a Banco de Dados/sgbds-os-mais-utilizados-no-mercado]]

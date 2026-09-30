@@ -188,6 +188,6 @@ O cenário do OLTP está associado a um ambiente de banco de dados (ambiente de 
 ## Relacionado
 
 - [[sgbd-abordagens-e-caracteristicas-essenciais]]
-- [[sgbd-etapas-estrutura-e-fases]]
-- [[modelo-relacional-usuarios-e-integracao-de-sgbds]]
+- [[../Introdução a Banco de Dados/sgbd-etapas-estrutura-e-fases]]
+- [[../Introdução a Banco de Dados/modelo-relacional-usuarios-e-integracao-de-sgbds]]
 - [[sgbd-natureza-autodescritiva-esquema-e-catalogo]]

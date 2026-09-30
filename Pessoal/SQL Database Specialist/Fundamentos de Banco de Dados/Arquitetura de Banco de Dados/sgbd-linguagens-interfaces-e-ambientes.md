@@ -145,7 +145,7 @@ Em resumo, a linguagem de baixo nível procedural especifica o "como", enquanto 
 
 ## Relacionado
 
-- [[sql-database-specialist-comandos-essenciais-para-gerenciamento-de-bancos-de-dado]]
-- [[sgbd-abordagens-e-caracteristicas-essenciais]]
+- [[../Sistemas de Gerenciamento de Banco de Dados/sql-database-specialist-comandos-essenciais-para-gerenciamento-de-bancos-de-dado]]
+- [[../Sistemas de Gerenciamento de Banco de Dados/sgbd-abordagens-e-caracteristicas-essenciais]]
 - [[modelagem-de-dados-abstracao-e-os-tres-niveis-de-modelos]]
-- [[sgbd-ganhos-e-otimizacao-operacional]]
+- [[../Sistemas de Gerenciamento de Banco de Dados/sgbd-ganhos-e-otimizacao-operacional]]

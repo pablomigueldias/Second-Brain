@@ -428,10 +428,10 @@ Porém, agora vocês podem desconsiderar essa questão, pois veremos mais para f
 
 ## Relacionado
 
-- [[contextualizacao-da-formacao-sql-database-specialist-apresentacao-da-instrutora-]]
-- [[modelagem-de-dados-introducao-e-modelo-entidade-relacionamento-mer]]
-- [[jornada-da-formacao-sql-database-specialist]]
-- [[bancos-de-dados-da-evolucao-ao-big-data]]
+- [[../Introdução a Banco de Dados/contextualizacao-da-formacao-sql-database-specialist-apresentacao-da-instrutora-]]
+- [[../Modelagem de Dados para Banco de Dados/modelagem-de-dados-introducao-e-modelo-entidade-relacionamento-mer]]
+- [[../Introdução a Banco de Dados/jornada-da-formacao-sql-database-specialist]]
+- [[../Introdução a Banco de Dados/bancos-de-dados-da-evolucao-ao-big-data]]
 
 ---
 

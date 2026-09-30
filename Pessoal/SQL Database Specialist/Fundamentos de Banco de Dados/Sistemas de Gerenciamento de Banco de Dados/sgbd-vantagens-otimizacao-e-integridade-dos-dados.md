@@ -330,8 +330,8 @@ Essa é a ideia. Com isso, encerramos as vantagens e o assunto sobre as vantagen
 ## Relacionado
 
 - [[sgbd-abordagens-e-caracteristicas-essenciais]]
-- [[sgbds-os-mais-utilizados-no-mercado]]
-- [[bancos-de-dados-da-evolucao-ao-big-data]]
+- [[../Introdução a Banco de Dados/sgbds-os-mais-utilizados-no-mercado]]
+- [[../Introdução a Banco de Dados/bancos-de-dados-da-evolucao-ao-big-data]]
 - [[sgbd-atores-tipos-de-usuarios-e-finalidade]]
 
 ---

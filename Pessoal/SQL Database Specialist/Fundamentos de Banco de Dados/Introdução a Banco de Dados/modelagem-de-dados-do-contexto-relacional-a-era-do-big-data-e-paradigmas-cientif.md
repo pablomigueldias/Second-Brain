@@ -232,6 +232,6 @@ Essas são algumas características e requisitos relacionados ao quarto paradigm
 ## Relacionado
 
 - [[contextualizacao-da-formacao-sql-database-specialist-apresentacao-da-instrutora-]]
-- [[visao-geral-da-carreira-em-ti-da-rede-a-ciencia-de-dados-e-programacao]]
+- [[../../../Introdução à Programação e Pensamento Computacional/Pensamento computacional/visao-geral-da-carreira-em-ti-da-rede-a-ciencia-de-dados-e-programacao]]
 - [[bancos-de-dados-da-evolucao-ao-big-data]]
-- [[historia-da-computacao-paradigmas-e-problemas-computacionais]]
+- [[../../../Introdução à Programação e Pensamento Computacional/Linguagens de programação/historia-da-computacao-paradigmas-e-problemas-computacionais]]

@@ -162,8 +162,8 @@ Ele consulta os **metadados**, ou seja, a estrutura do banco, o **esquema**. O s
 ## Relacionado
 
 - [[sgbd-abordagens-e-caracteristicas-essenciais]]
-- [[bancos-de-dados-da-evolucao-ao-big-data]]
-- [[bancos-de-dados-definicao-acesso-e-escala]]
+- [[../Introdução a Banco de Dados/bancos-de-dados-da-evolucao-ao-big-data]]
+- [[../Introdução a Banco de Dados/bancos-de-dados-definicao-acesso-e-escala]]
 
 ---
 
