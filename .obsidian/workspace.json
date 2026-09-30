@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5ff9223279b67218",
+        "id": "b760919eb1daeddc",
         "type": "tabs",
         "children": [
           {
-            "id": "84187b5acd5e2447",
+            "id": "b764911045f46823",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/SQL Database Specialist/Sistemas de Gerenciamento de Banco de Dados/sql-database-specialist-comandos-essenciais-para-gerenciamento-de-bancos-de-dado.md",
+                "file": "Pessoal/SQL Database Specialist/Arquitetura de Banco de Dados/sgbd-linguagens-interfaces-e-ambientes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sql-database-specialist-comandos-essenciais-para-gerenciamento-de-bancos-de-dado"
+              "title": "sgbd-linguagens-interfaces-e-ambientes"
             }
           }
         ]
@@ -210,8 +210,17 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "dccdd8e1bba9966f",
+  "active": "b764911045f46823",
   "lastOpenFiles": [
+    "Pessoal/Criar valor com IA, automação e bots/Modulos/01 - A Vantagem da IA.md",
+    "Pessoal/Criar valor com IA, automação e bots/_Índice Criar valor com IA, automação e bots.md",
+    "Pessoal/Engenharia de Software/UML/Diagrama de Atividade.md",
+    "Pessoal/Engenharia de Software/UML/Casos de Uso.md",
+    "Pessoal/SQL Database Specialist/Arquitetura de Banco de Dados/sgbd-arquitetura-de-tres-esquemas-e-isolamento.md",
+    "Pessoal/SQL Database Specialist/Arquitetura de Banco de Dados/sgbd-linguagens-interfaces-e-ambientes.md",
+    "Pessoal/SQL Database Specialist/Arquitetura de Banco de Dados/sgbd-esquema-instancias-e-metadados.md",
+    "Pessoal/SQL Database Specialist/Introdução a Banco de Dados/contextualizacao-da-formacao-sql-database-specialist-apresentacao-da-instrutora-.md",
+    "Pessoal/SQL Database Specialist/Arquitetura de Banco de Dados/modelagem-de-dados-abstracao-e-os-tres-niveis-de-modelos.md",
     "Pessoal/SQL Database Specialist/Sistemas de Gerenciamento de Banco de Dados/sql-database-specialist-comandos-essenciais-para-gerenciamento-de-bancos-de-dado.md",
     "Pessoal/SQL Database Specialist/Arquitetura de Banco de Dados",
     "Pessoal/SQL Database Specialist/Sistemas de Gerenciamento de Banco de Dados/sgbd-vantagens-otimizacao-e-integridade-dos-dados.md",
@@ -241,16 +250,8 @@
     "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 04 - Leitura pontual.md",
     "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 03 - Carga.md",
     "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 02 - Gerar os dados.md",
-    "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 01 - Conectar nos seis bancos.md",
-    "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 00 - Ambiente e Docker.md",
-    "Pessoal/Laboratório de Dados/Post - SGBDs na prática/00 - Roteiro.md",
     "Pessoal/Laboratório de Dados/scripts",
     "Pessoal/Laboratório de Dados/Post - SGBDs na prática",
-    "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 1 - Conhecer os dados.md",
-    "Pessoal/Laboratório de Dados/_template - Registro de experimento.md",
-    "Pessoal/Laboratório de Dados/07 - Da análise ao post.md",
-    "Pessoal/Laboratório de Dados/06 - Exercício 4 - Medindo meu sistema de estudos.md",
-    "Pessoal/Laboratório de Dados/05 - Exercício 3 - SQL para ML.md",
     "Pessoal/Matemática/IMG/Pasted image 20260106190909.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260107145259.png",
     "Pessoal/Matemática/IMG/diagram-20260106.png",
