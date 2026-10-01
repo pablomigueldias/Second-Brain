@@ -11,10 +11,14 @@
             "id": "b764911045f46823",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Pessoal/SQL Database Specialist/Modelos de Entidade Relacional com Banco de Dados/Fundamentos de Modelagem e Projeto de Banco de Dados/algebra-relacional-e-logica-de-predicados-para-sql.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "algebra-relacional-e-logica-de-predicados-para-sql"
             }
           }
         ]
@@ -208,6 +212,9 @@
   },
   "active": "b764911045f46823",
   "lastOpenFiles": [
+    "Pessoal/SQL Database Specialist/Modelos de Entidade Relacional com Banco de Dados/Fundamentos de Modelagem e Projeto de Banco de Dados/modelagem-de-dados-etapas-caracteristicas-do-sgbd-e-conceito-de-mundo-fechado.md",
+    "Pessoal/SQL Database Specialist/Modelos de Entidade Relacional com Banco de Dados/Fundamentos de Modelagem e Projeto de Banco de Dados/algebra-relacional-e-logica-de-predicados-para-sql.md",
+    "Pessoal/SQL Database Specialist/Modelos de Entidade Relacional com Banco de Dados/Fundamentos de Modelagem e Projeto de Banco de Dados/sgbd-mundo-fechado-mini-mundo-e-cwa.md",
     "Pessoal/SQL Database Specialist/Fundamentos de Banco de Dados/Arquitetura de Banco de Dados/sgbd-classificacao-performance-e-modelo-relacional.md",
     "Pessoal/SQL Database Specialist/Modelos de Entidade Relacional com Banco de Dados/Fundamentos de Modelagem e Projeto de Banco de Dados",
     "Pessoal/SQL Database Specialist/Modelos de Entidade Relacional com Banco de Dados",
@@ -245,8 +252,6 @@
     "Pessoal/Laboratório de Dados/scripts/sql_para_ml.py",
     "Pessoal/Laboratório de Dados/scripts/requirements.txt",
     "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 09 - Do número ao post.md",
-    "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 08 - Relatório.md",
-    "Pessoal/Laboratório de Dados/Post - SGBDs na prática/Etapa 07 - Esquema flexível.md",
     "Pessoal/Matemática/IMG/Pasted image 20260106190909.png",
     "Pessoal/Bancos de Dados/IMG/Pasted image 20260107145259.png",
     "Pessoal/Matemática/IMG/diagram-20260106.png",
