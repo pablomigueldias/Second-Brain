@@ -32,3 +32,6 @@ Pessoal/Livros/**/*.pdf
 
 # Laboratório de Dados: fica só na máquina
 Pessoal/Laboratório de Dados/
+
+# Lista de arquivos abertos do Obsidian: expõe nomes das pastas ignoradas acima
+.obsidian/workspace.json
