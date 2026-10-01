@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/SQL Database Specialist/Modelos de Entidade Relacional com Banco de Dados/Fundamentos de Modelagem e Projeto de Banco de Dados/algebra-relacional-e-logica-de-predicados-para-sql.md",
+                "file": "Pessoal/SQL Database Specialist/Modelos de Entidade Relacional com Banco de Dados/Fundamentos de Modelagem e Projeto de Banco de Dados/algebra-relacional-sgbd-e-ciclo-de-vida-do-projeto-de-banco-de-dados.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "algebra-relacional-e-logica-de-predicados-para-sql"
+              "title": "algebra-relacional-sgbd-e-ciclo-de-vida-do-projeto-de-banco-de-dados"
             }
           }
         ]
@@ -210,11 +210,16 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "26758f3261ee0499",
+  "active": "b764911045f46823",
   "lastOpenFiles": [
+    "Pessoal/SQL Database Specialist/Fundamentos de Banco de Dados/Modelagem de Dados para Banco de Dados/modelagem-de-dados-processo-e-fluxo-de-desenvolvimento.md",
+    "Pessoal/SQL Database Specialist/Modelos de Entidade Relacional com Banco de Dados/Fundamentos de Modelagem e Projeto de Banco de Dados/modelagem-de-dados-projeto-e-esquema-conceitual.md",
+    "Pessoal/SQL Database Specialist/Modelos de Entidade Relacional com Banco de Dados/Fundamentos de Modelagem e Projeto de Banco de Dados/modelagem-de-dados-projeto-conceitual-representacao-e-proposito.md",
+    "Pessoal/SQL Database Specialist/Modelos de Entidade Relacional com Banco de Dados/Fundamentos de Modelagem e Projeto de Banco de Dados/modelagem-de-dados-requisitos-modelos-conceitual-e-logico.md",
+    "Pessoal/SQL Database Specialist/Modelos de Entidade Relacional com Banco de Dados/Fundamentos de Modelagem e Projeto de Banco de Dados/modelagem-de-dados-projeto-conceitual-flexibilidade-e-transicao.md",
+    "Pessoal/SQL Database Specialist/Modelos de Entidade Relacional com Banco de Dados/Fundamentos de Modelagem e Projeto de Banco de Dados/algebra-relacional-e-logica-de-predicados-para-sql.md",
     "Pessoal/SQL Database Specialist/Modelos de Entidade Relacional com Banco de Dados/Fundamentos de Modelagem e Projeto de Banco de Dados/algebra-relacional-sgbd-e-ciclo-de-vida-do-projeto-de-banco-de-dados.md",
     "Pessoal/SQL Database Specialist/Modelos de Entidade Relacional com Banco de Dados/Fundamentos de Modelagem e Projeto de Banco de Dados/modelagem-de-dados-etapas-caracteristicas-do-sgbd-e-conceito-de-mundo-fechado.md",
-    "Pessoal/SQL Database Specialist/Modelos de Entidade Relacional com Banco de Dados/Fundamentos de Modelagem e Projeto de Banco de Dados/algebra-relacional-e-logica-de-predicados-para-sql.md",
     "Pessoal/SQL Database Specialist/Modelos de Entidade Relacional com Banco de Dados/Fundamentos de Modelagem e Projeto de Banco de Dados/sgbd-mundo-fechado-mini-mundo-e-cwa.md",
     "Pessoal/SQL Database Specialist/Fundamentos de Banco de Dados/Arquitetura de Banco de Dados/sgbd-classificacao-performance-e-modelo-relacional.md",
     "Pessoal/SQL Database Specialist/Modelos de Entidade Relacional com Banco de Dados/Fundamentos de Modelagem e Projeto de Banco de Dados",
@@ -241,11 +246,6 @@
     "Pessoal/SQL Database Specialist/Fundamentos de Banco de Dados/Sistemas de Gerenciamento de Banco de Dados/sgbd-cenarios-de-nao-utilizacao-e-alternativas.md",
     "Pessoal/SQL Database Specialist/Fundamentos de Banco de Dados/Modelagem de Dados para Banco de Dados",
     "Pessoal/SQL Database Specialist/Fundamentos de Banco de Dados/Sistemas de Gerenciamento de Banco de Dados/sgbd-ganhos-e-otimizacao-operacional.md",
-    "Pessoal/SQL Database Specialist/Fundamentos de Banco de Dados/Sistemas de Gerenciamento de Banco de Dados/sgbd-atores-indiretos-e-requisitos-operacionais.md",
-    "Pessoal/SQL Database Specialist/Fundamentos de Banco de Dados/Sistemas de Gerenciamento de Banco de Dados/sgbd-isolamento-abstracao-e-transparencia.md",
-    "Pessoal/SQL Database Specialist/Fundamentos de Banco de Dados/Sistemas de Gerenciamento de Banco de Dados/sgbd-atores-tipos-de-usuarios-e-finalidade.md",
-    "Pessoal/SQL Database Specialist/Fundamentos de Banco de Dados/Sistemas de Gerenciamento de Banco de Dados/sgbd-controle-de-concorrencia-e-oltp.md",
-    "Pessoal/SQL Database Specialist/Fundamentos de Banco de Dados/Sistemas de Gerenciamento de Banco de Dados/sgbd-perspectivas-distintas-com-views.md",
     "Pessoal/Planos/vender-servicos.canvas",
     "Pessoal/Planos/plano-central.canvas",
     "Pessoal/Planos/Linkedin-ativo.canvas",
